@@ -2,7 +2,7 @@
 <framework>
     <include href="@xml/keyboard_base" />
     <keyboard id="@id/keyboard_iw">
-        <view layout="@layout/keyboard_latin_9_10_9_no_shift_body" type="body">
+        <view layout="@layout/keyboard_latin_9_10_9_hebrew_body" type="body">
             <softkeys href="@xml/softkeys_input_iw" />
             <include href="@xml/keymapping_iw" />
             <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />

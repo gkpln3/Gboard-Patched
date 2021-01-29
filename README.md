@@ -44,7 +44,7 @@ Compiling and installing
 -------------------------
 I've used APKLab plugin for VSCode to compile and install the apk on my device.
 You can also use `apktool` cli and achieve the same result, just don't forget to sign and zipalign the resulting apk.
-compile using `apktool b Gboard_base --use-aapt2`, I've also added `--debug` but I assume it works without it as-well.
+compile using `apktool b Gboard_base --use-aapt2`.
 The apk will be built into the `Gboard_base/dist` directory.
 
 You can also take a look at the build.sh script, although I did not use it, it should work.
