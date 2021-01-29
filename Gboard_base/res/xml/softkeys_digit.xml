@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@id/softkey_template_digit" layout="@layout/softkey_label_digit" multi_touch="false">
+            <action data="$param_data$" keycode="$param_keycode$" type="PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_digit">
+            <softkey id="@id/softkey_digit_0" param_data="0" param_keycode="KEYCODE_0" />
+            <softkey id="@id/softkey_digit_1" param_data="1" param_keycode="KEYCODE_1" />
+            <softkey id="@id/softkey_digit_2" param_data="2" param_keycode="KEYCODE_2" />
+            <softkey id="@id/softkey_digit_3" param_data="3" param_keycode="KEYCODE_3" />
+            <softkey id="@id/softkey_digit_4" param_data="4" param_keycode="KEYCODE_4" />
+            <softkey id="@id/softkey_digit_5" param_data="5" param_keycode="KEYCODE_5" />
+            <softkey id="@id/softkey_digit_6" param_data="6" param_keycode="KEYCODE_6" />
+            <softkey id="@id/softkey_digit_7" param_data="7" param_keycode="KEYCODE_7" />
+            <softkey id="@id/softkey_digit_8" param_data="8" param_keycode="KEYCODE_8" />
+            <softkey id="@id/softkey_digit_9" param_data="9" param_keycode="KEYCODE_9" />
+        </softkey_list>
+    </softkeys>
+</framework>

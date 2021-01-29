@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/InputArea"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1000.0">
+        <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="300.0">
+            <ImageView style="@style/KeyboardSeparator.OnRight" />
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.FixedSizeSoftKeyViewsPage android:orientation="vertical" android:id="@id/softkey_holder_digit_tablet_left_part" android:layout_width="fill_parent" android:layout_height="fill_parent" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" column_count="3" row_count="3" softkeyview_layout="@layout/softkeyview_non_prime" />
+        </FrameLayout>
+        <include layout="@layout/keyboard_non_prime_digit_input_area_digit_area" />
+        <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="200.0">
+            <ImageView style="@style/KeyboardSeparator.OnLeft" />
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.FixedSizeSoftKeyViewsPage android:orientation="vertical" android:id="@id/softkey_holder_digit_tablet_right_part" android:layout_width="fill_parent" android:layout_height="fill_parent" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" column_count="2" row_count="3" softkeyview_layout="@layout/softkeyview_non_prime" />
+        </FrameLayout>
+    </LinearLayout>
+    <include layout="@layout/keyboard_non_prime_input_area_right_side" />
+</LinearLayout>

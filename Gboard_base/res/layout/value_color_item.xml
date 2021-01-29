@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/colorView" android:layout_width="@dimen/attribute_color_image_width" android:layout_height="@dimen/attribute_color_image_height" android:layout_margin="@dimen/attribute_color_image_margin" android:foreground="?android:selectableItemBackground" />
+</FrameLayout>

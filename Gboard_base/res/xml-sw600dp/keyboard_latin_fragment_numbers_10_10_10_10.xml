@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view layout="@layout/keyboard_latin_tablet_11_11_11_11_single_shift_body" type="body">
+            <softkeys href="@xml/softkeys_latin_symbols" />
+            <include href="@xml/keymapping_number_row" />
+            <include href="@xml/keymapping_latin_fragment_secondary_symbols_below_numbers" />
+        </view>
+    </keyboard>
+</framework>

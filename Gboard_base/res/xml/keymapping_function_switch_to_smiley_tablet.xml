@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping state="EMOTICON_AVAILABLE">
+        <mapping key_id="@id/softkey_switch_to_emoticon" view_id="@id/key_pos_switch_to_smiley" />
+    </key_mapping>
+    <key_mapping state="EMOJI_AVAILABLE">
+        <mapping key_id="@id/softkey_switch_to_emoji" view_id="@id/key_pos_switch_to_smiley" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_URI">
+        <mapping key_id="@id/softkey_bottom_com" view_id="@id/key_pos_switch_to_smiley" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@id/softkey_bottom_com" view_id="@id/key_pos_switch_to_smiley" />
+    </key_mapping>
+</framework>

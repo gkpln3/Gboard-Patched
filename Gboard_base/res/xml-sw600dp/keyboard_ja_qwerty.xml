@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".japanese.keyboard.JapanesePrimeKeyboard" id="@id/keyboard_ja_qwerty" popup="@attr/PopupBubbleLayout" session_states="SHIFT_LOCK">
+        <view layout="@layout/keyboard_prime_header" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_header_prime" />
+            <include href="@xml/keymapping_header_ja_prime" />
+        </view>
+        <view layout="@layout/keyboard_ja_qwerty_body" type="body">
+            <include href="@xml/motion_event_handlers_ja" />
+            <softkeys href="@xml/softkeys_input_ja_qwerty" />
+            <softkeys href="@xml/softkeys_input_ja_common" />
+            <softkeys href="@xml/softkeys_punctuation_ja_qwerty_tablet" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_input_ja_common" />
+            <softkeys href="@xml/softkeys_function_switch_to_native" />
+            <softkeys href="@xml/softkeys_body_candidates" />
+            <include href="@xml/keymapping_common_ja" />
+            <include href="@xml/keymapping_body_ja_qwerty" />
+            <include href="@xml/keymapping_punctuation_ja_qwerty_tablet" />
+            <include href="@xml/keymapping_bottom_ja_qwerty_tablet" />
+            <include href="@xml/keymapping_body_ja_qwerty_override" />
+            <include href="@xml/keymapping_body_candidates" />
+            <include href="@xml/keymapping_function_ime_action_ja" />
+            <include href="@xml/keymapping_fragment_function_ja" />
+        </view>
+    </keyboard>
+</framework>

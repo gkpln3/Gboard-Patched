@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="access_points_bar_max_count">6</integer>
+    <integer name="access_points_bar_max_count_floating_keyboard">6</integer>
+    <integer name="art_keyboard_sub_category_row_weight">200</integer>
+    <integer name="art_keyboard_sub_category_row_weight_more_letter_rows">200</integer>
+    <integer name="design_snackbar_text_max_lines">1</integer>
+    <integer name="keyboard_bottom_tab_weight">238</integer>
+    <integer name="keyboard_bottom_tab_weight_more_letter_rows">206</integer>
+    <integer name="keyboard_number_password_horizontal_weight">500</integer>
+    <integer name="more_candidates_candidates_area_weight">856</integer>
+    <integer name="more_candidates_left_column_weight">144</integer>
+    <integer name="more_candidates_pageable_candidates_area_weight">712</integer>
+    <integer name="more_candidates_right_column_weight">144</integer>
+    <integer name="prime_header_icon_weight">144</integer>
+    <integer name="theme_expandable_category_span_count">5</integer>
+    <integer name="keyboard_number_empty_view_weight">138</integer>
+    <integer name="keyboard_number_left_part_weight">330</integer>
+    <integer name="keyboard_number_left_side_empty_view_weight">0</integer>
+    <integer name="keyboard_number_right_part_weight">532</integer>
+    <integer name="softkey_number_weight">144</integer>
+    <integer name="softkey_right_side_weight">100</integer>
+</resources>

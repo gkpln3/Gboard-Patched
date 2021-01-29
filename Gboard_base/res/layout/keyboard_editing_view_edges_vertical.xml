@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/keyboard_editing_view_edge_top" android:layout_weight="@integer/keyboard_editing_view_edge_vertical_weight" style="@style/KeyboardEditingViewEdge.Vertical" />
+    <FrameLayout android:layout_weight="@integer/keyboard_editing_view_edge_vertical_spare_weight" style="@style/KeyboardEditingViewEdge.Vertical" />
+    <ImageView android:id="@id/keyboard_editing_view_edge_bottom" android:layout_weight="@integer/keyboard_editing_view_edge_vertical_weight" style="@style/KeyboardEditingViewEdge.Vertical" />
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_japanese_12keys">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_japanese_12keys_use_qwerty_layout_for_alphabet_title" android:key="@string/pref_key_japanese_12keys_use_qwerty_layout_for_alphabet" android:summary="@string/setting_japanese_12keys_use_qwerty_layout_for_alphabet_desc" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

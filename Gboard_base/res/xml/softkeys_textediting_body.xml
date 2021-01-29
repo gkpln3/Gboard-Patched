@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_textediting_arrowkey" layout="@layout/softkey_textediting_arrowkey" multi_touch="false">
+            <action keycode="$keycode$" popup_label="$popup_label$" popup_layout="$popup_layout$" repeatable="$repeatable$" type="PRESS" />
+            <icon location="@id/icon" value="$icon$" />
+        </softkey_template>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_textediting_editkey" layout="@layout/softkey_textediting_editkey" multi_touch="false">
+            <action keycode="$keycode$" type="PRESS" />
+            <label location="@id/label" value="$label$" />
+        </softkey_template>
+        <softkey_template additional_content_description="@string/text_editing_inactive_empty_editor_reason" content_description="$desc$" id="@id/softkey_template_textediting_arrowkey_inactive" layout="@layout/softkey_textediting_arrowkey_inactive" multi_touch="false">
+            <icon location="@id/icon" value="$icon$" />
+        </softkey_template>
+        <softkey_template additional_content_description="$addi_desc$" content_description="$desc$" id="@id/softkey_template_textediting_editkey_inactive" layout="@layout/softkey_textediting_editkey_inactive" multi_touch="false">
+            <label location="@id/label" value="$label$" />
+        </softkey_template>
+        <softkey content_description="@string/text_editing_select_open_content_desc" id="@id/softkey_select" layout="@layout/softkey_textediting_editkey" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="LESS">
+            <action keycode="TEXT_EDITING_SELECT" type="PRESS" />
+            <action keycode="DPAD_UP" repeatable="true" type="SLIDE_UP" />
+            <action keycode="DPAD_LEFT" repeatable="true" type="SLIDE_LEFT" />
+            <action keycode="DPAD_RIGHT" repeatable="true" type="SLIDE_RIGHT" />
+            <action keycode="DPAD_DOWN" repeatable="true" type="SLIDE_DOWN" />
+            <label location="@id/label" value="@string/text_editing_select_label" />
+        </softkey>
+        <softkey content_description="@string/text_editing_select_close_content_desc" id="@id/softkey_selected_select" layout="@layout/softkey_textediting_editkey_with_bg" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="LESS">
+            <action keycode="TEXT_EDITING_SELECT" type="PRESS" />
+            <action keycode="DPAD_UP" repeatable="true" type="SLIDE_UP" />
+            <action keycode="DPAD_LEFT" repeatable="true" type="SLIDE_LEFT" />
+            <action keycode="DPAD_RIGHT" repeatable="true" type="SLIDE_RIGHT" />
+            <action keycode="DPAD_DOWN" repeatable="true" type="SLIDE_DOWN" />
+            <label location="@id/label" value="@string/text_editing_select_label" />
+        </softkey>
+        <softkey_list template_id="@id/softkey_template_textediting_editkey">
+            <softkey desc="@string/text_editing_select_all_content_desc" id="@id/softkey_select_all" keycode="TEXT_EDITING_SELECT_ALL" label="@string/text_editing_select_all_label" />
+            <softkey desc="@string/text_editing_cut_content_desc" id="@id/softkey_cut" keycode="TEXT_EDITING_CUT" label="@string/text_editing_cut_label" />
+            <softkey desc="@string/text_editing_copy_content_desc" id="@id/softkey_copy" keycode="TEXT_EDITING_COPY" label="@string/text_editing_copy_label" />
+            <softkey desc="@string/text_editing_paste_content_desc" id="@id/softkey_paste" keycode="TEXT_EDITING_PASTE" label="@string/text_editing_paste_label" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_textediting_editkey_inactive">
+            <softkey addi_desc="@string/text_editing_inactive_empty_editor_reason" desc="@string/text_editing_select_all_content_desc" id="@id/softkey_select_all_inactive" label="@string/text_editing_select_all_label" />
+            <softkey addi_desc="@string/text_editing_inactive_no_text_selected_reason" desc="@string/text_editing_copy_content_desc" id="@id/softkey_copy_inactive" label="@string/text_editing_copy_label" />
+            <softkey addi_desc="@string/text_editing_inactive_empty_editor_reason" desc="@string/text_editing_select_open_content_desc" id="@id/softkey_select_inactive" label="@string/text_editing_select_label" />
+            <softkey addi_desc="@string/text_editing_inactive_empty_editor_reason" desc="@string/text_editing_paste_content_desc" id="@id/softkey_paste_inactive" label="@string/text_editing_paste_label" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_textediting_arrowkey">
+            <softkey desc="@string/left_arrow_content_desc" icon="@drawable/ic_textediting_left_arrow" id="@id/softkey_left_arrow" keycode="DPAD_LEFT" repeatable="true" />
+            <softkey desc="@string/right_arrow_content_desc" icon="@drawable/ic_textediting_right_arrow" id="@id/softkey_right_arrow" keycode="DPAD_RIGHT" repeatable="true" />
+            <softkey desc="@string/text_editing_up_arrow_content_desc" icon="@drawable/ic_textediting_up_arrow" id="@id/softkey_up_arrow" keycode="DPAD_UP" repeatable="true" />
+            <softkey desc="@string/text_editing_down_arrow_content_desc" icon="@drawable/ic_textediting_down_arrow" id="@id/softkey_down_arrow" keycode="DPAD_DOWN" repeatable="true" />
+            <softkey desc="@string/text_editing_left_most_arrow_content_desc" icon="@drawable/ic_textediting_left_most_arrow" id="@id/softkey_left_most_arrow" keycode="TEXT_EDITING_CURSOR_LEFT_MOST" />
+            <softkey desc="@string/text_editing_right_most_arrow_content_desc" icon="@drawable/ic_textediting_right_most_arrow" id="@id/softkey_right_most_arrow" keycode="TEXT_EDITING_CURSOR_RIGHT_MOST" />
+        </softkey_list>
+        <softkey alpha="@integer/text_editing_icon_alpha" content_description="@string/delete_key_content_desc" id="@id/softkey_delete" layout="@layout/softkey_textediting_arrowkey" multi_touch="false">
+            <action keycode="KEYCODE_DEL" repeatable="true" type="PRESS" />
+            <action keycode="DELETE_FINISH" type="UP" />
+            <icon location="@id/icon" value="@attr/IconDel" />
+        </softkey>
+        <softkey_list template_id="@id/softkey_template_textediting_arrowkey_inactive">
+            <softkey desc="@string/left_arrow_content_desc" icon="@drawable/ic_textediting_left_arrow" id="@id/softkey_left_arrow_inactive" />
+            <softkey desc="@string/right_arrow_content_desc" icon="@drawable/ic_textediting_right_arrow" id="@id/softkey_right_arrow_inactive" />
+            <softkey desc="@string/text_editing_up_arrow_content_desc" icon="@drawable/ic_textediting_up_arrow" id="@id/softkey_up_arrow_inactive" />
+            <softkey desc="@string/text_editing_down_arrow_content_desc" icon="@drawable/ic_textediting_down_arrow" id="@id/softkey_down_arrow_inactive" />
+            <softkey desc="@string/text_editing_left_most_arrow_content_desc" icon="@drawable/ic_textediting_left_most_arrow" id="@id/softkey_left_most_arrow_inactive" />
+            <softkey desc="@string/text_editing_right_most_arrow_content_desc" icon="@drawable/ic_textediting_right_most_arrow" id="@id/softkey_right_most_arrow_inactive" />
+            <softkey alpha="@integer/text_editing_icon_alpha" desc="@string/delete_key_content_desc" icon="@attr/IconDel" id="@id/softkey_delete_inactive" />
+        </softkey_list>
+    </softkeys>
+</framework>

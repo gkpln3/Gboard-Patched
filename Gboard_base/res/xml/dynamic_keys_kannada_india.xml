@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>ಅ</primary_input>
+        <action state="0">ಅ</action>
+    </key>
+    <key>
+        <primary_input>ಆ</primary_input>
+        <action state="0">ಆ</action>
+        <action state="0">ಾ</action>
+    </key>
+    <key>
+        <primary_input>ಇ</primary_input>
+        <action state="0">ಇ</action>
+        <action state="0">ಿ</action>
+    </key>
+    <key>
+        <primary_input>ಈ</primary_input>
+        <action state="0">ಈ</action>
+        <action state="0">ೀ</action>
+    </key>
+    <key>
+        <primary_input>ಉ</primary_input>
+        <action state="0">ಉ</action>
+        <action state="0">ು</action>
+    </key>
+    <key>
+        <primary_input>ಊ</primary_input>
+        <action state="0">ಊ</action>
+        <action state="0">ೂ</action>
+    </key>
+    <key>
+        <primary_input>ಋ</primary_input>
+        <action state="0">ಋ</action>
+        <action state="0">ೃ</action>
+        <action state="0">ೠ</action>
+        <action state="0">ೄ</action>
+    </key>
+    <key>
+        <primary_input>ಎ</primary_input>
+        <action state="0">ಎ</action>
+        <action state="0">ೆ</action>
+    </key>
+    <key>
+        <primary_input>ಏ</primary_input>
+        <action state="0">ಏ</action>
+        <action state="0">ೇ</action>
+    </key>
+    <key>
+        <primary_input>ಐ</primary_input>
+        <action state="0">ಐ</action>
+        <action state="0">ೈ</action>
+        <action state="0">ೖ</action>
+    </key>
+    <key>
+        <primary_input>ಒ</primary_input>
+        <action state="0">ಒ</action>
+        <action state="0">ೊ</action>
+    </key>
+    <key>
+        <primary_input>ಓ</primary_input>
+        <action state="0">ಓ</action>
+        <action state="0">ೋ</action>
+    </key>
+    <key>
+        <primary_input>ಔ</primary_input>
+        <action state="0">ಔ</action>
+        <action state="0">ೌ</action>
+    </key>
+    <key>
+        <primary_input>ಂ</primary_input>
+        <action state="0">ಂ</action>
+        <action state="0">಼</action>
+        <action state="0">ಃ</action>
+        <action state="0">ಽ</action>
+        <action state="0">ೕ</action>
+    </key>
+</dynamic_keys>

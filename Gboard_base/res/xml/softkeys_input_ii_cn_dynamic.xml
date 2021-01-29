@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_downshifted_dynamic">
+            <softkey hint_label="-t" id="@id/softkey_latin_small_letter_t" press_data="" press_label=" " />
+            <softkey hint_label="-x" id="@id/softkey_latin_small_letter_x" press_data="" press_label=" " />
+            <softkey hint_label="-∅" id="@id/softkey_empty_set" press_data="" press_label=" " />
+            <softkey hint_label="-p" id="@id/softkey_latin_small_letter_p" press_data="" press_label=" " />
+            <softkey hint_label="i" id="@id/softkey_latin_small_letter_i" press_data="" press_label=" " />
+            <softkey hint_label="ie" id="@id/softkey_latin_small_letter_e_with_dot_above" press_data="" press_label=" " />
+            <softkey hint_label="a" id="@id/softkey_latin_small_letter_a" press_data="" press_label=" " />
+            <softkey hint_label="uo" id="@id/softkey_latin_small_letter_u_with_ring_above" press_data="" press_label=" " />
+            <softkey hint_label="o" id="@id/softkey_latin_small_letter_o" press_data="" press_label=" " />
+            <softkey hint_label="e" id="@id/softkey_latin_small_letter_e" press_data="" press_label=" " />
+            <softkey hint_label="u" id="@id/softkey_latin_small_letter_u" press_data="" press_label=" " />
+            <softkey hint_label="ur" id="@id/softkey_latin_small_letter_u_with_circumflex" press_data="" press_label=" " />
+            <softkey hint_label="y" id="@id/softkey_latin_small_letter_y" press_data="" press_label=" " />
+            <softkey hint_label="yr" id="@id/softkey_latin_small_letter_y_with_circumflex" press_data="" press_label=" " />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_downshifted_simple">
+            <softkey hint_label="p" id="@id/softkey_yi_syllable_pit" long_press_data="꒞,꒬" press_data="ꀸ" />
+            <softkey hint_label="nb" id="@id/softkey_yi_syllable_nbit" long_press_data="꓅" press_data="ꁶ" />
+            <softkey hint_label="t" id="@id/softkey_yi_syllable_tit" long_press_data="꒠,꒨" press_data="ꄚ" />
+            <softkey hint_label="nd" id="@id/softkey_yi_syllable_ndit" press_data="ꅑ" />
+            <softkey hint_label="k" id="@id/softkey_yi_syllable_kit" long_press_data="꒒,꓆" press_data="ꇸ" />
+            <softkey hint_label="mg" id="@id/softkey_yi_syllable_mgiex" press_data="ꈰ" />
+            <softkey hint_label="c" id="@id/softkey_yi_syllable_cit" long_press_data="꒔,꒣,꒼,꒽,꒾" press_data="ꊮ" />
+            <softkey hint_label="nz" id="@id/softkey_yi_syllable_nzit" long_press_data="꒴" press_data="ꋭ" />
+            <softkey hint_label="ch" id="@id/softkey_yi_syllable_chat" long_press_data="꓃" press_data="ꍡ" />
+            <softkey hint_label="nr" id="@id/softkey_yi_syllable_nrat" press_data="ꎔ" />
+            <softkey hint_label="q" id="@id/softkey_yi_syllable_qit" long_press_data="꒐" press_data="ꏼ" />
+            <softkey hint_label="nj" id="@id/softkey_yi_syllable_njit" press_data="ꐱ" />
+            <softkey hint_label="b" id="@id/softkey_yi_syllable_bit" long_press_data="꒥" press_data="ꀖ" />
+            <softkey hint_label="bb" id="@id/softkey_yi_syllable_bbit" long_press_data="꒛" press_data="ꁖ" />
+            <softkey hint_label="d" id="@id/softkey_yi_syllable_dit" long_press_data="꒹" press_data="ꄀ" />
+            <softkey hint_label="dd" id="@id/softkey_yi_syllable_ddit" long_press_data="꒤" press_data="ꄶ" />
+            <softkey hint_label="g" id="@id/softkey_yi_syllable_git" long_press_data="꒗,꒡,꒶" press_data="ꇚ" />
+            <softkey hint_label="gg" id="@id/softkey_yi_syllable_ggit" long_press_data="꒖,꒦" press_data="ꈔ" />
+            <softkey hint_label="z" id="@id/softkey_yi_syllable_zit" long_press_data="꒢,꒫,꒲,꓁" press_data="ꊍ" />
+            <softkey hint_label="zz" id="@id/softkey_yi_syllable_zzit" long_press_data="꓄" press_data="ꋐ" />
+            <softkey hint_label="zh" id="@id/softkey_yi_syllable_zhat" press_data="ꍆ" />
+            <softkey hint_label="rr" id="@id/softkey_yi_syllable_rrax" press_data="ꍼ" />
+            <softkey hint_label="j" id="@id/softkey_yi_syllable_jit" long_press_data="꒳" press_data="ꏠ" />
+            <softkey hint_label="jj" id="@id/softkey_yi_syllable_jjit" long_press_data="꒪,꒵,꒷" press_data="ꐘ" />
+            <softkey hint_label="f" id="@id/softkey_yi_syllable_fit" press_data="ꃍ" />
+            <softkey hint_label="v" id="@id/softkey_yi_syllable_vit" long_press_data="꒯,,꒱" press_data="ꃢ" />
+            <softkey hint_label="hl" id="@id/softkey_yi_syllable_hlit" press_data="ꆗ" />
+            <softkey hint_label="l" id="@id/softkey_yi_syllable_lit" long_press_data="꒑,꒚,꒻" press_data="ꆷ" />
+            <softkey hint_label="h" id="@id/softkey_yi_syllable_hit" press_data="ꉮ" />
+            <softkey hint_label="w" id="@id/softkey_yi_syllable_wat" long_press_data="꒸" press_data="ꊀ" />
+            <softkey hint_label="s" id="@id/softkey_yi_syllable_sit" press_data="ꌉ" />
+            <softkey hint_label="ss" id="@id/softkey_yi_syllable_ssit" long_press_data="꒕" press_data="ꌪ" />
+            <softkey hint_label="sh" id="@id/softkey_yi_syllable_shat" long_press_data="꒰,꒺,꓀,꓂" press_data="ꎫ" />
+            <softkey hint_label="r" id="@id/softkey_yi_syllable_rat" press_data="ꏆ" />
+            <softkey hint_label="x" id="@id/softkey_yi_syllable_xit" press_data="ꑝ" />
+            <softkey hint_label="y" id="@id/softkey_yi_syllable_yit" long_press_data="꒝,꒮" press_data="ꑱ" />
+            <softkey hint_label="hm" id="@id/softkey_yi_syllable_hmit" long_press_data="꒭" press_data="ꂑ" />
+            <softkey hint_label="m" id="@id/softkey_yi_syllable_mit" long_press_data="꒘,꒜" press_data="ꂮ" />
+            <softkey hint_label="hn" id="@id/softkey_yi_syllable_hnit" press_data="ꅨ" />
+            <softkey hint_label="n" id="@id/softkey_yi_syllable_nit" press_data="ꅽ" />
+            <softkey hint_label="hx" id="@id/softkey_yi_syllable_hxit" long_press_data="꒙,꒟,꒿" press_data="ꉆ" />
+            <softkey hint_label="ng" id="@id/softkey_yi_syllable_ngiex" press_data="ꉝ" />
+            <softkey hint_label="∅" id="@id/softkey_yi_syllable_it" long_press_data="꒩" press_data="ꀀ" />
+            <softkey hint_label="ny" id="@id/softkey_yi_syllable_nyit" long_press_data="꒓,꒧" press_data="ꑊ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_ideographic_comma" press_data="、" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="body">
+            <if burmese_zawgyi="true" language="my" variant="burmese">
+                <softkeys href="@xml/softkeys_fragment_secondary_symbols_with_burmese_unicode" />
+            </if>
+            <else>
+                <softkeys href="@xml/softkeys_fragment_secondary_symbols" />
+            </else>
+            <include href="@xml/keymapping_fragment_secondary_symbols_4x10" />
+        </view>
+    </keyboard>
+</framework>

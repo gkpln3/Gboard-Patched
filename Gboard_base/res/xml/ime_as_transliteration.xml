@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="as-XT" string_id="ime_assamese_transliteration">
+        <if enable_number_row="false">
+            <keyboard_group variant="qwerty" variant_label="@string/variant_as_transliteration">
+                <keyboard def="@xml/keyboard_fragment_en_without_longpresses" transliterate="true" type="prime">
+                    <merge def="@xml/keyboard_latin_qwerty_t13n" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="qwerty" variant_label="@string/variant_as_transliteration">
+                <keyboard def="@xml/keyboard_fragment_en_without_longpresses" transliterate="true" type="prime">
+                    <merge def="@xml/keyboard_latin_qwerty_t13n" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_9_9_t13n" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+        <extra_values>
+            <item id="@id/extra_value_is_transliteration" value="true" />
+            <item id="@id/extra_value_latin_max_candidates_requested" value="20" />
+            <item id="@id/extra_value_has_more_candidates_view" value="true" />
+            <item id="@id/extra_value_double_space_to_period_replacement" value="। " />
+        </extra_values>
+    </ime>
+</framework>

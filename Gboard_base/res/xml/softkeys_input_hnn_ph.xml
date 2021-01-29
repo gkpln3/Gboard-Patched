@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_hanunoo_letter_a" press_data="ᜠ" />
+            <softkey id="@id/softkey_hanunoo_letter_i" press_data="ᜡ" />
+            <softkey id="@id/softkey_hanunoo_letter_u" press_data="ᜢ" />
+            <softkey id="@id/softkey_hanunoo_letter_ka" press_data="ᜣ" />
+            <softkey id="@id/softkey_hanunoo_letter_ga" press_data="ᜤ" />
+            <softkey id="@id/softkey_hanunoo_letter_nga" press_data="ᜥ" />
+            <softkey id="@id/softkey_hanunoo_letter_ta" press_data="ᜦ" />
+            <softkey id="@id/softkey_hanunoo_letter_da" press_data="ᜧ" />
+            <softkey id="@id/softkey_hanunoo_letter_na" press_data="ᜨ" />
+            <softkey id="@id/softkey_hanunoo_letter_pa" press_data="ᜩ" />
+            <softkey id="@id/softkey_hanunoo_letter_ba" press_data="ᜪ" />
+            <softkey id="@id/softkey_hanunoo_letter_ma" press_data="ᜫ" />
+            <softkey id="@id/softkey_hanunoo_letter_ya" press_data="ᜬ" />
+            <softkey id="@id/softkey_hanunoo_letter_ra" press_data="ᜭ" />
+            <softkey id="@id/softkey_hanunoo_letter_la" press_data="ᜮ" />
+            <softkey id="@id/softkey_hanunoo_letter_wa" press_data="ᜯ" />
+            <softkey id="@id/softkey_hanunoo_letter_sa" press_data="ᜰ" />
+            <softkey id="@id/softkey_hanunoo_letter_ha" press_data="ᜱ" />
+            <softkey id="@id/softkey_hanunoo_vowel_sign_i" press_data="ᜲ" />
+            <softkey id="@id/softkey_hanunoo_vowel_sign_u" press_data="ᜳ" />
+            <softkey id="@id/softkey_hanunoo_sign_pamudpod" press_data="᜴" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup">
+            <softkey id="@id/softkey_hanunoo_vowel_sign_i" press_data="ᜲ" press_label="◌ᜲ" />
+            <softkey id="@id/softkey_hanunoo_vowel_sign_u" press_data="ᜳ" press_label="◌ᜳ" />
+            <softkey id="@id/softkey_hanunoo_sign_pamudpod" press_data="᜴" press_label="◌᜴" />
+        </softkey_list>
+    </softkeys>
+</framework>

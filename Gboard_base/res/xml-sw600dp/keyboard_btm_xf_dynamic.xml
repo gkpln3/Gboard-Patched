@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <include href="@xml/keyboard_fragment_tablet" />
+    <keyboard id="@id/keyboard_btm_xf_dynamic">
+        <view layout="@layout/keyboard_latin_tablet_11_11_9_no_shift_body" type="body">
+            <softkeys href="@xml/softkeys_input_btm_xf_dynamic" />
+            <include href="@xml/keymapping_btm_xf_dynamic" />
+            <include href="@xml/keymapping_tablet_additional" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_colon" press_data=":" />
+            <softkey id="@id/softkey_semicolon" long_press_data=":" press_data=";" />
+        </softkey_list>
+    </softkeys>
+</framework>

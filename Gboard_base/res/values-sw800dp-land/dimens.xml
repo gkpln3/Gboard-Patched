@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="suggestions_strip_horizontal_margin">340.0dip</dimen>
+</resources>

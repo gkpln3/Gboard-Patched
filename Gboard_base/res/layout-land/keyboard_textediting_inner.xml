@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" style="@style/TextEditingView"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_weight="800.0" style="@style/TextEditingArrowKeyPart">
+        <ImageView android:layout_gravity="top" style="@style/Separator.Horizental" />
+        <LinearLayout android:orientation="horizontal" style="@style/TextEditingViewNested">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/left_arrow" android:layout_weight="100.0" style="@style/TextEditingViewInRow.ArrowKey" />
+            <FrameLayout android:layout_weight="100.0" style="@style/TextEditingViewInRow">
+                <ImageView android:layout_gravity="left" style="@style/Separator.Vertical" />
+                <include layout="@layout/keyboard_textediting_arrow_updown_inner" />
+                <ImageView android:layout_gravity="right" style="@style/Separator.Vertical" />
+            </FrameLayout>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/right_arrow" android:layout_weight="100.0" style="@style/TextEditingViewInRow.ArrowKey" />
+            <FrameLayout android:layout_weight="100.0" style="@style/TextEditingViewInRow">
+                <ImageView android:layout_gravity="left" style="@style/Separator.Vertical" />
+                <include layout="@layout/keyboard_textediting_arrow_leftright_most_inner" />
+            </FrameLayout>
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_weight="200.0" style="@style/TextEditingEditKeyPart">
+        <ImageView android:layout_gravity="top" style="@style/Separator.Horizental" />
+        <ImageView android:layout_gravity="left" style="@style/Separator.Vertical" />
+        <include layout="@layout/keyboard_textediting_edit_function_inner" />
+    </FrameLayout>
+</LinearLayout>

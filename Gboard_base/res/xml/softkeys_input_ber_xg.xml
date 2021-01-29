@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_tifinagh_letter_ya" long_press_data="ⵄ" press_data="ⴰ" />
+            <softkey id="@id/softkey_tifinagh_letter_ya_2" press_data="ⴰ" />
+            <softkey id="@id/softkey_tifinagh_letter_yak_tifinagh_modifier_letter_labialization_mark" press_data="ⴽⵯ" />
+            <softkey id="@id/softkey_tifinagh_letter_tuareg_yagn" press_data="ⵐ" />
+            <softkey id="@id/softkey_tifinagh_letter_yatt" press_data="ⵟ" />
+            <softkey id="@id/softkey_tifinagh_letter_yal" press_data="ⵍ" />
+            <softkey id="@id/softkey_tifinagh_letter_yu" press_data="ⵓ" />
+            <softkey id="@id/softkey_tifinagh_letter_yah" press_data="ⵀ" />
+            <softkey id="@id/softkey_tifinagh_letter_tuareg_yah" press_data="ⵂ" />
+            <softkey id="@id/softkey_tifinagh_letter_yadd" long_press_data="ⴺ" press_data="ⴹ" />
+            <softkey id="@id/softkey_tifinagh_letter_yadd_2" press_data="ⴹ" />
+            <softkey id="@id/softkey_tifinagh_letter_yam" press_data="ⵎ" />
+            <softkey id="@id/softkey_tifinagh_letter_yarr" press_data="ⵕ" />
+            <softkey id="@id/softkey_tifinagh_separator_mark" press_data="⵰" />
+            <softkey id="@id/softkey_tifinagh_letter_yahh" press_data="ⵃ" />
+            <softkey id="@id/softkey_tifinagh_letter_yag_2" press_data="ⴳ" />
+            <softkey id="@id/softkey_tifinagh_letter_yey" press_data="ⴻ" />
+            <softkey id="@id/softkey_tifinagh_letter_ye" press_data="ⵦ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaq" press_data="ⵇ" />
+            <softkey id="@id/softkey_tifinagh_letter_tuareg_yaq" long_press_data="ⵗ,ⵆ" press_data="ⵈ" />
+            <softkey id="@id/softkey_tifinagh_letter_yas" long_press_data="ⵚ" press_data="ⵙ" />
+            <softkey id="@id/softkey_tifinagh_letter_yas_2" press_data="ⵙ" />
+            <softkey id="@id/softkey_tifinagh_letter_yat" long_press_data="ⵝ,ⵟ" press_data="ⵜ" />
+            <softkey id="@id/softkey_tifinagh_letter_yat_2" long_press_data="ⵟ" press_data="ⵜ" />
+            <softkey id="@id/softkey_tifinagh_letter_yakh" press_data="ⵅ" />
+            <softkey id="@id/softkey_tifinagh_letter_tuareg_yakh" long_press_data="ⵈ,ⵗ" press_data="ⵆ" />
+            <softkey id="@id/softkey_tifinagh_letter_yag" long_press_data="ⴳⵯ,ⴴ" press_data="ⴳ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaghh" long_press_data="ⴶ,ⴳ" press_data="ⴴ" />
+            <softkey id="@id/softkey_tifinagh_letter_yazz" press_data="ⵥ" />
+            <softkey id="@id/softkey_tifinagh_letter_tuareg_yazh" long_press_data="ⵤ" press_data="ⵌ" />
+            <softkey id="@id/softkey_tifinagh_letter_yay" press_data="ⵢ" />
+            <softkey id="@id/softkey_tifinagh_letter_yay_2" long_press_data="ⵉ" press_data="ⵢ" />
+            <softkey id="@id/softkey_tifinagh_letter_yab" long_press_data="ⵒ,ⵠ,ⴲ" press_data="ⴱ" />
+            <softkey id="@id/softkey_tifinagh_letter_yah_2" long_press_data="ⴱ" press_data="ⵀ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaf" press_data="ⴼ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaf_2" long_press_data="ⵊ" press_data="ⴼ" />
+            <softkey id="@id/softkey_tifinagh_letter_yagh" press_data="ⵖ" />
+            <softkey id="@id/softkey_tifinagh_letter_tuareg_yagh" long_press_data="ⵘ" press_data="ⵗ" />
+            <softkey id="@id/softkey_tifinagh_letter_yazh" press_data="ⵊ" />
+            <softkey id="@id/softkey_tifinagh_letter_ahaggar_yazh" long_press_data="ⵌ,ⵣ" press_data="ⵋ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaz" long_press_data="ⵥ" press_data="ⵣ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaz_2" long_press_data="ⵌ,ⵋ" press_data="ⵣ" />
+            <softkey id="@id/softkey_tifinagh_letter_yad" long_press_data="ⴸ" press_data="ⴷ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaw_2" long_press_data="ⴷ,ⴹ" press_data="ⵡ" />
+            <softkey id="@id/softkey_tifinagh_letter_yar" long_press_data="ⵕ" press_data="ⵔ" />
+            <softkey id="@id/softkey_tifinagh_letter_yar_2" press_data="ⵔ" />
+            <softkey id="@id/softkey_tifinagh_letter_yi" press_data="ⵉ" />
+            <softkey id="@id/softkey_tifinagh_letter_yo" press_data="ⵧ" />
+            <softkey id="@id/softkey_tifinagh_letter_yash" press_data="ⵛ" />
+            <softkey id="@id/softkey_tifinagh_letter_yash_2" long_press_data="ⵞ" press_data="ⵛ" />
+            <softkey id="@id/softkey_tifinagh_letter_yan" press_data="ⵏ" />
+            <softkey id="@id/softkey_tifinagh_letter_yan_2" long_press_data="ⵐ,ⵑ" press_data="ⵏ" />
+            <softkey id="@id/softkey_tifinagh_letter_yag_tifinagh_modifier_letter_labialization_mark" press_data="ⴳⵯ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaj" long_press_data="ⴵ,ⵊ,ⵘ" press_data="ⴶ" />
+            <softkey id="@id/softkey_tifinagh_letter_yaw" long_press_data="ⵯ" press_data="ⵡ" />
+            <softkey id="@id/softkey_tifinagh_consonant_joiner" press_data="⵿" />
+            <softkey id="@id/softkey_tifinagh_letter_yak" long_press_data="ⴽⵯ,ⴿ" press_data="ⴽ" />
+            <softkey id="@id/softkey_tifinagh_letter_tuareg_yak" press_data="ⴾ" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_handwriting_title">
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.SeekBarListPreference android:persistent="true" android:entries="@array/entries_handwriting_timeout_ms" android:title="@string/setting_handwriting_timeout_title" android:key="@string/pref_key_handwriting_scrollout_delay" android:entryValues="@array/entryvalues_handwriting_timeout_ms" seek_bar_text_left="@string/setting_handwriting_timeout_seekbar_text_left" seek_bar_text_right="@string/setting_handwriting_timeout_seekbar_text_right" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.SeekBarListPreference android:persistent="true" android:entries="@array/entries_handwriting_stroke_width_scale" android:title="@string/setting_handwriting_stroke_width_title" android:key="@string/pref_key_handwriting_stroke_width_scale" android:entryValues="@array/entryvalues_handwriting_stroke_width_scale" seek_bar_text_left="@string/setting_handwriting_stroke_width_seekbar_text_left" seek_bar_text_right="@string/setting_handwriting_stroke_width_seekbar_text_right" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

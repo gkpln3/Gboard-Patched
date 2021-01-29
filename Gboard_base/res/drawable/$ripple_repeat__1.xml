@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:duration="0" android:startOffset="1500" android:valueFrom="0" android:valueTo="0.9" android:valueType="floatType" android:propertyName="strokeAlpha" />
+    <objectAnimator android:duration="1000" android:startOffset="1500" android:valueFrom="M100 200 A 100 100 0 1 1 200 300 A 100 100 0 0 1 100 200" android:valueTo="M60 200 A 140 140 0 1 1 200 340 A 140 140 0 0 1 60 200" android:valueType="pathType" android:propertyName="pathData" />
+    <objectAnimator android:duration="1000" android:startOffset="1500" android:valueFrom="0.9" android:valueTo="0" android:valueType="floatType" android:propertyName="strokeAlpha" />
+</set>

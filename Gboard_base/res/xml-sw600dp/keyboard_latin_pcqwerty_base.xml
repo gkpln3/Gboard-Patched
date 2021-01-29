@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_fragment_tablet" />
+    <keyboard id="@id/keyboard_pcqwerty">
+        <view layout="@layout/keyboard_latin_pcqwerty_body" type="body">
+            <softkeys href="@xml/softkeys_input_pcqwerty_additional" />
+            <softkeys href="@xml/softkeys_input_pcqwerty_tablet_additional" />
+            <include href="@xml/keymapping_pcqwerty" />
+            <include href="@xml/keymapping_pcqwerty_tablet" />
+        </view>
+    </keyboard>
+</framework>

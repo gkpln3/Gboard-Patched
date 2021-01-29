@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" style="@style/Icon.Center" />
+    <TextView android:id="@id/label_sup" style="@style/LabelSecondary.Sup.Dark" />
+</merge>

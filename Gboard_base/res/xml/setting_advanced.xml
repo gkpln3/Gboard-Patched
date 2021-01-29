@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_advanced" android:key="@string/setting_advanced_key"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="true" android:title="@string/setting_enable_symbol_alt_physical_key_title" android:key="@string/pref_key_enable_emoji_alt_physical_key" android:summary="@string/setting_enable_symbol_alt_physical_key_summary" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_show_launcher_icon_title" android:key="@string/pref_key_show_launcher_icon" android:summary="@string/setting_show_launcher_icon_summary" />
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_improve_google_keyboard_category_title" android:key="@string/setting_improve_google_keyboard_category_key">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_enable_user_metrics_title" android:key="@string/pref_key_enable_user_metrics" android:summary="@string/setting_enable_metrics_logging_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_personalization_title" android:key="@string/pref_key_latin_personalization" android:summary="@string/setting_personalization_summary">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/enable_federated_learning_controls" />
+        </SwitchPreference>
+        <com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference android:persistent="true" android:title="@string/setting_fl_toggle_title" android:key="@string/pref_key_user_enabled_federated_training" android:summary="@string/setting_fl_toggle_summary">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/enable_federated_learning_controls" />
+        </com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference>
+        <Preference android:persistent="false" android:title="@string/setting_clear_all_data_title" android:key="@string/setting_sync_clear_key" android:summary="@string/setting_clear_all_data_summary">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/enable_federated_learning_controls" />
+        </Preference>
+        <SwitchPreference android:persistent="true" android:title="@string/setting_candidate_runtime_debug_title" android:key="@string/pref_key_candidate_runtime_debug" android:summaryOn="@string/setting_candidate_runtime_debug_summary_on" android:summaryOff="@string/setting_candidate_runtime_debug_summary_off">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/enable_candidate_runtime_debug" />
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="Enable Soft Key Debug" android:key="@string/pref_key_enable_softkey_debug" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

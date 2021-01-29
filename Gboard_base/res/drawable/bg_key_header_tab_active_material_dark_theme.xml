@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:topLeftRadius="@dimen/softkey_bg_corner_radius" android:topRightRadius="@dimen/softkey_bg_corner_radius" />
+            <solid android:color="@color/base_material_dark_theme" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/space_key_content_desc" id="@id/softkey_space_empty_with_burmese_unicode" layout="@layout/softkey_space_label_grey_with_burmese_unicode" long_press_delay_flag="@string/space_key_long_press_delay">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+            <label location="@id/label" value=" " />
+        </softkey>
+    </softkeys>
+</framework>

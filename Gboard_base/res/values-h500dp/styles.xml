@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="popupDragConfirmationImageView">
+        <item name="android:background">?BgDragConfirmationDropZone</item>
+        <item name="android:padding">24.0dip</item>
+        <item name="android:layout_width">88.0dip</item>
+        <item name="android:layout_height">88.0dip</item>
+        <item name="android:layout_marginBottom">70.0dip</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="popupDragConfirmationTextView">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">?ColorDragConfirmationText</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">16.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+        <item name="android:scrollHorizontally">false</item>
+    </style>
+</resources>

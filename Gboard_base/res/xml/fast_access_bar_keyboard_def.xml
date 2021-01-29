@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.expression.keyboard.ExpressionKeyboard" id="@id/keyboard_fast_access_bar">
+        <view direction="locale" layout="@layout/fast_access_bar_view" scalable="false" type="header" />
+    </keyboard>
+</framework>

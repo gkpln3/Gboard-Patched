@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/KeyTop.Candidate"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.google.android.libraries.inputmethod.widgets.AutoScaleXTextView android:textSize="@dimen/contextual_candidate_main_text_size" android:id="@id/label" android:layout_height="wrap_content" android:fontFamily="sans-serif-medium" enable_relayout="false" minimum_scale="0.7" style="@style/Label.Candidate.EllipsizeMiddle" />
+        <com.google.android.libraries.inputmethod.widgets.AutoScaleXTextView android:textSize="@dimen/contextual_candidate_secondary_text_size" android:id="@id/label_candidate_annotation" android:layout_height="wrap_content" enable_relayout="false" minimum_scale="0.7" style="@style/Label.Candidate.EllipsizeMiddle" />
+    </LinearLayout>
+</FrameLayout>

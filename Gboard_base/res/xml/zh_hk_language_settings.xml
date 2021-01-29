@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="true" android:title="@string/setting_simplified_title" android:key="@string/pref_key_enable_sc_tc_conversion_zh_hk" />
+</PreferenceScreen>

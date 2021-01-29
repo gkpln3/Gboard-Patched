@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.Keyboard" id="@id/keyboard_non_prime_digit" initial_states="LOCK_KEYBOARD">
+        <view layout="@layout/keyboard_non_prime_digit_header" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_header_prime" />
+            <include href="@xml/keymapping_header_non_prime" />
+        </view>
+        <view layout="@layout/keyboard_non_prime_digit_body" type="body">
+            <motion_event_handler class=".libs.framework.keyboard.handler.BasicMotionEventHandler" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubDeleteMotionEventHandler" preference_key="@string/pref_key_enable_scrub_delete" reverse_preference="false" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubMoveMotionEventHandler" preference_key="@string/pref_key_enable_scrub_move" reverse_preference="false" />
+            <softkeys href="@xml/softkeys_input_digit" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_punctuation_bottom" />
+            <softkeys href="@xml/softkeys_non_prime_category" />
+            <softkeys href="@xml/softkeys_non_prime_category_tablet" />
+            <softkeys href="@xml/softkeys_punctuation_digit_tablet" />
+            <softkeys href="@xml/softkeys_back_to_prime_language_specific" />
+            <softkeys href="@xml/softkeys_symbols_digit_tablet_left_part" id="@id/softkeys_symbols_digit_tablet_left_part" />
+            <softkeys href="@xml/softkeys_symbols_digit_tablet_right_part" id="@id/softkeys_symbols_digit_tablet_right_part" />
+            <softkeys href="@xml/softkeys_input_non_prime_bottom_symbol" />
+            <include href="@xml/keymapping_body_digit" />
+            <include href="@xml/keymapping_bottom_digit_tablet" />
+            <include href="@xml/keymapping_non_prime_body_right_side" />
+            <include href="@xml/keymapping_back_to_prime_language_specific" />
+            <include href="@xml/keymapping_non_prime_switch_to_main_category_language_specific" />
+        </view>
+    </keyboard>
+</framework>

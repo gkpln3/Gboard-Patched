@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_empty" view_id="@id/key_pos_input_symbol_1" />
+        <mapping key_id="@id/softkey_empty" view_id="@id/key_pos_input_symbol_2" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="240.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout style="@style/LensChipView">
+        <include layout="@layout/lens_chip_item_background" />
+        <ImageView android:id="@id/lens_chip_icon" android:contentDescription="@string/lens_icon_hint" android:importantForAccessibility="no" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/lens_chip_label" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/LensChipIcon" />
+        <TextView android:id="@id/lens_chip_label" android:tag=".keyboard-lens-chip-text" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/lens_chip_icon" app:layout_constraintTop_toTopOf="parent" style="@style/LensChipsText" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

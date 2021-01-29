@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_emoticon">
+        <softkey desc="@string/hugging_emoticon_description_big_wide_hug" param_data="⊂((・▽・))⊃" />
+        <softkey desc="@string/hugging_emoticon_description_hug_with_big_smile" param_data="(づ｡◕‿‿◕｡)づ" />
+        <softkey desc="@string/hugging_emoticon_description_happy_hug" param_data="༼ つ ◕‿◕ ༽つ" />
+        <softkey desc="@string/hugging_emoticon_description_kissy_hug" param_data="(づ￣ ³￣)づ" />
+        <softkey desc="@string/hugging_emoticon_description_hug" param_data="(⊃｡•́‿•̀｡)⊃" />
+        <softkey desc="@string/hugging_emoticon_description_bear_hug" param_data="ʕっ•ᴥ•ʔっ" />
+        <softkey desc="@string/hugging_emoticon_description_hug" param_data="(o´･_･)っ" />
+        <softkey desc="@string/hugging_emoticon_description_hug" param_data="(⊃ • ʖ̫ • )⊃" />
+        <softkey desc="@string/hugging_emoticon_description_hug" param_data="(つ≧▽≦)つ" />
+        <softkey desc="@string/hugging_emoticon_description_star_eyed_hug" param_data="(つ✧ω✧)つ" />
+        <softkey desc="@string/hugging_emoticon_description_happy_hug" param_data="(っ.❛ ᴗ ❛.)っ" />
+        <softkey desc="@string/hugging_emoticon_description_running_hug" param_data="～(つˆДˆ)つ｡☆" />
+        <softkey desc="@string/hugging_emoticon_description_kissy_hug" param_data="ლ(´ ❥ `ლ)" />
+        <softkey desc="@string/hugging_emoticon_description_hug" param_data="⊂(•‿•⊂ )*.✧" />
+        <softkey desc="@string/hugging_emoticon_description_hug" param_data="⊂(´･◡･⊂ )∘˚˳°" />
+        <softkey desc="@string/hugging_emoticon_description_Denko_hug" param_data="⊂(･ω･*⊂)" />
+        <softkey desc="@string/hugging_emoticon_description_hug" param_data="⊂(・﹏・⊂)" />
+        <softkey desc="@string/hugging_emoticon_description_hug" param_data="⊂(・▽・⊂)" />
+        <softkey desc="@string/hugging_emoticon_description_big_wide_hug" param_data="⊂(◉‿◉)つ" />
+        <softkey desc="@string/hugging_emoticon_description_big_wide_hug" param_data="o((*^▽^*))o" />
+        <softkey desc="@string/hugging_emoticon_description_big_wide_hug" param_data="╰(*´︶`*)╯" />
+        <softkey desc="@string/hugging_emoticon_description_kiss_and_a_hug" param_data="╰(＾3＾)╯" />
+        <softkey desc="@string/hugging_emoticon_description_blushing_hug" param_data="╰(⸝⸝⸝´꒳`⸝⸝⸝)╯" />
+        <softkey desc="@string/hugging_emoticon_description_kiss_and_a_hug" param_data="♡(˃͈ દ ˂͈ ༶ )" />
+        <softkey desc="@string/hugging_emoticon_description_kiss_and_a_hug" param_data="ヾ(˙❥˙)ﾉ" />
+        <softkey desc="@string/hugging_emoticon_description_big_hug" param_data="＼(^o^)／" />
+        <softkey desc="@string/hugging_emoticon_description_nervous_hug" param_data="ლ(・﹏・ლ)" />
+        <softkey desc="@string/hugging_emoticon_description_Denko_hug" param_data="ლ(◕ω◕ლ)" />
+        <softkey desc="@string/hugging_emoticon_description_Hugging_a_Denko" param_data="(/･ω･(-ω-)" />
+        <softkey desc="@string/hugging_emoticon_description_two_Denkos_hugging" param_data="(･ω･)つ⊂(･ω･)" />
+        <softkey desc="@string/hugging_emoticon_description_comfort_hug" param_data="( T_T)＼(^-^ )" />
+        <softkey desc="@string/hugging_emoticon_description_comfort_hug" param_data="(･–･) \\(･◡･)/" />
+    </softkey_list>
+</framework>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_search" android:key="@string/setting_search_key"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="true" android:title="@string/setting_enable_conv2query" android:key="@string/pref_key_enable_conv2query" android:summary="@string/setting_enable_conv2query_summary" />
+</PreferenceScreen>

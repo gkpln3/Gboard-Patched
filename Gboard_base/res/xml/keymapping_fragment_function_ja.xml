@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping exclude_state="NO_SETTINGS_KEY">
+        <merge key_id="@id/softkey_fragment_bottom_popup_settings" view_id="@id/key_pos_switch_hiragana_alphabet" />
+    </merge_key_mapping>
+    <merge_key_mapping state="SHOW_ONE_HANDED_MODE_SWITCH">
+        <merge key_id="@id/softkey_fragment_popup_switch_to_left_handed_mode" view_id="@id/key_pos_switch_hiragana_alphabet" />
+    </merge_key_mapping>
+</framework>

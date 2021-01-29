@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="fraction" name="fullscreen_handwriting_panel_normal_alpha">0.4</item>
+    <item type="fraction" name="fullscreen_handwriting_panel_pen_down_alpha">0.6</item>
+    <item type="fraction" name="handwriting_scrollout_remainder_fraction">0.1</item>
+    <fraction name="navigation_row_weight">21.500004%</fraction>
+    <fraction name="ring_g_scale_to_reveal_factor">90.0%</fraction>
+    <fraction name="spatial_model_pruning_delta_score">0.0%</fraction>
+    <fraction name="wear_ja_keyboard_body_height">0.0%</fraction>
+</resources>

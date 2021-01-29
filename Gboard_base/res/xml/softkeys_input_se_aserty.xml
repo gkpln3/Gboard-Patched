@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_latin_small_letter_a_with_acute" long_press_data="q" merge_index="-1" press_data="á" />
+            <softkey id="@id/softkey_latin_capital_letter_a_with_acute" long_press_data="Q" merge_index="-1" press_data="Á" />
+            <softkey id="@id/softkey_latin_small_letter_s_with_caron" long_press_data="w" merge_index="-1" press_data="š" />
+            <softkey id="@id/softkey_latin_capital_letter_s_with_caron" long_press_data="W" merge_index="-1" press_data="Š" />
+            <softkey id="@id/softkey_latin_small_letter_e" long_press_data="ē,ê,é,è" merge_index="-1" press_data="e" />
+            <softkey id="@id/softkey_latin_capital_letter_e" long_press_data="Ē,Ê,É,È" merge_index="-1" press_data="E" />
+            <softkey id="@id/softkey_latin_small_letter_r" press_data="r" />
+            <softkey id="@id/softkey_latin_capital_letter_r" press_data="R" />
+            <softkey id="@id/softkey_latin_small_letter_t" press_data="t" />
+            <softkey id="@id/softkey_latin_capital_letter_t" press_data="T" />
+            <softkey id="@id/softkey_latin_small_letter_y" long_press_data="ŧ" merge_index="-1" press_data="y" />
+            <softkey id="@id/softkey_latin_capital_letter_y" long_press_data="Ŧ" merge_index="-1" press_data="Y" />
+            <softkey id="@id/softkey_latin_small_letter_u" long_press_data="ú,ū,ü" merge_index="-1" press_data="u" />
+            <softkey id="@id/softkey_latin_capital_letter_u" long_press_data="Ú,Ū,Ü" merge_index="-1" press_data="U" />
+            <softkey id="@id/softkey_latin_small_letter_i" long_press_data="ï,î,ī,ɨ" merge_index="-1" press_data="i" />
+            <softkey id="@id/softkey_latin_capital_letter_i" long_press_data="Ï,Î,Ī,Ɨ" merge_index="-1" press_data="I" />
+            <softkey id="@id/softkey_latin_small_letter_o" long_press_data="ø,ö,õ,ō,ô,ó,ò" merge_index="-1" press_data="o" />
+            <softkey id="@id/softkey_latin_capital_letter_o" long_press_data="Ø,Ö,Õ,Ō,Ô,Ó,Ò" merge_index="-1" press_data="O" />
+            <softkey id="@id/softkey_latin_small_letter_p" press_data="p" />
+            <softkey id="@id/softkey_latin_capital_letter_p" press_data="P" />
+            <softkey id="@id/softkey_latin_small_letter_eng" press_data="ŋ" />
+            <softkey id="@id/softkey_latin_capital_letter_eng" press_data="Ŋ" />
+            <softkey id="@id/softkey_latin_small_letter_a" long_press_data="â,ä,æ,å,ā,à" merge_index="-1" press_data="a" />
+            <softkey id="@id/softkey_latin_capital_letter_a" long_press_data="Â,Ä,Æ,Å,Ā,À" merge_index="-1" press_data="A" />
+            <softkey id="@id/softkey_latin_small_letter_s" press_data="s" />
+            <softkey id="@id/softkey_latin_capital_letter_s" press_data="S" />
+            <softkey id="@id/softkey_latin_small_letter_d" press_data="d" />
+            <softkey id="@id/softkey_latin_capital_letter_d" press_data="D" />
+            <softkey id="@id/softkey_latin_small_letter_f" press_data="f" />
+            <softkey id="@id/softkey_latin_capital_letter_f" press_data="F" />
+            <softkey id="@id/softkey_latin_small_letter_g" long_press_data="ǧ,ǥ" merge_index="-1" press_data="g" />
+            <softkey id="@id/softkey_latin_capital_letter_g" long_press_data="Ǧ,Ǥ" merge_index="-1" press_data="G" />
+            <softkey id="@id/softkey_latin_small_letter_h" press_data="h" />
+            <softkey id="@id/softkey_latin_capital_letter_h" press_data="H" />
+            <softkey id="@id/softkey_latin_small_letter_j" press_data="j" />
+            <softkey id="@id/softkey_latin_capital_letter_j" press_data="J" />
+            <softkey id="@id/softkey_latin_small_letter_k" long_press_data="ǩ" merge_index="-1" press_data="k" />
+            <softkey id="@id/softkey_latin_capital_letter_k" long_press_data="Ǩ" merge_index="-1" press_data="K" />
+            <softkey id="@id/softkey_latin_small_letter_l" press_data="l" />
+            <softkey id="@id/softkey_latin_capital_letter_l" press_data="L" />
+            <softkey id="@id/softkey_latin_small_letter_d_with_stroke" press_data="đ" />
+            <softkey id="@id/softkey_latin_capital_letter_d_with_stroke" press_data="Đ" />
+            <softkey id="@id/softkey_latin_small_letter_t_with_stroke" press_data="ŧ" />
+            <softkey id="@id/softkey_latin_capital_letter_t_with_stroke" press_data="Ŧ" />
+            <softkey id="@id/softkey_latin_small_letter_z_with_caron" press_data="ž" />
+            <softkey id="@id/softkey_latin_capital_letter_z_with_caron" press_data="Ž" />
+            <softkey id="@id/softkey_latin_small_letter_z" long_press_data="ʒ,ǯ" merge_index="-1" press_data="z" />
+            <softkey id="@id/softkey_latin_capital_letter_z" long_press_data="Ʒ,Ǯ" merge_index="-1" press_data="Z" />
+            <softkey id="@id/softkey_latin_small_letter_c_with_caron" long_press_data="x" merge_index="-1" press_data="č" />
+            <softkey id="@id/softkey_latin_capital_letter_c_with_caron" long_press_data="X" merge_index="-1" press_data="Č" />
+            <softkey id="@id/softkey_latin_small_letter_c" long_press_data="ç" merge_index="-1" press_data="c" />
+            <softkey id="@id/softkey_latin_capital_letter_c" long_press_data="Ç" merge_index="-1" press_data="C" />
+            <softkey id="@id/softkey_latin_small_letter_v" press_data="v" />
+            <softkey id="@id/softkey_latin_capital_letter_v" press_data="V" />
+            <softkey id="@id/softkey_latin_small_letter_b" press_data="b" />
+            <softkey id="@id/softkey_latin_capital_letter_b" press_data="B" />
+            <softkey id="@id/softkey_latin_small_letter_n" long_press_data="ń,ñ" merge_index="-1" press_data="n" />
+            <softkey id="@id/softkey_latin_capital_letter_n" long_press_data="Ń,Ñ" merge_index="-1" press_data="N" />
+            <softkey id="@id/softkey_latin_small_letter_m" press_data="m" />
+            <softkey id="@id/softkey_latin_capital_letter_m" press_data="M" />
+        </softkey_list>
+    </softkeys>
+</framework>

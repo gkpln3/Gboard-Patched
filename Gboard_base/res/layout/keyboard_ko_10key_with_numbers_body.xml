@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/Body"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/input_area" style="@style/BodyInner">
+        <include layout="@layout/keyboard_ko_10key_with_numbers_input_area" />
+        <include layout="@layout/keyboard_ko_10key_bottom" />
+    </LinearLayout>
+    <include layout="@layout/keyboard_candidates_body_inner" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

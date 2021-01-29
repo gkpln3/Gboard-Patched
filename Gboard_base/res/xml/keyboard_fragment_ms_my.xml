@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_ms_my">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_ms_my" />
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:orientation="vertical" android:background="?android:selectableItemBackground" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" android:textDirection="locale" android:layoutDirection="locale" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/text_word" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="false" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:ellipsize="end" android:layout_gravity="start" android:id="@id/text_shortcut" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@id/text_word" android:layout_alignStart="@id/text_word" />
+</RelativeLayout>

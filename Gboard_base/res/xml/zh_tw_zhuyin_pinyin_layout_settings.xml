@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_zhuyin_pinyin_title">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_chinese_english_mixed_input_title" android:key="@string/pref_key_chinese_english_mixed_input_zh_tw" android:summary="@string/setting_chinese_english_mixed_input_summary_zhuyin" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_gesture_input_preview_title" android:key="@string/pref_key_enable_incremental_gesture_input_zh_tw" android:summary="@string/setting_gesture_input_preview_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_gesture_auto_commit_title" android:key="@string/pref_key_enable_gesture_auto_commit_zh_tw" android:summary="@string/setting_gesture_auto_commit_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_auto_space_title" android:key="@string/pref_key_enable_auto_space_zh_tw" android:summary="@string/setting_auto_space_summary" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

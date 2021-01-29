@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_dictionary" android:key="@string/setting_dictionary_key"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.personaldictionary.preference.PersonalDictionaryPreference android:title="@string/setting_personal_dictionary_title" />
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_user_history_category_title" android:key="@string/setting_user_dictionary_category_key">
+        <Preference android:persistent="false" android:title="@string/setting_sync_clear_title" android:key="@string/setting_sync_clear_key" android:summary="@string/setting_dialog_sync_clear_summary">
+            <extra android:name="hide_if_flag_is_true" android:value="@string/enable_federated_learning_controls" />
+        </Preference>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

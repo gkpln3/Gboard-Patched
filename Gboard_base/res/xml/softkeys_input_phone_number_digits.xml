@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@id/softkey_template_number_and_label" layout="@layout/softkey_phone_number" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$press_data$" intention="COMMIT" keycode="$keycode_press$" type="PRESS" />
+            <label location="@id/number" value="$press_data$" />
+            <label location="@id/label" value="$label_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_number_and_label">
+            <softkey id="@id/softkey_phone_numbers_1" keycode_press="KEYCODE_1" label_data=" " press_data="1" />
+            <softkey id="@id/softkey_phone_numbers_2" keycode_press="KEYCODE_2" label_data="ABC" press_data="2" />
+            <softkey id="@id/softkey_phone_numbers_3" keycode_press="KEYCODE_3" label_data="DEF" press_data="3" />
+            <softkey id="@id/softkey_phone_numbers_4" keycode_press="KEYCODE_4" label_data="GHI" press_data="4" />
+            <softkey id="@id/softkey_phone_numbers_5" keycode_press="KEYCODE_5" label_data="JKL" press_data="5" />
+            <softkey id="@id/softkey_phone_numbers_6" keycode_press="KEYCODE_6" label_data="MNO" press_data="6" />
+            <softkey id="@id/softkey_phone_numbers_7" keycode_press="KEYCODE_7" label_data="PQRS" press_data="7" />
+            <softkey id="@id/softkey_phone_numbers_8" keycode_press="KEYCODE_8" label_data="TUV" press_data="8" />
+            <softkey id="@id/softkey_phone_numbers_9" keycode_press="KEYCODE_9" label_data="WXYZ" press_data="9" />
+            <softkey id="@id/softkey_phone_numbers_0" keycode_press="KEYCODE_0" label_data=" " press_data="0" />
+        </softkey_list>
+        <softkey id="@id/softkey_phone_numbers_0_add" layout="@layout/softkey_phone_number_zero_key" multi_touch="false" popup_timing="ON_GESTURE" slide_sensitivity="NORMAL">
+            <action data="0" intention="COMMIT" keycode="KEYCODE_0" type="PRESS" />
+            <action action_on_down="true" data="+" intention="COMMIT" keycode="PLUS" type="LONG_PRESS" />
+            <label location="@id/number" value="0" />
+            <label location="@id/label" value="+" />
+        </softkey>
+    </softkeys>
+</framework>

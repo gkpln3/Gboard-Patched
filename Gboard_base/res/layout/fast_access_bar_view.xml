@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:tag=".keyboard-body-area.no-shape" android:background="@color/google_white" android:layout_width="fill_parent" android:layout_height="wrap_content" app:allowMockActionDown="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:background="@drawable/fast_access_bar_border" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="@id/fast_access_bar_introduction_view_stub" android:layout="@layout/fast_access_bar_introduction" android:layout_width="fill_parent" android:layout_height="@dimen/fast_access_bar_introduction_height" />
+        <RelativeLayout android:id="@id/fast_access_bar_view_holder" android:layout_width="fill_parent" android:layout_height="@dimen/fast_access_bar_height">
+            <com.google.android.apps.inputmethod.libs.expression.recyclerview.BindingRecyclerView android:scrollbarStyle="outsideOverlay" android:id="@id/fast_access_bar_emoji_holder_view" android:scrollbars="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="-3.0dip" android:layout_marginEnd="-7.0dip" />
+        </RelativeLayout>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

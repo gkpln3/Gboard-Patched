@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/add_clip_item_popup_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/add_clip_item_dialog_keyboard_placeholder" android:layout_width="fill_parent" android:layout_height="@dimen/keyboard_height" android:layout_alignParentBottom="true" android:layoutDirection="ltr">
+        <View android:id="@id/add_clip_item_dialog_keyboard_placeholder_start" android:background="@color/add_clip_item_dialog_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/add_clip_item_dialog_keyboard_placeholder_bottom" android:layout_alignParentStart="true" />
+        <View android:id="@id/add_clip_item_dialog_keyboard_placeholder_end" android:background="@color/add_clip_item_dialog_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/add_clip_item_dialog_keyboard_placeholder_bottom" android:layout_alignParentEnd="true" />
+        <View android:id="@id/add_clip_item_dialog_keyboard_placeholder_bottom" android:background="@color/add_clip_item_dialog_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <include layout="@layout/add_clip_item_popup_view_dialog" />
+</RelativeLayout>

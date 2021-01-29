@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/search_box_divider_inset_left" android:insetRight="@dimen/search_box_divider_inset_right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape>
+        <size android:height="1.0dip" />
+        <solid android:color="@color/search_candidate_divider_material_light_m2" />
+    </shape>
+</inset>

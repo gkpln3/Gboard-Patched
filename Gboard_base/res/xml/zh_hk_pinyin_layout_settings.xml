@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_pinyin_title">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_chinese_english_mixed_input_title" android:key="@string/pref_key_chinese_english_mixed_input_zh_hk" android:summary="@string/setting_chinese_english_mixed_input_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_title_zh_hk" android:key="@string/pref_key_fuzzy_pinyin_zh_hk" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_show_canonical_romanization_title" android:key="@string/pref_key_show_canonical_romanization" android:summary="@string/setting_show_canonical_romanization_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_auto_space_title" android:key="@string/pref_key_enable_auto_space_zh_hk" android:summary="@string/setting_auto_space_summary" />
+        <ListPreference android:persistent="true" android:entries="@array/setting_cantonese_pinyin_standard" android:title="@string/setting_cantonese_pinyin_standards_title" android:key="@string/pref_key_cantonese_pinyin_standard" android:summary="%s" android:entryValues="@array/entryvalues_cantonese_pinyin_standard" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

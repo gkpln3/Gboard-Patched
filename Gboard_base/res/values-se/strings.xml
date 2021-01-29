@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="symbols_followed_by_space">.,;:!?)]}%&amp;«</string>
+    <string name="symbols_preceded_by_space">([{&amp;»ℎ</string>
+</resources>

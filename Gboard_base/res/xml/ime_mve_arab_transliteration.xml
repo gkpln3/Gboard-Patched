@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="mve-XT" string_id="ime_mve_arab_transliteration">
+        <if enable_number_row="false">
+            <keyboard_group variant="qwerty" variant_label="@string/variant_mve_arab_transliteration">
+                <keyboard def="@xml/keyboard_fragment_en_without_longpresses" transliterate="true" type="prime">
+                    <merge def="@xml/keyboard_latin_qwerty_t13n_arabic" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_ascii_with_extended_arabic_indic_digits" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="qwerty" variant_label="@string/variant_mve_arab_transliteration">
+                <keyboard def="@xml/keyboard_fragment_en_without_longpresses" transliterate="true" type="prime">
+                    <merge def="@xml/keyboard_latin_qwerty_t13n_arabic" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_9_9_t13n" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_ascii_with_extended_arabic_indic_digits" />
+            </keyboard_group>
+        </else>
+        <extra_values>
+            <item id="@id/extra_value_is_transliteration" value="true" />
+            <item id="@id/extra_value_latin_max_candidates_requested" value="20" />
+            <item id="@id/extra_value_has_more_candidates_view" value="true" />
+        </extra_values>
+    </ime>
+</framework>

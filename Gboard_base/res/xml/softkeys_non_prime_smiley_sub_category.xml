@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkeys_non_prime_sub_category_templates" />
+    <softkeys>
+        <softkey_list template_id="@id/softkey_template_sub_category_active">
+            <softkey desc="@string/nonprime_recent_content_desc" id="@id/softkey_non_prime_smiley_sub_category_1_active" param_icon="@attr/IconRecent" />
+            <softkey desc="@string/smiley_category_smiley_people_content_desc" id="@id/softkey_non_prime_smiley_sub_category_2_active" param_icon="@attr/IconSubCategorySmileySmileyPeople" />
+            <softkey desc="@string/smiley_category_animals_nature_content_desc" id="@id/softkey_non_prime_smiley_sub_category_3_active" param_icon="@attr/IconSubCategorySmileyAnimalsNature" />
+            <softkey desc="@string/smiley_category_food_drink_content_desc" id="@id/softkey_non_prime_smiley_sub_category_4_active" param_icon="@attr/IconSubCategorySmileyFoodDrink" />
+            <softkey desc="@string/smiley_category_travel_places_content_desc" id="@id/softkey_non_prime_smiley_sub_category_5_active" param_icon="@attr/IconSubCategorySmileyTravelPlaces" />
+            <softkey desc="@string/smiley_category_activity_content_desc" id="@id/softkey_non_prime_smiley_sub_category_6_active" param_icon="@attr/IconSubCategorySmileyActivity" />
+            <softkey desc="@string/smiley_category_objects_content_desc" id="@id/softkey_non_prime_smiley_sub_category_7_active" param_icon="@attr/IconSubCategorySmileyObjects" />
+            <softkey desc="@string/smiley_category_symbols_content_desc" id="@id/softkey_non_prime_smiley_sub_category_8_active" param_icon="@attr/IconSubCategorySmileySymbols" />
+            <softkey desc="@string/smiley_category_flags_content_desc" id="@id/softkey_non_prime_smiley_sub_category_9_active" param_icon="@attr/IconSubCategorySmileyFlags" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_sub_category_deactive">
+            <softkey desc="@string/nonprime_recent_content_desc" id="@id/softkey_non_prime_smiley_sub_category_1_deactive" param_data="SUB_CATEGORY_1" param_icon="@attr/IconRecent" />
+            <softkey desc="@string/smiley_category_smiley_people_content_desc" id="@id/softkey_non_prime_smiley_sub_category_2_deactive" param_data="SUB_CATEGORY_2" param_icon="@attr/IconSubCategorySmileySmileyPeople" />
+            <softkey desc="@string/smiley_category_animals_nature_content_desc" id="@id/softkey_non_prime_smiley_sub_category_3_deactive" param_data="SUB_CATEGORY_3" param_icon="@attr/IconSubCategorySmileyAnimalsNature" />
+            <softkey desc="@string/smiley_category_food_drink_content_desc" id="@id/softkey_non_prime_smiley_sub_category_4_deactive" param_data="SUB_CATEGORY_4" param_icon="@attr/IconSubCategorySmileyFoodDrink" />
+            <softkey desc="@string/smiley_category_travel_places_content_desc" id="@id/softkey_non_prime_smiley_sub_category_5_deactive" param_data="SUB_CATEGORY_5" param_icon="@attr/IconSubCategorySmileyTravelPlaces" />
+            <softkey desc="@string/smiley_category_activity_content_desc" id="@id/softkey_non_prime_smiley_sub_category_6_deactive" param_data="SUB_CATEGORY_6" param_icon="@attr/IconSubCategorySmileyActivity" />
+            <softkey desc="@string/smiley_category_objects_content_desc" id="@id/softkey_non_prime_smiley_sub_category_7_deactive" param_data="SUB_CATEGORY_7" param_icon="@attr/IconSubCategorySmileyObjects" />
+            <softkey desc="@string/smiley_category_symbols_content_desc" id="@id/softkey_non_prime_smiley_sub_category_8_deactive" param_data="SUB_CATEGORY_8" param_icon="@attr/IconSubCategorySmileySymbols" />
+            <softkey desc="@string/smiley_category_flags_content_desc" id="@id/softkey_non_prime_smiley_sub_category_9_deactive" param_data="SUB_CATEGORY_9" param_icon="@attr/IconSubCategorySmileyFlags" />
+        </softkey_list>
+    </softkeys>
+</framework>

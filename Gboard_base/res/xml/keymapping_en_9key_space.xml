@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_9key_space_en" view_id="@id/key_pos_space" />
+    </key_mapping>
+</framework>

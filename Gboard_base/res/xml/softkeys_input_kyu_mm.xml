@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header">
+            <softkey hint_label="◌ꤦ" id="@id/softkey_kayah_li_letter_ra" long_press_data="ꤦ" long_press_label="◌ꤦ" press_data="ꤚ" press_label="ꤚ" />
+            <softkey hint_label="◌ꤧ" id="@id/softkey_kayah_li_letter_oe" long_press_data="ꤧ,ꤣꤦ,ꤣꤧ,ꤣꤨ,ꤣꤩ,ꤣꤪ" long_press_label="◌ꤧ,ꤣꤦ,ꤣꤧ,ꤣꤨ,ꤣꤩ,ꤣꤪ" press_data="ꤣ" press_label="ꤣ" />
+            <softkey hint_label="◌ꤨ" id="@id/softkey_kayah_li_letter_i" long_press_data="ꤨ" long_press_label="◌ꤨ" press_data="ꤤ" press_label="ꤤ" />
+            <softkey hint_label="◌ꤩ" id="@id/softkey_kayah_li_letter_oo" long_press_data="ꤩ" long_press_label="◌ꤩ" press_data="ꤥ" press_label="ꤥ" />
+            <softkey hint_label="◌ꤪ" id="@id/softkey_kayah_li_letter_tha" long_press_data="ꤪ" long_press_label="◌ꤪ" press_data="ꤞ" press_label="ꤞ" />
+            <softkey hint_label="ꤢꤦ" id="@id/softkey_kayah_li_letter_a" long_press_data="ꤢꤦ" long_press_label="ꤢꤦ" press_data="ꤢ" press_label="ꤢ" />
+            <softkey hint_label="ꤢꤧ" id="@id/softkey_kayah_li_tone_calya" long_press_data="ꤢꤧ" long_press_label="ꤢꤧ" press_data="꤬" press_label="◌꤬" />
+            <softkey hint_label="ꤢꤨ" id="@id/softkey_kayah_li_tone_calya_plophu" long_press_data="ꤢꤨ" long_press_label="ꤢꤨ" press_data="꤭" press_label="◌꤭" />
+            <softkey hint_label="ꤢꤩ" id="@id/softkey_kayah_li_letter_ta" long_press_data="ꤢꤩ" long_press_label="ꤢꤩ" press_data="ꤒ" press_label="ꤒ" />
+            <softkey hint_label="ꤢꤪ" id="@id/softkey_kayah_li_letter_ha" long_press_data="ꤢꤪ" long_press_label="ꤢꤪ" press_data="ꤟ" press_label="ꤟ" />
+            <softkey hint_label="◌꤫" id="@id/softkey_kayah_li_letter_la" long_press_data="꤫" long_press_label="◌꤫" press_data="ꤜ" press_label="ꤜ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup">
+            <softkey id="@id/softkey_kayah_li_vowel_ue" press_data="ꤦ" press_label="◌ꤦ" />
+            <softkey id="@id/softkey_kayah_li_vowel_e" press_data="ꤧ" press_label="◌ꤧ" />
+            <softkey id="@id/softkey_kayah_li_vowel_u" press_data="ꤨ" press_label="◌ꤨ" />
+            <softkey id="@id/softkey_kayah_li_vowel_ee" press_data="ꤩ" press_label="◌ꤩ" />
+            <softkey id="@id/softkey_kayah_li_vowel_o" press_data="ꤪ" press_label="◌ꤪ" />
+            <softkey id="@id/softkey_kayah_li_tone_plophu" press_data="꤫" press_label="◌꤫" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_kayah_li_letter_va" press_data="ꤠ" />
+            <softkey id="@id/softkey_kayah_li_letter_sa" press_data="ꤎ" />
+            <softkey id="@id/softkey_kayah_li_letter_ba" press_data="ꤙ" />
+            <softkey id="@id/softkey_kayah_li_letter_hta" press_data="ꤓ" />
+            <softkey id="@id/softkey_kayah_li_letter_nya" press_data="ꤑ" />
+            <softkey id="@id/softkey_kayah_li_letter_da" press_data="ꤘ" />
+            <softkey id="@id/softkey_kayah_li_letter_ka" press_data="ꤊ" />
+            <softkey id="@id/softkey_kayah_li_letter_na" press_data="ꤔ" />
+            <softkey id="@id/softkey_kayah_li_letter_ya" press_data="ꤛ" />
+            <softkey id="@id/softkey_kayah_li_letter_a_kayah_li_vowel_ue" press_data="ꤢꤦ" />
+            <softkey id="@id/softkey_kayah_li_letter_a_kayah_li_vowel_e" press_data="ꤢꤧ" />
+            <softkey id="@id/softkey_kayah_li_letter_a_kayah_li_vowel_u" press_data="ꤢꤨ" />
+            <softkey id="@id/softkey_kayah_li_letter_a_kayah_li_vowel_ee" press_data="ꤢꤩ" />
+            <softkey id="@id/softkey_kayah_li_letter_a_kayah_li_vowel_o" press_data="ꤢꤪ" />
+            <softkey id="@id/softkey_kayah_li_letter_pa" press_data="ꤕ" />
+            <softkey id="@id/softkey_kayah_li_letter_nga" press_data="ꤍ" />
+            <softkey id="@id/softkey_kayah_li_letter_ca" press_data="ꤡ" />
+            <softkey id="@id/softkey_kayah_li_letter_ga" press_data="ꤌ" />
+            <softkey id="@id/softkey_kayah_li_letter_sha" press_data="ꤏ" />
+            <softkey id="@id/softkey_kayah_li_letter_kha" press_data="ꤋ" />
+            <softkey id="@id/softkey_kayah_li_letter_ma" press_data="ꤗ" />
+            <softkey id="@id/softkey_kayah_li_letter_pha" press_data="ꤖ" />
+            <softkey id="@id/softkey_kayah_li_letter_wa" press_data="ꤝ" />
+            <softkey id="@id/softkey_kayah_li_letter_za" press_data="ꤐ" />
+        </softkey_list>
+    </softkeys>
+</framework>

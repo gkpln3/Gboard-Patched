@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.AppCompatImageView android:gravity="center" android:layout_gravity="center" android:id="@id/expression_header_edge_icon" android:layout_width="@dimen/keyboard_expression_header_element_size" android:layout_height="fill_parent" android:scaleType="centerInside" android:layout_marginStart="@dimen/keyboard_expression_header_search_box_end_icon_margin_start" android:layout_marginEnd="@dimen/keyboard_expression_header_search_box_end_icon_margin_end"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

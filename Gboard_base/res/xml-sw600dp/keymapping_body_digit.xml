@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_non_prime_body_right_side" />
+    <keygroup_mapping group_view_id="@id/softkey_holder_digit_tablet_left_part">
+        <keys softkeys_id="@id/softkeys_symbols_digit_tablet_left_part" />
+    </keygroup_mapping>
+    <keygroup_mapping group_view_id="@id/softkey_holder_digit_tablet_right_part">
+        <keys softkeys_id="@id/softkeys_symbols_digit_tablet_right_part" />
+    </keygroup_mapping>
+    <include href="@xml/keymapping_body_digit_digit_area" />
+</framework>

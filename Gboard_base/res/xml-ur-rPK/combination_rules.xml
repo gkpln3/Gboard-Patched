@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rules>
+    <rule>
+        <regex>أ$</regex>
+        <replacement>أ</replacement>
+    </rule>
+    <rule>
+        <regex>ۂ$</regex>
+        <replacement>ۂ</replacement>
+    </rule>
+</rules>

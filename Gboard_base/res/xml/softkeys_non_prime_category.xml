@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/digit_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_digit" layout="@layout/softkey_non_prime_main_category_icon">
+            <action data="digit" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconMainCategoryNumber" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol" layout="@layout/softkey_non_prime_main_category_icon">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconMainCategorySymbol" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/emoji_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_emoji" layout="@layout/softkey_non_prime_main_category_icon">
+            <action data="smiley" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconMainCategorySmiley" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/emoticon_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_emoticon" layout="@layout/softkey_non_prime_main_category_icon">
+            <action data="emoticon" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconMainCategoryEmoticon" />
+        </softkey>
+        <include href="@xml/softkeys_non_prime_category_localized" />
+    </softkeys>
+</framework>

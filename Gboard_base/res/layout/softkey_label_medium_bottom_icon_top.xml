@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/Linear.Vertical">
+        <ImageView android:id="@id/icon" android:layout_weight="600.0" style="@style/Icon.Center.Hint" />
+    </LinearLayout>
+    <com.google.android.libraries.inputmethod.widgets.AutoCenteredLabelView android:id="@id/label_bottom" style="@style/Label.Medium.Bottom" />
+</merge>

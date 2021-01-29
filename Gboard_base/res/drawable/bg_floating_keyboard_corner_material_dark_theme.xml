@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item android:drawable="@drawable/bg_floating_keyboard_corner_pressed_material_dark_theme" android:left="@dimen/floating_keyboard_editing_outer_extended_touch_area" android:top="@dimen/floating_keyboard_editing_outer_extended_touch_area" />
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item android:drawable="@drawable/bg_floating_keyboard_corner_normal_material_dark_theme" android:left="@dimen/floating_keyboard_editing_outer_extended_touch_area" android:top="@dimen/floating_keyboard_editing_outer_extended_touch_area" />
+        </layer-list>
+    </item>
+</selector>

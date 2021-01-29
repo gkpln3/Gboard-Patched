@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/ngaime_clear_view" android:background="@drawable/nga_button_corners_selector" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="40.0dip" android:contentDescription="@string/nga_clear_button_description" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" style="@style/Icon.Center.NoTag"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:layout_width="18.0dip" android:layout_height="18.0dip" android:src="@drawable/quantum_gm_ic_delete_white_24" android:tint="@color/nga_button_icon_color" android:contentDescription="@string/nga_clear_text" />
+    <TextView android:textSize="14.0dip" android:textColor="@color/nga_button_label_color" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/nga_clear_text" android:fontFamily="@font/google_sans_medium" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" />
+</LinearLayout>

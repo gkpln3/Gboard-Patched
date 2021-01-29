@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/HeaderInner.Prime"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="?KeyboardInnerPadding" android:paddingEnd="?KeyboardInnerPadding">
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout android:id="@id/suggestions_strip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.CopyImageSourceView android:id="@id/copy_src" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointsBar app:managed="true" style="@style/AccessPointsBar" />
+                <include layout="@layout/keyboard_header_inner_candidate_view" />
+                <include layout="@layout/scrollable_suggestions_strip_overlay" />
+                <com.google.android.apps.inputmethod.libs.framework.notice.NoticeHolderView android:id="@id/key_pos_header_notice" android:layout_marginStart="?SuggestionsStripHorizontalMargin" android:layout_marginEnd="?SuggestionsStripHorizontalMargin" app:managed="true" style="@style/NoticeHolderView" />
+                <include layout="@layout/proactive_suggestions_header_inner" />
+            </com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout>
+            <Space android:layout_weight="1.0" style="@style/SplitKeyboardSpace" />
+        </LinearLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_header_voice" style="@style/SuggestionStripVoiceIcon.Prime" />
+        <FrameLayout android:id="@id/key_pos_header_action" android:visibility="invisible" android:layout_width="@dimen/suggestions_strip_voice_key_width" style="@style/SuggestionStripVoiceIcon.Prime">
+            <include layout="@layout/proactive_suggestions_pinned_action_holder_view" />
+        </FrameLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_header_access_points_menu" style="@style/SuggestionStripAccessPointsMenuIcon" />
+    </FrameLayout>
+</FrameLayout>

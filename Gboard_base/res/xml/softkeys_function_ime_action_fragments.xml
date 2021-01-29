@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey id="@id/softkey_fragment_action_key_popup_insert_new_line" popup_timing="ON_TOUCH">
+            <action data="\n" keycode="PLAIN_TEXT" popup_icon="@attr/IconEnter" popup_layout="@attr/PopupBubbleActionLayout" type="LONG_PRESS" />
+        </softkey>
+        <softkey id="@id/softkey_fragment_action_key_popup_previous" popup_timing="ON_TOUCH">
+            <action data="previous" keycode="IME_ACTION" popup_icon="@attr/IconPrevious" popup_layout="@attr/PopupBubbleActionLayout" type="LONG_PRESS" />
+        </softkey>
+        <softkey id="@id/softkey_fragment_action_key_popup_next" popup_timing="ON_TOUCH">
+            <action data="next" keycode="IME_ACTION" popup_icon="@attr/IconNext" popup_layout="@attr/PopupBubbleActionLayout" type="LONG_PRESS" />
+        </softkey>
+    </softkeys>
+</framework>

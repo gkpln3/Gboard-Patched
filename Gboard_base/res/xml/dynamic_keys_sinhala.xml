@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>උ</primary_input>
+        <action state="0">උ</action>
+        <action state="0">‌ු</action>
+    </key>
+    <key>
+        <primary_input>අ</primary_input>
+        <action state="0">අ</action>
+    </key>
+    <key>
+        <primary_input>ඇ</primary_input>
+        <action state="0">ඇ</action>
+        <action state="0">ැ</action>
+    </key>
+    <key>
+        <primary_input>ඔ</primary_input>
+        <action state="0">ඔ</action>
+        <action state="0">ො</action>
+        <action state="0">ඕ</action>
+        <action state="0">ෝ</action>
+    </key>
+    <key>
+        <primary_input>ඌ</primary_input>
+        <action state="0">ඌ</action>
+        <action state="0">ූ</action>
+    </key>
+    <key>
+        <primary_input>ආ</primary_input>
+        <action state="0">ආ</action>
+        <action state="0">ා</action>
+    </key>
+    <key>
+        <primary_input>ඈ</primary_input>
+        <action state="0">ඈ</action>
+        <action state="0">ෑ</action>
+    </key>
+    <key>
+        <primary_input>එ</primary_input>
+        <action state="0">එ</action>
+        <action state="0">ෙ</action>
+        <action state="0">ඒ</action>
+        <action state="0">ේ</action>
+    </key>
+    <key>
+        <primary_input>්</primary_input>
+        <action state="0">්</action>
+    </key>
+    <key>
+        <primary_input>ඉ</primary_input>
+        <action state="0">ඉ</action>
+        <action state="0">ි</action>
+    </key>
+    <key>
+        <primary_input>ඍ</primary_input>
+        <action state="0">ඍ</action>
+        <action state="0">ෘ</action>
+        <action state="0">ඎ</action>
+        <action state="0">ෲ</action>
+        <action state="0">ඏ</action>
+        <action state="0">ෟ</action>
+        <action state="0">ඐ</action>
+        <action state="0">ෳ</action>
+    </key>
+    <key>
+        <primary_input>්‍ර</primary_input>
+        <action state="0">්‍ර</action>
+    </key>
+    <key>
+        <primary_input>ං</primary_input>
+        <action state="0">ං</action>
+        <action state="0">ඃ</action>
+    </key>
+    <key>
+        <primary_input>ඊ</primary_input>
+        <action state="0">ඊ</action>
+        <action state="0">ී</action>
+    </key>
+    <key>
+        <primary_input>ඖ</primary_input>
+        <action state="0">ඖ</action>
+        <action state="0">ෞ</action>
+    </key>
+    <key>
+        <primary_input>්‍ය</primary_input>
+        <action state="0">්‍ය</action>
+    </key>
+    <key>
+        <primary_input>ඓ</primary_input>
+        <action state="0">ඓ</action>
+        <action state="0">ෛ</action>
+    </key>
+</dynamic_keys>

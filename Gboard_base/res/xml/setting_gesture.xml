@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_gesture"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="true" android:title="@string/setting_gesture_input_title" android:key="@string/pref_key_enable_gesture_input" android:summary="@string/setting_gesture_input_summary" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_gesture_preview_trail_title" android:key="@string/pref_key_gesture_preview_trail" android:dependency="@string/pref_key_enable_gesture_input" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_scrub_delete_title" android:key="@string/pref_key_enable_scrub_delete" android:summary="@string/setting_scrub_delete_summary" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_scrub_move_title" android:key="@string/pref_key_enable_scrub_move" android:summary="@string/setting_scrub_move_summary" />
+</PreferenceScreen>

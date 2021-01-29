@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="ru" string_id="ime_russian">
+        <if enable_number_row="false">
+            <keyboard_group variant="russian" variant_label="@string/variant_russian">
+                <keyboard def="@xml/keyboard_ru" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group variant="russian_student" variant_label="@string/variant_russian_student">
+                <keyboard def="@xml/keyboard_ru_student" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group variant="russian_yawert" variant_label="@string/variant_russian_yawert">
+                <keyboard def="@xml/keyboard_ru_yawert" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group variant="russian_yazhert" variant_label="@string/variant_russian_yazhert">
+                <keyboard def="@xml/keyboard_ru_yazhert" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="russian" variant_label="@string/variant_russian">
+                <keyboard def="@xml/keyboard_ru" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_11" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="russian_student" variant_label="@string/variant_russian_student">
+                <keyboard def="@xml/keyboard_ru_student" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_11" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="russian_yawert" variant_label="@string/variant_russian_yawert">
+                <keyboard def="@xml/keyboard_ru_yawert" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_11" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="russian_yazhert" variant_label="@string/variant_russian_yazhert">
+                <keyboard def="@xml/keyboard_ru_yazhert" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_11" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+    </ime>
+</framework>

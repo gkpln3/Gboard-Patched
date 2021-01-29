@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/BodyInner.Candidates"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.PageableCandidatesHolderView android:id="@id/softkey_holder_more_candidates" android:layout_weight="@integer/more_candidates_candidates_area_weight" candidate_background="@attr/BgCandidate" candidate_layout="@layout/softkey_candidate" last_column_candidate_background="@attr/BgCandidateLastColumn" max_candidates_per_row="@integer/max_candidates_per_row" row_background="@attr/BgMoreCandidatesHolderRow" row_count="@integer/fullscreen_candidate_page_view_row_count" style="@style/MoreCandidatesHolderView" />
+    <include layout="@layout/keyboard_fullscreen_handwriting_candidates_body_inner_right_panel" />
+</LinearLayout>

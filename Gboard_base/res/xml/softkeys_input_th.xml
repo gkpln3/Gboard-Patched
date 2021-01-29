@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_simple">
+            <softkey id="@id/softkey_solidus" press_data="/" />
+            <softkey id="@id/softkey_low_line" press_data="_" />
+            <softkey id="@id/softkey_thai_character_pho_samphao" press_data="ภ" />
+            <softkey id="@id/softkey_thai_character_tho_thung" press_data="ถ" />
+            <softkey id="@id/softkey_thai_character_kho_khwai" press_data="ค" />
+            <softkey id="@id/softkey_thai_character_to_tao" press_data="ต" />
+            <softkey id="@id/softkey_thai_character_cho_chan" press_data="จ" />
+            <softkey id="@id/softkey_thai_character_kho_khai" press_data="ข" />
+            <softkey id="@id/softkey_thai_character_cho_chang" press_data="ช" />
+            <softkey id="@id/softkey_thai_character_maiyamok" press_data="ๆ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup">
+            <softkey id="@id/softkey_thai_character_sara_uu" press_data="ู" press_label=" ู" />
+            <softkey id="@id/softkey_thai_character_sara_u" press_data="ุ" press_label=" ุ" />
+            <softkey id="@id/softkey_thai_character_sara_ue" press_data="ึ" press_label=" ึ" />
+            <softkey id="@id/softkey_thai_character_nikhahit" press_data="ํ" press_label=" ํ" />
+            <softkey id="@id/softkey_thai_character_mai_tri" press_data="๊" press_label=" ๊" />
+            <softkey id="@id/softkey_thai_character_mai_han_akat" press_data="ั" press_label=" ั" />
+            <softkey id="@id/softkey_thai_character_sara_ii" press_data="ี" press_label=" ี" />
+            <softkey id="@id/softkey_thai_character_maitaikhu" press_data="็" press_label=" ็" />
+            <softkey id="@id/softkey_thai_character_mai_chattawa" press_data="๋" press_label=" ๋" />
+            <softkey id="@id/softkey_thai_character_mai_tho" press_data="้" press_label=" ้" />
+            <softkey id="@id/softkey_thai_character_mai_ek" press_data="่" press_label=" ่" />
+            <softkey id="@id/softkey_thai_character_phinthu" press_data="ฺ" press_label=" ฺ" />
+            <softkey id="@id/softkey_thai_character_thanthakhat" press_data="์" press_label=" ์" />
+            <softkey id="@id/softkey_thai_character_sara_i" press_data="ิ" press_label=" ิ" />
+            <softkey id="@id/softkey_thai_character_sara_uee" press_data="ื" press_label=" ื" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_plus_sign" press_data="+" />
+            <softkey id="@id/softkey_thai_digit_one" press_data="๑" />
+            <softkey id="@id/softkey_thai_digit_two" press_data="๒" />
+            <softkey id="@id/softkey_thai_digit_three" press_data="๓" />
+            <softkey id="@id/softkey_thai_digit_four" press_data="๔" />
+            <softkey id="@id/softkey_thai_currency_symbol_baht" press_data="฿" />
+            <softkey id="@id/softkey_thai_digit_five" press_data="๕" />
+            <softkey id="@id/softkey_thai_digit_six" press_data="๖" />
+            <softkey id="@id/softkey_thai_digit_seven" press_data="๗" />
+            <softkey id="@id/softkey_thai_digit_eight" press_data="๘" />
+            <softkey id="@id/softkey_thai_digit_nine" press_data="๙" />
+            <softkey id="@id/softkey_thai_character_lakkhangyao" press_data="ๅ" />
+            <softkey id="@id/softkey_thai_digit_zero" press_data="๐" />
+            <softkey id="@id/softkey_quot" press_data="&quot;" />
+            <softkey id="@id/softkey_thai_character_do_chada" press_data="ฎ" />
+            <softkey id="@id/softkey_thai_character_tho_nangmontho" press_data="ฑ" />
+            <softkey id="@id/softkey_thai_character_tho_thong" press_data="ธ" />
+            <softkey id="@id/softkey_thai_character_no_nen" press_data="ณ" />
+            <softkey id="@id/softkey_thai_character_paiyannoi" press_data="ฯ" />
+            <softkey id="@id/softkey_thai_character_yo_ying" press_data="ญ" />
+            <softkey id="@id/softkey_thai_character_tho_than" press_data="ฐ" />
+            <softkey id="@id/softkey_thai_character_sara_ai_maimalai" press_data="ไ" />
+            <softkey id="@id/softkey_thai_character_sara_am" press_data="ำ" />
+            <softkey id="@id/softkey_thai_character_pho_phan" press_data="พ" />
+            <softkey id="@id/softkey_thai_character_sara_a" press_data="ะ" />
+            <softkey id="@id/softkey_thai_character_ro_rua" press_data="ร" />
+            <softkey id="@id/softkey_thai_character_no_nu" press_data="น" />
+            <softkey id="@id/softkey_thai_character_yo_yak" press_data="ย" />
+            <softkey id="@id/softkey_thai_character_bo_baimai" press_data="บ" />
+            <softkey id="@id/softkey_thai_character_lo_ling" press_data="ล" />
+            <softkey id="@id/softkey_thai_character_kho_khon" press_data="ฅ" />
+            <softkey id="@id/softkey_thai_character_kho_khuat" press_data="ฃ" />
+            <softkey id="@id/softkey_thai_character_ru" press_data="ฤ" />
+            <softkey id="@id/softkey_thai_character_kho_rakhang" press_data="ฆ" />
+            <softkey id="@id/softkey_thai_character_to_patak" press_data="ฏ" />
+            <softkey id="@id/softkey_thai_character_sara_o" press_data="โ" />
+            <softkey id="@id/softkey_thai_character_cho_choe" press_data="ฌ" />
+            <softkey id="@id/softkey_thai_character_so_rusi" press_data="ษ" />
+            <softkey id="@id/softkey_thai_character_so_sala" press_data="ศ" />
+            <softkey id="@id/softkey_thai_character_so_so" press_data="ซ" />
+            <softkey id="@id/softkey_full_stop" press_data="." />
+            <softkey id="@id/softkey_thai_character_fo_fan" press_data="ฟ" />
+            <softkey id="@id/softkey_thai_character_ho_hip" press_data="ห" />
+            <softkey id="@id/softkey_thai_character_ko_kai" press_data="ก" />
+            <softkey id="@id/softkey_thai_character_do_dek" press_data="ด" />
+            <softkey id="@id/softkey_thai_character_sara_e" press_data="เ" />
+            <softkey id="@id/softkey_thai_character_sara_aa" press_data="า" />
+            <softkey id="@id/softkey_thai_character_so_sua" press_data="ส" />
+            <softkey id="@id/softkey_thai_character_wo_waen" press_data="ว" />
+            <softkey id="@id/softkey_thai_character_ngo_ngu" press_data="ง" />
+            <softkey id="@id/softkey_left_parenthesis" press_data="(" />
+            <softkey id="@id/softkey_right_parenthesis" press_data=")" />
+            <softkey id="@id/softkey_thai_character_cho_ching" press_data="ฉ" />
+            <softkey id="@id/softkey_thai_character_ho_nokhuk" press_data="ฮ" />
+            <softkey id="@id/softkey_question_mark" press_data="\?" />
+            <softkey id="@id/softkey_thai_character_tho_phuthao" press_data="ฒ" />
+            <softkey id="@id/softkey_thai_character_lo_chula" press_data="ฬ" />
+            <softkey id="@id/softkey_thai_character_lu" press_data="ฦ" />
+            <softkey id="@id/softkey_thai_character_pho_phung" press_data="ผ" />
+            <softkey id="@id/softkey_thai_character_po_pla" press_data="ป" />
+            <softkey id="@id/softkey_thai_character_sara_ae" press_data="แ" />
+            <softkey id="@id/softkey_thai_character_o_ang" press_data="อ" />
+            <softkey id="@id/softkey_thai_character_tho_thahan" press_data="ท" />
+            <softkey id="@id/softkey_thai_character_mo_ma" press_data="ม" />
+            <softkey id="@id/softkey_thai_character_sara_ai_maimuan" press_data="ใ" />
+            <softkey id="@id/softkey_thai_character_fo_fa" press_data="ฝ" />
+        </softkey_list>
+    </softkeys>
+</framework>

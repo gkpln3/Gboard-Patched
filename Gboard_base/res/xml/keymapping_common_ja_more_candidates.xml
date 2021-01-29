@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_show_more_candidates_foreground" view_id="@id/key_pos_more_candidates_foreground" />
+        <mapping key_id="@id/softkey_more_candidates_background_scrolled_enough" view_id="@id/key_pos_more_candidates_background" />
+    </key_mapping>
+    <key_mapping state="MORE_CANDIDATES_SHOWN">
+        <mapping key_id="@id/softkey_hide_more_candidates_foreground" view_id="@id/key_pos_more_candidates_foreground" />
+    </key_mapping>
+    <key_mapping state="FIRST_PAGE">
+        <mapping key_id="@id/softkey_more_candidates_background_default" view_id="@id/key_pos_more_candidates_background" />
+    </key_mapping>
+</framework>

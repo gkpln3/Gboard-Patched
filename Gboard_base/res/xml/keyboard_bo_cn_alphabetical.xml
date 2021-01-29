@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_bo_cn_alphabetical">
+        <view layout="@layout/keyboard_latin_12_12_12_body" type="body">
+            <softkeys href="@xml/softkeys_input_tibetan" />
+            <include href="@xml/keymapping_tibetan_alphabetical" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup_autosized_label_with_emoji_hint" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_fragment_secondary_symbols" />
+</framework>

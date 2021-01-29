@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_secondary_symbols="true">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_superscript_commercial_at" view_id="@id/key_pos_1_1" />
+            <merge key_id="@id/softkey_fragment_superscript_number_sign" view_id="@id/key_pos_1_2" />
+            <merge key_id="@id/softkey_fragment_superscript_baht" view_id="@id/key_pos_1_3" />
+            <merge key_id="@id/softkey_fragment_superscript_low_line" view_id="@id/key_pos_1_4" />
+            <merge key_id="@id/softkey_fragment_superscript_amp" view_id="@id/key_pos_1_7" />
+            <merge key_id="@id/softkey_fragment_superscript_hyphen_minus" view_id="@id/key_pos_1_8" />
+            <merge key_id="@id/softkey_fragment_superscript_plus_sign" view_id="@id/key_pos_1_9" />
+            <merge key_id="@id/softkey_fragment_superscript_left_parenthesis" view_id="@id/key_pos_1_10" />
+            <merge key_id="@id/softkey_fragment_superscript_right_parenthesis" view_id="@id/key_pos_1_11" />
+            <merge key_id="@id/softkey_fragment_superscript_slash" view_id="@id/key_pos_1_12" />
+            <merge key_id="@id/softkey_fragment_superscript_reverse_solidus" view_id="@id/key_pos_2_0" />
+            <merge key_id="@id/softkey_fragment_superscript_percent_sign" view_id="@id/key_pos_2_1" />
+            <merge key_id="@id/softkey_fragment_superscript_asterisk" view_id="@id/key_pos_2_2" />
+            <merge key_id="@id/softkey_fragment_superscript_quot" view_id="@id/key_pos_2_3" />
+            <merge key_id="@id/softkey_fragment_superscript_apostrophe" view_id="@id/key_pos_2_4" />
+            <merge key_id="@id/softkey_fragment_superscript_colon" view_id="@id/key_pos_2_7" />
+            <merge key_id="@id/softkey_fragment_superscript_semicolon" view_id="@id/key_pos_2_8" />
+            <merge key_id="@id/softkey_fragment_superscript_exclamation_mark" view_id="@id/key_pos_2_9" />
+            <merge key_id="@id/softkey_fragment_superscript_question_mark" view_id="@id/key_pos_2_10" />
+            <merge key_id="@id/softkey_fragment_superscript_left_square_bracket" view_id="@id/key_pos_3_1" />
+            <merge key_id="@id/softkey_fragment_superscript_right_square_bracket" view_id="@id/key_pos_3_2" />
+            <merge key_id="@id/softkey_fragment_superscript_left_curly_bracket" view_id="@id/key_pos_3_3" />
+            <merge key_id="@id/softkey_fragment_superscript_right_curly_bracket" view_id="@id/key_pos_3_4" />
+            <merge key_id="@id/softkey_fragment_superscript_tilde" view_id="@id/key_pos_3_7" />
+            <merge key_id="@id/softkey_fragment_superscript_grave_accent" view_id="@id/key_pos_3_8" />
+            <merge key_id="@id/softkey_fragment_superscript_less_than" view_id="@id/key_pos_3_9" />
+            <merge key_id="@id/softkey_fragment_superscript_more_than" view_id="@id/key_pos_3_10" />
+        </merge_key_mapping>
+    </if>
+</framework>

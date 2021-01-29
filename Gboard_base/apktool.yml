@@ -1,0 +1,124 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Gboard_base.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/services/com.fasterxml.jackson.core.JsonFactory
+- META-INF/services/com.google.android.libraries.inputmethod.module.IModuleProvider
+- META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader
+- assets/emoji_search_en_us.zip
+- assets/empty_asset_generated_by_bazel~
+- gif
+- assets/phenotype/com_google_android_gms_learning_package_metadata.binarypb
+- assets/phenotype/com_google_android_libraries_consentverifier_package_metadata.binarypb
+- assets/theme/style_sheet_color_black_border.binarypb
+- assets/theme/style_sheet_color_blue_border.binarypb
+- assets/theme/style_sheet_color_blue_grey_border.binarypb
+- assets/theme/style_sheet_color_brown_border.binarypb
+- assets/theme/style_sheet_color_cyan_border.binarypb
+- assets/theme/style_sheet_color_deep_purple_border.binarypb
+- assets/theme/style_sheet_color_deep_purple_override.binarypb
+- assets/theme/style_sheet_color_green_border.binarypb
+- assets/theme/style_sheet_color_light_pink_border.binarypb
+- assets/theme/style_sheet_color_pink_border.binarypb
+- assets/theme/style_sheet_color_red_border.binarypb
+- assets/theme/style_sheet_color_teal_border.binarypb
+- assets/theme/style_sheet_default_sw400.binarypb
+- assets/theme/style_sheet_default_sw600.binarypb
+- assets/theme/style_sheet_default_sw768.binarypb
+- assets/theme/style_sheet_google_blue_dark_border.binarypb
+- assets/theme/style_sheet_google_blue_light_border.binarypb
+- assets/theme/style_sheet_holo_blue_border.binarypb
+- assets/theme/style_sheet_holo_white_border.binarypb
+- assets/theme/theme_package_metadata_no_background.binarypb
+- lib/arm64-v8a/libexpressive_concepts_model_less_predictor_jni_native.so
+- lib/arm64-v8a/libintegrated_shared_object.so
+- lib/arm64-v8a/libogg_opus_encoder.so
+- lib/arm64-v8a/libtensorflow_jni.so
+- res/-1O.webp
+- png
+- res/-rQ.webp
+- res/0gC.webp
+- res/2n_.webp
+- res/36t.webp
+- res/548.webp
+- res/5Fb.binarypb
+- res/7uw.webp
+- res/84E.webp
+- res/B0w.binarypb
+- res/B4j.webp
+- res/Bt4.webp
+- res/ChG.webp
+- res/ClC.webp
+- res/ET5.webp
+- res/HDS.webp
+- res/HMl.webp
+- res/Hnz.webp
+- res/IrA.webp
+- res/K7w.webp
+- res/KyN.webp
+- res/Lum.webp
+- res/PxR.dict
+- res/RlO.webp
+- res/S-m.webp
+- res/U6P.webp
+- res/U76.webp
+- res/Uht.webp
+- res/VKS.webp
+- res/Vbr.webp
+- res/VrR.webp
+- res/WLH.webp
+- res/Wbu.webp
+- res/X0a.webp
+- res/XMV.webp
+- res/XyT.webp
+- res/Yyz.webp
+- res/_K2.webp
+- jpg
+- res/bSV.webp
+- res/bYp.webp
+- res/b_h.webp
+- res/ck_.webp
+- res/fjC.webp
+- res/g6T.webp
+- res/gGs.webp
+- res/kk1.webp
+- res/lrk.webp
+- res/niu.webp
+- res/pOG.webp
+- res/pp2.webp
+- res/rlB.webp
+- res/sKo.webp
+- wav
+- res/t4_.webp
+- res/tTG.webp
+- res/uPc.webp
+- res/uYL.webp
+- res/v4n.webp
+- res/vV2.webp
+- res/wjs.webp
+- res/zOE.webp
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: "com.google.android.inputmethod.latinguyk"
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  LICENSE_OFL: '0'
+  LICENSE_UNICODE: '0'
+  stamp-cert-sha256: '8'
+  com/google/android/libraries/micore/learning/testing/grpctestchannel/CAcert.pem: '0'
+  com/google/api/client/repackaged/org/apache/commons/codec/language/dmrules.txt: '0'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '38012354'
+  versionName: 9.8.06.328163918-release-arm64-v8a

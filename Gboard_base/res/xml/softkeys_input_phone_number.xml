@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkeys_punctuation_number" />
+    <include href="@xml/softkeys_input_phone_number_digits" />
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_light_label" layout="@layout/softkey_label_digit" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$press_data$" keycode="$keycode$" type="PRESS" />
+            <label location="@id/label" value="$press_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_light_label">
+            <softkey id="@id/softkey_phone_numbers_left_bracket" keycode="PLAIN_TEXT" press_data="(" />
+            <softkey id="@id/softkey_phone_numbers_slash" keycode="SLASH" press_data="/" />
+            <softkey id="@id/softkey_phone_numbers_right_bracket" keycode="PLAIN_TEXT" press_data=")" />
+            <softkey id="@id/softkey_phone_numbers_n" keycode="PLAIN_TEXT" press_data="N" />
+            <softkey id="@id/softkey_phone_numbers_asterisk" keycode="STAR" press_data="*" />
+            <softkey id="@id/softkey_phone_numbers_pound" keycode="POUND" press_data="\#" />
+            <softkey id="@id/softkey_phone_numbers_minus" keycode="MINUS" press_data="-" />
+            <softkey desc="@string/plus_key_content_desc" id="@id/softkey_phone_numbers_add" keycode="PLUS" press_data="+" />
+        </softkey_list>
+        <softkey id="@id/softkey_phone_numbers_pause" layout="@layout/softkey_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="," keycode="COMMA" popup_label="," type="PRESS" />
+            <label location="@id/label" value="@string/label_pause_key" />
+        </softkey>
+        <softkey id="@id/softkey_phone_numbers_wait" layout="@layout/softkey_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data=";" keycode="SEMICOLON" popup_label=";" type="PRESS" />
+            <label location="@id/label" value="@string/label_wait_key" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" id="@id/softkey_phone_numbers_symbols" layout="@layout/softkey_label_medium">
+            <action keycode="LOCK_SHIFT" type="PRESS" />
+            <label location="@id/label" value="* #" />
+        </softkey>
+        <softkey content_description="@string/phone_keyboard_key_content_desc" id="@id/softkey_phone_numbers_123" layout="@layout/softkey_label_medium">
+            <action keycode="UNLOCK_SHIFT" type="PRESS" />
+            <label location="@id/label" value="123" />
+        </softkey>
+    </softkeys>
+</framework>

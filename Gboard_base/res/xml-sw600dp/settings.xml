@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_tune_vd_theme_24" android:persistent="false" android:title="@string/setting_preferences" android:key="@string/pref_key_settings_header_preferences" android:fragment="com.google.android.libraries.inputmethod.preferencewidgets.CommonPreferenceFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_preferences" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_language_vd_theme_24" android:persistent="false" android:maxLines="2" android:title="@string/setting_languages" android:key="@string/pref_key_settings_header_language" android:fragment="com.google.android.apps.inputmethod.libs.languageselection.preference.LanguageSettingFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_languages" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_palette_vd_theme_24" android:persistent="false" android:title="@string/setting_theme" android:key="@string/pref_key_settings_header_theme" android:fragment="com.google.android.apps.inputmethod.libs.theme.listing.preferencev2.ThemeListingFragment" />
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_spellcheck_vd_theme_24" android:persistent="false" android:title="@string/setting_correction" android:key="@string/pref_key_settings_header_correction" android:fragment="com.google.android.libraries.inputmethod.preferencewidgets.CommonPreferenceFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_correction" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_gesture_vd_theme_24" android:persistent="false" android:title="@string/setting_gesture" android:key="@string/pref_key_settings_header_gesture" android:fragment="com.google.android.apps.inputmethod.latinguyk.preference.GesturePreferenceSettingsFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_gesture" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_mic_vd_theme_24" android:persistent="false" android:title="@string/setting_voice_typing" android:key="@string/pref_key_settings_header_unified_ime" android:fragment="com.google.android.apps.inputmethod.latinguyk.preference.S3UnifiedImeSettingsFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_voice" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_chrome_reader_mode_vd_theme_24" android:persistent="false" android:title="@string/setting_dictionary" android:key="@string/pref_key_settings_header_dictionary" android:fragment="com.google.android.apps.inputmethod.latinguyk.preference.LatinDictionarySettingsFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_dictionary" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_search_vd_theme_24" android:persistent="false" android:title="@string/setting_search" android:key="@string/pref_key_settings_header_search" android:fragment="com.google.android.libraries.inputmethod.preferencewidgets.CommonPreferenceFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_search" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_share_vd_theme_24" android:persistent="false" android:title="@string/setting_sharing" android:key="@string/pref_key_settings_header_sharing" />
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_more_horiz_vd_theme_24" android:persistent="false" android:title="@string/setting_advanced" android:key="@string/pref_key_settings_header_advanced" android:fragment="com.google.android.apps.inputmethod.latinguyk.preference.AdvancedSettingsFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_advanced" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/quantum_gm_ic_star_vd_theme_24" android:persistent="false" android:title="@string/setting_rate_us" android:key="@string/pref_key_settings_header_rate_us" />
+</PreferenceScreen>

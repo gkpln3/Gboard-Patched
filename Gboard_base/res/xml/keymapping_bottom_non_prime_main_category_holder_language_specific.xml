@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if language="ar-EG|ar-MA                 |az-IR                 |doi-Arab                 |fa|prs-AF                 |khw                 |ks-Arab                 |ku-IQ|ku-IR                 |pa-PK                 |ps                 |sd-Arab                 |trw                 |ur-IN|ur-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_non_prime_symbol_1" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_non_prime_symbol_2" />
+        </key_mapping>
+    </if>
+    <if language="bo-CN" variant="tibetan_alphabetical">
+        <key_mapping>
+            <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_non_prime_symbol_1" />
+        </key_mapping>
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_left_parenthesis" view_id="@id/key_pos_non_prime_symbol_1" />
+            <mapping key_id="@id/softkey_right_parenthesis" view_id="@id/key_pos_non_prime_symbol_2" />
+        </key_mapping>
+    </if>
+    <if language="dz">
+        <key_mapping>
+            <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_non_prime_symbol_1" />
+        </key_mapping>
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_left_parenthesis" view_id="@id/key_pos_non_prime_symbol_1" />
+            <mapping key_id="@id/softkey_right_parenthesis" view_id="@id/key_pos_non_prime_symbol_2" />
+        </key_mapping>
+    </if>
+</framework>

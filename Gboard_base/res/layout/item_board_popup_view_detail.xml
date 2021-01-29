@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="5.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:id="@id/item_board_popup_content" style="@style/PopupItemBoardContentV2" />
+    <ImageView android:id="@id/item_board_popup_image_content" android:visibility="invisible" style="@style/PopupItemBoardImageContent" />
+</FrameLayout>

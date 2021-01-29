@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_rules>
+    <rule>
+        <pattern></pattern>
+        <label></label>
+        <replacement></replacement>
+        <input_text></input_text>
+    </rule>
+    <rule>
+        <pattern></pattern>
+        <label></label>
+        <replacement></replacement>
+        <input_text></input_text>
+    </rule>
+    <rule>
+        <pattern></pattern>
+        <label></label>
+        <replacement></replacement>
+        <input_text></input_text>
+    </rule>
+    <rule>
+        <pattern>´</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+</dynamic_rules>

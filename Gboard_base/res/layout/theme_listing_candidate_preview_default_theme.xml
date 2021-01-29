@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:tag=".keyboard-base-area" android:background="?BgKeyboardArea" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:tag=".keyboard-background.for-preview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="@integer/theme_listing_candidate_height">
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="@integer/theme_listing_candidate_header_height" style="@style/Header" />
+        <View android:tag=".keyboard-body-area.for-preview" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="@integer/theme_listing_candidate_body_height" style="@style/Body" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="92.0">
+        <Space android:layout_weight="33.0" style="@style/CandidateVerticalView" />
+        <View android:id="@id/theme_listing_candidate_body_dark" android:tag="" android:background="@drawable/theme_listing_default_theme_rounded_corners" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="59.0" style="@style/Body" />
+    </LinearLayout>
+    <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="bottom" android:id="@id/theme_listing_candidate_preview_default_theme_text" android:background="#44000000" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <include layout="@layout/theme_listing_item_loading_indicator" />
+</FrameLayout>

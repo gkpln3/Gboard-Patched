@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if language="cs">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="da">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="de-DE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="de-CH">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="et-EE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="hu">
+        <key_mapping>
+            <mapping key_id="@id/softkey_croatian_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="hr">
+        <key_mapping>
+            <mapping key_id="@id/softkey_croatian_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="is">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="kl">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="lt">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="lv">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="nb|nn-NO">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="nl-NL">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="nl-BE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="pl">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="ro-RO">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="se-NO">
+        <key_mapping>
+            <mapping key_id="@id/softkey_sami_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="sk">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="sl">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="srp-Latn-ME|sr-Latn-RS">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="sv-SE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_swedish_apostrophe" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+</framework>

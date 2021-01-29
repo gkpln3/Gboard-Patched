@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_canadian_syllabics_glottal_stop" long_press_data="ᐟ,ᐦ" press_data="ᐞ" />
+            <softkey id="@id/softkey_canadian_syllabics_p" press_data="ᑉ" />
+            <softkey id="@id/softkey_canadian_syllabics_t" press_data="ᑦ" />
+            <softkey id="@id/softkey_canadian_syllabics_k" long_press_data="᙭" press_data="ᒃ" />
+            <softkey id="@id/softkey_canadian_syllabics_c" press_data="ᒡ" />
+            <softkey id="@id/softkey_canadian_syllabics_m" press_data="ᒻ" />
+            <softkey id="@id/softkey_canadian_syllabics_n" press_data="ᓐ" />
+            <softkey id="@id/softkey_canadian_syllabics_s" press_data="ᔅ" />
+            <softkey id="@id/softkey_canadian_syllabics_nunavik_h" press_data="ᕻ" />
+            <softkey id="@id/softkey_canadian_syllabics_nunavut_h" press_data="ᕼ" />
+            <softkey id="@id/softkey_canadian_syllabics_l" press_data="ᓪ" />
+            <softkey id="@id/softkey_canadian_syllabics_y" press_data="ᔾ" />
+            <softkey id="@id/softkey_canadian_syllabics_f" press_data="ᕝ" />
+            <softkey id="@id/softkey_canadian_syllabics_r" long_press_data="ᕃ" press_data="ᕐ" />
+            <softkey id="@id/softkey_canadian_syllabics_q" press_data="ᖅ" />
+            <softkey id="@id/softkey_canadian_syllabics_ng" press_data="ᖕ" />
+            <softkey id="@id/softkey_canadian_syllabics_nng" press_data="ᖖ" />
+            <softkey id="@id/softkey_canadian_syllabics_lh" press_data="ᖦ" />
+            <softkey id="@id/softkey_canadian_syllabics_th_cree_th" press_data="ᖮ" />
+            <softkey id="@id/softkey_canadian_syllabics_aivilik_b" press_data="ᖯ" />
+            <softkey id="@id/softkey_apostrophe" long_press_data="‚,‘,’,‹,›" press_data="'" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_canadian_syllabics_e" long_press_data="ᐁ‌‌‌" long_press_label="ᐁ" press_data="ᐁ" press_label="ᐁ" />
+            <softkey id="@id/softkey_canadian_syllabics_aai" long_press_data="ᐂ‌‌‌" long_press_label="ᐂ" press_data="ᐂ" press_label="ᐂ" />
+            <softkey id="@id/softkey_canadian_syllabics_i" long_press_data="ᐃ‌‌‌" long_press_label="ᐃ" press_data="ᐃ" press_label="ᐃ" />
+            <softkey id="@id/softkey_canadian_syllabics_ii" long_press_data="ᐄ‌‌‌" long_press_label="ᐄ" press_data="ᐄ" press_label="ᐄ" />
+            <softkey id="@id/softkey_canadian_syllabics_o" long_press_data="ᐅ‌‌‌" long_press_label="ᐅ" press_data="ᐅ" press_label="ᐅ" />
+            <softkey id="@id/softkey_canadian_syllabics_oo" long_press_data="ᐆ‌‌‌" long_press_label="ᐆ" press_data="ᐆ" press_label="ᐆ" />
+            <softkey id="@id/softkey_canadian_syllabics_a" long_press_data="ᐊ‌‌‌" long_press_label="ᐊ" press_data="ᐊ" press_label="ᐊ" />
+            <softkey id="@id/softkey_canadian_syllabics_aa" long_press_data="ᐋ‌‌‌" long_press_label="ᐋ" press_data="ᐋ" press_label="ᐋ" />
+        </softkey_list>
+    </softkeys>
+</framework>

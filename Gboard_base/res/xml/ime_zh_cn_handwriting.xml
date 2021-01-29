@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" auto_capital="false" class="com.google.android.libraries.inputmethod.ime.experiment.ExperimentImeWrapper" display_app_completions="true" language="zh-CN" language_specific_settings="@xml/zh_cn_language_settings" string_id="ime_zh_cn_handwriting" supports_one_handed_mode="false" use_ascii_password_keyboard="true">
+        <keyboard_group variant="handwriting" variant_label="@string/variant_handwriting">
+            <layout_specific_settings resource_id="@xml/zh_hw_layout_settings" />
+            <keyboard def="@xml/keyboard_handwriting_cj" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_has_more_candidates_view" value="true" />
+            <item id="@id/extra_value_space_label" value="@string/label_space_handwriting_zh_cn" />
+            <item id="@id/extra_value_period" value="。" />
+            <item id="@id/extra_value_enable_double_space_period_pref_key" value="@string/pref_key_enable_double_space_period" />
+            <item id="@id/extra_value_metrics_processors" value="hmm" />
+            <item id="@id/extra_value_experiment_ime_flag" value="@string/hmm_lstm_handwriting" />
+            <item id="@id/extra_value_ime_class_when_enabled" value="com.google.android.apps.inputmethod.libs.hmmhandwriting.HmmHandwritingIme" />
+            <item id="@id/extra_value_ime_class_when_disabled" value="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" />
+        </extra_values>
+        <processors>
+            <if enable_voice_in_chinese="true">
+                <processor class="com.google.android.apps.inputmethod.libs.hmmvoice.ChineseHmmVoiceInputProcessor" id="@id/ime_hmm_voice_input_processor" />
+            </if>
+            <processor class="com.google.android.apps.inputmethod.libs.pinyin.PinyinHmmHandwritingDecodeProcessor" id="@id/ime_decode_processor" />
+            <processor class="com.google.android.apps.inputmethod.libs.chinese.ime.hmm.ChineseDoubleSpaceProcessor" id="@id/ime_double_space_processor" />
+            <processor class="com.google.android.libraries.inputmethod.ime.processor.ScrubMoveProcessor" id="@id/ime_scrub_move_processor" />
+            <processor class="com.google.android.libraries.inputmethod.ime.processor.OutputProcessor" id="@id/ime_output_processor" />
+        </processors>
+    </ime>
+</framework>

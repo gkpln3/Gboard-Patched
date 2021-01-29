@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>ᐁ</primary_input>
+        <action state="0">ᐁ</action>
+        <action state="0">ᐁ‌‌‌</action>
+    </key>
+    <key>
+        <primary_input>ᐂ</primary_input>
+        <action state="0">ᐂ</action>
+        <action state="0">ᐂ‌‌‌</action>
+    </key>
+    <key>
+        <primary_input>ᐃ</primary_input>
+        <action state="0">ᐃ</action>
+        <action state="0">ᐃ‌‌‌</action>
+    </key>
+    <key>
+        <primary_input>ᐄ</primary_input>
+        <action state="0">ᐄ</action>
+        <action state="0">ᐄ‌‌‌</action>
+    </key>
+    <key>
+        <primary_input>ᐅ</primary_input>
+        <action state="0">ᐅ</action>
+        <action state="0">ᐅ‌‌‌</action>
+    </key>
+    <key>
+        <primary_input>ᐆ</primary_input>
+        <action state="0">ᐆ</action>
+        <action state="0">ᐆ‌‌‌</action>
+    </key>
+    <key>
+        <primary_input>ᐊ</primary_input>
+        <action state="0">ᐊ</action>
+        <action state="0">ᐊ‌‌‌</action>
+    </key>
+    <key>
+        <primary_input>ᐋ</primary_input>
+        <action state="0">ᐋ</action>
+        <action state="0">ᐋ‌‌‌</action>
+    </key>
+</dynamic_keys>

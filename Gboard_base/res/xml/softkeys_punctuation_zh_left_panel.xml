@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_9key_left_panel" layout="@layout/softkey_9key_side_panel_label" popup_timing="ON_TOUCH">
+            <action data="$press_data$" intention="$press_intention=COMMIT$" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/label" value="$press_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_9key_left_panel">
+            <softkey desc="@string/ellipsis_key_content_desc" id="@id/softkey_ellipsis_zh_left_panel" press_data="…" />
+            <softkey desc="@string/full_width_tilde_key_content_desc" id="@id/softkey_wave_zh_left_panel" press_data="～" />
+            <softkey desc="@string/full_width_question_mark_key_content_desc" id="@id/softkey_question_zh_left_panel" press_data="？" />
+            <softkey desc="@string/full_width_exclamation_key_content_desc" id="@id/softkey_exclamation_zh_left_panel" press_data="！" />
+            <softkey desc="@string/full_width_semicolon_key_content_desc" id="@id/softkey_semicolon_zh_left_panel" press_data="；" />
+            <softkey desc="@string/full_width_colon_key_content_desc" id="@id/softkey_colon_zh_left_panel" press_data="：" />
+            <softkey id="@id/softkey_minus" press_data="-" />
+            <softkey id="@id/softkey_at" press_data="\@" />
+            <softkey id="@id/softkey_quote" press_data="&quot;" press_intention="DECODE" />
+            <softkey id="@id/softkey_percent" press_data="%" />
+            <softkey id="@id/softkey_slash" press_data="/" />
+        </softkey_list>
+    </softkeys>
+</framework>

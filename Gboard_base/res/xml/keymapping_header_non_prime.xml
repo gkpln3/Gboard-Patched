@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_voice" view_id="@id/key_pos_header_voice" />
+    </key_mapping>
+    <key_mapping state="EMPTY_MICROPHONE">
+        <mapping key_id="@id/softkey_empty_mic" view_id="@id/key_pos_header_voice" />
+    </key_mapping>
+    <key_mapping state="DISABLED_MICROPHONE">
+        <mapping key_id="@id/softkey_disabled_mic" view_id="@id/key_pos_header_voice" />
+    </key_mapping>
+    <key_mapping state="NO_MICROPHONE">
+        <mapping key_id="@id/softkey_empty" view_id="@id/key_pos_header_voice" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.gms.learning</configuration-package>
+        <log-sources>
+            <log-source>BRELLA</log-source>
+            <log-source>BRELLA_COUNTERS</log-source>
+        </log-sources>
+        <auto-subpackage>true</auto-subpackage>
+        <configuration-version>35000</configuration-version>
+    </phenotype-registration>
+</phenotype-registrations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/text_size_ja_label_twelvekeys_alphabet_10_arrow" android:visibility="visible" android:text="⇔" style="@style/Label" />
+    <TextView android:textSize="@dimen/text_size_ja_label_twelvekeys_alphabet" android:visibility="visible" android:layout_marginRight="@dimen/label_margin_twelvekeys_alphabet_10_left" android:text="a" style="@style/Label" />
+    <TextView android:textSize="@dimen/text_size_ja_label_twelvekeys_alphabet" android:visibility="visible" android:layout_marginLeft="@dimen/label_margin_twelvekeys_alphabet_10_right" android:text="A" style="@style/Label" />
+</FrameLayout>

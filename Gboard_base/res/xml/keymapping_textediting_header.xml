@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_close_textediting" view_id="@id/key_pos_textediting_back_to_prime" />
+    </key_mapping>
+    <key_mapping state="EMOJI_AVAILABLE">
+        <mapping key_id="@id/softkey_close_textediting_rtl" view_id="@id/key_pos_textediting_back_to_prime" />
+    </key_mapping>
+</framework>

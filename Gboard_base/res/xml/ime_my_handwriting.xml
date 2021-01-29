@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if burmese_zawgyi="false">
+        <ime always_show_suggestions="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.handwriting.ime.HandwritingIme" display_app_completions="true" language="my" string_id="ime_my_handwriting" use_ascii_password_keyboard="true">
+            <keyboard_group variant="handwriting" variant_label="@string/variant_handwriting">
+                <layout_specific_settings resource_id="@xml/hw_layout_settings" />
+                <keyboard def="@xml/keyboard_handwriting" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </ime>
+    </if>
+</framework>

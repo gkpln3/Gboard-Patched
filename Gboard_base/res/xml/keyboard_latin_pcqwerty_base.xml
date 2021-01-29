@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_pcqwerty">
+        <view layout="@layout/keyboard_latin_pcqwerty_body" type="body">
+            <softkeys href="@xml/softkeys_input_pcqwerty_additional" />
+            <include href="@xml/keymapping_pcqwerty" />
+            <include href="@xml/keymapping_function_shift_right" />
+        </view>
+    </keyboard>
+</framework>

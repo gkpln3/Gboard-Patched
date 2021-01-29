@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_tai_viet_letter_low_ko" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_kho" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_khho" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_go" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_ngo" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_tai_viet_mai_kang" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_aa" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_i" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_ue" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_u" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_co" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_cho" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_so" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_nyo" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_tai_viet_symbol_kon" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_e" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_o" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_tai_viet_mai_khit" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_ia" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_uea" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_do" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_to" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_tho" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_no" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_tai_viet_symbol_nueng" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_ua" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_aue" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_ay" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_an" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_tai_viet_vowel_am" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_bo" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_po" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_pho" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_fo" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_mo" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_tai_viet_tone_mai_ek" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_tai_viet_tone_mai_nueng" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_tai_viet_tone_mai_tho" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_tai_viet_tone_mai_song" view_id="@id/key_pos_3_8" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_yo" view_id="@id/key_pos_4_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_ro" view_id="@id/key_pos_4_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_lo" view_id="@id/key_pos_4_3" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_vo" view_id="@id/key_pos_4_4" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_ho" view_id="@id/key_pos_4_5" />
+        <mapping key_id="@id/softkey_tai_viet_letter_low_o" view_id="@id/key_pos_4_6" />
+        <mapping key_id="@id/softkey_tai_viet_symbol_sam" view_id="@id/key_pos_4_7" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_tai_viet_letter_high_ko" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_kho" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_khho" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_go" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_ngo" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_co" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_cho" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_so" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_nyo" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_do" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_to" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_tho" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_no" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_bo" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_po" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_pho" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_fo" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_mo" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_yo" view_id="@id/key_pos_4_1" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_ro" view_id="@id/key_pos_4_2" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_lo" view_id="@id/key_pos_4_3" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_vo" view_id="@id/key_pos_4_4" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_ho" view_id="@id/key_pos_4_5" />
+        <mapping key_id="@id/softkey_tai_viet_letter_high_o" view_id="@id/key_pos_4_6" />
+    </key_mapping>
+</framework>

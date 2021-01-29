@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" app:managed="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.ScrollableCandidatesHolderView android:id="@id/scrollable_suggestion_strip" android:layout_width="fill_parent" android:layout_height="fill_parent" app:firstAndLastPadding="@dimen/keyboard_header_height" candidate_background="@attr/BgCandidate" candidate_layout="@layout/latin_softkey_candidate_scrollable" />
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.CopyImageView android:layout_gravity="right" android:id="@id/right_underlay" android:layout_width="@dimen/keyboard_header_height" android:layout_height="fill_parent" app:copySource="@id/copy_src" app:mask="@drawable/mask_gradient_right" app:viewAlpha="0.85" />
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.CopyImageView android:layout_gravity="left" android:id="@id/left_underlay" android:layout_width="@dimen/keyboard_header_height" android:layout_height="fill_parent" app:copySource="@id/copy_src" app:mask="@drawable/mask_gradient_left" app:viewAlpha="0.85" />
+</FrameLayout>

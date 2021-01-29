@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/imageView" android:layout_width="@dimen/attribute_enum_image_small_width" android:layout_height="@dimen/attribute_enum_image_small_height" android:layout_margin="@dimen/attribute_enum_image_margin" android:foreground="?android:selectableItemBackground" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/imageViewProgressBar" android:visibility="gone" android:layout_width="@dimen/attribute_enum_image_small_width" android:layout_height="@dimen/attribute_enum_image_small_height" android:layout_margin="@dimen/attribute_enum_image_margin" android:foreground="?android:selectableItemBackground" android:indeterminate="true" style="?android:progressBarStyleSmall" />
+</FrameLayout>

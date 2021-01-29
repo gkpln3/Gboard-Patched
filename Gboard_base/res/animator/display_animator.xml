@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animator android:duration="200" android:valueFrom="0" android:valueTo="@dimen/voiceime_banner_height" android:valueType="intType"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

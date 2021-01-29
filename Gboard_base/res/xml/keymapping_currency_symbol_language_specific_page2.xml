@@ -1,0 +1,3117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if language="ab-GE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_lari_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="abr-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="act-NL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ada-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="adx-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ady-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ahr-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ak-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ak-x-akuapem">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ak-x-asante">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="an-ES">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="anp-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="anw-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ar-AE|ar-BH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_rial" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ar-OM|ar-SA|ar-YE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ar-x-levant">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_new_sheqel" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_turkish_lira" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="as">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <if variant="assamese">
+                <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_3" />
+            </if>
+            <else>
+                <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+            </else>
+        </key_mapping>
+    </if>
+    <if language="ast-ES">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="av-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_tenge_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_manat_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_lari_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="awa-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="az-AZ">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="az-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="az-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_lari_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ba">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bal-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bar-AT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bcc-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bcl-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="be-BY">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bft-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bfy-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bfz-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bgc-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bgn-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bgp-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bgq-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bgq-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bgx-TR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bhb-Deva">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bhb-Gujr">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_gujarati_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bho-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bin-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bjj-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bku-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="blt">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_baht" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_kip" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bns-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bn-BD" variant="bengali_bangladesh|handwriting">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bn-BD" variant="qwerty">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bn-IN|bn-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bom-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bpr-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bpy-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bqi-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="br-FR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="brh">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_afghani_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_rial" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="brx-Latn|brx-Deva">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="brx-Beng" variant="bodo_bengali_dynamic">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bto-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bud-TG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cedi_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bxm-MN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="bxr-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ca">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cbk-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ccp-BD">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cdo-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ce-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ceb">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cja">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_dong" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cjm">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cld-IQ">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_rial" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cnh-MM">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cnr-Latn-ME|cnr-Cyrl-ME">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="co">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cps-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="crh-Cyrl|crh-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_russian_ruble_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_hryvnia" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_turkish_lira" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ctg-BD">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cu-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cv-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cy">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="cyo-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="dag-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="dar-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="dcc-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="de|de-AT|de-BE|de-LU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="de-CH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="dga-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="dhd-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="diq-TR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="dng-KG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_tenge_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="doi-Latn|doi-Deva|doi-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="doi-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="drt-NL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="dsb-DE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="dty-NP">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ee">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_naira" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="efi-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="egl-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="el|el-CY">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="en-GB|en-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="en-NG|en-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="es-419">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_colon_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_guarani_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="es-ES">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="et-EE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="eu-ES">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ext-ES">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fa">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fay-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ff-Latn|ff-Adlm">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_cedi_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_naira" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fi">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fil-Tglg">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fr|fr-BE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fr-002|fr-CA">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fur-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fuv-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="fy">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ga">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gbm-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gcf-GP">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gcr-GF">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gd-GB">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gdq-YE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gdx-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gjk-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gju-Deva">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gju-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gl-ES">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="glk-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gno-IN|gno-Telu">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gos-NL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gpe-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="grt">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gu">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_gujarati_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gu-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gur-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gv">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gvr-NP">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="gwc-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ha|ha-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hac-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_turkish_lira" view_id="@id/key_pos_1_1" />
+        </key_mapping>
+    </if>
+    <if language="hak-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="haz-AF">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hea-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hi|hi-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hil-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hlb-IN|hlb-Orya">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hmn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dong" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_kip" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_baht" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hnd-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hne-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hni-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_kip" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_dong" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hnn-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hno-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hoj-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hsb-DE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="hy-AM">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ibb-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ig">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="igb-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="igl-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ijc-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ilo-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="inh-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="iso-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="it">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="itv-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ium-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dong" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_kip" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_baht" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="iw|lad-IL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="jam-JM">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_colon_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ja-JP">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ji">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ka">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kac-MM">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kbd-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_long_press_russian_ruble_georgian_lari" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_lari_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kfq-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kfr-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_gujarati_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kfy-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kha-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="khg-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="khw">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kiu-TR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kjg-LA">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_baht" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_dong" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kk">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="km-KH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kmz-Arab|kmz-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kn-IN|kn-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kne-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="knn-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ko">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+        </key_mapping>
+    </if>
+    <if language="koi-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kok-Latn|kok-Deva|kok-Knda">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kr-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="krc-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="krj-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="krl-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kru">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ks-Latn|ks-Deva|ks-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ks-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ksh-DE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ku-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kum-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kv-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kvx-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kw-GB">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kxm-TH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kxu-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="kyu-MM">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_baht" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="la">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_lira_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="las-TG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cedi_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lb">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lbe-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lep">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lez-AZ|lez-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lhu-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="li-NL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lif">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lij-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="liv-LV">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lki-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_turkish_lira" view_id="@id/key_pos_1_1" />
+        </key_mapping>
+    </if>
+    <if language="lld-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lmn-Deva|lmn-Knda|lmn-Telu">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lmo-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lo-LA">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lrc-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lrl-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lt">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ltg-LV">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lus-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="luz-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="lv">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mag-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mag-NP">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mai|mai-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mdf-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mdh-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mfa-TH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mfq-TG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cedi_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mhr-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mjl-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mki-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ml-IN|ml-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mmr-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mn-MN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mni-Latn|mni-Beng|mni-Mtei">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mnp-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mr-IN|mr-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mrj-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mrw-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mt">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mtq-VN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mtr-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mup-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mve-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mvy-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mww-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="myv-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="mzn-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="nap-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="nds-DE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ne-IN|ne-NP|ne-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ne-NP|ne-IN" variant="qwerty">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="new-NP">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="nl|nl-BE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="nod-Thai">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="noe-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="nrf">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="nrf-x-gallo">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="nup-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="nut-VN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="oc-FR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="olo-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="or|or-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="os-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_long_press_russian_ruble_georgian_lari" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_lari_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pa-Latn|pa-Guru|pa-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pa-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pag-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pam-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pap">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_florin" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pap-AW">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pcc-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_dong" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pcd-BE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pcm-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pfl-DE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="phr-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="plk-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pms-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pnt-GR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="prk-MM">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_baht" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_kip" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="prs-AF">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ps">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="psh-AF">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="psi-AF">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="pt-PT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="qaa-x-alsatian">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="qxq-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="rcf-RE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="rhg-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="rkt-Beng">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="rkt-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ru-BY">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ru-KG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ru-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="rue-UA">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="rw">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_french_franc_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="rwr-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sa|sa-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sah-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sat-Latn|sat-Deva">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sat-Beng|sat-Olck">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="saz-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sba-TD">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_naira" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sc-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sck-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="scl-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="scn-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sco-GB">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sd-Latn|sd-Deva|sd-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sd-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sdc-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sdh-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sgj-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sgs-LT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="si-LK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sjp-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sk">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="skr">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sl">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="so">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_rial" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sou-TH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sty-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sv-FI">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="swv-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="sxu-DE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="syl-Beng|syl-Latn|syl-Sylo">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ta-IN|ta-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ta-LK|ta-SG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee_tamil" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tab-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="taj-NP">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tbw-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tcy-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tdd-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_dong" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_kip" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_baht" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="te-IN|te-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="th">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tiv-NG">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tks-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tl">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tly-AZ">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tly-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_manat_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tly-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tr|tr-CY">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="trp">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="trw">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tsg-PH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tts-TH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="twd-NL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tyv-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="tyz-VN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="udm-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="uk">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="unr">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_bengali_rupee" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_nepalese_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ur-IN|ur-Latn">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ur-IN" variant="qwerty">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ur-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="uum-GE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_hryvnia" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_lari_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vah">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vas-Gujr">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_gujarati_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vas-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vec-IT">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vel-NL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vep-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vi">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vls-BE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vmf-DE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="vro-EE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="wa-BE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="war">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="wbr-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="wne-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_afghani_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="wry-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="xal-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="xmf-GE">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="xnr-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="xon-GH">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="xsr-NP">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_indian_rupee" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="ydd-IL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_hryvnia" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="yo">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="yrk-RU">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="zea-NL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="zyb-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <if language="zyj-CN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+</framework>

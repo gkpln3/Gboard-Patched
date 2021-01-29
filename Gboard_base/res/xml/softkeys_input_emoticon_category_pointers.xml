@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_emoticon">
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="┗(•ˇ_ˇ•)―→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(☞ ಠ_ಠ)☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(☞ﾟ∀ﾟ)☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="☞￣ᴥ￣☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="→(° ۝ °)┗" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="→_→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_left" param_data="←_←" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_left" param_data="⟵(o_O) " />
+        <softkey desc="@string/pointers_emoticon_description_pointing_left" param_data="⟵(๑¯◡¯๑)" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_left" param_data="ԅ( ͒ ۝ ͒ )ᕤ" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_left" param_data="☜ (↼_↼)" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_left" param_data="｡.ﾟ+ ⟵(｡･ω･)" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_left" param_data="←(>▽&lt;)ﾉ" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_left" param_data="←(*꒪ヮ꒪*)" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(☞^o^) ☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(╭☞•́⍛•̀)╭☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="〈(•ˇ‿ˇ•)-→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(?・・)σ" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(☉｡☉)!→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(ﾉﾟ0ﾟ)ﾉ→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(´⊙ω⊙`)→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(☞ﾟヮﾟ)☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(☞ ͡° ͜ʖ ͡°)☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="´◔‿ゝ◔`)━☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="( ՞ਊ ՞）→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(　･ω･)☞" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(*❛‿❛)→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="╰( ･ ᗜ ･ )➝" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(✧Д✧)→" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="(｡◕‿◕｡)➜" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="&lt;(￣︶￣)↗" />
+        <softkey desc="@string/pointers_emoticon_description_pointing_right" param_data="*･゜ﾟ(^O^)↝" />
+    </softkey_list>
+</framework>

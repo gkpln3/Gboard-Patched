@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@id/softkey_template_digit_left_panel" layout="@layout/softkey_9key_side_panel_label" popup_timing="ON_TOUCH">
+            <action data="$param_data$" intention="COMMIT" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_digit_left_panel">
+            <softkey id="@id/softkey_plus" param_data="+" />
+            <softkey id="@id/softkey_minus" param_data="-" />
+            <softkey id="@id/softkey_star" param_data="*" />
+            <softkey id="@id/softkey_slash" param_data="/" />
+            <softkey id="@id/softkey_left_parenthesis" param_data="(" />
+            <softkey id="@id/softkey_right_parenthesis" param_data=")" />
+        </softkey_list>
+    </softkeys>
+</framework>

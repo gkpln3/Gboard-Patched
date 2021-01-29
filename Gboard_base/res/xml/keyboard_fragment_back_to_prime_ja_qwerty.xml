@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="body">
+            <softkeys href="@xml/softkeys_ja_back_to_hiragana_alphabet" />
+            <include href="@xml/keymapping_ja_back_to_hiragana_alphabet" />
+        </view>
+    </keyboard>
+</framework>

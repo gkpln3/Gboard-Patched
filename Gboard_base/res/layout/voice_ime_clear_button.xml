@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="start|center" android:orientation="horizontal" android:id="@id/voiceime_clear_view" android:background="@drawable/bg_button_corners" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="28.0dip" android:layout_margin="8.0dip" android:paddingStart="12.0dip" android:paddingEnd="12.0dip" android:elevation="4.0dip" style="@style/Icon.Center.NoTag"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:layout_width="18.0dip" android:layout_height="18.0dip" android:src="@drawable/quantum_gm_ic_delete_grey600_24" android:tint="@color/material_grey_600" android:contentDescription="@string/voice_ime_clear_button_description" />
+    <TextView android:textSize="12.0sp" android:textColor="@color/material_grey_600" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/voice_clear_text" android:fontFamily="@font/google_sans_medium" android:paddingStart="2.0dip" />
+</LinearLayout>

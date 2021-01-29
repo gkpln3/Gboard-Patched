@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_hy_am">
+        <view layout="@layout/keyboard_latin_4x10_body" type="body">
+            <softkeys href="@xml/softkeys_input_hy_am" />
+            <include href="@xml/keymapping_hy_am" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_fragment_secondary_symbols_hy_am" />
+</framework>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/KeyTop.Candidate"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/candidate_separator" style="@style/SoftKeyCandidateSeparator" />
+    <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/label" minimum_text_size="@dimen/minimum_candidate_text_size" style="@style/Label.Candidate.EllipsizeMiddle" />
+    <TextView android:id="@id/label_candidate_ordinal" style="@style/LabelSecondary.Sup.Dark" />
+    <TextView android:id="@id/label_candidate_deletable" style="@style/LabelSecondary.Sub.Candidate" />
+</FrameLayout>

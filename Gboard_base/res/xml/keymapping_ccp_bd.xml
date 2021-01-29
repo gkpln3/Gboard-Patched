@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_chakma_letter_ngaa" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_chakma_letter_yaa" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_chakma_letter_ddaa" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_chakma_letter_paa" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_chakma_letter_ttaa" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_chakma_letter_caa" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_chakma_letter_jaa" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_chakma_letter_haa" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_chakma_letter_gaa" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_chakma_letter_waa" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_ai" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_u" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_i" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_a" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_chakma_virama" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_chakma_letter_baa" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_chakma_letter_kaa" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_chakma_letter_taa" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_chakma_letter_daa" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_chakma_maayyaa" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_chakma_letter_i" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_o" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_e" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_chakma_letter_raa" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_chakma_letter_naa" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_chakma_letter_saa" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_chakma_letter_maa" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_chakma_letter_lhaa" view_id="@id/key_pos_2_8" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_chakma_sign_anusvara" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_chakma_letter_yyaa" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_chakma_letter_ddhaa" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_chakma_letter_phaa" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_chakma_letter_tthaa" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_chakma_letter_chaa" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_chakma_letter_jhaa" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_chakma_letter_nyaa" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_chakma_letter_ghaa" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_chakma_letter_u" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_chakma_o_mark" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_uu" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_ii" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_chakma_letter_aa" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_chakma_danda" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_chakma_letter_bhaa" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_chakma_letter_khaa" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_chakma_letter_thaa" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_chakma_letter_dhaa" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_chakma_virama_chakma_letter_aa" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_chakma_virama_chakma_letter_i" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_au" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_chakma_vowel_sign_oi" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_chakma_letter_laa" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_chakma_letter_nnaa" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_chakma_au_mark" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_chakma_letter_e" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_chakma_sign_candrabindu" view_id="@id/key_pos_2_8" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sticker_navigation_bar_color">#f5ffffff</color>
+    <color name="sticker_navigation_bar_color_dark_mode">#f5202124</color>
+    <color name="sticker_navigation_bar_divider_color">@color/transparent</color>
+    <color name="sticker_navigation_bar_divider_color_dark_mode">@color/transparent</color>
+</resources>

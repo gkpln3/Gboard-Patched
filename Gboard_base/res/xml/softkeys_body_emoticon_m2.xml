@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys href="@xml/softkeys_input_emoticon_m2" id="@id/softkeys_input_emoticon_m2" />
+</framework>

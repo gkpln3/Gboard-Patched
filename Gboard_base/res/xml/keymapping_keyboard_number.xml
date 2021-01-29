@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_ime_action" />
+    <include href="@xml/keymapping_function_ime_action_popup_navigation" />
+    <include href="@xml/keymapping_function_ime_action_popup_right_handed_mode" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_digit_1" view_id="@id/key_pos_number_line1_1" />
+        <mapping key_id="@id/softkey_digit_2" view_id="@id/key_pos_number_line1_2" />
+        <mapping key_id="@id/softkey_digit_3" view_id="@id/key_pos_number_line1_3" />
+        <mapping key_id="@id/softkey_minus" view_id="@id/key_pos_number_line1_4" />
+        <mapping key_id="@id/softkey_digit_4" view_id="@id/key_pos_number_line2_1" />
+        <mapping key_id="@id/softkey_digit_5" view_id="@id/key_pos_number_line2_2" />
+        <mapping key_id="@id/softkey_digit_6" view_id="@id/key_pos_number_line2_3" />
+        <mapping key_id="@id/softkey_space_key" view_id="@id/key_pos_number_line2_4" />
+        <mapping key_id="@id/softkey_digit_7" view_id="@id/key_pos_number_line3_1" />
+        <mapping key_id="@id/softkey_digit_8" view_id="@id/key_pos_number_line3_2" />
+        <mapping key_id="@id/softkey_digit_9" view_id="@id/key_pos_number_line3_3" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_number_line3_4" />
+        <mapping key_id="@id/softkey_comma" view_id="@id/key_pos_number_line4_1" />
+        <mapping key_id="@id/softkey_digit_0" view_id="@id/key_pos_number_line4_2" />
+        <mapping key_id="@id/softkey_sentence" view_id="@id/key_pos_number_line4_3" />
+    </key_mapping>
+</framework>

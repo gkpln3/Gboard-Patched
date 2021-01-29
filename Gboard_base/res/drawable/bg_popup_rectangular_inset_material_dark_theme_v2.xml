@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/bg_popup_material_dark_theme_v2" android:insetBottom="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

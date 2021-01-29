@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_secondary_symbols="true">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_superscript_commercial_at" view_id="@id/key_pos_qwerty_a" />
+            <merge key_id="@id/softkey_fragment_superscript_number_sign" view_id="@id/key_pos_qwerty_s" />
+            <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_qwerty_d" />
+            <merge key_id="@id/softkey_fragment_superscript_low_line" view_id="@id/key_pos_qwerty_f" />
+            <merge key_id="@id/softkey_fragment_superscript_amp" view_id="@id/key_pos_qwerty_g" />
+            <merge key_id="@id/softkey_fragment_superscript_hyphen_minus" view_id="@id/key_pos_qwerty_h" />
+            <merge key_id="@id/softkey_fragment_superscript_plus_sign" view_id="@id/key_pos_qwerty_j" />
+            <merge key_id="@id/softkey_fragment_superscript_left_parenthesis" view_id="@id/key_pos_qwerty_k" />
+            <merge key_id="@id/softkey_fragment_superscript_right_parenthesis" view_id="@id/key_pos_qwerty_l" />
+            <merge key_id="@id/softkey_fragment_superscript_reverse_solidus" view_id="@id/key_pos_qwerty_z" />
+            <merge key_id="@id/softkey_fragment_superscript_percent_sign" view_id="@id/key_pos_qwerty_x" />
+            <merge key_id="@id/softkey_fragment_superscript_asterisk" view_id="@id/key_pos_qwerty_c" />
+            <merge key_id="@id/softkey_fragment_superscript_quot" view_id="@id/key_pos_qwerty_v" />
+            <merge key_id="@id/softkey_fragment_superscript_apostrophe" view_id="@id/key_pos_qwerty_b" />
+            <merge key_id="@id/softkey_fragment_superscript_colon" view_id="@id/key_pos_qwerty_n" />
+            <merge key_id="@id/softkey_fragment_superscript_semicolon" view_id="@id/key_pos_qwerty_m" />
+        </merge_key_mapping>
+    </if>
+</framework>

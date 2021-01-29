@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_ii_cn_dynamic">
+        <view layout="@layout/keyboard_latin_12_12_12_12_11_no_shift_body" type="body">
+            <softkeys href="@xml/softkeys_input_ii_cn_dynamic" />
+            <include href="@xml/keymapping_ii_cn_dynamic" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+</framework>

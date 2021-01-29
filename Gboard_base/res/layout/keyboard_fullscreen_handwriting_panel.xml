@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_margin="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/handwriting_overlay_background" android:background="@color/ColorHandwritingFullscreenPanelBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="@fraction/fullscreen_handwriting_panel_normal_alpha" />
+    <com.google.android.apps.inputmethod.libs.handwriting.keyboard.HandwritingOverlayView android:id="@id/handwriting_overlay_view" android:layout_width="fill_parent" android:layout_height="fill_parent" animation_mode="FADE_OUT" fadeout_time="@integer/handwriting_fadeout_millis" max_stroke_width="@dimen/handwriting_stroke_width_max" min_stroke_width="@dimen/handwriting_stroke_width_min" stroke_color="@color/ColorHandwritingFullscreenStrokeMaterialTheme" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

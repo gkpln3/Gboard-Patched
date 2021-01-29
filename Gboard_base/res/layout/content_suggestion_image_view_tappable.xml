@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="@dimen/content_suggestion_strip_height" android:layout_marginStart="0.0dip" android:layout_marginEnd="@dimen/content_suggestion_strip_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.apps.inputmethod.libs.expression.animatedview.AnimatedImageView android:id="@id/animated_image_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:scaleType="fitCenter" android:contentDescription="@string/content_suggestion_image_generic_content_desc" app:measureStrategy="variable_width" app:touchRipple="?android:selectableItemBackground" />
+</FrameLayout>

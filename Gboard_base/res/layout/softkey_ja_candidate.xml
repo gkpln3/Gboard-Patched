@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/KeyTop.Candidate"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/candidate_separator" style="@style/SoftKeyCandidateSeparator" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.HorizontalCompressionTextView android:layout_gravity="center" android:id="@id/label" android:layout_width="0.0dip" android:singleLine="true" android:layout_weight="1.0" style="@style/Label.Candidate" width_compress_rate="998500" />
+        <TextView android:id="@id/label_candidate_ordinal" style="@style/LabelSecondary.Sup.Dark" />
+        <TextView android:id="@id/label_candidate_annotation" style="@style/LabelSecondary.Sub.Annotation" />
+    </LinearLayout>
+</FrameLayout>

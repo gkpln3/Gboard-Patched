@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:topLeftRadius="@dimen/theme_listing_item_card_corner_radius" android:topRightRadius="@dimen/theme_listing_item_card_corner_radius" />
+</shape>

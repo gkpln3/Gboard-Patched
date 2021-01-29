@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/setting_keyboard_layout_preview" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/keyboard_layout_bottom_label_height" android:layout_marginTop="@dimen/keyboard_layout_bottom_label_padding_top" android:layout_below="@id/layout_card" android:layout_alignLeft="@id/layout_card" android:layout_alignRight="@id/layout_card" android:importantForAccessibility="noHideDescendants" android:layout_marginStart="@dimen/keyboard_layout_item_margin" android:layout_marginEnd="@dimen/keyboard_layout_item_margin">
+        <ImageView android:gravity="center" android:id="@id/layout_selector_background" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@drawable/language_layout_chip_ripple" android:src="@drawable/bg_language_layout_bottom_bar" />
+        <ImageView android:id="@id/layout_checkbox" android:layout_width="@dimen/keyboard_layout_bottom_label_icon_size" android:layout_height="@dimen/keyboard_layout_bottom_label_icon_size" android:layout_marginTop="@dimen/keyboard_layout_bottom_label_icon_margin_top" android:src="@drawable/ic_keyboard_layout_select_state" android:layout_marginStart="@dimen/keyboard_layout_bottom_label_icon_margin_start" />
+        <TextView android:textSize="@dimen/keyboard_layout_bottom_label_text_size" android:textColor="@color/color_keyboard_layout_name" android:ellipsize="marquee" android:gravity="start|center" android:id="@id/layout_name" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="16.0dip" android:layout_marginRight="12.0dip" android:singleLine="true" android:layout_toEndOf="@id/layout_checkbox" />
+    </RelativeLayout>
+</LinearLayout>

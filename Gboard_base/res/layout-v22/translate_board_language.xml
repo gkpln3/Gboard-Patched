@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/TranslateBoardLanguageBarFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/TranslateBoardLanguageSelector">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/translate_settings_source" style="@style/TranslateBoardLanguageSelectorLabel" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/translate_settings_source_drop_down" style="@style/TranslateBoardLanguageSelectorIcon" />
+    </LinearLayout>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/translate_settings_switch" android:layout_marginLeft="@dimen/translate_board_swap_button_margin_horiz" android:layout_marginRight="@dimen/translate_board_swap_button_margin_horiz" android:layout_marginHorizontal="@dimen/translate_board_swap_button_margin_horiz" style="@style/TranslateBoardLanguageSelectorIcon" />
+    <LinearLayout style="@style/TranslateBoardLanguageSelector">
+        <FrameLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="300.0" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/translate_settings_target" style="@style/TranslateBoardLanguageSelectorLabel" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/translate_settings_target_drop_down" style="@style/TranslateBoardLanguageSelectorIcon" />
+    </LinearLayout>
+</LinearLayout>

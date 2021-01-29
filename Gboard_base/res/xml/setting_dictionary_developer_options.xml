@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="Developer Options">
+        <EditTextPreference android:persistent="true" android:title="Force Dictionary Metadata URI" android:key="@string/setting_metadata_uri_override" android:dialogTitle="Enter Dictionary Metadata URI" android:dialogMessage="Enter a full URI to override, or clear the field to stop overriding and revert to the default value." />
+        <EditTextPreference android:persistent="true" android:digits="\ 0123456789" android:title="Force Dictionary Metadata Version" android:key="@string/setting_metadata_version_override" android:dialogTitle="Enter Dictionary Metadata Version" android:dialogMessage="Applicable only if Dictionary Metadata URI is specified." android:inputType="number" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

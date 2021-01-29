@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.Keyboard" id="@id/keyboard_more_access_points_panel">
+        <view id="@id/popup_keyboard_view" layout="@layout/popup_keyboard_access_points_panel">
+            <motion_event_handler class=".libs.framework.keyboard.handler.BasicMotionEventHandler" />
+        </view>
+    </keyboard>
+</framework>

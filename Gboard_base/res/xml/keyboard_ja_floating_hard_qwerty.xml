@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1.0" class=".japanese.keyboard.JapanesePrimeKeyboard" id="@id/keyboard_ja_qwerty" session_states="NO_MICROPHONE">
+        <view layout="@layout/keyboard_ja_floating_candidates" scalable="false" type="floating_candidates" />
+    </keyboard>
+</framework>

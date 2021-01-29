@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkeys_input_symbol_templates" />
+    <softkeys>
+        <softkey content_description="@string/nonprime_recent_content_desc" id="@id/softkey_sub_category_separator_sticky">
+            <action data="RECENTS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <softkey content_description="@string/symbol_love_content_desc" id="@id/softkey_sub_category_separator">
+            <action data="GENERAL" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/softkeys_input_symbol_sub_category_general" />
+        <softkey content_description="@string/symbol_kuohao_content_desc" id="@id/softkey_sub_category_separator">
+            <action data="BRACKETS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/softkeys_input_symbol_sub_category_brace" />
+        <softkey content_description="@string/symbol_arrow_content_desc" id="@id/softkey_sub_category_separator">
+            <action data="ARROWS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/softkeys_input_symbol_sub_category_arrow" />
+        <softkey content_description="@string/symbol_math_content_desc" id="@id/softkey_sub_category_separator">
+            <action data="MATHEMATICS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/softkeys_input_symbol_sub_category_math" />
+        <softkey content_description="@string/symbol_number_content_desc" id="@id/softkey_sub_category_separator">
+            <action data="NUMBERS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/softkeys_input_symbol_sub_category_number" />
+        <softkey content_description="@string/symbol_shape_content_desc" id="@id/softkey_sub_category_separator">
+            <action data="SHAPES" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/softkeys_input_symbol_sub_category_shape" />
+        <softkey content_description="@string/symbol_fullwidth_content_desc" id="@id/softkey_sub_category_separator">
+            <action data="FULL_WIDTH" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/softkeys_input_symbol_sub_category_fullwidth" />
+    </softkeys>
+</framework>

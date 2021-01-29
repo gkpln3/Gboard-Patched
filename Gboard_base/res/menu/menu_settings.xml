@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/action_about" android:orderInCategory="1" android:title="@string/setting_about_title" android:showAsAction="never" />
+    <item android:id="@id/action_help_and_feedback" android:orderInCategory="2" android:title="@string/setting_help_and_feedback" android:showAsAction="never" />
+</menu>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.libraries.inputmethod.ime.DummyIme" display_app_completions="true" language="zz" string_id="ime_qwerty">
+        <if enable_number_row="false">
+            <keyboard_group variant="qwerty">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_qwerty" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group variant="qwertz">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_qwertz" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group variant="azerty">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_azerty" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group variant="dvorak">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_dvorak" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group variant="colemak">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_colemak" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="pcqwerty">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_pcqwerty" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="qwerty">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_qwerty" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_9_9" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="qwertz">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_qwertz" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_9_9" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="azerty">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_azerty" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_10_9" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="dvorak">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_dvorak" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_10_9" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="colemak">
+                <keyboard def="@xml/keyboard_fragment_zz" type="prime">
+                    <merge def="@xml/keyboard_latin_colemak" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_10_9" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+    </ime>
+</framework>

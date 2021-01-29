@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_rules>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥇ</pattern>
+        <label>1ꥇ</label>
+        <replacement>1ꥇ</replacement>
+        <input_text>ꥇ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥈ</pattern>
+        <label>1ꥈ</label>
+        <replacement>1ꥈ</replacement>
+        <input_text>ꥈ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥉ</pattern>
+        <label>1ꥉ</label>
+        <replacement>1ꥉ</replacement>
+        <input_text>ꥉ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥊ</pattern>
+        <label>1ꥊ</label>
+        <replacement>1ꥊ</replacement>
+        <input_text>ꥊ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥋ</pattern>
+        <label>1ꥋ</label>
+        <replacement>1ꥋ</replacement>
+        <input_text>ꥋ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥌ</pattern>
+        <label>1ꥌ</label>
+        <replacement>1ꥌ</replacement>
+        <input_text>ꥌ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥍ</pattern>
+        <label>1ꥍ</label>
+        <replacement>1ꥍ</replacement>
+        <input_text>ꥍ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥎ</pattern>
+        <label>1ꥎ</label>
+        <replacement>1ꥎ</replacement>
+        <input_text>ꥎ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])꥓</pattern>
+        <label>1꥓</label>
+        <replacement>1꥓</replacement>
+        <input_text>꥓</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥏ</pattern>
+        <label>1ꥏ</label>
+        <replacement>1ꥏ</replacement>
+        <input_text>ꥏ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])([ꥇ-ꥎ]?)ꥏ</pattern>
+        <label>12ꥏ</label>
+        <replacement>12ꥏ</replacement>
+        <input_text>ꥏ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥐ</pattern>
+        <label>1ꥐ</label>
+        <replacement>1ꥐ</replacement>
+        <input_text>ꥐ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])([ꥇ-ꥎ]?)ꥐ</pattern>
+        <label>12ꥐ</label>
+        <replacement>12ꥐ</replacement>
+        <input_text>ꥐ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥑ</pattern>
+        <label>1ꥑ</label>
+        <replacement>1ꥑ</replacement>
+        <input_text>ꥑ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])([ꥇ-ꥎ]?)ꥑ</pattern>
+        <label>12ꥑ</label>
+        <replacement>12ꥑ</replacement>
+        <input_text>ꥑ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])ꥒ</pattern>
+        <label>1ꥒ</label>
+        <replacement>1ꥒ</replacement>
+        <input_text>ꥒ</input_text>
+    </rule>
+    <rule>
+        <pattern>([ꤰ-ꥆ])([ꥇ-ꥎ]?)ꥒ</pattern>
+        <label>12ꥒ</label>
+        <replacement>12ꥒ</replacement>
+        <input_text>ꥒ</input_text>
+    </rule>
+    <rule>
+        <pattern>ꥇ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥈ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥉ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥊ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥋ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥌ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥍ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥎ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>꥓</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥏ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥐ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥑ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ꥒ</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+</dynamic_rules>

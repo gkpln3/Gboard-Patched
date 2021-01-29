@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/gboard_sharing_content" android:background="@drawable/bg_dialog_corners" android:paddingTop="@dimen/gboard_sharing_margin_top" style="@style/SharingDialogContent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/sharing_header_keyboard" style="@style/SharingHeader">
+        <ImageView android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_keyboard_googblue_24" android:scaleType="centerInside" />
+    </FrameLayout>
+    <TextView android:id="@id/gboard_sharing_title" android:text="@string/gboard_sharing_title_source" style="@style/SharingDialogTitle" />
+    <TextView android:id="@id/gboard_sharing_description" android:text="@string/gboard_sharing_description_source" style="@style/SharingDescription" />
+    <ImageView android:id="@id/gboard_sharing_separator_top" android:layout_marginTop="14.0dip" style="@style/SharingSplitter" />
+    <android.support.v7.widget.RecyclerView android:id="@id/gboard_sharing_list" style="@style/SharingDialogList" />
+    <ImageView android:id="@id/gboard_sharing_separator_bottom" style="@style/SharingSplitter" />
+    <LinearLayout android:gravity="bottom" android:layout_gravity="end" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="50.0dip">
+        <TextView android:id="@id/gboard_sharing_negative_button" android:text="@string/gboard_sharing_negative_button_label" style="@style/GboardSharingButton" />
+        <TextView android:id="@id/gboard_sharing_positive_button" android:text="@string/gboard_sharing_positive_button_label" style="@style/GboardSharingButton" />
+    </LinearLayout>
+</LinearLayout>

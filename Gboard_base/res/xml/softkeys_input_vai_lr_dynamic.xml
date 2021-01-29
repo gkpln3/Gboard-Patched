@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_vai_syllable_ha" press_data="ꕌ" />
+            <softkey id="@id/softkey_vai_syllable_wa" press_data="ꕎ" />
+            <softkey id="@id/softkey_vai_syllable_pa" press_data="ꕐ" />
+            <softkey id="@id/softkey_vai_syllable_bha" press_data="ꕑ" />
+            <softkey id="@id/softkey_vai_syllable_ba" press_data="ꕒ" />
+            <softkey id="@id/softkey_vai_syllable_mba" press_data="ꕓ" />
+            <softkey id="@id/softkey_vai_syllable_a" press_data="ꕉ" />
+            <softkey id="@id/softkey_vai_syllable_kpa" press_data="ꕔ" />
+            <softkey id="@id/softkey_vai_syllable_mgba" press_data="ꕖ" />
+            <softkey id="@id/softkey_vai_syllable_gba" press_data="ꕗ" />
+            <softkey id="@id/softkey_vai_syllable_fa" press_data="ꕘ" />
+            <softkey id="@id/softkey_vai_syllable_va" press_data="ꕙ" />
+            <softkey id="@id/softkey_vai_syllable_ta" press_data="ꕚ" />
+            <softkey id="@id/softkey_vai_syllable_tha" press_data="ꕛ" />
+            <softkey id="@id/softkey_vai_syllable_dha" press_data="ꕜ" />
+            <softkey id="@id/softkey_vai_syllable_dhha" press_data="ꕝ" />
+            <softkey id="@id/softkey_vai_syllable_ng" press_data="ꘋ" />
+            <softkey id="@id/softkey_vai_syllable_la" press_data="ꕞ" />
+            <softkey id="@id/softkey_vai_syllable_ra" press_data="ꕟ" />
+            <softkey id="@id/softkey_vai_syllable_da" press_data="ꕠ" />
+            <softkey id="@id/softkey_vai_syllable_nda" press_data="ꕡ" />
+            <softkey id="@id/softkey_vai_syllable_sa" press_data="ꕢ" />
+            <softkey id="@id/softkey_vai_syllable_sha" press_data="ꕣ" />
+            <softkey id="@id/softkey_vai_syllable_za" press_data="ꕤ" />
+            <softkey id="@id/softkey_vai_syllable_zha" press_data="ꕥ" />
+            <softkey id="@id/softkey_vai_syllable_ca" press_data="ꕦ" />
+            <softkey id="@id/softkey_vai_syllable_ngan" press_data="ꕋ" />
+            <softkey id="@id/softkey_vai_syllable_ja" press_data="ꕧ" />
+            <softkey id="@id/softkey_vai_syllable_nja" press_data="ꕨ" />
+            <softkey id="@id/softkey_vai_syllable_ya" press_data="ꕩ" />
+            <softkey id="@id/softkey_vai_syllable_ka" press_data="ꕪ" />
+            <softkey id="@id/softkey_vai_syllable_ga" press_data="ꕭ" />
+            <softkey id="@id/softkey_vai_syllable_ngga" press_data="ꕬ" />
+            <softkey id="@id/softkey_vai_syllable_ma" press_data="ꕮ" />
+            <softkey id="@id/softkey_vai_syllable_na" press_data="ꕯ" />
+            <softkey id="@id/softkey_vai_syllable_nya" press_data="ꕰ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_vai_syllable_an" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_een" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_oon" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_in" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_un" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_on" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_en" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_oo" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_ee" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_i" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_u" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_o" press_data="" press_label=" " />
+            <softkey id="@id/softkey_vai_syllable_e" press_data="" press_label=" " />
+        </softkey_list>
+    </softkeys>
+</framework>

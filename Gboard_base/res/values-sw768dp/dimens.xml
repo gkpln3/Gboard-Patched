@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clipboard_banner_height">120.0dip</dimen>
+    <dimen name="emoji_popup_search_results_height">120.0dip</dimen>
+    <dimen name="material_popup_bubble_height">66.0dip</dimen>
+    <dimen name="material_popup_bubble_width">55.0dip</dimen>
+    <dimen name="more_candidates_side_panel_padding_bottom">20.0dip</dimen>
+    <dimen name="morse_hint_card_height">630.0dip</dimen>
+    <dimen name="morse_hint_card_width">700.0dip</dimen>
+    <dimen name="popup_bubble_height">116.0dip</dimen>
+    <dimen name="popup_bubble_width">70.0dip</dimen>
+    <dimen name="popup_content_height">87.0dip</dimen>
+    <dimen name="popup_label_height">66.0dip</dimen>
+    <dimen name="popup_label_width">55.0dip</dimen>
+    <dimen name="popup_small_label_height">66.0dip</dimen>
+    <dimen name="popup_small_label_width">55.0dip</dimen>
+    <dimen name="softkey_bg_inset_bottom">11.0dip</dimen>
+    <dimen name="softkey_bg_inset_left">4.5dip</dimen>
+    <dimen name="softkey_bg_inset_right">4.5dip</dimen>
+    <dimen name="softkey_bg_middle_inset_bottom">10.5dip</dimen>
+    <dimen name="softkey_number_row_bg_inset_bottom">9.0dip</dimen>
+    <dimen name="softkey_show_more_candidates_min_width">67.0dip</dimen>
+    <dimen name="square_popup_content_height">90.0dip</dimen>
+    <dimen name="square_popup_padding_bottom">6.0dip</dimen>
+    <dimen name="suggestions_strip_horizontal_margin">100.0dip</dimen>
+    <dimen name="suggestions_strip_horizontal_margin_floating_keyboard">100.0dip</dimen>
+    <dimen name="text_size_9key">23.0dip</dimen>
+    <dimen name="text_size_9key_side_panel">26.0dip</dimen>
+    <dimen name="text_size_emoji">33.0dip</dimen>
+    <dimen name="text_size_emoji_header">30.0dip</dimen>
+    <dimen name="text_size_function_key">18.0dip</dimen>
+    <dimen name="text_size_medium">26.0dip</dimen>
+    <dimen name="text_size_phone_text_character">17.0dip</dimen>
+    <dimen name="text_size_qwerty_label">27.0dip</dimen>
+    <dimen name="text_size_zhuyin_label">24.0dip</dimen>
+    <dimen name="voiceime_banner_height">120.0dip</dimen>
+</resources>

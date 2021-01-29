@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:state_enabled="true" android:state_checked="true" android:color="?colorOnSecondaryStateContent" />
+    <item android:state_enabled="true" android:state_checked="true" android:state_pressed="true" android:color="?colorOnSecondaryStateContent" />
+    <item android:state_enabled="true" android:state_checked="true" android:color="?colorOnSecondaryStateContent" android:state_hovered="true" />
+    <item android:state_enabled="true" android:state_checked="true" android:color="?colorOnSecondary" />
+    <item android:state_enabled="true" android:color="?colorHairline" />
+    <item android:color="?colorOnSurface" android:alpha="0.12" />
+</selector>

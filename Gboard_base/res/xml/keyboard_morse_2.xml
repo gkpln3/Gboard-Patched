@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1.0" class=".latinguyk.keyboard.MorseKeyboard" id="@id/keyboard_morse_2" popup="@attr/PopupBubbleLayout" session_states="SHIFT_LOCK">
+        <view layout="@layout/keyboard_prime_header_morse" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_header_prime" />
+            <softkeys href="@xml/softkeys_header_candidates" />
+            <include href="@xml/keymapping_header_candidates" />
+            <include href="@xml/keymapping_header_en_qwerty" />
+        </view>
+        <view layout="@layout/keyboard_latin_morse_2_body" type="body">
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinMotionEventHandler" />
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinKeyboardLayoutHandler" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_function_latin" />
+            <softkeys href="@xml/softkeys_punctuation_bottom_base" />
+            <softkeys href="@xml/softkeys_input_morse_2" />
+            <include href="@xml/keymapping_function_shift" />
+            <include href="@xml/keymapping_function_switch_language" />
+            <include href="@xml/keymapping_function_ime_action" />
+            <include href="@xml/keymapping_function_latin" />
+            <include href="@xml/keymapping_morse_2" />
+        </view>
+        <view id="@id/morse_keyboard_mini_body" layout="@layout/keyboard_latin_morse_2_mini_body" type="body">
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinMotionEventHandler" />
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinKeyboardLayoutHandler" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_function_latin" />
+            <softkeys href="@xml/softkeys_punctuation_bottom_base" />
+            <softkeys href="@xml/softkeys_input_morse_2" />
+            <include href="@xml/keymapping_function_shift" />
+            <include href="@xml/keymapping_function_switch_language" />
+            <include href="@xml/keymapping_function_ime_action" />
+            <include href="@xml/keymapping_function_latin" />
+            <include href="@xml/keymapping_morse_2" />
+        </view>
+    </keyboard>
+    <if device="tablet">
+        <include href="@xml/keyboard_fragment_tablet" />
+    </if>
+</framework>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press">
+            <softkey id="@id/softkey_bamum_combining_mark_koqndon" press_data="꛰" press_label="◌꛰" />
+            <softkey id="@id/softkey_bamum_combining_mark_tukwentis" press_data="꛱" press_label="◌꛱" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_bamum_letter_a" press_data="ꚠ" />
+            <softkey id="@id/softkey_bamum_letter_ka" press_data="ꚡ" />
+            <softkey id="@id/softkey_bamum_letter_u" press_data="ꚢ" />
+            <softkey id="@id/softkey_bamum_letter_ku" press_data="ꚣ" />
+            <softkey id="@id/softkey_bamum_letter_ee" press_data="ꚤ" />
+            <softkey id="@id/softkey_bamum_letter_ree" press_data="ꚥ" />
+            <softkey id="@id/softkey_bamum_letter_tae" press_data="ꚦ" />
+            <softkey id="@id/softkey_bamum_letter_o" press_data="ꚧ" />
+            <softkey id="@id/softkey_bamum_letter_nyi" press_data="ꚨ" />
+            <softkey id="@id/softkey_bamum_letter_i" press_data="ꚩ" />
+            <softkey id="@id/softkey_bamum_letter_la" press_data="ꚪ" />
+            <softkey id="@id/softkey_bamum_letter_pa" press_data="ꚫ" />
+            <softkey id="@id/softkey_bamum_letter_rii" press_data="ꚬ" />
+            <softkey id="@id/softkey_bamum_letter_riee" press_data="ꚭ" />
+            <softkey id="@id/softkey_bamum_letter_leeee" press_data="ꚮ" />
+            <softkey id="@id/softkey_bamum_letter_taa" press_data="ꚰ" />
+            <softkey id="@id/softkey_bamum_letter_ndaa" press_data="ꚱ" />
+            <softkey id="@id/softkey_bamum_letter_njaem" press_data="ꚲ" />
+            <softkey id="@id/softkey_bamum_letter_m" press_data="ꚳ" />
+            <softkey id="@id/softkey_bamum_letter_suu" press_data="ꚴ" />
+            <softkey id="@id/softkey_bamum_letter_mu" press_data="ꚵ" />
+            <softkey id="@id/softkey_bamum_letter_shii" press_data="ꚶ" />
+            <softkey id="@id/softkey_bamum_letter_si" press_data="ꚷ" />
+            <softkey id="@id/softkey_bamum_letter_sheux" press_data="ꚸ" />
+            <softkey id="@id/softkey_bamum_letter_seux" press_data="ꚹ" />
+            <softkey id="@id/softkey_bamum_letter_kyee" press_data="ꚺ" />
+            <softkey id="@id/softkey_bamum_letter_ket" press_data="ꚻ" />
+            <softkey id="@id/softkey_bamum_letter_nuae" press_data="ꚼ" />
+            <softkey id="@id/softkey_bamum_letter_nu" press_data="ꚽ" />
+            <softkey id="@id/softkey_bamum_letter_njuae" press_data="ꚾ" />
+            <softkey id="@id/softkey_bamum_letter_shu" press_data="ꛀ" />
+            <softkey id="@id/softkey_bamum_letter_yuq" press_data="ꛁ" />
+            <softkey id="@id/softkey_bamum_letter_ya" press_data="ꛂ" />
+            <softkey id="@id/softkey_bamum_letter_nsha" press_data="ꛃ" />
+            <softkey id="@id/softkey_bamum_letter_keux" press_data="ꛄ" />
+            <softkey id="@id/softkey_bamum_letter_peux" press_data="ꛅ" />
+            <softkey id="@id/softkey_bamum_letter_njee" press_data="ꛆ" />
+            <softkey id="@id/softkey_bamum_letter_ntee" press_data="ꛇ" />
+            <softkey id="@id/softkey_bamum_letter_pue" press_data="ꛈ" />
+            <softkey id="@id/softkey_bamum_letter_wue" press_data="ꛉ" />
+            <softkey id="@id/softkey_bamum_letter_pee" press_data="ꛊ" />
+            <softkey id="@id/softkey_bamum_letter_fee" press_data="ꛋ" />
+            <softkey id="@id/softkey_bamum_letter_ru" press_data="ꛌ" />
+            <softkey id="@id/softkey_bamum_letter_lu" press_data="ꛍ" />
+            <softkey id="@id/softkey_bamum_letter_mi" press_data="ꛎ" />
+            <softkey id="@id/softkey_bamum_letter_reux" press_data="ꛐ" />
+            <softkey id="@id/softkey_bamum_letter_rae" press_data="ꛑ" />
+            <softkey id="@id/softkey_bamum_letter_ken" press_data="ꛒ" />
+            <softkey id="@id/softkey_bamum_letter_ngkwaen" press_data="ꛓ" />
+            <softkey id="@id/softkey_bamum_letter_ngga" press_data="ꛔ" />
+            <softkey id="@id/softkey_bamum_letter_nga" press_data="ꛕ" />
+            <softkey id="@id/softkey_bamum_letter_sho" press_data="ꛖ" />
+            <softkey id="@id/softkey_bamum_letter_puae" press_data="ꛗ" />
+            <softkey id="@id/softkey_bamum_letter_fu" press_data="ꛘ" />
+            <softkey id="@id/softkey_bamum_letter_fom" press_data="ꛙ" />
+            <softkey id="@id/softkey_bamum_letter_wa" press_data="ꛚ" />
+            <softkey id="@id/softkey_bamum_letter_na" press_data="ꛛ" />
+            <softkey id="@id/softkey_bamum_letter_li" press_data="ꛜ" />
+            <softkey id="@id/softkey_bamum_letter_pi" press_data="ꛝ" />
+            <softkey id="@id/softkey_bamum_letter_loq" press_data="ꛞ" />
+            <softkey id="@id/softkey_bamum_letter_mben" press_data="ꛠ" />
+            <softkey id="@id/softkey_bamum_letter_ren" press_data="ꛡ" />
+            <softkey id="@id/softkey_bamum_letter_men" press_data="ꛢ" />
+            <softkey id="@id/softkey_bamum_letter_ma" press_data="ꛣ" />
+            <softkey id="@id/softkey_bamum_letter_ti" press_data="ꛤ" />
+            <softkey id="@id/softkey_bamum_letter_ki" press_data="ꛥ" />
+        </softkey_list>
+    </softkeys>
+</framework>

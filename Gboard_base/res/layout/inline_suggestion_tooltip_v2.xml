@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:padding="5.0dip" android:focusable="true" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/tooltip_body" android:background="@drawable/tooltip_bg_white" android:padding="12.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="5.0dip">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.airbnb.lottie.LottieAnimationView android:gravity="center" android:id="@id/inline_suggestion_tooltip_v2_animation" android:layout_width="wrap_content" android:layout_height="156.0dip" android:layout_centerHorizontal="true" app:lottie_autoPlay="true" app:lottie_loop="true" app:lottie_rawRes="@raw/inline_tooltip_v2_lottie_animation" />
+            <ImageView android:id="@id/inline_suggestion_tooltip_v2_close_button" android:paddingLeft="10.0dip" android:paddingBottom="10.0dip" android:layout_width="34.0dip" android:layout_height="34.0dip" android:src="@drawable/quantum_gm_ic_close_black_24" android:layout_alignParentRight="true" android:alpha="0.54" />
+        </RelativeLayout>
+        <TextView android:textSize="16.0sp" android:textColor="@color/google_grey900" android:gravity="center" android:id="@id/inline_suggestion_tooltip_v2_title" android:paddingTop="12.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/inline_suggestion_tooltip_v2_title" android:fontFamily="@font/google_sans_medium" />
+        <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:textSize="14.0sp" android:textColor="@color/google_grey800" android:textColorLink="@color/google_blue600" android:gravity="center" android:id="@id/inline_suggestion_tooltip_v2_summary" android:paddingTop="16.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="230.0dip" android:text="@string/inline_suggestion_tooltip_v2_summary" android:lineSpacingMultiplier="1.2" android:fontFamily="roboto-regular" />
+    </LinearLayout>
+    <ImageView android:id="@id/tooltip_arrow_drop_down" android:layout_width="48.0dip" android:layout_height="22.0dip" android:src="@drawable/tooltip_arrow_drop_down_white" android:scaleType="fitXY" android:elevation="5.0dip" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/clip_item_content_checker_on_background" android:visibility="gone" style="@style/ClipItemContentCheckerBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:padding="1.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/quantum_gm_ic_circle_white_18" />
+    <ImageView android:tag=".icon.clipboard-suggestion-paste-icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/quantum_gm_ic_check_circle_filled_googblue_18" />
+</FrameLayout>

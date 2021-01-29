@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_hangul_letter_pieup" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_hangul_letter_cieuc" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_hangul_letter_tikeut" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_hangul_letter_kiyeok" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_hangul_letter_sios" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_hangul_letter_yo" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_hangul_letter_yeo" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_hangul_letter_ya" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_hangul_letter_ae" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_hangul_letter_e" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_hangul_letter_mieum" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_hangul_letter_nieun" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_hangul_letter_ieung" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_hangul_letter_rieul" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_hangul_letter_hieuh" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_hangul_letter_o" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_hangul_letter_eo" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_hangul_letter_a" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_hangul_letter_i" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_hangul_letter_khieukh" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_hangul_letter_thieuth" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_hangul_letter_chieuch" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_hangul_letter_phieuph" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_hangul_letter_yu" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_hangul_letter_u" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_hangul_letter_eu" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_hangul_letter_ssangpieup" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_hangul_letter_ssangcieuc" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_hangul_letter_ssangtikeut" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_hangul_letter_ssangkiyeok" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_hangul_letter_ssangsios" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_hangul_letter_yae" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_hangul_letter_ye" view_id="@id/key_pos_0_9" />
+    </key_mapping>
+</framework>

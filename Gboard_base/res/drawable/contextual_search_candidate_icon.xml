@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingTop="1.0dip" android:paddingBottom="1.0dip" android:height="16.0dip" android:width="16.0dip" android:paddingStart="1.0dip" android:paddingEnd="1.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/spark_icon" />
+</layer-list>

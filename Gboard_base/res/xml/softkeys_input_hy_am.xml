@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_armenian_small_letter_eh" press_data="է" />
+            <softkey id="@id/softkey_armenian_capital_letter_eh" press_data="Է" />
+            <softkey id="@id/softkey_armenian_small_letter_to" press_data="թ" />
+            <softkey id="@id/softkey_armenian_capital_letter_to" press_data="Թ" />
+            <softkey id="@id/softkey_armenian_small_letter_piwr" press_data="փ" />
+            <softkey id="@id/softkey_armenian_capital_letter_piwr" press_data="Փ" />
+            <softkey id="@id/softkey_armenian_small_letter_ja" press_data="ձ" />
+            <softkey id="@id/softkey_armenian_capital_letter_ja" press_data="Ձ" />
+            <softkey id="@id/softkey_armenian_small_letter_jheh" press_data="ջ" />
+            <softkey id="@id/softkey_armenian_capital_letter_jheh" press_data="Ջ" />
+            <softkey id="@id/softkey_armenian_small_letter_reh" press_data="ր" />
+            <softkey id="@id/softkey_armenian_capital_letter_reh" press_data="Ր" />
+            <softkey id="@id/softkey_armenian_small_letter_cha" press_data="չ" />
+            <softkey id="@id/softkey_armenian_capital_letter_cha" press_data="Չ" />
+            <softkey id="@id/softkey_armenian_small_letter_cheh" press_data="ճ" />
+            <softkey id="@id/softkey_armenian_capital_letter_cheh" press_data="Ճ" />
+            <softkey id="@id/softkey_armenian_small_letter_zhe" press_data="ժ" />
+            <softkey id="@id/softkey_armenian_capital_letter_zhe" press_data="Ժ" />
+            <softkey id="@id/softkey_armenian_small_letter_ca" press_data="ծ" />
+            <softkey id="@id/softkey_armenian_capital_letter_ca" press_data="Ծ" />
+            <softkey id="@id/softkey_armenian_small_letter_keh" press_data="ք" />
+            <softkey id="@id/softkey_armenian_capital_letter_keh" press_data="Ք" />
+            <softkey id="@id/softkey_armenian_small_letter_vo" press_data="ո" />
+            <softkey id="@id/softkey_armenian_capital_letter_vo" press_data="Ո" />
+            <softkey id="@id/softkey_armenian_small_letter_ra" press_data="ռ" />
+            <softkey id="@id/softkey_armenian_capital_letter_ra" press_data="Ռ" />
+            <softkey id="@id/softkey_armenian_small_letter_tiwn" press_data="տ" />
+            <softkey id="@id/softkey_armenian_capital_letter_tiwn" press_data="Տ" />
+            <softkey id="@id/softkey_armenian_small_letter_et" press_data="ը" />
+            <softkey id="@id/softkey_armenian_capital_letter_et" press_data="Ը" />
+            <softkey id="@id/softkey_armenian_small_letter_yiwn" press_data="ւ" />
+            <softkey id="@id/softkey_armenian_capital_letter_yiwn" press_data="Ւ" />
+            <softkey id="@id/softkey_armenian_small_letter_ini" press_data="ի" />
+            <softkey id="@id/softkey_armenian_capital_letter_ini" press_data="Ի" />
+            <softkey id="@id/softkey_armenian_small_letter_oh" press_data="օ" />
+            <softkey id="@id/softkey_armenian_capital_letter_oh" press_data="Օ" />
+            <softkey id="@id/softkey_armenian_small_letter_peh" press_data="պ" />
+            <softkey id="@id/softkey_armenian_capital_letter_peh" press_data="Պ" />
+            <softkey id="@id/softkey_armenian_small_letter_ayb" press_data="ա" />
+            <softkey id="@id/softkey_armenian_capital_letter_ayb" press_data="Ա" />
+            <softkey id="@id/softkey_armenian_small_letter_seh" press_data="ս" />
+            <softkey id="@id/softkey_armenian_capital_letter_seh" press_data="Ս" />
+            <softkey id="@id/softkey_armenian_small_letter_da" press_data="դ" />
+            <softkey id="@id/softkey_armenian_capital_letter_da" press_data="Դ" />
+            <softkey id="@id/softkey_armenian_small_letter_feh" press_data="ֆ" />
+            <softkey id="@id/softkey_armenian_capital_letter_feh" press_data="Ֆ" />
+            <softkey id="@id/softkey_armenian_small_letter_gim" press_data="գ" />
+            <softkey id="@id/softkey_armenian_capital_letter_gim" press_data="Գ" />
+            <softkey id="@id/softkey_armenian_small_letter_ho" press_data="հ" />
+            <softkey id="@id/softkey_armenian_capital_letter_ho" press_data="Հ" />
+            <softkey id="@id/softkey_armenian_small_letter_yi" press_data="յ" />
+            <softkey id="@id/softkey_armenian_capital_letter_yi" press_data="Յ" />
+            <softkey id="@id/softkey_armenian_small_letter_ken" press_data="կ" />
+            <softkey id="@id/softkey_armenian_capital_letter_ken" press_data="Կ" />
+            <softkey id="@id/softkey_armenian_small_letter_liwn" press_data="լ" />
+            <softkey id="@id/softkey_armenian_capital_letter_liwn" press_data="Լ" />
+            <softkey id="@id/softkey_armenian_small_letter_xeh" press_data="խ" />
+            <softkey id="@id/softkey_armenian_capital_letter_xeh" press_data="Խ" />
+            <softkey id="@id/softkey_armenian_small_letter_za" press_data="զ" />
+            <softkey id="@id/softkey_armenian_capital_letter_za" press_data="Զ" />
+            <softkey id="@id/softkey_armenian_small_letter_ghad" press_data="ղ" />
+            <softkey id="@id/softkey_armenian_capital_letter_ghad" press_data="Ղ" />
+            <softkey id="@id/softkey_armenian_small_letter_co" press_data="ց" />
+            <softkey id="@id/softkey_armenian_capital_letter_co" press_data="Ց" />
+            <softkey id="@id/softkey_armenian_small_letter_vew" press_data="վ" />
+            <softkey id="@id/softkey_armenian_capital_letter_vew" press_data="Վ" />
+            <softkey id="@id/softkey_armenian_small_letter_ben" press_data="բ" />
+            <softkey id="@id/softkey_armenian_capital_letter_ben" press_data="Բ" />
+            <softkey id="@id/softkey_armenian_small_letter_now" press_data="ն" />
+            <softkey id="@id/softkey_armenian_capital_letter_now" press_data="Ն" />
+            <softkey id="@id/softkey_armenian_small_letter_men" press_data="մ" />
+            <softkey id="@id/softkey_armenian_capital_letter_men" press_data="Մ" />
+            <softkey id="@id/softkey_armenian_small_letter_sha" press_data="շ" />
+            <softkey id="@id/softkey_armenian_capital_letter_sha" press_data="Շ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_simple">
+            <softkey hint_label="և" id="@id/softkey_armenian_small_letter_ech" long_press_data="և" press_data="ե" />
+            <softkey hint_label="ԵՒ" id="@id/softkey_armenian_capital_letter_ech" long_press_data="ԵՒ" press_data="Ե" />
+        </softkey_list>
+    </softkeys>
+</framework>

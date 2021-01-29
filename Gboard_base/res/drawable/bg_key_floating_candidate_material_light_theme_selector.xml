@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item android:drawable="@drawable/bg_key_floating_candidate_pressed_material_light_theme" android:right="@dimen/softkey_candidate_highlight_bg_inset_right" />
+        </layer-list>
+    </item>
+    <item android:state_selected="true">
+        <layer-list>
+            <item android:drawable="@drawable/bg_key_floating_candidate_selected_material_light_theme" android:right="@dimen/softkey_candidate_highlight_bg_inset_right" />
+        </layer-list>
+    </item>
+</selector>

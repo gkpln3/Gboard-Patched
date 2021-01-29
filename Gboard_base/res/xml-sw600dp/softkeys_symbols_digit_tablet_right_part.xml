@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_symbol" layout="@layout/softkey_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$param_data$" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_symbol">
+            <softkey param_data="+" />
+            <softkey param_data="-" />
+            <softkey param_data="*" />
+            <softkey param_data="/" />
+            <softkey param_data="=" />
+            <softkey param_data="&amp;" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/bg_key_material_dark_theme_selector" android:insetLeft="@dimen/material_softkey_bg_small_inset_left" android:insetRight="@dimen/material_softkey_bg_small_inset_right" android:insetTop="@dimen/material_softkey_bg_small_inset_top" android:insetBottom="@dimen/material_softkey_bg_small_inset_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

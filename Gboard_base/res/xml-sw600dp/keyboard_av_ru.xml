@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <include href="@xml/keyboard_fragment_tablet" />
+    <keyboard id="@id/keyboard_av_ru">
+        <view layout="@layout/keyboard_latin_tablet_13_13_13_body" type="body">
+            <softkeys href="@xml/softkeys_input_av_ru" />
+            <softkeys href="@xml/softkeys_latin_fragment_secondary_digits" />
+            <include href="@xml/keymapping_cyrillic_with_palochka" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+            <include href="@xml/keymapping_latin_fragment_secondary_digits_12" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_fragment_secondary_symbols" />
+</framework>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_bengali_letter_a" press_data="অ" />
+            <softkey id="@id/softkey_bengali_letter_aa" long_press_data="া" press_data="আ" />
+            <softkey id="@id/softkey_bengali_letter_i" long_press_data="ি" press_data="ই" />
+            <softkey id="@id/softkey_bengali_letter_ii" long_press_data="ী" press_data="ঈ" />
+            <softkey id="@id/softkey_bengali_letter_u" long_press_data="ু" press_data="উ" />
+            <softkey id="@id/softkey_bengali_letter_uu" long_press_data="ূ" press_data="ঊ" />
+            <softkey id="@id/softkey_bengali_letter_e" long_press_data="ে" press_data="এ" />
+            <softkey id="@id/softkey_bengali_letter_ai" long_press_data="ৈ" press_data="ঐ" />
+            <softkey id="@id/softkey_bengali_letter_o" long_press_data="ো" press_data="ও" />
+            <softkey id="@id/softkey_bengali_letter_au" long_press_data="ৌ" press_data="ঔ" />
+            <softkey id="@id/softkey_bengali_letter_vocalic_r" long_press_data="ৃ" press_data="ঋ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_bengali_letter_ka" long_press_data="ক্ন,ক্স,ক্র,ক্ম,ক্ল,ক্ব,ক্জ,ক্ফ,ক্থ,ক্ত" press_data="ক" />
+            <softkey id="@id/softkey_bengali_letter_kha" long_press_data="খ্ন,খ্র" press_data="খ" />
+            <softkey id="@id/softkey_bengali_letter_ga" long_press_data="গ্ন,গ্র,গ্ম,গ্স,গ্স,গ্ব" press_data="গ" />
+            <softkey id="@id/softkey_bengali_letter_gha" press_data="ঘ" />
+            <softkey id="@id/softkey_bengali_letter_nga" press_data="ঙ" />
+            <softkey id="@id/softkey_bengali_letter_ca" press_data="চ" />
+            <softkey id="@id/softkey_bengali_letter_cha" press_data="ছ" />
+            <softkey id="@id/softkey_bengali_letter_ja" long_press_data="জ্র,জ্ল" press_data="জ" />
+            <softkey id="@id/softkey_bengali_letter_jha" press_data="ঝ" />
+            <softkey id="@id/softkey_bengali_letter_nya" press_data="ঞ" />
+            <softkey id="@id/softkey_bengali_letter_tta" press_data="ট" />
+            <softkey id="@id/softkey_bengali_letter_ttha" press_data="ঠ" />
+            <softkey id="@id/softkey_bengali_letter_dda" press_data="ড" />
+            <softkey id="@id/softkey_bengali_letter_ddha" press_data="ঢ" />
+            <softkey id="@id/softkey_bengali_letter_nna" press_data="ণ" />
+            <softkey id="@id/softkey_bengali_letter_ta" long_press_data="ত্র,ত্ন" press_data="ত" />
+            <softkey id="@id/softkey_bengali_letter_tha" press_data="থ" />
+            <softkey id="@id/softkey_bengali_letter_da" long_press_data="দ্র" press_data="দ" />
+            <softkey id="@id/softkey_bengali_letter_dha" press_data="ধ" />
+            <softkey id="@id/softkey_bengali_letter_na" long_press_data="ন্গ,ন্গ্ন,ন্ন,ন্জ,ন্ম,ন্ত,ন্স,ন্থ,ন্দ,ন্র" press_data="ন" />
+            <softkey id="@id/softkey_bengali_letter_pa" long_press_data="প্ন,প্র,প্স,প্ত,প্ল" press_data="প" />
+            <softkey id="@id/softkey_bengali_letter_pha" long_press_data="ফ্র,ফ্ল" press_data="ফ" />
+            <softkey id="@id/softkey_bengali_letter_ba" long_press_data="ব্র,ব্ন,ব্ল" press_data="ব" />
+            <softkey id="@id/softkey_bengali_letter_bha" press_data="ভ" />
+            <softkey id="@id/softkey_bengali_letter_ma" long_press_data="ম্ন,ম্স,ম্য,ম্র,ম্ম" press_data="ম" />
+            <softkey id="@id/softkey_bengali_letter_ya" long_press_data="য্র" press_data="য" />
+            <softkey id="@id/softkey_bengali_letter_ra" long_press_data="র্ন,র্ম,র্গ,র্স,র্র,র্দ" press_data="র" />
+            <softkey id="@id/softkey_bengali_letter_la" long_press_data="ল্স,ল্ক,ল্থ,ল্র,ল্গ,ল্ম" press_data="ল" />
+            <softkey id="@id/softkey_bengali_letter_ra_with_lower_diagonal" press_data="ৱ" />
+            <softkey id="@id/softkey_bengali_letter_sha" press_data="শ" />
+            <softkey id="@id/softkey_bengali_letter_ssa" press_data="ষ" />
+            <softkey id="@id/softkey_bengali_letter_sa" long_press_data="স্ন,স্ল,স্ক,স্ত,স্র" press_data="স" />
+            <softkey id="@id/softkey_bengali_letter_ha" long_press_data="হ্র,হ্ম,হ্ন,হ্ল,হ্ব,হ্য" press_data="হ" />
+            <softkey id="@id/softkey_bengali_letter_na_bengali_sign_virama_bengali_letter_ga" press_data="ন্গ" />
+            <softkey id="@id/softkey_bengali_letter_ka_bengali_sign_virama_bengali_letter_na" press_data="ক্ন" />
+            <softkey id="@id/softkey_bengali_letter_ga_bengali_sign_virama_bengali_letter_na" press_data="গ্ন" />
+            <softkey id="@id/softkey_bengali_letter_khanda_ta" press_data="ৎ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_large">
+            <softkey hint_label="ঁ​ং​ঃ" id="@id/softkey_bengali_sign_virama" long_press_data="ঃ,ং,ঁ,়" long_press_label="ঃ,ং,ঁ,়" press_data="্" press_label="্" />
+        </softkey_list>
+    </softkeys>
+</framework>

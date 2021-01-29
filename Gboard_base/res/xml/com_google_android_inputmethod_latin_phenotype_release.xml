@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.inputmethod.latinguyk</configuration-package>
+        <log-sources>
+            <log-source>LATIN_IME</log-source>
+            <log-source>GOOGLE_KEYBOARD_COUNTERS</log-source>
+            <log-source>EXPRESSION</log-source>
+            <log-source>EXPRESSION_COUNTERS</log-source>
+            <log-source>BRELLA</log-source>
+            <log-source>BRELLA_COUNTERS</log-source>
+        </log-sources>
+        <auto-subpackage>true</auto-subpackage>
+        <params>CgdyZWxlYXNl</params>
+    </phenotype-registration>
+</phenotype-registrations>

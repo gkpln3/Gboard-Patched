@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_osage_small_letter_e" long_press_data="U+104E0" press_data="U+104DF" />
+            <softkey id="@id/softkey_osage_capital_letter_e" long_press_data="U+104B8" press_data="U+104B7" />
+            <softkey id="@id/softkey_osage_small_letter_tsa" long_press_data="U+104F3,U+104F4" press_data="U+104F2" />
+            <softkey id="@id/softkey_osage_capital_letter_tsa" long_press_data="U+104CB,U+104CC" press_data="U+104CA" />
+            <softkey id="@id/softkey_osage_small_letter_o" long_press_data="U+104EB" press_data="U+104EA" />
+            <softkey id="@id/softkey_osage_capital_letter_o" long_press_data="U+104C3" press_data="U+104C2" />
+            <softkey id="@id/softkey_osage_small_letter_pa" long_press_data="U+104ED" press_data="U+104EC" />
+            <softkey id="@id/softkey_osage_capital_letter_pa" long_press_data="U+104C5" press_data="U+104C4" />
+            <softkey id="@id/softkey_osage_small_letter_a" long_press_data="U+104DA,U+104D9" press_data="U+104D8" />
+            <softkey id="@id/softkey_osage_capital_letter_a" long_press_data="U+104B2,U+104B1" press_data="U+104B0" />
+            <softkey id="@id/softkey_osage_small_letter_sa" press_data="U+104EE" />
+            <softkey id="@id/softkey_osage_capital_letter_sa" press_data="U+104C6" />
+            <softkey id="@id/softkey_osage_small_letter_ta" long_press_data="U+104F1" press_data="U+104F0" />
+            <softkey id="@id/softkey_osage_capital_letter_ta" long_press_data="U+104C9" press_data="U+104C8" />
+            <softkey id="@id/softkey_osage_small_letter_ha" long_press_data="U+104E2" press_data="U+104E1" />
+            <softkey id="@id/softkey_osage_capital_letter_ha" long_press_data="U+104BA" press_data="U+104B9" />
+            <softkey id="@id/softkey_osage_small_letter_ka" long_press_data="U+104E5,U+104E6" press_data="U+104E4" />
+            <softkey id="@id/softkey_osage_capital_letter_ka" long_press_data="U+104BD,U+104BE" press_data="U+104BC" />
+            <softkey id="@id/softkey_osage_small_letter_la" press_data="U+104E7" />
+            <softkey id="@id/softkey_osage_capital_letter_la" press_data="U+104BF" />
+            <softkey id="@id/softkey_osage_small_letter_za" long_press_data="U+104FB" press_data="U+104FA" />
+            <softkey id="@id/softkey_osage_capital_letter_za" long_press_data="U+104D3" press_data="U+104D2" />
+            <softkey id="@id/softkey_osage_small_letter_cha" long_press_data="U+104DE" press_data="U+104DD" />
+            <softkey id="@id/softkey_osage_capital_letter_cha" long_press_data="U+104B6" press_data="U+104B5" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup">
+            <softkey id="@id/softkey_osage_small_letter_wa" press_data="U+104F7" press_label="U+104F7" />
+            <softkey id="@id/softkey_osage_capital_letter_wa" press_data="U+104CF" press_label="U+104CF" />
+            <softkey id="@id/softkey_osage_small_letter_dha" press_data="U+104F5" press_label="U+104F5" />
+            <softkey id="@id/softkey_osage_capital_letter_dha" press_data="U+104CD" press_label="U+104CD" />
+            <softkey id="@id/softkey_combining_acute_accent" press_data="U+0301" press_label="U+25CCU+0301" />
+            <softkey id="@id/softkey_combining_double_acute_accent" press_data="U+030B" press_label="U+25CCU+030B" />
+            <softkey id="@id/softkey_osage_small_letter_u" press_data="U+104F6" press_label="U+104F6" />
+            <softkey id="@id/softkey_osage_capital_letter_u" press_data="U+104CE" press_label="U+104CE" />
+            <softkey id="@id/softkey_osage_small_letter_i" press_data="U+104E3" press_label="U+104E3" />
+            <softkey id="@id/softkey_osage_capital_letter_i" press_data="U+104BB" press_label="U+104BB" />
+            <softkey id="@id/softkey_osage_small_letter_gha" press_data="U+104F9" press_label="U+104F9" />
+            <softkey id="@id/softkey_osage_capital_letter_gha" press_data="U+104D1" press_label="U+104D1" />
+            <softkey id="@id/softkey_combining_dot_above_right" press_data="U+0358" press_label="U+25CCU+0358" />
+            <softkey id="@id/softkey_combining_macron_above" press_data="U+0304" press_label="U+25CCU+0304" />
+            <softkey id="@id/softkey_osage_small_letter_ah" press_data="U+104DB" press_label="U+104DB" />
+            <softkey id="@id/softkey_osage_capital_letter_ah" press_data="U+104B3" press_label="U+104B3" />
+            <softkey id="@id/softkey_osage_small_letter_kha" press_data="U+104F8" press_label="U+104F8" />
+            <softkey id="@id/softkey_osage_capital_letter_kha" press_data="U+104D0" press_label="U+104D0" />
+            <softkey id="@id/softkey_osage_small_letter_sha" press_data="U+104EF" press_label="U+104EF" />
+            <softkey id="@id/softkey_osage_capital_letter_sha" press_data="U+104C7" press_label="U+104C7" />
+            <softkey id="@id/softkey_osage_small_letter_bra" press_data="U+104DC" press_label="U+104DC" />
+            <softkey id="@id/softkey_osage_capital_letter_bra" press_data="U+104B4" press_label="U+104B4" />
+            <softkey id="@id/softkey_osage_small_letter_na" press_data="U+104E9" press_label="U+104E9" />
+            <softkey id="@id/softkey_osage_capital_letter_na" press_data="U+104C1" press_label="U+104C1" />
+            <softkey id="@id/softkey_osage_small_letter_ma" press_data="U+104E8" press_label="U+104E8" />
+            <softkey id="@id/softkey_osage_capital_letter_ma" press_data="U+104C0" press_label="U+104C0" />
+        </softkey_list>
+    </softkeys>
+</framework>

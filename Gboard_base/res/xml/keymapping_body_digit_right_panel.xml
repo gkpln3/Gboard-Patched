@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_percent" view_id="@id/key_pos_digit_right_symbol_1" />
+        <mapping key_id="@id/softkey_space_no_ime_picker_key" view_id="@id/key_pos_digit_right_symbol_2" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_digit_right_symbol_3" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/ja_layout_setup_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.onboardingflow.NonSwipeableBidiViewPager android:id="@id/japanese_layout_setup_pager" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <RelativeLayout android:paddingTop="@dimen/ja_layout_setup_button_padding_vertical" android:paddingBottom="@dimen/ja_layout_setup_button_padding_vertical" android:layout_width="fill_parent" android:layout_height="@dimen/ja_layout_setup_bottom_strip_height" android:layout_marginStart="@dimen/ja_layout_setup_button_margin_horizontal" android:layout_marginEnd="@dimen/ja_layout_setup_button_margin_horizontal">
+        <com.google.android.libraries.inputmethod.widgets.OverlayButton android:textColor="@color/ja_layout_negative_button_label_color" android:gravity="center" android:id="@id/negative_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:textAllCaps="false" android:fontFamily="@font/google_sans_medium" android:layout_alignParentStart="true" style="@android:style/Widget.Material.Button.Borderless" />
+        <com.google.android.libraries.inputmethod.widgets.OverlayButton android:gravity="center" android:id="@id/positive_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:textAllCaps="false" android:fontFamily="@font/google_sans_medium" android:layout_alignParentEnd="true" android:stateListAnimator="@null" style="@style/SettingsButton" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_close_extension_back_arrow_no_theme_m2" view_id="@id/key_pos_search_header_search" />
+        <mapping key_id="@id/softkey_clear_query_no_theme_m2" view_id="@id/key_pos_search_header_cancel" />
+    </key_mapping>
+</framework>

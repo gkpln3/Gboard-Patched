@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/quantum_ic_add_white_24" android:id="@id/action_add_word" android:title="@string/setting_add_word" app:showAsAction="always" />
+    <item android:id="@id/action_import" android:title="@string/personal_dictionary_preference_title_import" />
+    <item android:id="@id/action_export" android:title="@string/personal_dictionary_preference_title_export" />
+</menu>

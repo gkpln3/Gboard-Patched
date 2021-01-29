@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_gravity="center_horizontal" android:id="@id/label" style="@style/Label.Small" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/icon_bottom" android:layout_marginTop="5.0dip" style="@style/Icon" />
+</LinearLayout>

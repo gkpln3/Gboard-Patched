@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="google_navigation_item_shape_corner_size_left">24.0dip</dimen>
+    <dimen name="google_navigation_item_shape_corner_size_right">0.0dip</dimen>
+    <dimen name="google_navigation_item_shape_margin_end">0.0dip</dimen>
+    <dimen name="google_navigation_item_shape_margin_start">8.0dip</dimen>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_syloti_nagri_letter_ko" press_data="ꠇ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_kho" press_data="ꠈ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_go" press_data="ꠉ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_gho" press_data="ꠊ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_po" press_data="ꠙ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_pho" press_data="ꠚ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_bo" press_data="ꠛ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_bho" press_data="ꠜ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_mo" press_data="ꠝ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_co" press_data="ꠌ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_cho" press_data="ꠍ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_jo" press_data="ꠎ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_jho" press_data="ꠏ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_ro" press_data="ꠞ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_lo" press_data="ꠟ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_rro" press_data="ꠠ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_so" press_data="ꠡ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_ho" press_data="ꠢ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_tto" press_data="ꠐ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_ttho" press_data="ꠑ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_ddo" press_data="ꠒ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_ddho" press_data="ꠓ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_to" press_data="ꠔ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_tho" press_data="ꠕ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_do" press_data="ꠖ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_dho" press_data="ꠗ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_no" press_data="ꠘ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_syloti_nagri_letter_a" long_press_data="ꠣ" press_data="ꠀ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_i" long_press_data="ꠤ" press_data="ꠁ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_u" long_press_data="ꠥ" press_data="ꠃ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_e" long_press_data="ꠦ" press_data="ꠄ" />
+            <softkey id="@id/softkey_syloti_nagri_letter_o" long_press_data="ꠧ" press_data="ꠅ" />
+            <softkey id="@id/softkey_syloti_nagri_sign_anusvara" press_data="ꠋ" />
+            <softkey id="@id/softkey_syloti_nagri_sign_dvisvara" press_data="ꠂ" />
+            <softkey id="@id/softkey_syloti_nagri_sign_hasanta" press_data="꠆" />
+        </softkey_list>
+    </softkeys>
+</framework>

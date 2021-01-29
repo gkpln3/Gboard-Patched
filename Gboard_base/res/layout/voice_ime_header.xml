@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag=".keyboard-header-area" android:background="?BgHeader" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/voice_ime_clear_button" />
+    <TextView android:textSize="@dimen/text_size_candidate" android:textColor="?ColorLabelCandidate" android:layout_gravity="center" android:id="@id/voiceime_label" android:tag=".label.for-candidate-key" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.google.android.apps.inputmethod.libs.voiceime.VoiceCircleView android:gravity="center" android:layout_gravity="end|center" android:id="@id/voiceime_circle_bar" android:tag=".background-icon.for-voiceime-circle-bar" android:layout_width="100.0dip" android:layout_height="fill_parent" android:scaleType="center" />
+    <ImageView android:gravity="center" android:layout_gravity="end|center" android:id="@id/voiceime_mic" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/quantum_ic_mic_white_24" android:scaleType="centerInside" android:layout_marginStart="@dimen/voiceime_mic_margin" android:layout_marginEnd="@dimen/voiceime_mic_margin" />
+</FrameLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:id="@id/content_suggestion_container" android:tag=".keyboard-header-area" android:background="@color/google_white" android:layout_width="fill_parent" android:layout_height="@dimen/content_suggestion_short_strip_height" app:allowMockActionDown="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:orientation="vertical" android:id="@id/rcs_decoration_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/open_settings_button_touch_target" android:layout_width="@dimen/button_touch_target_size" android:layout_height="@dimen/button_touch_target_size" android:layout_alignParentTop="true" android:layout_alignParentEnd="true">
+            <ImageView android:layout_gravity="end|center|top" android:id="@id/open_settings_button" android:tag=".content-suggestion-primary-color" android:layout_width="@dimen/content_suggestion_open_settings_button_visual_size" android:layout_height="@dimen/content_suggestion_open_settings_button_visual_size" android:layout_margin="8.0dip" android:scaleType="centerInside" android:importantForAccessibility="no" />
+        </FrameLayout>
+        <ImageView android:id="@id/rcs_background_image_decoration" android:tag=".content-suggestion-primary-color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:layout_centerInParent="true" android:alpha="0.4" android:importantForAccessibility="no" />
+        <LinearLayout android:gravity="center" android:id="@id/rcs_foreground_decoration_subcontainer" android:layout_width="300.0dip" android:layout_height="fill_parent" android:layout_centerInParent="true">
+            <ImageView android:id="@id/rcs_foreground_image_decoration" android:tag=".content-suggestion-primary-color" android:layout_width="35.0dip" android:layout_height="35.0dip" android:scaleType="centerInside" android:importantForAccessibility="no" android:layout_marginEnd="16.0dip" />
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/rcs_label" android:tag=".content-suggestion-primary-color" android:maxLines="3" style="@style/RichContentSuggestionLabel" />
+                <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/rcs_retry_button" android:visibility="gone" android:layout_marginTop="8.0dip" android:text="@string/retry_error_button_rcs" android:maxLines="1" style="@style/RichContentSuggestionLabel.Clickable" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    <com.google.android.apps.inputmethod.libs.search.widget.AnimatedImageSidebarHolderView android:id="@id/animated_image_holder_view" android:visibility="invisible" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" image_animation="@anim/slide_in_from_bottom" image_notifications_enabled="true" image_view_layout="@layout/content_suggestion_image_view_short" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/spell_checker_name"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="true" android:title="@string/spell_checker_setting_use_contacts_title" android:key="@string/pref_key_import_user_contacts" android:summary="@string/spell_checker_setting_use_contacts_summary" />
+</PreferenceScreen>

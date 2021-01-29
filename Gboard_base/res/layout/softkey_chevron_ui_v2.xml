@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/access_point_icon_holder" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/one_tap_to_search_icon_margin" android:layout_marginEnd="@dimen/one_tap_to_search_icon_margin">
+        <ImageView android:visibility="visible" android:src="@drawable/ic_google_shadow" style="@style/Icon.Center.NoTag" />
+        <FrameLayout android:tag=".for-google-icon-background" android:background="@drawable/ic_google_background" android:visibility="visible" style="@style/Icon.Center.NoTag" />
+        <ImageView android:id="@id/icon" android:tag=".for-google-icon-foreground" android:tint="#ff686868" style="@style/Icon.Center.NoTag" />
+    </FrameLayout>
+</merge>

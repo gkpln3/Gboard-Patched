@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/bg_access_point_icon_pressed_opaque" />
+    <item android:drawable="@drawable/bg_access_point_icon_highlighted_opaque" android:state_activated="true" />
+</selector>

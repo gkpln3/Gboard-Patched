@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_ol_chiki_letter_iny" long_press_data="᱑" press_data="ᱧ" />
+            <softkey id="@id/softkey_ol_chiki_letter_aaw" long_press_data="᱒" press_data="ᱣ" />
+            <softkey id="@id/softkey_ol_chiki_letter_le" long_press_data="᱓" press_data="ᱮ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ir" long_press_data="᱔" press_data="ᱨ" />
+            <softkey id="@id/softkey_ol_chiki_letter_at" long_press_data="᱕" press_data="ᱛ" />
+            <softkey id="@id/softkey_ol_chiki_letter_uy" long_press_data="᱖" press_data="ᱭ" />
+            <softkey id="@id/softkey_ol_chiki_letter_lu" long_press_data="᱗" press_data="ᱩ" />
+            <softkey id="@id/softkey_ol_chiki_letter_li" long_press_data="᱘" press_data="ᱤ" />
+            <softkey id="@id/softkey_ol_chiki_letter_lo" long_press_data="᱙" press_data="ᱳ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ep" long_press_data="᱐" press_data="ᱯ" />
+            <softkey id="@id/softkey_ol_chiki_letter_laa" long_press_data="ᱚ" press_data="ᱟ" />
+            <softkey id="@id/softkey_ol_chiki_letter_is" press_data="ᱥ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ud" press_data="ᱫ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ang" press_data="ᱝ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ag" press_data="ᱜ" />
+            <softkey id="@id/softkey_ol_chiki_letter_oh" press_data="ᱷ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ih" press_data="ᱦ" />
+            <softkey id="@id/softkey_ol_chiki_letter_aaj" press_data="ᱡ" />
+            <softkey id="@id/softkey_ol_chiki_letter_aak" press_data="ᱠ" />
+            <softkey id="@id/softkey_ol_chiki_letter_al" press_data="ᱞ" />
+            <softkey id="@id/softkey_ol_chiki_letter_err" press_data="ᱲ" />
+            <softkey id="@id/softkey_ol_chiki_letter_edd" press_data="ᱰ" />
+            <softkey id="@id/softkey_ol_chiki_letter_uc" press_data="ᱪ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ov" press_data="ᱶ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ob" press_data="ᱵ" />
+            <softkey id="@id/softkey_ol_chiki_letter_en" press_data="ᱱ" />
+            <softkey id="@id/softkey_ol_chiki_letter_unn" press_data="ᱬ" />
+            <softkey id="@id/softkey_ol_chiki_letter_aam" press_data="ᱢ" />
+            <softkey id="@id/softkey_ol_chiki_letter_ott" press_data="ᱴ" />
+        </softkey_list>
+    </softkeys>
+</framework>

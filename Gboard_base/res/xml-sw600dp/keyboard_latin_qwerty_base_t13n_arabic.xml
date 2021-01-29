@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_fragment_tablet" />
+    <keyboard>
+        <view layout="@layout/keyboard_latin_tablet_11_10_11_body_t13n" type="body">
+            <include href="@xml/keymapping_qwerty" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+            <include href="@xml/keymapping_arabic_question_mark_tablet_additional" />
+        </view>
+    </keyboard>
+</framework>

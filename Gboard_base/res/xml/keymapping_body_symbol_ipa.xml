@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_latin" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_modifier_letter_extra_high_tone_bar" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_modifier_letter_high_tone_bar" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_modifier_letter_mid_tone_bar" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_modifier_letter_low_tone_bar" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_modifier_letter_extra_low_tone_bar" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_modifier_letter_extra_low_tone_bar_modifier_letter_extra_high_tone_bar" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_modifier_letter_extra_high_tone_bar_modifier_letter_extra_low_tone_bar" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_modifier_letter_high_tone_bar_modifier_letter_extra_high_tone_bar" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_modifier_letter_extra_low_tone_bar_modifier_letter_low_tone_bar" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_modifier_letter_mid_tone_bar_modifier_letter_high_tone_bar_modifier_letter_mid_tone_bar" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_left_double_parenthesis" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_right_double_parenthesis" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_left_parenthesis" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_right_parenthesis" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_left_square_bracket" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_right_square_bracket" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_slash" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_left_curly_bracket" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_right_curly_bracket" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_undertie" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_modifier_letter_vertical_line" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_modifier_letter_low_vertical_line" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_modifier_letter_triangular_colon" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_modifier_letter_half_triangular_colon" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_combining_breve" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_vertical_line" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_double_vertical_line" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_rightwards_arrow" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_modifier_letter_rhotic_hook" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/softkey_combining_up_tack_below" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_combining_right_half_ring_below" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_combining_plus_sign_below" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_superscript_latin_small_letter_n" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_modifier_letter_small_l" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_combining_left_angle_above" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_modifier_letter_small_schwa" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_modifier_letter_small_theta" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_modifier_letter_small_x" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_modifier_letter_apostrophe" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_combining_vertical_line_below" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_combining_inverted_breve_below" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_combining_left_tack_below" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_combining_diaeresis" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_combining_tilde" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_combining_bridge_below" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_modifier_letter_small_w" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_modifier_letter_small_j" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_modifier_letter_small_gamma" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_modifier_letter_reversed_glottal_stop" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_combining_ring_below" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_combining_caron_below" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_modifier_letter_small_h" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_combining_diaeresis_below" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_combining_tilde_below" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_combining_tilde" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_modifier_letter_rhotic_hook" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_left_square_bracket" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_right_square_bracket" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_combining_double_inverted_breve" view_id="@id/key_pos_non_prime_symbol_1" />
+        <mapping key_id="@id/softkey_combining_double_breve_below" view_id="@id/key_pos_non_prime_symbol_2" />
+    </key_mapping>
+</framework>

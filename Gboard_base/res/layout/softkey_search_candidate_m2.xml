@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/google_white" android:layout_width="fill_parent" android:layout_height="@dimen/candidate_row_height_m2"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="@dimen/search_candidate_icon_width_m2" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/search_candidate_icon_margin_start_m2" android:layout_marginEnd="@dimen/search_candidate_icon_margin_end_m2" android:layout_alignParentStart="true">
+        <ImageView android:layout_gravity="center" android:id="@id/search_candidate_source_icon" android:layout_width="@dimen/search_candidate_icon_width_m2" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/search_box_font_size" android:textColor="@color/search_candidate_text_color_material_light_m2" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/label_recent_search_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="1" android:paddingStart="@dimen/search_candidate_icon_total_width_m2" android:paddingEnd="@dimen/header_icon_total_width" style="@style/TouchAware" />
+    <FrameLayout style="@style/ThreePartRowFrame.EndM2">
+        <ImageView android:layout_gravity="center" android:id="@id/search_candidate_auto_fill_icon" android:padding="@dimen/header_icon_padding" android:layout_width="@dimen/header_icon_size" android:layout_height="@dimen/header_icon_size" android:src="@drawable/ic_transit_enterexit_black_18" android:contentDescription="@string/gboard_insertion_arrow_content_desc" android:alpha="@dimen/header_icon_alpha" style="@style/TouchAware" />
+    </FrameLayout>
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:id="@id/header_area" style="@style/Header.NonPrime"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_textediting_back_to_prime" style="@style/SuggestionStripAccessPointsMenuIcon" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

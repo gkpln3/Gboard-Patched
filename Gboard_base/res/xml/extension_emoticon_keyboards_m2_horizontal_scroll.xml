@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard_group>
+        <keyboard def="@xml/keyboard_non_prime_emoticon_m2_horizontal_scroll" type="@string/keyboard_type_emoticon" />
+    </keyboard_group>
+</framework>

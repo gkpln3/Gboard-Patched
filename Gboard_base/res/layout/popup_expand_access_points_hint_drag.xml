@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointDragPopupView android:layout_width="wrap_content" android:layout_height="wrap_content" drag_view="@id/access_point_dragged_icon_holder" focus_animate_view="@layout/access_point_focus_circle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center|left|top" android:id="@id/access_point_dragged_icon_holder" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/icon" android:background="@drawable/bg_access_point_panel_item_light_theme" android:layout_width="@dimen/expand_access_points_hint_panel_item_size" android:layout_height="@dimen/expand_access_points_hint_panel_item_size" android:scaleType="centerInside" />
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/expand_access_points_hint_panel_item_half_size" android:src="@drawable/ic_expand_access_points_hint_drag_hand" />
+    </FrameLayout>
+</com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointDragPopupView>

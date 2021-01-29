@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="content" path="share_content/" />
+    <files-path name="clipboard_image" path="clipboard_image/" />
+    <cache-path name="personal-dictionary" path="personal-dictionary" />
+</paths>

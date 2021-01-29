@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_tai_le_letter_ka" press_data="ᥐ" />
+            <softkey id="@id/softkey_tai_le_letter_xa" press_data="ᥑ" />
+            <softkey id="@id/softkey_tai_le_letter_nga" press_data="ᥒ" />
+            <softkey id="@id/softkey_tai_le_letter_tsa" press_data="ᥓ" />
+            <softkey id="@id/softkey_tai_le_letter_sa" press_data="ᥔ" />
+            <softkey id="@id/softkey_tai_le_letter_ya" press_data="ᥕ" />
+            <softkey id="@id/softkey_tai_le_letter_ta" press_data="ᥖ" />
+            <softkey id="@id/softkey_tai_le_letter_tha" press_data="ᥗ" />
+            <softkey id="@id/softkey_tai_le_letter_la" press_data="ᥘ" />
+            <softkey id="@id/softkey_tai_le_letter_pa" press_data="ᥙ" />
+            <softkey id="@id/softkey_tai_le_letter_pha" press_data="ᥚ" />
+            <softkey id="@id/softkey_tai_le_letter_ma" press_data="ᥛ" />
+            <softkey id="@id/softkey_tai_le_letter_fa" press_data="ᥜ" />
+            <softkey id="@id/softkey_tai_le_letter_va" press_data="ᥝ" />
+            <softkey id="@id/softkey_tai_le_letter_ha" press_data="ᥞ" />
+            <softkey id="@id/softkey_tai_le_letter_qa" press_data="ᥟ" />
+            <softkey id="@id/softkey_tai_le_letter_kha" press_data="ᥠ" />
+            <softkey id="@id/softkey_tai_le_letter_tsha" press_data="ᥡ" />
+            <softkey id="@id/softkey_tai_le_letter_na" press_data="ᥢ" />
+            <softkey id="@id/softkey_tai_le_letter_tone_2" press_data="ᥰ" />
+            <softkey id="@id/softkey_tai_le_letter_tone_3" press_data="ᥱ" />
+            <softkey id="@id/softkey_tai_le_letter_tone_4" press_data="ᥲ" />
+            <softkey id="@id/softkey_tai_le_letter_tone_5" press_data="ᥳ" />
+            <softkey id="@id/softkey_tai_le_letter_tone_6" press_data="ᥴ" />
+            <softkey id="@id/softkey_tai_le_letter_a" press_data="ᥣ" />
+            <softkey id="@id/softkey_tai_le_letter_i" press_data="ᥤ" />
+            <softkey id="@id/softkey_tai_le_letter_ee" press_data="ᥥ" />
+            <softkey id="@id/softkey_tai_le_letter_eh" press_data="ᥦ" />
+            <softkey id="@id/softkey_tai_le_letter_u" press_data="ᥧ" />
+            <softkey id="@id/softkey_tai_le_letter_oo" press_data="ᥨ" />
+            <softkey id="@id/softkey_tai_le_letter_o" press_data="ᥩ" />
+            <softkey id="@id/softkey_tai_le_letter_ue" press_data="ᥪ" />
+            <softkey id="@id/softkey_tai_le_letter_e" press_data="ᥫ" />
+            <softkey id="@id/softkey_tai_le_letter_aue" press_data="ᥬ" />
+            <softkey id="@id/softkey_tai_le_letter_ai" press_data="ᥭ" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_number_row="false">
+        <if language="tdd-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_digit_one_with_myanmar" view_id="@id/key_pos_0_1" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_two_with_myanmar" view_id="@id/key_pos_0_2" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_three_with_myanmar" view_id="@id/key_pos_0_3" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_four_with_myanmar" view_id="@id/key_pos_0_4" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_five_with_myanmar" view_id="@id/key_pos_0_5" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_six_with_myanmar" view_id="@id/key_pos_0_6" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_seven_with_myanmar" view_id="@id/key_pos_0_7" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_eight_with_myanmar" view_id="@id/key_pos_0_8" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_nine_with_myanmar" view_id="@id/key_pos_0_9" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_zero_with_myanmar" view_id="@id/key_pos_0_10" />
+            </merge_key_mapping>
+        </if>
+        <else_if language="bax-CM">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_mo" view_id="@id/key_pos_0_1" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_mbaa" view_id="@id/key_pos_0_2" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_tet" view_id="@id/key_pos_0_3" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_kpa" view_id="@id/key_pos_0_4" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_ten" view_id="@id/key_pos_0_5" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_ntuu" view_id="@id/key_pos_0_6" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_samba" view_id="@id/key_pos_0_7" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_faamae" view_id="@id/key_pos_0_8" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_kovuu" view_id="@id/key_pos_0_9" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_letter_koghom" view_id="@id/key_pos_0_10" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bqi-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_one" view_id="@id/key_pos_0_1" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_two" view_id="@id/key_pos_0_2" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_three" view_id="@id/key_pos_0_3" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_four" view_id="@id/key_pos_0_4" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_five" view_id="@id/key_pos_0_5" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_six" view_id="@id/key_pos_0_6" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_seven" view_id="@id/key_pos_0_7" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_eight" view_id="@id/key_pos_0_8" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_nine" view_id="@id/key_pos_0_9" />
+                <merge key_id="@id/softkey_fragment_superscript_extended_arabic_indic_digit_zero" view_id="@id/key_pos_0_10" />
+            </merge_key_mapping>
+        </else_if>
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_digit_one" view_id="@id/key_pos_0_1" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_two" view_id="@id/key_pos_0_2" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_three" view_id="@id/key_pos_0_3" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_four" view_id="@id/key_pos_0_4" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_five" view_id="@id/key_pos_0_5" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_six" view_id="@id/key_pos_0_6" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_seven" view_id="@id/key_pos_0_7" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_eight" view_id="@id/key_pos_0_8" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_nine" view_id="@id/key_pos_0_9" />
+                <merge key_id="@id/softkey_fragment_superscript_digit_zero" view_id="@id/key_pos_0_10" />
+            </merge_key_mapping>
+        </else>
+    </if>
+</framework>

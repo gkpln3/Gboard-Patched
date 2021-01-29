@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_symbol" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.BottomLeft"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

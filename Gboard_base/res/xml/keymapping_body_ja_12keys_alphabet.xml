@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_at" view_id="@id/key_pos_ja_12keys_key_0" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_abc" view_id="@id/key_pos_ja_12keys_key_1" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_def" view_id="@id/key_pos_ja_12keys_key_2" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_ghi" view_id="@id/key_pos_ja_12keys_key_3" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_jkl" view_id="@id/key_pos_ja_12keys_key_4" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_mno" view_id="@id/key_pos_ja_12keys_key_5" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_pqrs" view_id="@id/key_pos_ja_12keys_key_6" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_tuv" view_id="@id/key_pos_ja_12keys_key_7" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_wxyz" view_id="@id/key_pos_ja_12keys_key_8" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_case" view_id="@id/key_pos_ja_12keys_key_9" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_quote" view_id="@id/key_pos_ja_12keys_key_10" />
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_period" view_id="@id/key_pos_ja_12keys_key_11" />
+        <if japanese_use_tri_state_mode="true">
+            <mapping key_id="@id/softkey_ja_switch_to_tri_state_digit" view_id="@id/key_pos_switch_hiragana_alphabet" />
+        </if>
+        <else>
+            <mapping key_id="@id/softkey_switch_to_hiragana" view_id="@id/key_pos_switch_hiragana_alphabet" />
+        </else>
+    </key_mapping>
+    <key_mapping state="SHOW_LANGUAGE_SWITCH_KEY">
+        <mapping key_id="@id/softkey_ja_switch_to_next_language" view_id="@id/key_pos_ja_12keys_key_9" />
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@id/softkey_ja_12keys_alphabet_case" view_id="@id/key_pos_ja_12keys_key_9" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d ಕೀಗಳನ್ನು ನಿಯೋಜಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಕೀಗಳನ್ನು ನಿಯೋಜಿಸಲಾಗಿದೆ</item>
+    </plurals>
+</resources>

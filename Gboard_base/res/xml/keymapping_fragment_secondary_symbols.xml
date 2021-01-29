@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_secondary_symbols="true">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_superscript_commercial_at" view_id="@id/key_pos_1_0" />
+            <merge key_id="@id/softkey_fragment_superscript_number_sign" view_id="@id/key_pos_1_1" />
+            <merge key_id="@id/softkey_fragment_superscript_low_line" view_id="@id/key_pos_1_3" />
+            <merge key_id="@id/softkey_fragment_superscript_amp" view_id="@id/key_pos_1_4" />
+            <merge key_id="@id/softkey_fragment_superscript_hyphen_minus" view_id="@id/key_pos_1_5" />
+            <merge key_id="@id/softkey_fragment_superscript_plus_sign" view_id="@id/key_pos_1_6" />
+            <merge key_id="@id/softkey_fragment_superscript_vertical_line" view_id="@id/key_pos_1_11" />
+            <merge key_id="@id/softkey_fragment_superscript_grave_accent" view_id="@id/key_pos_2_0" />
+            <merge key_id="@id/softkey_fragment_superscript_asterisk" view_id="@id/key_pos_2_1" />
+            <merge key_id="@id/softkey_fragment_superscript_apostrophe" view_id="@id/key_pos_2_3" />
+            <merge key_id="@id/softkey_fragment_superscript_percent_sign" view_id="@id/key_pos_2_9" />
+            <merge key_id="@id/softkey_fragment_superscript_circumflex_accent" view_id="@id/key_pos_2_10" />
+        </merge_key_mapping>
+        <if language="ff-Adlm                   |iw                   |ji                   |ydd-IL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_arabic_left_parenthesis" view_id="@id/key_pos_1_7" />
+                <merge key_id="@id/softkey_fragment_superscript_arabic_right_parenthesis" view_id="@id/key_pos_1_8" />
+            </merge_key_mapping>
+        </if>
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_left_parenthesis" view_id="@id/key_pos_1_7" />
+                <merge key_id="@id/softkey_fragment_superscript_right_parenthesis" view_id="@id/key_pos_1_8" />
+            </merge_key_mapping>
+        </else>
+        <if language="ff-Adlm                   |qaa-x-alsatian" />
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_tilde" view_id="@id/key_pos_1_10" />
+            </merge_key_mapping>
+        </else>
+        <if language="el-GR|ru-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_quot_with_double_angle_bracket" view_id="@id/key_pos_2_2" />
+            </merge_key_mapping>
+        </if>
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_quot" view_id="@id/key_pos_2_2" />
+            </merge_key_mapping>
+        </else>
+        <if language="bax-CM">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_bamum_colon" view_id="@id/key_pos_2_4" />
+            </merge_key_mapping>
+        </if>
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_colon" view_id="@id/key_pos_2_4" />
+            </merge_key_mapping>
+        </else>
+        <if language="bax-CM">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_bamum_semicolon" view_id="@id/key_pos_2_5" />
+                <merge key_id="@id/softkey_fragment_superscript_bamum_question_mark" view_id="@id/key_pos_2_7" />
+            </merge_key_mapping>
+        </if>
+        <else_if language="ff-Adlm">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_reversed_semicolon" view_id="@id/key_pos_2_5" />
+            </merge_key_mapping>
+        </else_if>
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_semicolon" view_id="@id/key_pos_2_5" />
+            </merge_key_mapping>
+        </else>
+        <if language="bax-CM">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_bamum_njaemli" view_id="@id/key_pos_2_6" />
+            </merge_key_mapping>
+        </if>
+        <else_if language="shn-MM">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_myanmar_symbol_shan_exclamation" view_id="@id/key_pos_2_6" />
+            </merge_key_mapping>
+        </else_if>
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_exclamation_mark" view_id="@id/key_pos_2_6" />
+            </merge_key_mapping>
+        </else>
+        <if language="bax-CM">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_bamum_colon" view_id="@id/key_pos_2_4" />
+            </merge_key_mapping>
+        </if>
+        <else_if language="ccp-BD">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_chakma_question_mark" view_id="@id/key_pos_2_7" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ff-Adlm">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_arabic_question_mark" view_id="@id/key_pos_2_7" />
+            </merge_key_mapping>
+        </else_if>
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_question_mark" view_id="@id/key_pos_2_7" />
+            </merge_key_mapping>
+        </else>
+        <if language="fo-FO" />
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_reverse_solidus" view_id="@id/key_pos_2_8" />
+            </merge_key_mapping>
+        </else>
+        <if language="ibb-NG" />
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_slash" view_id="@id/key_pos_1_9" />
+            </merge_key_mapping>
+        </else>
+    </if>
+    <include href="@xml/keymapping_fragment_secondary_symbols_currency_language_specific" />
+</framework>

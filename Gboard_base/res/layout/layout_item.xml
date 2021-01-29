@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/layout_item_parent" style="@style/JapaneseLayoutSetupPage_LayoutItemParent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="@dimen/keyboard_layout_item_margin" android:layout_weight="1.0" layout="@layout/setting_keyboard_layout_preview" />
+    <TextView style="@style/JapaneseLayoutSetupPage_LayoutItemName" />
+</LinearLayout>

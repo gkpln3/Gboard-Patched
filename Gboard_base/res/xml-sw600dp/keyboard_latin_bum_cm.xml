@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <include href="@xml/keyboard_fragment_tablet" />
+    <keyboard>
+        <view layout="@layout/keyboard_latin_tablet_12_11_12_single_shift_body" type="body">
+            <include href="@xml/keymapping_bum_cm" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_latin_fragment_superscript" />
+</framework>

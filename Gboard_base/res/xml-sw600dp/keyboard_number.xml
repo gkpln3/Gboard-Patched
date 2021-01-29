@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.Keyboard" id="@id/keyboard_number">
+        <view layout="@layout/keyboard_number_body" type="body">
+            <softkeys href="@xml/softkeys_input_number_and_date_time" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_punctuation_number_tablet" />
+            <include href="@xml/keymapping_keyboard_number_tablet" />
+        </view>
+    </keyboard>
+</framework>

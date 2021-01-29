@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1.0" class="com.google.android.apps.inputmethod.latinguyk.keyboard.LatinHandwritingPrimeKeyboard" id="@id/keyboard_handwriting" popup="@attr/PopupBubbleLayout" session_states="SHIFT_LOCK">
+        <view layout="@layout/keyboard_prime_header_handwriting_cj" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_header_prime" />
+            <softkeys href="@xml/softkeys_header_candidates" />
+            <include href="@xml/keymapping_header_candidates" />
+            <include href="@xml/keymapping_header_en_qwerty" />
+        </view>
+        <view layout="@layout/keyboard_halfscreen_handwriting_body_cj" type="body">
+            <motion_event_handler class=".libs.framework.keyboard.handler.BasicMotionEventHandler" />
+            <motion_event_handler class=".libs.handwriting.keyboard.HandwritingMotionEventHandler" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_handwriting_override" />
+            <softkeys href="@xml/softkeys_handwriting_function" />
+            <include href="@xml/keymapping_function_latin" />
+            <include href="@xml/keymapping_function_handwriting" />
+            <include href="@xml/keymapping_halfscreen_handwriting_body" />
+            <include href="@xml/keymapping_function_ime_action_handwriting" />
+            <include href="@xml/keymapping_candidates_right_panel_handwriting" />
+        </view>
+        <view id="@id/fullscreen_handwriting_body" layout="@layout/keyboard_fullscreen_handwriting_body_cj" type="body">
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_handwriting_override" />
+            <softkeys href="@xml/softkeys_punctuation_handwriting" />
+            <softkeys href="@xml/softkeys_handwriting_function" />
+            <include href="@xml/keymapping_function_latin" />
+            <include href="@xml/keymapping_function_handwriting" />
+            <include href="@xml/keymapping_fullscreen_handwriting_body" />
+            <include href="@xml/keymapping_function_ime_action_handwriting" />
+            <include href="@xml/keymapping_candidates_right_panel_handwriting" />
+        </view>
+        <view id="@id/fullscreen_handwriting_panel" layout="@layout/keyboard_fullscreen_handwriting_panel">
+            <motion_event_handler class=".libs.handwriting.keyboard.FullscreenHandwritingMotionEventHandler" />
+        </view>
+    </keyboard>
+</framework>

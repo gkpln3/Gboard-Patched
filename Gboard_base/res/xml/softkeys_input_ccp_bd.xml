@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_chakma_letter_ngaa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_sign_anusvara" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_yaa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_yyaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_ddaa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_ddhaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_paa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_phaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_ttaa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_tthaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_caa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_chaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_jaa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_jhaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_haa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_nyaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_gaa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_ghaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_waa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_u" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_ai" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_o_mark" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_u" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_uu" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_i" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_ii" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_a" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_aa" press_data="" />
+            <softkey id="@id/softkey_chakma_danda" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_baa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_bhaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_kaa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_khaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_taa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_thaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_daa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_dhaa" press_data="" />
+            <softkey id="@id/softkey_chakma_maayyaa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_virama_chakma_letter_aa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_i" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_virama_chakma_letter_i" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_o" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_au" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_e" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_vowel_sign_oi" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_raa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_laa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_naa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_nnaa" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_saa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_au_mark" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_maa" long_press_data="" press_data="" />
+            <softkey id="@id/softkey_chakma_letter_e" press_data="" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press">
+            <softkey id="@id/softkey_chakma_virama" long_press_data="" long_press_label="" press_data="" press_label="" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_simple">
+            <softkey hint_label="" id="@id/softkey_chakma_letter_lhaa" long_press_data="" press_data="" />
+            <softkey hint_label="" id="@id/softkey_chakma_sign_candrabindu" long_press_data="" press_data="" />
+        </softkey_list>
+    </softkeys>
+</framework>

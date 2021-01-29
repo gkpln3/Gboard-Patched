@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="?colorSecondary" android:state_activated="true" />
+    <item android:state_checked="true" android:color="?colorSecondary" />
+    <item android:color="@color/google_transparent" />
+</selector>

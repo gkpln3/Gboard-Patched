@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_symbols_flip" view_id="@id/key_pos_shift" />
+        <mapping key_id="@id/softkey_symbols_flip" view_id="@id/key_pos_right_side_3rd_key" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/softkey_more_symbols_flip" view_id="@id/key_pos_shift" />
+        <mapping key_id="@id/softkey_more_symbols_flip" view_id="@id/key_pos_right_side_3rd_key" />
+    </key_mapping>
+    <include href="@xml/keymapping_fragment_more_symbols_flip_language_specific" />
+</framework>

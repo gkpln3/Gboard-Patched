@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_devanagari_letter_tta" long_press_data="१" merge_index="1" press_data="ट" />
+            <softkey id="@id/softkey_devanagari_letter_dha" long_press_data="२" merge_index="1" press_data="ध" />
+            <softkey id="@id/softkey_devanagari_letter_bha" long_press_data="३" merge_index="1" press_data="भ" />
+            <softkey id="@id/softkey_devanagari_letter_ca" long_press_data="४" merge_index="1" press_data="च" />
+            <softkey id="@id/softkey_devanagari_letter_ta" long_press_data="५" merge_index="1" press_data="त" />
+            <softkey id="@id/softkey_devanagari_letter_tha" long_press_data="६" merge_index="1" press_data="थ" />
+            <softkey id="@id/softkey_devanagari_letter_ga" long_press_data="७" merge_index="1" press_data="ग" />
+            <softkey id="@id/softkey_devanagari_letter_ssa" long_press_data="८" merge_index="1" press_data="ष" />
+            <softkey id="@id/softkey_devanagari_letter_ya" long_press_data="९" merge_index="1" press_data="य" />
+            <softkey id="@id/softkey_devanagari_letter_u" long_press_data="०" merge_index="1" press_data="उ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_devanagari_letter_ta_2" long_press_data="ञ,ज्ञ,॥" press_data="त्त" />
+            <softkey id="@id/softkey_devanagari_letter_dda" long_press_data="ई" press_data="ड्ढ" />
+            <softkey id="@id/softkey_devanagari_letter_ai" long_press_data="घ,ऍ" press_data="ऐ" />
+            <softkey id="@id/softkey_devanagari_letter_da_2" long_press_data="द्ध" press_data="द्व" />
+            <softkey id="@id/softkey_devanagari_letter_tta_2" long_press_data="छ" press_data="ट्ट" />
+            <softkey id="@id/softkey_devanagari_letter_ttha" long_press_data="ट" press_data="ठ्ठ" />
+            <softkey id="@id/softkey_devanagari_letter_uu" long_press_data="ठ" press_data="ऊ" />
+            <softkey id="@id/softkey_devanagari_letter_ka_2" long_press_data="ड" press_data="क्ष" />
+            <softkey id="@id/softkey_devanagari_letter_i_2" long_press_data="ढ" press_data="इ" />
+            <softkey id="@id/softkey_devanagari_letter_e" long_press_data="ण" press_data="ए" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_vocalic_r" long_press_data="ओ,ऑ" press_data="ृ" />
+            <softkey id="@id/softkey_devanagari_letter_i" long_press_data="औ" press_data="इ" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_ai" long_press_data="श्र,ॅ" press_data="ै" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_e" long_press_data="ः,ऽ" press_data="े" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_o" long_press_data="ॉ" press_data="ो" />
+            <softkey id="@id/softkey_devanagari_letter_ra" long_press_data="रु" press_data="र" />
+            <softkey id="@id/softkey_devanagari_sign_anusvara" long_press_data="़" press_data="ं" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_devanagari_letter_aa" press_data="आ" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_au" press_data="ौ" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_i" press_data="ि" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_u" press_data="ु" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_ii" press_data="ी" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_aa" press_data="ा" />
+            <softkey id="@id/softkey_devanagari_vowel_sign_uu" press_data="ू" />
+            <softkey id="@id/softkey_devanagari_sign_candrabindu" press_data="ँ" />
+            <softkey id="@id/softkey_devanagari_sign_virama" press_data="्" />
+            <softkey id="@id/softkey_devanagari_letter_nga_2" press_data="ङ्" />
+            <softkey id="@id/softkey_devanagari_letter_dda_2" press_data="ड्ड" />
+            <softkey id="@id/softkey_devanagari_letter_da_3" press_data="द्द" />
+            <softkey id="@id/softkey_devanagari_letter_jha" press_data="झ" />
+            <softkey id="@id/softkey_devanagari_letter_pha" press_data="फ" />
+            <softkey id="@id/softkey_devanagari_letter_tta_3" press_data="ट्ठ" />
+            <softkey id="@id/softkey_devanagari_letter_ba" press_data="ब" />
+            <softkey id="@id/softkey_devanagari_letter_ka" press_data="क" />
+            <softkey id="@id/softkey_devanagari_letter_ma" press_data="म" />
+            <softkey id="@id/softkey_devanagari_letter_na" press_data="न" />
+            <softkey id="@id/softkey_devanagari_letter_ja" press_data="ज" />
+            <softkey id="@id/softkey_devanagari_letter_va" press_data="व" />
+            <softkey id="@id/softkey_devanagari_letter_pa" press_data="प" />
+            <softkey id="@id/softkey_devanagari_letter_sa" press_data="स" />
+            <softkey id="@id/softkey_devanagari_letter_ka_3" press_data="क्" />
+            <softkey id="@id/softkey_devanagari_letter_ha_2" press_data="ह्म" />
+            <softkey id="@id/softkey_devanagari_letter_vocalic_r" press_data="ऋ" />
+            <softkey id="@id/softkey_devanagari_om" press_data="ॐ" />
+            <softkey id="@id/softkey_devanagari_letter_da_4" press_data="द्य" />
+            <softkey id="@id/softkey_devanagari_letter_nga" press_data="ङ" />
+            <softkey id="@id/softkey_devanagari_letter_sha" press_data="श" />
+            <softkey id="@id/softkey_devanagari_letter_ha" press_data="ह" />
+            <softkey id="@id/softkey_devanagari_letter_a" press_data="अ" />
+            <softkey id="@id/softkey_devanagari_letter_kha" press_data="ख" />
+            <softkey id="@id/softkey_devanagari_letter_da" press_data="द" />
+            <softkey id="@id/softkey_devanagari_letter_la" press_data="ल" />
+        </softkey_list>
+    </softkeys>
+</framework>

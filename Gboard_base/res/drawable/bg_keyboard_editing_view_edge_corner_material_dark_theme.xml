@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bg_keyboard_editing_view_edge_corner_enabled_material_dark_theme" android:state_activated="true" />
+    <item android:drawable="@drawable/bg_keyboard_editing_view_edge_corner_disabled" android:state_activated="false" />
+</selector>

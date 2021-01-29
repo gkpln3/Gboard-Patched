@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SettingsDialogBody"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@id/message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_dialog_sync_clear_message" style="@style/SettingsDialogLabel" />
+        <TextView android:gravity="center" android:id="@id/captcha" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" style="@style/SettingsDialogLabel.Captcha" />
+        <EditText android:gravity="fill_horizontal" android:id="@id/input" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scrollHorizontally="true" android:inputType="number" android:contentDescription="@string/confirmation_number_field_content_desc" style="@style/SettingsDialogEdit" />
+    </LinearLayout>
+</ScrollView>

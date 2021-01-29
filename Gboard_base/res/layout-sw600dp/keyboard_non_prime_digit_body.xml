@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/Body"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/NonPrimeBodyInner">
+        <include layout="@layout/keyboard_non_prime_digit_input_area" />
+        <include layout="@layout/keyboard_non_prime_bottom_digit" />
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

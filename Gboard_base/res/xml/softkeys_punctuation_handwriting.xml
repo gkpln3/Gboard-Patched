@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@id/softkey_template_punctuation_handwriting" layout="@layout/softkey_qwerty_label_character">
+            <action data="$text$" intention="COMMIT" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/label" value="$text$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_punctuation_handwriting">
+            <softkey id="@id/softkey_single_quotation" text="'" />
+            <softkey id="@id/softkey_question" text="@string/punctuation_question" />
+            <softkey id="@id/softkey_exclamation" text="@string/punctuation_exclamation" />
+            <softkey id="@id/softkey_comma" text="@string/punctuation_comma" />
+            <softkey id="@id/softkey_sentence" text="@string/punctuation_sentence" />
+            <softkey id="@id/softkey_colon" text="@string/punctuation_colon" />
+            <softkey id="@id/softkey_semicolon" text="@string/punctuation_semicolon" />
+            <softkey id="@id/softkey_at" text="\@" />
+            <softkey id="@id/softkey_fullwidth_question_mark" text="？" />
+            <softkey id="@id/softkey_fullwidth_exclamation_mark" text="！" />
+            <softkey id="@id/softkey_ideographic_full_stop" text="。" />
+            <softkey id="@id/softkey_fullwidth_comma" text="，" />
+            <softkey id="@id/softkey_fullwidth_colon" text="：" />
+            <softkey id="@id/softkey_fullwidth_semicolon" text="；" />
+        </softkey_list>
+    </softkeys>
+</framework>

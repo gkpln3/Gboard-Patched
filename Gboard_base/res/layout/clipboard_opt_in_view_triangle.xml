@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View android:id="@id/clipboard_opt_in_triangle" android:background="@drawable/clipboard_tooltip_triangle" android:layout_width="@dimen/clipboard_opt_in_tooltip_triangle_size" android:layout_height="@dimen/clipboard_opt_in_tooltip_triangle_size" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

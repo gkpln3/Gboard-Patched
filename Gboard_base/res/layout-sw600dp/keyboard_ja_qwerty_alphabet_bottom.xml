@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_hiragana_alphabet" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.BottomLeft" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_symbol" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_bottom_symbol_1" android:layout_weight="100.0" style="@style/SoftKey.Bottom" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_space" android:layout_weight="400.0" style="@style/SoftKey.Bottom.Space" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_bottom_symbol_2" android:layout_weight="100.0" style="@style/SoftKey.Bottom" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_left_arrow" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_right_arrow" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.BottomRight" />
+</LinearLayout>

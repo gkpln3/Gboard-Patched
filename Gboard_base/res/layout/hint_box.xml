@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.widget.HintView android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/hint_box_text" style="@style/HintBoxText" />
+    <ImageView android:id="@id/hint_box_arrow" android:layout_below="@id/hint_box_text" style="@style/HintBoxArrow" />
+</com.google.android.apps.inputmethod.libs.framework.keyboard.widget.HintView>

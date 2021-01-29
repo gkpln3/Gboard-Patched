@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template alpha="@attr/IconAlphaOpaque" content_description="$desc$" disable_lift_to_tap="true" id="@id/softkey_template_clipboard_editkey" layout="@layout/softkey_clipboard_editkey" multi_touch="false">
+            <action keycode="$keycode$" popup_label="$popup_label$" popup_layout="$popup_layout$" repeatable="$repeatable$" type="PRESS" />
+            <icon location="@id/icon" value="$icon$" />
+        </softkey_template>
+        <softkey_template alpha="@attr/IconAlphaOpaque" content_description="$desc$" disable_lift_to_tap="true" id="@id/softkey_template_clipboard_editkey_unpin" layout="@layout/softkey_clipboard_editkey_pinned" multi_touch="false">
+            <action keycode="$keycode$" popup_label="$popup_label$" popup_layout="$popup_layout$" repeatable="$repeatable$" type="PRESS" />
+            <icon location="@id/icon" value="$icon$" />
+        </softkey_template>
+        <softkey_template additional_content_description="$empty_reason$" alpha="@attr/IconAlphaOpaque" content_description="$desc$" disable_lift_to_tap="true" id="@id/softkey_template_clipboard_editkey_inactive" layout="@layout/softkey_clipboard_editkey_inactive" multi_touch="false">
+            <icon location="@id/icon" value="$icon$" />
+        </softkey_template>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/clipboard_close_clipboard_content_desc" disable_lift_to_tap="true" id="@id/softkey_close_clipboard" layout="@layout/softkey_function_key_icon">
+            <action data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_arrow_back_white_24" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/clipboard_close_clipboard_content_desc" disable_lift_to_tap="true" id="@id/softkey_close_clipboard_rtl" layout="@layout/softkey_function_key_icon">
+            <action data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_arrow_forward_white_24" />
+        </softkey>
+        <softkey_list template_id="@id/softkey_template_clipboard_editkey">
+            <softkey desc="@string/clipboard_add_content_desc" icon="@drawable/quantum_ic_add_white_24" id="@id/softkey_add" keycode="CLIPBOARD_ADD" repeatable="false" />
+            <softkey desc="@string/clipboard_edit_content_desc" icon="@drawable/quantum_ic_edit_white_24" id="@id/softkey_edit" keycode="CLIPBOARD_EDIT" repeatable="false" />
+            <softkey desc="@string/clipboard_close_edit_content_desc" icon="@drawable/quantum_ic_close_white_24" id="@id/softkey_close_edit" keycode="CLIPBOARD_CLOSE_EDIT" repeatable="false" />
+            <softkey desc="@string/clipboard_batch_delete_content_desc" icon="@drawable/quantum_gm_ic_delete_white_24" id="@id/softkey_batch_delete" keycode="CLIPBOARD_BATCH_DELETE" repeatable="false" />
+            <softkey desc="@string/clipboard_batch_pin_content_desc" icon="@drawable/quantum_gm_ic_keep_pin_outline_white_24" id="@id/softkey_batch_pin" keycode="CLIPBOARD_BATCH_PIN" repeatable="false" />
+            <softkey desc="@string/clipboard_optin_enabled_content_desc" icon="@drawable/ic_clipboard_toggle_on" id="@id/softkey_optin_enabled" keycode="CLIPBOARD_OPT_IN_REVERSE" repeatable="false" />
+            <softkey desc="@string/clipboard_optin_disabled_content_desc" icon="@drawable/ic_clipboard_toggle_off" id="@id/softkey_optin_disabled" keycode="CLIPBOARD_OPT_IN_REVERSE" repeatable="false" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_clipboard_editkey_unpin">
+            <softkey desc="@string/clipboard_batch_unpin_content_desc" icon="@drawable/quantum_gm_ic_keep_pin_gm_blue_24" id="@id/softkey_batch_unpin" keycode="CLIPBOARD_BATCH_UNPIN" repeatable="false" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_clipboard_editkey_inactive">
+            <softkey desc="@string/clipboard_batch_delete_content_desc" empty_reason="@string/clipboard_inactive_empty_reason" icon="@drawable/quantum_gm_ic_delete_white_24" id="@id/softkey_batch_delete_inactive" />
+            <softkey desc="@string/clipboard_batch_pin_content_desc" empty_reason="@string/clipboard_inactive_empty_reason" icon="@drawable/quantum_gm_ic_keep_pin_outline_white_24" id="@id/softkey_batch_pin_inactive" />
+            <softkey desc="@string/clipboard_add_content_desc" empty_reason="@string/clipboard_add_inactive_select_reason" icon="@drawable/quantum_ic_add_white_24" id="@id/softkey_add_inactive_by_item_selected" />
+            <softkey desc="@string/clipboard_add_content_desc" empty_reason="@string/clipboard_add_inactive_no_enough_room_display_reason" icon="@drawable/quantum_ic_add_white_24" id="@id/softkey_add_inactive_by_no_enough_room" />
+            <softkey desc="@string/clipboard_edit_content_desc" empty_reason="@string/clipboard_inactive_opt_in_disabled" icon="@drawable/quantum_ic_edit_white_24" id="@id/softkey_edit_inactive_reason_opt_in_disabled" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="114.0">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_shift" android:layout_weight="38.0" style="@style/SoftKey.Bottom.Dark.BottomLeft">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+                <FrameLayout android:id="@id/host" android:paddingTop="?MorseBottomIconPaddingTop" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0" />
+                <ImageView android:src="@drawable/bg_morse_hint_for_shift_key" android:layout_weight="200.0" style="@style/MorseHint.Bottom" />
+            </LinearLayout>
+        </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_morse_hint_card" android:visibility="gone" android:layout_weight="38.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+                <FrameLayout android:id="@id/host" android:paddingTop="?MorseBottomIconPaddingTop" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0" />
+                <ImageView android:src="@drawable/bg_morse_hint_for_hint_card" android:layout_weight="200.0" style="@style/MorseHint.Bottom" />
+            </LinearLayout>
+        </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_next_language" android:visibility="gone" android:layout_weight="38.0" android:foregroundGravity="center|right|top|clip_horizontal|clip_vertical" style="@style/SoftKey.Bottom.Dark.DarkOrDefault">
+            <LinearLayout android:gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+                <FrameLayout android:id="@id/host" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="?MorseSwitchToNextLanguageWeight" />
+            </LinearLayout>
+        </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+    </LinearLayout>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_space" android:layout_weight="126.0" style="@style/SoftKey.Bottom.Space">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+            <FrameLayout android:id="@id/host" android:paddingTop="?MorseBottomIconPaddingTop" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0" />
+            <ImageView android:src="@drawable/bg_morse_hint_for_space_key" android:layout_weight="200.0" style="@style/MorseHint.Bottom" />
+        </LinearLayout>
+    </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_del" android:layout_weight="57.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+            <FrameLayout android:id="@id/host" android:paddingTop="?MorseBottomIconPaddingTop" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0" />
+            <ImageView android:src="@drawable/bg_morse_hint_for_delete_key" android:layout_weight="200.0" style="@style/MorseHint.Bottom" />
+        </LinearLayout>
+    </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="57.0" style="@style/SoftKey.Bottom.ImeActionMorse.BottomRight" />
+</LinearLayout>

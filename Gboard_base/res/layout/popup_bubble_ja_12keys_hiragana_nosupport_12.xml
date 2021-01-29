@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MultiLabelPopupView android:id="@id/popup_bubble" android:layout_width="wrap_content" android:layout_height="wrap_content" app:CoversSoftKey="false" app:PopupDistance="@dimen/material_popup_distance"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/popup_outline" style="@style/MaterialPopupOutline.JaTwelveKeys">
+        <FrameLayout android:layout_width="@dimen/keyboard_twelvekeys_default_height" android:layout_height="@dimen/keyboard_twelvekeys_default_height">
+            <TextView android:id="@id/popup_label_0" android:layout_marginRight="@dimen/label_margin_popup_twelvekeys_hiragana_nosupport_12_label0_right" style="@style/MaterialPopupLabel.JaTwelveKeys.Hiragana12" />
+            <TextView android:id="@id/popup_label_1" android:layout_marginRight="@dimen/label_margin_popup_twelvekeys_hiragana_nosupport_12_label1_right" style="@style/MaterialPopupLabel.JaTwelveKeys.Hiragana12" />
+            <TextView android:id="@id/popup_label_2" android:layout_marginLeft="@dimen/label_margin_popup_twelvekeys_hiragana_nosupport_12_label2_left" style="@style/MaterialPopupLabel.JaTwelveKeys.Hiragana12" />
+            <TextView android:id="@id/popup_label_3" android:layout_marginLeft="@dimen/label_margin_popup_twelvekeys_hiragana_nosupport_12_label3_left" style="@style/MaterialPopupLabel.JaTwelveKeys.Hiragana12" />
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MultiLabelPopupView>

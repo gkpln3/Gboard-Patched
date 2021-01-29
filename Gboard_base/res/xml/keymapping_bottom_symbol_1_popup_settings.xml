@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping exclude_state="NO_SETTINGS_KEY">
+        <if device="tablet">
+            <if language="ar                     |az-IR                     |bal                     |bcc-PK                     |bft-PK                     |bgn-PK                     |bgp-Arab                     |bqi-IR                     |brh-Arab                     |dcc                     |doi-Arab                     |dv                     |fa                     |fay-IR                     |gdq-YE                     |gjk-PK                     |gju-PK                     |glk                     |gwc-PK                     |hac-IR                     |haz-AF                     |hnd-PK                     |hno-PK                     |khw                     |kmz-Arab                     |ks-Arab                     |kvx-PK                     |lki-IR                     |lrc-IR                     |lrl-IR                     |luz-IR                     |mde-TD                     |mfa-TH                     |ms                     |mki-PK                     |mve-PK                     |mvy-PK                     |mzn                     |pa-PK                     |phr-PK                     |plk-PK                     |ps                     |psh-AF                     |psi-AF                     |qxq-IR                     |scl-PK                     |sd-Arab                     |sdh-IR                     |skr                     |syc-IQ                     |tks-IR                     |tly-IR                     |trw                     |ug                     |ur-IN|ur-PK                     |wne-PK">
+                <merge key_id="@id/softkey_fragment_bottom_popup_settings_with_symbols" view_id="@id/key_pos_bottom_symbol_1" />
+            </if>
+            <else>
+                <merge key_id="@id/softkey_fragment_bottom_popup_settings" view_id="@id/key_pos_bottom_symbol_1" />
+            </else>
+        </if>
+        <else>
+            <if variant="zhuyin">
+                <merge key_id="@id/softkey_fragment_bottom_popup_settings_with_symbols" view_id="@id/key_pos_bottom_symbol_1" />
+            </if>
+            <else_if language="za-CN" variant="dvorak">
+                <merge key_id="@id/softkey_fragment_bottom_popup_settings_with_symbols" view_id="@id/key_pos_bottom_symbol_1" />
+            </else_if>
+            <else>
+                <merge key_id="@id/softkey_fragment_bottom_popup_settings" view_id="@id/key_pos_bottom_symbol_1" />
+            </else>
+        </else>
+    </merge_key_mapping>
+</framework>

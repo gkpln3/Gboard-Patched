@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="left" android:layout_gravity="left" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/keyboard_editing_view_corner_left_top" android:contentDescription="@string/expand_keyboard_button_left_top_content_desc" android:rotation="270.0" style="@style/KeyboardEditingButton.ExpandButton" />
+    <FrameLayout android:layout_weight="@integer/keyboard_editing_vertical_spare_button_weight" style="@style/KeyboardEditingButton.Vertical" />
+    <ImageView android:id="@id/keyboard_editing_view_corner_left_bottom" android:contentDescription="@string/expand_keyboard_button_left_bottom_content_desc" android:rotation="180.0" style="@style/KeyboardEditingButton.ExpandButton" />
+</LinearLayout>

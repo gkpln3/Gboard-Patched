@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_balinese_vowel_sign_tedung" press_data="ᬵ" press_label=" " />
+            <softkey id="@id/softkey_balinese_vowel_sign_pepet" press_data="ᭂ" press_label=" " />
+            <softkey id="@id/softkey_balinese_vowel_sign_ulu" press_data="ᬶ" press_label=" " />
+            <softkey id="@id/softkey_balinese_vowel_sign_suku" press_data="ᬸ" press_label=" " />
+            <softkey id="@id/softkey_balinese_vowel_sign_taling" press_data="ᬾ" press_label=" " />
+            <softkey id="@id/softkey_balinese_vowel_sign_taling_repa" press_data="ᬿ" press_label=" " />
+            <softkey id="@id/softkey_balinese_vowel_sign_ra_repa" press_data="ᬺ" press_label=" " />
+            <softkey id="@id/softkey_balinese_vowel_sign_la_lenga" press_data="ᬼ" press_label=" " />
+            <softkey id="@id/softkey_balinese_sign_cecek" press_data="ᬂ" press_label=" " />
+            <softkey id="@id/softkey_balinese_sign_surang" press_data="ᬃ" press_label=" " />
+            <softkey id="@id/softkey_balinese_sign_bisah" long_press_data="ᬀ,ᬁ" long_press_label=" " press_data="ᬄ" press_label=" " />
+            <softkey id="@id/softkey_balinese_adeg_adeg" long_press_data="᬴" long_press_label=" " press_data="᭄" press_label=" " />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_balinese_letter_akara" long_press_data="ᬆ" press_data="ᬅ" />
+            <softkey id="@id/softkey_balinese_letter_ikara" long_press_data="ᬈ" press_data="ᬇ" />
+            <softkey id="@id/softkey_balinese_letter_ra_repa" long_press_data="ᬌ" press_data="ᬋ" />
+            <softkey id="@id/softkey_balinese_letter_la_lenga" long_press_data="ᬎ" press_data="ᬍ" />
+            <softkey id="@id/softkey_balinese_letter_ukara" long_press_data="ᬊ" press_data="ᬉ" />
+            <softkey id="@id/softkey_balinese_letter_ekara" press_data="ᬏ" />
+            <softkey id="@id/softkey_balinese_letter_aikara" press_data="ᬐ" />
+            <softkey id="@id/softkey_balinese_letter_okara" long_press_data="ᬒ" press_data="ᬑ" />
+            <softkey id="@id/softkey_balinese_letter_ha" press_data="ᬳ" />
+            <softkey id="@id/softkey_balinese_letter_na" press_data="ᬦ" />
+            <softkey id="@id/softkey_balinese_letter_ca" press_data="ᬘ" />
+            <softkey id="@id/softkey_balinese_letter_ra" press_data="ᬭ" />
+            <softkey id="@id/softkey_balinese_letter_ka" press_data="ᬓ" />
+            <softkey id="@id/softkey_balinese_letter_da" press_data="ᬤ" />
+            <softkey id="@id/softkey_balinese_letter_ta" press_data="ᬢ" />
+            <softkey id="@id/softkey_balinese_letter_sa" press_data="ᬲ" />
+            <softkey id="@id/softkey_balinese_letter_wa" press_data="ᬯ" />
+            <softkey id="@id/softkey_balinese_letter_la" press_data="ᬮ" />
+            <softkey id="@id/softkey_balinese_letter_ma" press_data="ᬫ" />
+            <softkey id="@id/softkey_balinese_letter_ga" press_data="ᬕ" />
+            <softkey id="@id/softkey_balinese_letter_ba" press_data="ᬩ" />
+            <softkey id="@id/softkey_balinese_letter_nga" press_data="ᬗ" />
+            <softkey id="@id/softkey_balinese_letter_pa" press_data="ᬧ" />
+            <softkey id="@id/softkey_balinese_letter_ja" press_data="ᬚ" />
+            <softkey id="@id/softkey_balinese_letter_ya" press_data="ᬬ" />
+            <softkey id="@id/softkey_balinese_letter_nya" press_data="ᬜ" />
+            <softkey id="@id/softkey_balinese_letter_na_rambat" press_data="ᬡ" />
+            <softkey id="@id/softkey_balinese_letter_ca_laca" press_data="ᬙ" />
+            <softkey id="@id/softkey_balinese_letter_ka_mahaprana" press_data="ᬔ" />
+            <softkey id="@id/softkey_balinese_letter_da_madu" press_data="ᬥ" />
+            <softkey id="@id/softkey_balinese_letter_da_murda_alpaprana" press_data="ᬟ" />
+            <softkey id="@id/softkey_balinese_letter_da_murda_mahaprana" press_data="ᬠ" />
+            <softkey id="@id/softkey_balinese_letter_ta_tawa" press_data="ᬣ" />
+            <softkey id="@id/softkey_balinese_letter_ta_latik" press_data="ᬝ" />
+            <softkey id="@id/softkey_balinese_letter_ta_murda_mahaprana" press_data="ᬞ" />
+            <softkey id="@id/softkey_balinese_letter_sa_saga" press_data="ᬰ" />
+            <softkey id="@id/softkey_balinese_letter_sa_sapa" press_data="ᬱ" />
+            <softkey id="@id/softkey_balinese_letter_ga_gora" press_data="ᬖ" />
+            <softkey id="@id/softkey_balinese_letter_ba_kembang" press_data="ᬪ" />
+            <softkey id="@id/softkey_balinese_letter_pa_kapal" press_data="ᬨ" />
+            <softkey id="@id/softkey_balinese_letter_ja_jera" press_data="ᬛ" />
+            <softkey id="@id/softkey_balinese_letter_kaf_sasak" long_press_data="ᭆ,ᭇ" press_data="ᭅ" />
+            <softkey id="@id/softkey_balinese_letter_ef_sasak" long_press_data="ᭉ" press_data="ᭈ" />
+            <softkey id="@id/softkey_balinese_letter_zal_sasak" long_press_data="ᭋ" press_data="ᭊ" />
+        </softkey_list>
+    </softkeys>
+    <include href="@xml/softkeys_input_prime_2_pages_switch" />
+</framework>

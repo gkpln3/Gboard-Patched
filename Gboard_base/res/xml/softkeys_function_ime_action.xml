@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkeys_function_ime_action_templates" />
+    <include href="@xml/softkeys_function_ime_action_fragments" />
+    <softkeys>
+        <softkey content_description="@string/enter_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_enter" layout="@layout/softkey_ime_action_icon">
+            <action keycode="ENTER" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconEnter" />
+        </softkey>
+        <softkey content_description="@string/enter_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_enter_plain_text" layout="@layout/softkey_ime_action_icon" popup_timing="ON_TOUCH">
+            <action data="\n" intention="COMMIT" keycode="PLAIN_TEXT" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconEnter" />
+        </softkey>
+        <softkey content_description="@string/emoji_button_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_emoji_as_action" layout="@layout/softkey_ime_action_icon_emoji" popup_timing="ON_TOUCH">
+            <action data="@string/action_key_popup_emoji_data" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSwitchToSmileyAsAction" />
+        </softkey>
+        <softkey content_description="@string/emoticon_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_emoticon_as_action" layout="@layout/softkey_ime_action_icon_emoticon" popup_timing="ON_TOUCH">
+            <action data="@string/action_key_popup_emoticon_data" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSwitchToEmoticonAsAction" />
+        </softkey>
+        <softkey_list template_id="@id/softkey_template_action_key">
+            <softkey desc="@string/go_key_content_desc" id="@id/softkey_action_go" layout="@layout/softkey_ime_action_icon_go" param_data="go" param_icon="@attr/IconGo" />
+            <softkey desc="@string/search_key_content_desc" id="@id/softkey_action_search" layout="@layout/softkey_ime_action_icon_search" param_data="search" param_icon="@attr/IconSearch" />
+            <softkey desc="@string/send_key_content_desc" id="@id/softkey_action_send" layout="@layout/softkey_ime_action_icon_send" param_data="send" param_icon="@attr/IconSend" />
+            <softkey desc="@string/navigate_next_key_content_desc" id="@id/softkey_action_next" layout="@layout/softkey_ime_action_icon_next" param_data="next" param_icon="@attr/IconNext" />
+            <softkey desc="@string/navigate_previous_key_content_desc" id="@id/softkey_action_previous" layout="@layout/softkey_ime_action_icon_previous" param_data="previous" param_icon="@attr/IconPrevious" />
+            <softkey desc="@string/done_key_content_desc" id="@id/softkey_action_done" layout="@layout/softkey_ime_action_icon_done" param_data="done" param_icon="@attr/IconDone" />
+        </softkey_list>
+    </softkeys>
+</framework>

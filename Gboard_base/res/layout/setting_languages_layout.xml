@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@android:id/list_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <android.support.v7.widget.RecyclerView android:id="@id/language_list" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/language_setting_bottom_strip" android:layout_width="fill_parent" android:layout_height="@dimen/setting_language_bottom_confirm_button_strip_height" android:layout_alignParentBottom="true" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip">
+        <Button android:id="@id/add_language_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_language_add_keyboard" style="@style/SettingsButton" />
+    </LinearLayout>
+</LinearLayout>

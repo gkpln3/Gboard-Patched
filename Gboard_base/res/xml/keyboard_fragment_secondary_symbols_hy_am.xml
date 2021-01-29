@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="body">
+            <softkeys href="@xml/softkeys_fragment_secondary_symbols" />
+            <softkeys href="@xml/softkeys_latin_fragment_secondary_digits" />
+            <include href="@xml/keymapping_fragment_secondary_symbols_hy_am" />
+            <include href="@xml/keymapping_latin_fragment_secondary_digits" />
+        </view>
+    </keyboard>
+</framework>

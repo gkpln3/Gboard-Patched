@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:tag=".keyboard-header-area" android:background="?BgHeader" android:layout_width="fill_parent" android:layout_height="@dimen/keyboard_header_height" app:allowMockActionDown="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewSwitcher android:id="@id/header_view_switcher" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.google.android.apps.inputmethod.libs.expression.recyclerview.BindingRecyclerView android:layout_gravity="center_vertical" android:id="@id/pack_header" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/keyboard_expression_header_horizontal_margin_portrait" android:paddingEnd="@dimen/keyboard_expression_header_horizontal_margin_portrait" />
+        <include layout="@layout/keyboard_expression_header_inner" />
+    </ViewSwitcher>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

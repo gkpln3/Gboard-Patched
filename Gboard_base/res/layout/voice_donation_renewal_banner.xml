@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout style="@style/VoiceDonationBannerView"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.AutoSizeMultiColorTextView android:textSize="@dimen/text_size_notice" android:textColor="#ff313132" android:layout_gravity="start|center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/voice_donation_renewal_banner_text" android:fontFamily="@font/google_sans" android:paddingStart="18.0dip" android:paddingEnd="42.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <ImageButton android:layout_gravity="center_vertical" android:id="@id/voice_donation_promo_dismiss_button" android:padding="18.0dip" android:layout_width="36.0dip" android:layout_height="36.0dip" android:src="@drawable/quantum_ic_close_grey600_24" android:contentDescription="@string/voice_banner_dismiss_promo_btn_content_desc" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" style="?android:borderlessButtonStyle" />
+</androidx.constraintlayout.widget.ConstraintLayout>

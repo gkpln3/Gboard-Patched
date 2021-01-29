@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/input_area" android:splitMotionEvents="false" style="@style/BodyInner"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/keyboard_halfscreen_handwriting_body_softkeys" />
+    <include layout="@layout/keyboard_handwriting_body_middle_panel_rtl" />
+</FrameLayout>

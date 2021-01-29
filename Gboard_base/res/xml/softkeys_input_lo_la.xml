@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_lao_letter_yo" long_press_data="໑" press_data="ຢ" />
+            <softkey id="@id/softkey_lao_letter_fo_sung" long_press_data="໒" press_data="ຟ" />
+            <softkey id="@id/softkey_lao_vowel_sign_o" long_press_data="໓" press_data="ໂ" />
+            <softkey id="@id/softkey_lao_letter_tho_sung" long_press_data="໔" press_data="ຖ" />
+            <softkey id="@id/softkey_lao_letter_kho_tam" long_press_data="໕" press_data="ຄ" />
+            <softkey id="@id/softkey_lao_letter_to" long_press_data="໖" press_data="ຕ" />
+            <softkey id="@id/softkey_lao_letter_co" long_press_data="໗" press_data="ຈ" />
+            <softkey id="@id/softkey_lao_letter_kho_sung" long_press_data="໘" press_data="ຂ" />
+            <softkey id="@id/softkey_lao_letter_so_tam" long_press_data="໙" press_data="ຊ" />
+            <softkey id="@id/softkey_lao_vowel_sign_ai" long_press_data="໐" press_data="ໄ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_lao_vowel_sign_u" press_data="ຸ" />
+            <softkey id="@id/softkey_lao_vowel_sign_uu" press_data="ູ" />
+            <softkey id="@id/softkey_lao_niggahita" press_data="ໍ" />
+            <softkey id="@id/softkey_lao_vowel_sign_mai_kon" press_data="ົ" />
+            <softkey id="@id/softkey_lao_vowel_sign_am" press_data="ຳ" />
+            <softkey id="@id/softkey_lao_letter_pho_tam" press_data="ພ" />
+            <softkey id="@id/softkey_lao_vowel_sign_a" press_data="ະ" />
+            <softkey id="@id/softkey_lao_vowel_sign_i" press_data="ິ" />
+            <softkey id="@id/softkey_lao_vowel_sign_ii" press_data="ີ" />
+            <softkey id="@id/softkey_lao_letter_ho_tam" press_data="ຮ" />
+            <softkey id="@id/softkey_lao_letter_no" press_data="ນ" />
+            <softkey id="@id/softkey_lao_letter_nyo" press_data="ຍ" />
+            <softkey id="@id/softkey_lao_letter_bo" press_data="ບ" />
+            <softkey id="@id/softkey_lao_letter_lo_loot" press_data="ລ" />
+            <softkey id="@id/softkey_lao_vowel_sign_mai_kan" press_data="ັ" />
+            <softkey id="@id/softkey_lao_letter_ho_sung" press_data="ຫ" />
+            <softkey id="@id/softkey_lao_letter_ko" press_data="ກ" />
+            <softkey id="@id/softkey_lao_letter_do" press_data="ດ" />
+            <softkey id="@id/softkey_lao_vowel_sign_e" press_data="ເ" />
+            <softkey id="@id/softkey_lao_tone_mai_tho" press_data="້" />
+            <softkey id="@id/softkey_lao_tone_mai_ek" press_data="່" />
+            <softkey id="@id/softkey_lao_vowel_sign_aa" press_data="າ" />
+            <softkey id="@id/softkey_lao_letter_so_sung" press_data="ສ" />
+            <softkey id="@id/softkey_lao_letter_wo" press_data="ວ" />
+            <softkey id="@id/softkey_lao_letter_ngo" press_data="ງ" />
+            <softkey id="@id/softkey_left_double_quotation_mark" press_data="“" />
+            <softkey id="@id/softkey_lao_letter_pho_sung" press_data="ຜ" />
+            <softkey id="@id/softkey_lao_letter_po" press_data="ປ" />
+            <softkey id="@id/softkey_lao_vowel_sign_ei" press_data="ແ" />
+            <softkey id="@id/softkey_lao_letter_o" press_data="ອ" />
+            <softkey id="@id/softkey_lao_vowel_sign_y" press_data="ຶ" />
+            <softkey id="@id/softkey_lao_vowel_sign_yy" press_data="ື" />
+            <softkey id="@id/softkey_lao_letter_tho_tam" press_data="ທ" />
+            <softkey id="@id/softkey_lao_letter_mo" press_data="ມ" />
+            <softkey id="@id/softkey_lao_vowel_sign_ay" press_data="ໃ" />
+            <softkey id="@id/softkey_lao_letter_fo_tam" press_data="ຝ" />
+            <softkey id="@id/softkey_lao_digit_one" press_data="໑" />
+            <softkey id="@id/softkey_lao_digit_two" press_data="໒" />
+            <softkey id="@id/softkey_lao_digit_three" press_data="໓" />
+            <softkey id="@id/softkey_lao_digit_four" press_data="໔" />
+            <softkey id="@id/softkey_lao_cancellation_mark" press_data="໌" />
+            <softkey id="@id/softkey_lao_semivowel_sign_lo" press_data="ຼ" />
+            <softkey id="@id/softkey_lao_digit_five" press_data="໕" />
+            <softkey id="@id/softkey_lao_digit_six" press_data="໖" />
+            <softkey id="@id/softkey_lao_digit_seven" press_data="໗" />
+            <softkey id="@id/softkey_lao_digit_eight" press_data="໘" />
+            <softkey id="@id/softkey_lao_digit_nine" press_data="໙" />
+            <softkey id="@id/softkey_lao_niggahita_2" press_data="ໍ່" />
+            <softkey id="@id/softkey_lao_vowel_sign_mai_kon_2" press_data="ົ້" />
+            <softkey id="@id/softkey_lao_digit_zero" press_data="໐" />
+            <softkey id="@id/softkey_lao_vowel_sign_am_2" press_data="ຳ້" />
+            <softkey id="@id/softkey_low_line" press_data="_" />
+            <softkey id="@id/softkey_plus_sign" press_data="+" />
+            <softkey id="@id/softkey_lao_vowel_sign_i_2" press_data="ິ້" />
+            <softkey id="@id/softkey_lao_vowel_sign_ii_2" press_data="ີ້" />
+            <softkey id="@id/softkey_lao_letter_lo_ling" press_data="ຣ" />
+            <softkey id="@id/softkey_lao_ho_no" press_data="ໜ" />
+            <softkey id="@id/softkey_lao_semivowel_sign_nyo" press_data="ຽ" />
+            <softkey id="@id/softkey_lao_letter_ho_sung_2" press_data="ຫຼ" />
+            <softkey id="@id/softkey_right_double_quotation_mark" press_data="”" />
+            <softkey id="@id/softkey_lao_vowel_sign_mai_kan_2" press_data="ັ້" />
+            <softkey id="@id/softkey_semicolon" press_data=";" />
+            <softkey id="@id/softkey_full_stop" press_data="." />
+            <softkey id="@id/softkey_colon" press_data=":" />
+            <softkey id="@id/softkey_lao_tone_mai_ti" press_data="໊" />
+            <softkey id="@id/softkey_lao_tone_mai_catawa" press_data="໋" />
+            <softkey id="@id/softkey_exclamation_mark" press_data="!" />
+            <softkey id="@id/softkey_question_mark" press_data="\?" />
+            <softkey id="@id/softkey_percent_sign" press_data="%" />
+            <softkey id="@id/softkey_equals_sign" press_data="=" />
+            <softkey id="@id/softkey_kip_sign" press_data="₭" />
+            <softkey id="@id/softkey_left_parenthesis" press_data="(" />
+            <softkey id="@id/softkey_lao_ellipsis" press_data="ຯ" />
+            <softkey id="@id/softkey_commercial_at" press_data="\@" />
+            <softkey id="@id/softkey_lao_vowel_sign_y_2" press_data="ຶ້" />
+            <softkey id="@id/softkey_lao_vowel_sign_yy_2" press_data="ື້" />
+            <softkey id="@id/softkey_lao_ko_la" press_data="ໆ" />
+            <softkey id="@id/softkey_lao_ho_mo" press_data="ໝ" />
+            <softkey id="@id/softkey_dollar_sign" press_data="$" />
+            <softkey id="@id/softkey_right_parenthesis" press_data=")" />
+        </softkey_list>
+    </softkeys>
+</framework>

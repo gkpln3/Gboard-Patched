@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/input_area" android:splitMotionEvents="false" style="@style/BodyInner.HandwritingFullscreen"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/keyboard_fullscreen_handwriting_body_softkeys_cj" />
+</FrameLayout>

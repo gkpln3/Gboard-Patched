@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_key_morse_dot" android:left="30.0dip" android:right="145.0dip" />
+    <item android:drawable="@drawable/ic_key_morse_dot" android:left="47.0dip" android:right="128.0dip" />
+    <item android:drawable="@drawable/ic_key_morse_dot" android:left="64.0dip" android:right="111.0dip" />
+    <item android:drawable="@drawable/ic_key_morse_dash" android:left="81.0dip" android:right="84.0dip" />
+    <item android:drawable="@drawable/ic_key_morse_dash" android:left="108.0dip" android:right="57.0dip" />
+    <item android:drawable="@drawable/ic_key_morse_dash" android:left="135.0dip" android:right="30.0dip" />
+</layer-list>

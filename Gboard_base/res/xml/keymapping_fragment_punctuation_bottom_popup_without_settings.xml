@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+        <merge key_id="@id/softkey_fragment_bottom_period_popup_dot_com" view_id="@id/key_pos_bottom_symbol_2" />
+    </merge_key_mapping>
+    <if language="adx-CN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_tibetan" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </if>
+    <else_if language="ahr-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="aii">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_syriac" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="am">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic_legacy" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="an-ES">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="anp-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ar" variant="arabic|arabic_two|handwriting">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="arn-CL">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="as-IN" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ast-ES">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="awa-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ay-BO|ay-PE">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="az-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bal-PK" variant="balochi">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bal-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ban-Bali">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_balinese" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bax-CM">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_bamum" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bcc-PK" variant="balochi">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bcc-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bcq-Ethi">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bft-PK" variant="balti">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bft-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bfy-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bfz-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bgc-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bgn-PK" variant="balochi">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bgn-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bgp-Arab" variant="balochi">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bgp-Arab" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bgq-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bgq-PK" variant="bagri_arabic">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bgq-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bhb-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bhb-Gujr" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_gujarati_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bho-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bjj-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="blt-VN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_tai_viet" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bm-Nkoo">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_nko" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bn-IN|bn-BD">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bns-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bqi-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_luri" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="brh-Arab" variant="brahui">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="brh-Arab" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="brx-Deva|brx-Beng">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="btm-Batk">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_batak" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="bts-Batk">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_batak" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ca">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_catalan" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ccp-BD">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup_chakma" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="cja-KH">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_cham" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="cjm-VN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_cham" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="cld-IQ">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_syriac" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="cop-EG">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_coptic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="cr-Cans-CA">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_canadian_syllabics" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ctg-BD">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="cu-RU">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_church_slavonic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="dcc-IN" variant="dakhini">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="dhd-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="doi-Arab" variant="dogri_arabic">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="doi-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="dty-NP">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="dyu-Nkoo">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_nko" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="es-419|es-AR|es-ES|es-MX|es-US">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="fa" variant="handwriting|persian">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="fa" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="fay-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ff-Adlm">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_adlam" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gbm-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gdq-YE">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gdx-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gez">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic_legacy" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gjk-PK">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gju-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gju-PK" variant="gujari">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gju-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="glk-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gn">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gno-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gno-Telu">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="grt-Beng">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="grt-Latn">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_catalan" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="guc-CO">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gvr-NP">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="gwc-PK">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_kalam_kohistani" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hac-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="haz-AF">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_pashto" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hdy-ET">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hi-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hif-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hlb-IN|hlb-Orya">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hnd-PK" variant="hindko">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hnd-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hne-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hni-CN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_hani" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hno-PK" variant="hindko">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hno-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hoj-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="hwc-US">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_okina" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ii">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_chinese" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="iw">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_hebrew" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ji" variant="yiddish">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_hebrew" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bottom_hebrew_patah_popup" view_id="@id/key_pos_zwnj_with_zwj" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ji" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_hebrew" view_id="@id/key_pos_bottom_symbol_2" />
+            <merge key_id="@id/softkey_fragment_bottom_hebrew_geresh_translit_popup" view_id="@id/key_pos_zwnj_with_zwj" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="jv-Java">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_javanese_pada_lungsi_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kek-GT">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kfq-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kfy-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="khb-CN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_chinese" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="khg-CN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_tibetan" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="khw" variant="khowar">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="khw" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kmz-Arab">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_khorasani_turkic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kn-IN" variant="kannada_india">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="knn-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kok-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kru-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kru-Mlym">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ks-Arab" variant="kashmiri_arabic">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_kashmiri" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ks-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ktb-Ethi">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ku-IQ|ku-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kvx-PK">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kxu-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="kyu-MM">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_kayah_li_sign_shya_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="lep-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_ta_rol_popup" view_id="@id/key_pos_zwnj_with_zwj" />
+            <merge key_id="@id/softkey_fragment_bottom_period_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="lep-Tibt">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_tibetan" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="lif-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="lif-Limb">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_double_danda_popup_limbu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="lki-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_luri" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="lmn-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="lrc-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_luri" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="lrl-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="luz-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_luri" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mag-IN|mag-NP">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mai-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mde-TD">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_maba" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mjl-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mki-PK">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ml-IN" variant="malayalam_india">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mni-Beng">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mr-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mfa-TH|ms-Arab-BN|ms-Arab-MY">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mtr-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mul-x-ipa">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ipa" view_id="@id/key_pos_bottom_symbol_2" />
+            <merge key_id="@id/softkey_fragment_bottom_diacritic_popup_ipa" view_id="@id/key_pos_zwnj_with_zwj" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mup-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mve-PK" variant="marwari_arabic">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mve-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mvy-PK">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="mzn-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="nah">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ne-NP|ne-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="new-NP">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="noe-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="oj-Cans">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_canadian_syllabics" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="or-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="pa-PK" variant="punjabi_pakistan">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="pa-Guru">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="phr-PK" variant="pahari_pothwari">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="phr-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="plk-PK">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_shina" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="prs-AF">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ps" variant="pashto">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_pashto" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ps" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="psh-AF">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_pashto" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="psi-AF">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_pashto" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="pua-MX">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="qu-PE">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="quc">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="qug-EC">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="quh-BO">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="quy-PE">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="quz-PE">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="qxq-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_khorasani_turkic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="rej-Rjng">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_rejang" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="rkt">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="rwr-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sa-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sas-Bali">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_balinese" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sat-Deva|sat-Beng">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sat-Olck" variant="santali_ol_chiki">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_santali_ol_chiki" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="saz-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup_saurashtra" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sck-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="scl-PK" variant="shina">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_shina" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="scl-PK" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sd-Arab" variant="sindhi_arabic">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sd-Deva">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sdh-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sgj-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sgw-ET">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="shn-MM">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_myanmar_shan" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="sjp-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="skr" variant="qwerty">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="skr-x-sindhi" variant="saraiki">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="skr-x-urdu" variant="saraiki">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="stv-ET">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="su-Arab">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic_translit" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="su-Sund">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_sundanese" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="swv-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="syc-IQ">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_syriac" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="syl-Beng">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="syl-Sylo">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup_syloti_nagri" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ta-IN" variant="tamil|handwriting">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="taj-NP">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="te-IN" variant="telugu_india">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ti-ER">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ti-ET">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_ethiopic_legacy" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="tks-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="tly-IR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="trp-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="trw">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ug">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="unr-Beng|unr-IN|unr-Orya">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ur" variant="urdu_in|urdu_pakistan|handwriting">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_urdu" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="vah">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_with_danda" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="vai-LR">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_vai" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="vas-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="wbr-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="wne-PK">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_pashto" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="wry-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="xnr-IN">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="xsr-NP">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_danda_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="yua-MX">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_spanish" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="ydd-IL">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_hebrew" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bottom_hebrew_patah_popup" view_id="@id/key_pos_zwnj_with_zwj" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="zh">
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup_chinese" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else_if>
+    <else_if language="dz|hy-AM" />
+    <else_if language="bo-CN" variant="tibetan_alphabetical" />
+    <else_if language="gu-IN" variant="gujarati" />
+    <else>
+        <merge_key_mapping exclude_state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <merge key_id="@id/softkey_fragment_bottom_period_popup" view_id="@id/key_pos_bottom_symbol_2" />
+        </merge_key_mapping>
+    </else>
+</framework>

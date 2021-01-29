@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_ime_action" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_phone_numbers_1" view_id="@id/key_pos_number_1" />
+        <mapping key_id="@id/softkey_phone_numbers_2" view_id="@id/key_pos_number_2" />
+        <mapping key_id="@id/softkey_phone_numbers_3" view_id="@id/key_pos_number_3" />
+        <mapping key_id="@id/softkey_phone_numbers_4" view_id="@id/key_pos_number_4" />
+        <mapping key_id="@id/softkey_phone_numbers_5" view_id="@id/key_pos_number_5" />
+        <mapping key_id="@id/softkey_phone_numbers_6" view_id="@id/key_pos_number_6" />
+        <mapping key_id="@id/softkey_phone_numbers_7" view_id="@id/key_pos_number_7" />
+        <mapping key_id="@id/softkey_phone_numbers_8" view_id="@id/key_pos_number_8" />
+        <mapping key_id="@id/softkey_phone_numbers_9" view_id="@id/key_pos_number_9" />
+        <mapping key_id="@id/softkey_phone_numbers_0" view_id="@id/key_pos_number_0" />
+        <mapping key_id="@id/softkey_phone_numbers_asterisk" view_id="@id/key_pos_bottom_symbol_1" />
+        <mapping key_id="@id/softkey_phone_numbers_pound" view_id="@id/key_pos_bottom_symbol_2" />
+        <mapping key_id="@id/softkey_phone_numbers_minus" view_id="@id/key_pos_number_line1_1" />
+        <mapping key_id="@id/softkey_phone_numbers_add" view_id="@id/key_pos_number_line1_2" />
+        <mapping key_id="@id/softkey_phone_numbers_pause" view_id="@id/key_pos_number_line1_3" />
+        <mapping key_id="@id/softkey_phone_numbers_slash" view_id="@id/key_pos_number_line2_1" />
+        <mapping key_id="@id/softkey_sentence" view_id="@id/key_pos_number_line2_2" />
+        <mapping key_id="@id/softkey_phone_numbers_wait" view_id="@id/key_pos_number_line2_3" />
+        <mapping key_id="@id/softkey_phone_numbers_left_bracket" view_id="@id/key_pos_number_line3_1" />
+        <mapping key_id="@id/softkey_phone_numbers_right_bracket" view_id="@id/key_pos_number_line3_2" />
+        <mapping key_id="@id/softkey_phone_numbers_n" view_id="@id/key_pos_number_line3_3" />
+        <mapping key_id="@id/softkey_space_key" view_id="@id/key_pos_space" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_del" />
+    </key_mapping>
+</framework>

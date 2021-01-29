@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_shift" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_move_cursor" view_id="@id/key_pos_move_cursor" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_del" />
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@id/softkey_clear_all" view_id="@id/key_pos_move_cursor" />
+        <mapping key_id="@id/softkey_del_composing" view_id="@id/key_pos_del" />
+    </key_mapping>
+</framework>

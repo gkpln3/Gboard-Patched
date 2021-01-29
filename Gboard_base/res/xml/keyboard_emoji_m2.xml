@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.emoji.search.EmojiSearchResultKeyboard" id="@id/keyboard_emoji" recent_key_layout="@layout/softkey_label_emoji_v2_async" recent_key_type="smiley" remember_recent_key="ALL_ACTIONS">
+        <view direction="locale" layout="@layout/keyboard_expression_header" scalable="false" type="header" />
+        <view layout="@layout/keyboard_emoji_search_body_m2" type="body">
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_non_prime_smiley_sub_category" />
+            <include href="@xml/keymapping_header_smiley" />
+            <softkeys href="@xml/softkeys_gif_m2" />
+            <include href="@xml/keymapping_bottom_smiley_with_gif" />
+            <softkeys href="@xml/softkeys_card_viewer_bottom" />
+            <include href="@xml/keymapping_card_viewer_bottom_in_extension" />
+            <softkeys href="@xml/softkeys_back_to_prime_language_specific" />
+            <include href="@xml/keymapping_fragment_back_to_prime_language_specific" />
+        </view>
+    </keyboard>
+</framework>

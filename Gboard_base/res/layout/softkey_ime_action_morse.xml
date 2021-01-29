@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:tag=".keytop.for-action-key.for-action-default-key" android:weightSum="800.0" style="@style/KeyTop.ImeActionInner">
+        <FrameLayout android:paddingTop="?MorseBottomIconPaddingTop" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0">
+            <ImageView android:tag=".background-icon.for-action-key.for-action-default-key" style="@style/Icon.Center.ImeActionBackMorse" />
+            <ImageView android:id="@id/icon" android:tag=".icon.for-action-key.for-action-default-key" style="@style/Icon.Center.ImeActionMorse" />
+        </FrameLayout>
+        <ImageView android:tag=".icon.for-action-key.for-action-default-key.morse-hint" android:src="@drawable/bg_morse_hint_for_enter_key" android:layout_weight="200.0" style="@style/MorseHint.Bottom" />
+    </LinearLayout>
+</merge>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/MoreCandidatesRightPanel"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView style="@style/MoreCandidatesSeparator.OnLeft" />
+    <LinearLayout style="@style/Linear.Vertical">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_candidates_del" android:layout_weight="250.0" style="@style/SoftKey.BigInset.Dark.InColumn" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_candidates_ime_action" android:layout_weight="250.0" style="@style/SoftKey.BigInset.ImeAction.InColumn" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_candidates_page_up" android:layout_weight="250.0" style="@style/SoftKey.BigInset.Dark.InColumn" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_candidates_page_down" android:layout_weight="250.0" style="@style/SoftKey.Bottom.Dark.InColumn.BottomRight" />
+    </LinearLayout>
+</FrameLayout>

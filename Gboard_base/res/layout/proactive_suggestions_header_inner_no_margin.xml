@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/key_pos_proactive_suggestions_strip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" app:managed="true" app:suppressedSiblingId="@id/softkey_holder_fixed_candidates"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewStub android:orientation="horizontal" android:id="@id/key_pos_proactive_suggestions" android:visibility="visible" android:layout="@layout/proactive_suggestions_holder_view" android:inflatedId="@id/key_pos_proactive_suggestions" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/key_pos_header_action" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <FrameLayout android:id="@id/key_pos_header_action" android:visibility="gone" android:layout_width="@dimen/suggestions_strip_voice_key_width" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/key_pos_proactive_suggestions" app:layout_constraintTop_toTopOf="parent">
+        <include layout="@layout/proactive_suggestions_pinned_action_holder_view" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

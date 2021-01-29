@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="?KeyboardBottomWeight"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_punctuation_1" android:layout_weight="175.0" style="@style/SoftKey.SmallInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_punctuation_2" android:layout_weight="175.0" style="@style/SoftKey.SmallInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_punctuation_3" android:layout_weight="175.0" style="@style/SoftKey.SmallInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_punctuation_4" android:layout_weight="175.0" style="@style/SoftKey.SmallInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_punctuation_5" android:layout_weight="175.0" style="@style/SoftKey.SmallInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_punctuation_6" android:layout_weight="175.0" style="@style/SoftKey.SmallInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_punctuation_7" android:layout_weight="175.0" style="@style/SoftKey.SmallInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_punctuation_8" android:layout_weight="175.0" style="@style/SoftKey.SmallInset" />
+    </LinearLayout>
+    <LinearLayout android:weightSum="@integer/weight_sum" style="@style/Bottom"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_symbol" android:layout_weight="150.0" style="@style/SoftKey.Bottom.Dark.BottomLeft" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="475.0">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_smiley" android:visibility="gone" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_next_language" android:visibility="gone" android:layout_weight="100.0" style="@style/SoftKey.Bottom" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_space" android:layout_weight="275.0" style="@style/SoftKey.Bottom.Space" />
+        </LinearLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_toggle_fullscreen" android:layout_weight="100.0" style="@style/SoftKey.Bottom" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_del" android:layout_weight="125.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="150.0" style="@style/SoftKey.Bottom.ImeAction.BottomRight" />
+    </LinearLayout>
+</LinearLayout>

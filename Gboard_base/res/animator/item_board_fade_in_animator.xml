@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator android:duration="@integer/item_board_popup_fade_animation_duration" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:propertyName="alpha"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

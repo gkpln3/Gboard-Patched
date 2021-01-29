@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_gujarati_letter_a" press_data="અ" />
+            <softkey id="@id/softkey_gujarati_letter_aa" long_press_data="ા" press_data="આ" />
+            <softkey id="@id/softkey_gujarati_letter_i" long_press_data="િ" press_data="ઇ" />
+            <softkey id="@id/softkey_gujarati_letter_ii" long_press_data="ી" press_data="ઈ" />
+            <softkey id="@id/softkey_gujarati_letter_u" long_press_data="ુ" press_data="ઉ" />
+            <softkey id="@id/softkey_gujarati_letter_uu" long_press_data="ૂ" press_data="ઊ" />
+            <softkey id="@id/softkey_gujarati_letter_e" long_press_data="ે" press_data="એ" />
+            <softkey id="@id/softkey_gujarati_letter_ai" long_press_data="ૈ" press_data="ઐ" />
+            <softkey id="@id/softkey_gujarati_letter_o" long_press_data="ો" press_data="ઓ" />
+            <softkey id="@id/softkey_gujarati_letter_au" long_press_data="ૌ" press_data="ઔ" />
+            <softkey id="@id/softkey_gujarati_letter_a_gujarati_sign_anusvara" long_press_data="ં" press_data="અં" />
+            <softkey id="@id/softkey_gujarati_letter_a_gujarati_sign_visarga" long_press_data="ઃ" press_data="અઃ" />
+            <softkey id="@id/softkey_gujarati_letter_vocalic_r" long_press_data="ૃ" press_data="ઋ" />
+            <softkey id="@id/softkey_gujarati_vowel_candra_e" long_press_data="ૅ" press_data="ઍ" />
+            <softkey id="@id/softkey_gujarati_vowel_candra_o" long_press_data="ૉ" press_data="ઑ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_gujarati_letter_ka" long_press_data="ક્ચ,ક્છ,ક્ન,ક્બ,ક્મ,ક્ય,ક્ર,ક્લ,ક્વ,ક્શ,ક્સ" press_data="ક" />
+            <softkey id="@id/softkey_gujarati_letter_kha" press_data="ખ" />
+            <softkey id="@id/softkey_gujarati_letter_ga" press_data="ગ" />
+            <softkey id="@id/softkey_gujarati_letter_gha" press_data="ઘ" />
+            <softkey id="@id/softkey_gujarati_letter_nga" press_data="ઙ" />
+            <softkey id="@id/softkey_gujarati_letter_ca" press_data="ચ" />
+            <softkey id="@id/softkey_gujarati_letter_cha" long_press_data="છ્ય" press_data="છ" />
+            <softkey id="@id/softkey_gujarati_letter_ja" long_press_data="જ્ઞ,જ્જ,જ્ન,જ્મ,જ્ય,જ્ર,જ્વ" press_data="જ" />
+            <softkey id="@id/softkey_gujarati_letter_jha" press_data="ઝ" />
+            <softkey id="@id/softkey_gujarati_letter_nya" press_data="ઞ" />
+            <softkey id="@id/softkey_gujarati_letter_tta" long_press_data="ટ્ક,ટ્ટ,ટ્ઠ,ટ્ય,ટ્ર,ટ્લ,ટ્વ,ટ્સ" press_data="ટ" />
+            <softkey id="@id/softkey_gujarati_letter_ttha" long_press_data="ઠ્ઠ,ઠ્ય" press_data="ઠ" />
+            <softkey id="@id/softkey_gujarati_letter_dda" long_press_data="ડ્ડ,ડ્ય,ડ્ર,ડ્વ,ડ્સ" press_data="ડ" />
+            <softkey id="@id/softkey_gujarati_letter_ddha" long_press_data="ઢ્ઢ,ઢ્ય" press_data="ઢ" />
+            <softkey id="@id/softkey_gujarati_letter_nna" long_press_data="ણ્ય" press_data="ણ" />
+            <softkey id="@id/softkey_gujarati_letter_ta" long_press_data="ત્ક,ત્ખ,ત્ત,ત્થ,ત્ન,ત્મ,ત્પ,ત્ય,ત્ર,ત્વ,ત્સ" press_data="ત" />
+            <softkey id="@id/softkey_gujarati_letter_tha" long_press_data="થ્થ,થ્ય,થ્ર,થ્લ,થ્વ,થ્સ" press_data="થ" />
+            <softkey id="@id/softkey_gujarati_letter_da" long_press_data="દ્ગ,દ્ઘ,દ્દ,દ્ધ,દ્ન,દ્ભ,દ્મ,દ્ય,દ્ર,દ્વ,દ્લ" press_data="દ" />
+            <softkey id="@id/softkey_gujarati_letter_dha" long_press_data="ધ્ધ,ધ્ન,ધ્મ,ધ્ય,ધ્ર,ધ્વ" press_data="ધ" />
+            <softkey id="@id/softkey_gujarati_letter_na" long_press_data="ન્ક,ન્ગ,ન્જ,ન્ટ,ન્ડ,ન્ત,ન્દ,ન્ન,ન્મ,ન્ય,ન્વ,ન્શ,ન્સ,ન્હ,ન્દ્ર" press_data="ન" />
+            <softkey id="@id/softkey_gujarati_letter_pa" long_press_data="પ્ટ,પ્ત,પ્ન,પ્પ,પ્ય,પ્ર,પ્લ,પ્શ,પ્સ,પ્હ" press_data="પ" />
+            <softkey id="@id/softkey_gujarati_letter_pha" long_press_data="ફ્ક,ફ્ટ,ફ્ત,ફ્ફ,ફ્ય,ફ્ર,ફ્લ,ફ્સ" press_data="ફ" />
+            <softkey id="@id/softkey_gujarati_letter_ba" long_press_data="બ્જ,બ્ન,બ્દ,બ્ધ,બ્ડ,બ્બ,બ્ય,બ્ર,બ્લ,બ્વ,બ્સ,બ્હ" press_data="બ" />
+            <softkey id="@id/softkey_gujarati_letter_bha" long_press_data="ભ્ભ,ભ્ય,ભ્ર,ભ્વ" press_data="ભ" />
+            <softkey id="@id/softkey_gujarati_letter_ma" long_press_data="મ્ત,મ્ન,મ્પ,મ્બ,મ્મ,મ્ય,મ્ર,મ્લ,મ્સ,મ્હ,મ્પ્ર" press_data="મ" />
+            <softkey id="@id/softkey_gujarati_letter_ya" long_press_data="ય્ય" press_data="ય" />
+            <softkey id="@id/softkey_gujarati_letter_ra" long_press_data="ર્ક,ર્ગ,ર્ચ,ર્જ,ર્ટ,ર્ડ,ર્ણ,ર્ત,ર્થ,ર્દ,ર્ધ,ર્ભ,ર્મ,ર્ય,ર્વ,ર્શ,ર્ષ,ર્સ" press_data="ર" />
+            <softkey id="@id/softkey_gujarati_letter_la" long_press_data="લ્ક,લ્ગ,લ્ચ,લ્થ,લ્ટ,લ્ત,લ્દ,લ્ધ,લ્પ,લ્ફ,લ્બ,લ્મ,લ્ય,લ્લ,લ્વ,લ્શ,લ્સ" press_data="લ" />
+            <softkey id="@id/softkey_gujarati_letter_va" long_press_data="વ્મ,વ્ય,વ્ર,વ્વ,વ્હ" press_data="વ" />
+            <softkey id="@id/softkey_gujarati_letter_sha" long_press_data="શ્ક,શ્ચ,શ્ડ,શ્ત,શ્ર્ન,શ્પ,શ્બ,શ્મ,શ્ય,શ્ર,શ્ર્વ" press_data="શ" />
+            <softkey id="@id/softkey_gujarati_letter_ssa" long_press_data="ષ્ક,ષ્ટ,ષ્ઠ,ષ્ણ,ષ્ન,ષ્પ,ષ્મ,ષ્ય,ષ્વ" press_data="ષ" />
+            <softkey id="@id/softkey_gujarati_letter_sa" long_press_data="સ્ક,સ્જ,સ્ટ,સ્ત,સ્થ,સ્ન,સ્પ,સ્મ,સ્ય,સ્ર,સ્લ,સ્વ,સ્સ,સ્ત્ર" press_data="સ" />
+            <softkey id="@id/softkey_gujarati_letter_ha" long_press_data="હ્દ,હ્ન,હ્મ,હ્ય,હ્ર,હ્લ,હ્વ,હ્હ,હ્ર્દ" press_data="હ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_gujarati_letter_lla" press_data="ળ" />
+            <softkey id="@id/softkey_gujarati_letter_ka_gujarati_sign_virama_gujarati_letter_ssa" press_data="ક્ષ" />
+            <softkey id="@id/softkey_gujarati_letter_ja_gujarati_sign_virama_gujarati_letter_nya" press_data="જ્ઞ" />
+            <softkey id="@id/softkey_gujarati_letter_lla_gujarati_sign_virama_gujarati_letter_ya" press_data="ળ્ય" />
+            <softkey id="@id/softkey_gujarati_letter_ja_gujarati_sign_virama_gujarati_letter_ya" press_data="જ્ય" />
+            <softkey id="@id/softkey_gujarati_letter_ka_gujarati_sign_virama_gujarati_letter_ta" press_data="ક્ત" />
+            <softkey id="@id/softkey_gujarati_letter_ka_gujarati_sign_virama_gujarati_letter_ya" press_data="ક્ય" />
+            <softkey id="@id/softkey_gujarati_letter_ka_gujarati_sign_virama_gujarati_letter_ra" press_data="ક્ર" />
+            <softkey id="@id/softkey_gujarati_letter_kha_gujarati_sign_virama_gujarati_letter_ya" press_data="ખ્ય" />
+            <softkey id="@id/softkey_gujarati_letter_ca_gujarati_sign_virama_gujarati_letter_ca" press_data="ચ્ચ" />
+            <softkey id="@id/softkey_gujarati_letter_ta_gujarati_sign_virama_gujarati_letter_ra" press_data="ત્ર" />
+            <softkey id="@id/softkey_gujarati_letter_ta_gujarati_sign_virama_gujarati_letter_ya" press_data="ત્ય" />
+            <softkey id="@id/softkey_gujarati_letter_ta_gujarati_sign_virama_gujarati_letter_ta" press_data="ત્ત" />
+            <softkey id="@id/softkey_gujarati_letter_ta_gujarati_sign_virama_gujarati_letter_va" press_data="ત્વ" />
+            <softkey id="@id/softkey_gujarati_letter_da_gujarati_sign_virama_gujarati_letter_va" press_data="દ્વ" />
+            <softkey id="@id/softkey_gujarati_letter_da_gujarati_sign_virama_gujarati_letter_dha" press_data="દ્ધ" />
+            <softkey id="@id/softkey_gujarati_letter_da_gujarati_sign_virama_gujarati_letter_ra" press_data="દ્ર" />
+            <softkey id="@id/softkey_gujarati_letter_ga_gujarati_sign_virama_gujarati_letter_ra" press_data="ગ્ર" />
+            <softkey id="@id/softkey_gujarati_letter_ga_gujarati_sign_virama_gujarati_letter_ya" press_data="ગ્ય" />
+            <softkey id="@id/softkey_gujarati_letter_dha_gujarati_sign_virama_gujarati_letter_ya" press_data="ધ્ય" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_ya" press_data="ર્ય" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_ma" press_data="ર્મ" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_ssa" press_data="ર્ષ" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_tha" press_data="ર્થ" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_va" press_data="ર્વ" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_tta" press_data="ર્ટ" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_nna" press_data="ર્ણ" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_sha" press_data="ર્શ" />
+            <softkey id="@id/softkey_gujarati_letter_ra_gujarati_sign_virama_gujarati_letter_ta" press_data="ર્ત" />
+            <softkey id="@id/softkey_gujarati_letter_pa_gujarati_sign_virama_gujarati_letter_ra" press_data="પ્ર" />
+            <softkey id="@id/softkey_gujarati_letter_sa_gujarati_sign_virama_gujarati_letter_ta" press_data="સ્ત" />
+            <softkey id="@id/softkey_gujarati_letter_sa_gujarati_sign_virama_gujarati_letter_tha" press_data="સ્થ" />
+            <softkey id="@id/softkey_gujarati_letter_sa_gujarati_sign_virama_gujarati_letter_va" press_data="સ્વ" />
+            <softkey id="@id/softkey_gujarati_letter_sa_gujarati_sign_virama_gujarati_letter_tta" press_data="સ્ટ" />
+            <softkey id="@id/softkey_gujarati_letter_sa_gujarati_sign_virama_gujarati_letter_ta_gujarati_sign_virama_gujarati_letter_ra" press_data="સ્ત્ર" />
+            <softkey id="@id/softkey_gujarati_letter_sa_gujarati_sign_virama_gujarati_letter_ka" press_data="સ્ક" />
+            <softkey id="@id/softkey_gujarati_letter_sa_gujarati_sign_virama_gujarati_letter_pa" press_data="સ્પ" />
+            <softkey id="@id/softkey_gujarati_letter_na_gujarati_sign_virama_gujarati_letter_ya" press_data="ન્ય" />
+            <softkey id="@id/softkey_gujarati_letter_na_gujarati_sign_virama_gujarati_letter_tta" press_data="ન્ટ" />
+            <softkey id="@id/softkey_gujarati_letter_na_gujarati_sign_virama_gujarati_letter_dda" press_data="ન્ડ" />
+            <softkey id="@id/softkey_gujarati_letter_la_gujarati_sign_virama_gujarati_letter_la" press_data="લ્લ" />
+            <softkey id="@id/softkey_gujarati_letter_la_gujarati_sign_virama_gujarati_letter_ma" press_data="લ્મ" />
+            <softkey id="@id/softkey_gujarati_letter_va_gujarati_sign_virama_gujarati_letter_ya" press_data="વ્ય" />
+            <softkey id="@id/softkey_gujarati_letter_sha_gujarati_sign_virama_gujarati_letter_ra" press_data="શ્ર" />
+            <softkey id="@id/softkey_gujarati_letter_ssa_gujarati_sign_virama_gujarati_letter_tta" press_data="ષ્ટ" />
+            <softkey id="@id/softkey_gujarati_letter_sha_gujarati_sign_virama_gujarati_letter_va" press_data="શ્વ" />
+            <softkey id="@id/softkey_gujarati_letter_ha_gujarati_sign_virama_gujarati_letter_ya" press_data="હ્ય" />
+            <softkey id="@id/softkey_gujarati_om" press_data="ૐ" />
+        </softkey_list>
+    </softkeys>
+    <include href="@xml/softkeys_input_prime_2_pages_switch" />
+</framework>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="ksw-MM" string_id="ime_sgaw_karen">
+        <keyboard_group variant="sgaw_karen" variant_label="@string/variant_sgaw_karen">
+            <keyboard def="@xml/keyboard_ksw_mm" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+            <override_keyboard_xml_conditions>
+                <bool name="@string/pref_key_enable_number_row" value="false" />
+            </override_keyboard_xml_conditions>
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_double_space_to_period_replacement" value="။ " />
+        </extra_values>
+    </ime>
+</framework>

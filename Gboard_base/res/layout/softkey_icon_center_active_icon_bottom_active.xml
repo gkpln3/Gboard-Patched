@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:paddingBottom="@dimen/icon_center_icon_bottom_padding_bottom" style="@style/Icon.Center.Active" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/icon_center_icon_bottom_margin_top" android:layout_below="@id/icon">
+        <ImageView android:id="@id/icon_bottom" style="@style/Icon.Center.Active" />
+    </FrameLayout>
+</RelativeLayout>

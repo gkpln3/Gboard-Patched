@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_tab" view_id="@id/key_pos_tab" />
+    </key_mapping>
+</framework>

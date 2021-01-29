@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/universal_media_emoji_holder_view_container" android:paddingTop="3.0dip" android:paddingBottom="7.0dip" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.google.android.apps.inputmethod.libs.search.widget.BidiFixedColumnEmojiSoftKeyViewsPage android:id="@id/universal_media_emoji_holder_view" android:layout_width="fill_parent" android:layout_height="@dimen/text_size_emoji_v2_max" column_count="@integer/universal_media_m2_max_emoji" horizontal_alignment="true" row_count="1" softkeyview_layout="@layout/softkeyview_pageable_transparent_non_inset" />
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/animated_sticker_holder_view_container" android:paddingTop="3.0dip" android:paddingBottom="3.0dip" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.google.android.apps.inputmethod.libs.search.widget.FixedColumnAnimatedImageSidebarHolderView android:id="@id/animated_sticker_holder_view" android:layout_width="fill_parent" android:layout_height="wrap_content" column_count="@integer/universal_media_m2_max_num_stickers" image_view_layout="@layout/universal_animated_sticker_view" />
+        </LinearLayout>
+        <ProgressBar android:layout_gravity="center" android:id="@id/animated_sticker_loading_spinner" android:tag=".progress-bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" />
+    </FrameLayout>
+</LinearLayout>

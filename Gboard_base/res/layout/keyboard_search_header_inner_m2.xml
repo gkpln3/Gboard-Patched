@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView style="@style/HeaderInner.SearchBarM2.Large">
+    <LinearLayout style="@style/SearchHeaderInnerViewM2">
+        <com.google.android.apps.inputmethod.libs.search.widget.SearchCandidateListHolderView candidate_layout="@layout/softkey_search_candidate_m2" candidate_num="@integer/recent_search_candidate_num" style="@style/SearchCandidateListHolderM2" />
+        <include layout="@layout/search_candidate_input_box_container_m2" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

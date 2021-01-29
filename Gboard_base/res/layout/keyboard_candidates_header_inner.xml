@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout app:managed="true" style="@style/HeaderInner.Candidates"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:paddingLeft="?KeyboardInnerPadding" android:paddingRight="?KeyboardInnerPadding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.FixedSizeCandidatesHolderView android:id="@id/softkey_holder_fixed_candidates" android:visibility="visible" candidate_background="@attr/BgCandidate" candidate_layout="@layout/softkey_candidate" deletable_label="…" last_column_candidate_background="@attr/BgCandidateLastColumn" max_candidates_count="@integer/max_candidates_per_row" style="@style/CandidateBar" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:layout_gravity="right" android:id="@id/key_pos_show_more_candidates" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView style="@style/SoftKeyCandidateBarShowMoreCandidateSeparator" />
+            <FrameLayout android:id="@id/host" style="@style/SoftKeyCandidateBarShowMoreCandidate" />
+        </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+    </FrameLayout>
+</FrameLayout>

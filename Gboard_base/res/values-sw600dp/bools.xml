@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="assist_full_bleed">false</bool>
+    <bool name="clip_children_and_to_padding">true</bool>
+    <bool name="is_tablet">true</bool>
+    <bool name="pref_def_value_enable_popup_on_keypress">false</bool>
+    <bool name="supports_floating_candidates">true</bool>
+    <bool name="supports_one_handed_mode">false</bool>
+</resources>

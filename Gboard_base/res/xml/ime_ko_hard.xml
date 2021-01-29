@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime candidate_selection_keys="1,2,3,4,5,6,7,8,9,0" class="com.google.android.libraries.inputmethod.ime.processor.AsyncProcessorBasedIme" inline_composing="true" keyevent_interpreter="com.google.android.apps.inputmethod.libs.korean.KoreanKeyEventInterpreter" label="@string/korean_2_bulsik_ime_label" language="@string/korean_language_id" prime_keyboard_type="HARD_QWERTY" status_icon="@drawable/ic_korean_status_icon" string_id="@string/string_id_korean_hard">
+        <keyboard_group>
+            <keyboard def="@xml/keyboard_ko_hard" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_period" value=". " />
+            <item id="@id/extra_value_enable_double_space_period_pref_key" value="@string/pref_key_enable_double_space_period" />
+            <item id="@id/extra_value_show_suggestion_pref_key" value="@string/pref_key_korean_show_suggestion" />
+        </extra_values>
+        <include href="@xml/processors_ko_hard" />
+    </ime>
+</framework>

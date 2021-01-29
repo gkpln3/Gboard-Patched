@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gif_keyboard_default_candidates">
+        <item>@string/gif_keyboard_default_candidate_0</item>
+        <item>@string/gif_keyboard_default_candidate_1</item>
+        <item>@string/gif_keyboard_default_candidate_2</item>
+    </string-array>
+</resources>

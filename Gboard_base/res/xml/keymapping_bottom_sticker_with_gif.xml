@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_non_prime_universal_media_tab" view_id="@id/key_pos_non_prime_category_0" />
+        <mapping key_id="@id/softkey_non_prime_emoji_tab_disabled" view_id="@id/key_pos_non_prime_category_1" />
+        <mapping key_id="@id/softkey_non_prime_bitmoji_tab" view_id="@id/key_pos_non_prime_category_2" />
+        <mapping key_id="@id/softkey_non_prime_sticker_tab_highlighted" view_id="@id/key_pos_non_prime_category_3" />
+        <mapping key_id="@id/softkey_non_prime_gif_tab" view_id="@id/key_pos_non_prime_category_4" />
+        <mapping key_id="@id/softkey_non_prime_emoticon_tab_in_extension" view_id="@id/key_pos_non_prime_category_5" />
+        <mapping key_id="@id/softkey_non_prime_rich_symbol_tab" view_id="@id/key_pos_non_prime_category_6" />
+    </key_mapping>
+    <key_mapping state="EMOJI_AVAILABLE">
+        <mapping key_id="@id/softkey_non_prime_emoji_tab_in_extension" view_id="@id/key_pos_non_prime_category_1" />
+    </key_mapping>
+    <include href="@xml/keymapping_bottom_emoticon_and_smiley_for_gif_conditions" />
+    <include href="@xml/keymapping_bottom_universal_media_conditions" />
+</framework>

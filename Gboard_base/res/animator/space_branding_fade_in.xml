@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:duration="600" android:startOffset="200" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:propertyName="alpha" />
+    <objectAnimator android:duration="600" android:startOffset="200" android:valueFrom="@dimen/space_branding_animation_translate_y" android:valueTo="0" android:valueType="floatType" android:propertyName="translationY" />
+</set>

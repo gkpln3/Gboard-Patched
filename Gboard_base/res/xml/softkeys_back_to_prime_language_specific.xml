@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/letter_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_back_on_down" layout="@layout/softkey_function_key_label_auto_text_size">
+            <action action_on_down="true" data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="@string/label_back_to_en_prime" />
+        </softkey>
+        <softkey content_description="@string/letter_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_back" layout="@layout/softkey_function_key_label_auto_text_size">
+            <action data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="@string/label_back_to_en_prime" />
+        </softkey>
+        <softkey_template id="@id/softkey_template_back_to_prime_key_label">
+            <label location="@id/label" value="$param_label$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_back_to_prime_key_label">
+            <softkey id="@id/softkey_fragment_adlam_back_key" param_label="@string/label_back_to_adlam_prime" />
+            <softkey id="@id/softkey_fragment_arabic_back_key" param_label="@string/label_back_to_arabic_prime" />
+            <softkey id="@id/softkey_fragment_armenian_back_key" param_label="@string/label_back_to_armenian_prime" />
+            <softkey id="@id/softkey_fragment_balinese_back_key" param_label="@string/label_back_to_balinese_prime" />
+            <softkey id="@id/softkey_fragment_bamum_back_key" param_label="@string/label_back_to_bamum_prime" />
+            <softkey id="@id/softkey_fragment_batak_back_key" param_label="@string/label_back_to_batak_prime" />
+            <softkey id="@id/softkey_fragment_bengali_back_key" param_label="@string/label_back_to_bengali_prime" />
+            <softkey id="@id/softkey_fragment_buginese_back_key" param_label="@string/label_back_to_buginese_prime" />
+            <softkey id="@id/softkey_fragment_buhid_back_key" param_label="@string/label_back_to_buhid_prime" />
+            <softkey id="@id/softkey_fragment_canadian_syllabics_cree_back_key" param_label="@string/label_back_to_canadian_syllabics_cree_prime" />
+            <softkey id="@id/softkey_fragment_canadian_syllabics_inuktitut_back_key" param_label="@string/label_back_to_canadian_syllabics_inuktitut_prime" />
+            <if language="ccp-BD">
+                <softkey id="@id/softkey_fragment_chakma_back_key" param_label="@string/label_back_to_chakma_prime" />
+            </if>
+            <softkey id="@id/softkey_fragment_chamorro_back_key" param_label="@string/label_back_to_chamorro_prime" />
+            <softkey id="@id/softkey_fragment_cherokee_back_key" param_label="@string/label_back_to_cherokee_prime" />
+            <if device="tv">
+                <if language="zh-CN">
+                    <softkey id="@id/softkey_fragment_chinese_back_key" param_label="@string/label_space_pinyin" />
+                </if>
+                <if language="zh-TW">
+                    <softkey id="@id/softkey_fragment_chinese_back_key" param_label="@string/label_space_zhuyin" />
+                </if>
+            </if>
+            <else>
+                <softkey id="@id/softkey_fragment_chinese_back_key" param_label="@string/label_back_to_chinese_prime" />
+            </else>
+            <softkey id="@id/softkey_fragment_chuvash_back_key" param_label="@string/label_back_to_chuvash_prime" />
+            <softkey id="@id/softkey_fragment_coptic_back_key" param_label="@string/label_back_to_coptic_prime" />
+            <softkey id="@id/softkey_fragment_cyrillic_back_key" param_label="@string/label_back_to_cyrillic_prime" />
+            <softkey id="@id/softkey_fragment_devanagari_back_key" param_label="@string/label_back_to_devanagari_prime" />
+            <softkey id="@id/softkey_fragment_dhivehi_back_key" param_label="@string/label_back_to_dhivehi_prime" />
+            <softkey id="@id/softkey_fragment_eastern_cham_back_key" param_label="@string/label_back_to_eastern_cham_prime" />
+            <softkey id="@id/softkey_fragment_ethiopic_back_key" param_label="@string/label_back_to_ethiopic_prime" />
+            <softkey id="@id/softkey_fragment_farsi_back_key" param_label="@string/label_back_to_farsi_prime" />
+            <softkey id="@id/softkey_fragment_georgian_back_key" param_label="@string/label_back_to_georgian_prime" />
+            <softkey id="@id/softkey_fragment_georgian_khutsuri_back_key" param_label="@string/label_back_to_georgian_khutsuri_prime" />
+            <softkey id="@id/softkey_fragment_greek_back_key" param_label="@string/label_back_to_greek_prime" />
+            <softkey id="@id/softkey_fragment_gujarati_back_key" param_label="@string/label_back_to_gujarati_prime" />
+            <softkey id="@id/softkey_fragment_gurmukhi_back_key" param_label="@string/label_back_to_gurmukhi_prime" />
+            <softkey id="@id/softkey_fragment_hanunuo_back_key" param_label="@string/label_back_to_hanunuo_prime" />
+            <softkey id="@id/softkey_fragment_hebrew_back_key" param_label="@string/label_back_to_hebrew_prime" />
+            <softkey id="@id/softkey_fragment_ipa_back_key" param_label="@string/label_back_to_ipa_prime" />
+            <softkey id="@id/softkey_fragment_japanese_back_key" param_label="@string/label_back_to_japanese_prime" />
+            <softkey id="@id/softkey_fragment_javanese_back_key" param_label="@string/label_back_to_javanese_prime" />
+            <softkey id="@id/softkey_fragment_kannada_back_key" param_label="@string/label_back_to_kannada_prime" />
+            <softkey id="@id/softkey_fragment_kayah_li_back_key" param_label="@string/label_back_to_kayah_li_prime" />
+            <softkey id="@id/softkey_fragment_khmer_back_key" param_label="@string/label_back_to_khmer_prime" />
+            <softkey id="@id/softkey_fragment_korean_back_key" param_label="@string/label_back_to_korean_prime" />
+            <softkey id="@id/softkey_fragment_lao_back_key" param_label="@string/label_back_to_lao_prime" />
+            <softkey id="@id/softkey_fragment_lepcha_back_key" param_label="@string/label_back_to_lepcha_prime" />
+            <softkey id="@id/softkey_fragment_limbu_back_key" param_label="@string/label_back_to_limbu_prime" />
+            <softkey id="@id/softkey_fragment_lisu_back_key" param_label="@string/label_back_to_lisu_prime" />
+            <softkey id="@id/softkey_fragment_malayalam_back_key" param_label="@string/label_back_to_malayalam_prime" />
+            <softkey id="@id/softkey_fragment_meetei_mayek_back_key" param_label="@string/label_back_to_meetei_mayek_prime" />
+            <softkey id="@id/softkey_fragment_myanmar_back_key" param_label="@string/label_back_to_myanmar_prime" />
+            <softkey id="@id/softkey_fragment_myanmar_shan_back_key" param_label="@string/label_back_to_myanmar_shan_prime" />
+            <softkey id="@id/softkey_fragment_new_tai_lue_back_key" param_label="@string/label_back_to_new_tai_lue_prime" />
+            <softkey id="@id/softkey_fragment_nko_back_key" param_label="@string/label_back_to_nko_prime" />
+            <softkey id="@id/softkey_fragment_odia_back_key" param_label="@string/label_back_to_odia_prime" />
+            <softkey id="@id/softkey_fragment_ol_chiki_back_key" param_label="@string/label_back_to_ol_chiki_prime" />
+            <softkey id="@id/softkey_fragment_osage_back_key" param_label="@string/label_back_to_osage_prime" />
+            <softkey id="@id/softkey_fragment_ossetian_back_key" param_label="@string/label_back_to_ossetian_prime" />
+            <softkey id="@id/softkey_fragment_rejang_back_key" param_label="@string/label_back_to_rejang_prime" />
+            <softkey id="@id/softkey_fragment_saurashtra_back_key" param_label="@string/label_back_to_saurashtra_prime" />
+            <softkey id="@id/softkey_fragment_sinhala_back_key" param_label="@string/label_back_to_sinhala_prime" />
+            <softkey id="@id/softkey_fragment_sundanese_back_key" param_label="@string/label_back_to_sundanese_prime" />
+            <softkey id="@id/softkey_fragment_syloti_nagri_back_key" param_label="@string/label_back_to_syloti_nagri_prime" />
+            <softkey id="@id/softkey_fragment_syriac_back_key" param_label="@string/label_back_to_syriac_prime" />
+            <softkey id="@id/softkey_fragment_tagalog_back_key" param_label="@string/label_back_to_tagalog_prime" />
+            <softkey id="@id/softkey_fragment_tagbanwa_back_key" param_label="@string/label_back_to_tagbanwa_prime" />
+            <softkey id="@id/softkey_fragment_tai_le_back_key" param_label="@string/label_back_to_tai_le_prime" />
+            <softkey id="@id/softkey_fragment_tai_viet_back_key" param_label="@string/label_back_to_tai_viet_prime" />
+            <softkey id="@id/softkey_fragment_tamazight_tifinagh_back_key" param_label="@string/label_back_to_tamazight_tifinagh_prime" />
+            <softkey id="@id/softkey_fragment_tamil_back_key" param_label="@string/label_back_to_tamil_prime" />
+            <softkey id="@id/softkey_fragment_tatar_back_key" param_label="@string/label_back_to_tatar_prime" />
+            <softkey id="@id/softkey_fragment_telugu_back_key" param_label="@string/label_back_to_telugu_prime" />
+            <softkey id="@id/softkey_fragment_thai_back_key" param_label="@string/label_back_to_thai_prime" />
+            <softkey id="@id/softkey_fragment_tibetan_back_key" param_label="@string/label_back_to_tibetan_prime" />
+            <softkey id="@id/softkey_fragment_turkmen_back_key" param_label="@string/label_back_to_turkmen_prime" />
+            <softkey id="@id/softkey_fragment_uyghur_back_key" param_label="@string/label_back_to_uyghur_prime" />
+            <softkey id="@id/softkey_fragment_vai_back_key" param_label="@string/label_back_to_vai_prime" />
+            <softkey id="@id/softkey_fragment_western_cham_back_key" param_label="@string/label_back_to_western_cham_prime" />
+            <softkey id="@id/softkey_fragment_yi_back_key" param_label="@string/label_back_to_yi_prime" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/GBoardErrorCard"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:tag=".icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_cloud_off_white_48" android:importantForAccessibility="no" />
+    <TextView android:textSize="14.0dip" android:textColor="@color/google_white" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/error_card_single_error_message" android:tag=".label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:text="@string/gboard_no_connection_message" />
+    <Button android:textSize="14.0dip" android:textColor="@color/no_connection_button_text_color" android:id="@id/error_card_button" android:background="@drawable/bg_no_connection_button" android:paddingLeft="30.0dip" android:paddingRight="30.0dip" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginTop="10.0dip" android:foreground="?android:selectableItemBackground" android:text="@string/gboard_no_connection_button" android:fontFamily="sans-serif" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <processors>
+        <if enable_voice_in_chinese="true">
+            <processor class="com.google.android.apps.inputmethod.libs.hmmvoice.ChineseHmmVoiceInputProcessor" id="@id/ime_hmm_voice_input_processor" />
+        </if>
+        <processor class="com.google.android.apps.inputmethod.latinguyk.hmm.LatinCantoneseCangjieDecodeProcessor" id="@id/ime_decode_processor" />
+        <processor class="com.google.android.apps.inputmethod.libs.chinese.ime.hmm.ChineseDoubleSpaceProcessor" id="@id/ime_double_space_processor" />
+        <processor class="com.google.android.libraries.inputmethod.ime.processor.ScrubMoveProcessor" id="@id/ime_scrub_move_processor" />
+        <processor class="com.google.android.libraries.inputmethod.ime.processor.OutputProcessor" id="@id/ime_output_processor" />
+    </processors>
+</framework>

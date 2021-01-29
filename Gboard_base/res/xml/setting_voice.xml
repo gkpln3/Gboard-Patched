@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_voice_typing"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.preferencewidgets.ColoredBackgroundSwitchPreference android:persistent="true" android:title="@string/setting_enable_voice_input_title" android:key="@string/pref_key_enable_voice_input" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_enable_ondevice_voice" android:key="@string/pref_key_enable_ondevice_voice" android:summary="@string/on_device_voice_notification_content" android:dependency="@string/pref_key_enable_voice_input" />
+    <Preference android:persistent="false" android:title="@string/setting_agsa_voice_typing_settings" android:key="@string/pref_key_show_agsa_voice_settings" android:summary="@string/setting_agsa_voice_typing_settings_summary" android:dependency="@string/pref_key_enable_voice_input" />
+</PreferenceScreen>

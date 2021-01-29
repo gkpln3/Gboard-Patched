@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/MoreCandidatesViewLeftColume"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView style="@style/MoreCandidatesSeparator.OnRight" />
+    <LinearLayout style="@style/Linear.Vertical">
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.ReadingTextCandidateHolderView android:id="@id/softkey_holder_reading_text_candidates" default_sub_view_count="4" style="@style/ReadingTextCandidateView.Chinese" />
+        <LinearLayout android:layout_weight="250.0" style="@style/Linear.HeightWeighted.Vertical">
+            <View style="@style/FunctionKeySeparator" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_function_key_on_candidates_view" style="@style/SoftKeyFunctionOnMoreCandidatesView" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

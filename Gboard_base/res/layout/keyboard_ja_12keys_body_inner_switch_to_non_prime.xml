@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="250.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_symbol" android:visibility="gone" android:layout_weight="100.0" style="@style/SoftKey.SmallInset.Dark.Numpad" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_smiley" android:visibility="gone" android:layout_weight="100.0" style="@style/SoftKey.SmallInset.Dark.Numpad" />
+</LinearLayout>

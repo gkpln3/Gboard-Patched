@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_osage_small_letter_wa" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_osage_small_letter_e" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_osage_small_letter_tsa" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_osage_small_letter_dha" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_combining_acute_accent" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_combining_double_acute_accent" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_osage_small_letter_u" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_osage_small_letter_i" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_osage_small_letter_o" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_osage_small_letter_pa" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_osage_small_letter_a" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_osage_small_letter_sa" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_osage_small_letter_ta" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_osage_small_letter_gha" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_combining_dot_above_right" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_combining_macron_above" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_osage_small_letter_ha" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_osage_small_letter_ah" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_osage_small_letter_ka" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_osage_small_letter_la" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_osage_small_letter_za" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_osage_small_letter_kha" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_osage_small_letter_cha" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_osage_small_letter_sha" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_osage_small_letter_bra" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_osage_small_letter_na" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_osage_small_letter_ma" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_osage_capital_letter_wa" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_osage_capital_letter_e" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_osage_capital_letter_tsa" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_osage_capital_letter_dha" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_osage_capital_letter_u" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_osage_capital_letter_i" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_osage_capital_letter_o" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_osage_capital_letter_pa" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_osage_capital_letter_a" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_osage_capital_letter_sa" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_osage_capital_letter_ta" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_osage_capital_letter_gha" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_osage_capital_letter_ha" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_osage_capital_letter_ah" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_osage_capital_letter_ka" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_osage_capital_letter_la" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_osage_capital_letter_za" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_osage_capital_letter_kha" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_osage_capital_letter_cha" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_osage_capital_letter_sha" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_osage_capital_letter_bra" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_osage_capital_letter_na" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_osage_capital_letter_ma" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+</framework>

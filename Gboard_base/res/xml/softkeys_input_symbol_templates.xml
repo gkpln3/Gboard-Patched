@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@id/softkey_template_symbol_number" layout="@layout/softkey_label_medium" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="$param_data$" intention="COMMIT" keycode="$param_keycode$" popup_label="$param_data$" type="PRESS" />
+            <action data="$long_press_data$" intention="COMMIT" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_light_symbol" layout="@layout/softkey_label_medium_auto_centered" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="$param_data$" intention="COMMIT" keycode="SHORT_TEXT" popup_label="$param_data$" type="PRESS" />
+            <action data="$long_press_data$" intention="COMMIT" keycode="SHORT_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_light_symbol_auto_sized" layout="@layout/softkey_label_medium_auto_centered" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="$param_data$" intention="COMMIT" keycode="SHORT_TEXT" popup_label="$param_data$" popup_layout="@attr/PopupBubbleAutoSizedLayout" type="PRESS" />
+            <action data="$long_press_data$" intention="COMMIT" keycode="SHORT_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+    </softkeys>
+</framework>

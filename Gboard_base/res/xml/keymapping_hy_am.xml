@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_armenian_small_letter_eh" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_armenian_small_letter_to" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_armenian_small_letter_piwr" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ja" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_armenian_small_letter_jheh" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_armenian_small_letter_reh" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_armenian_small_letter_cha" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_armenian_small_letter_cheh" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_armenian_small_letter_zhe" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ca" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_armenian_small_letter_keh" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_armenian_small_letter_vo" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ech" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ra" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_armenian_small_letter_tiwn" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_armenian_small_letter_et" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_armenian_small_letter_yiwn" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ini" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_armenian_small_letter_oh" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_armenian_small_letter_peh" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ayb" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_armenian_small_letter_seh" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_armenian_small_letter_da" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_armenian_small_letter_feh" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_armenian_small_letter_gim" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ho" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_armenian_small_letter_yi" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ken" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_armenian_small_letter_liwn" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_armenian_small_letter_xeh" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_armenian_small_letter_za" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ghad" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_armenian_small_letter_co" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_armenian_small_letter_vew" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_armenian_small_letter_ben" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_armenian_small_letter_now" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_armenian_small_letter_men" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_armenian_small_letter_sha" view_id="@id/key_pos_3_8" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_armenian_capital_letter_eh" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_to" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_piwr" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ja" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_jheh" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_reh" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_cha" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_cheh" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_zhe" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ca" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_keh" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_vo" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ech" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ra" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_tiwn" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_et" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_yiwn" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ini" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_oh" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_peh" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ayb" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_seh" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_da" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_feh" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_gim" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ho" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_yi" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ken" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_liwn" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_xeh" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_za" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ghad" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_co" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_vew" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_ben" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_now" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_men" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_armenian_capital_letter_sha" view_id="@id/key_pos_3_8" />
+    </key_mapping>
+</framework>

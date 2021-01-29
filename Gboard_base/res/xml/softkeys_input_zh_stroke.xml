@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template alpha="@attr/IconStrokeAlpha" content_description="$desc$" id="@id/softkey_template_stroke_image" layout="@layout/softkey_icon_center_label_sup_dark" multi_touch="false" popup_timing="ON_GESTURE" slide_sensitivity="NORMAL">
+            <action data="$press_data$" intention="DECODE" keycode="$keycode$" type="PRESS" />
+            <action data="$long_press_data$" intention="COMMIT" keycode="$keycode$" popup_label="$long_press_data$" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <icon location="@id/icon" value="$key_image$" />
+            <label location="@id/label_sup" value="$long_press_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_stroke_image">
+            <softkey desc="@string/stroke_heng_key_content_desc" id="@id/softkey_stroke_heng" key_image="@attr/IconStrokeHeng" keycode="KEYCODE_1" long_press_data="1" press_data="h" />
+            <softkey desc="@string/stroke_shu_key_content_desc" id="@id/softkey_stroke_shu" key_image="@attr/IconStrokeShu" keycode="KEYCODE_2" long_press_data="2" press_data="s" />
+            <softkey desc="@string/stroke_pie_key_content_desc" id="@id/softkey_stroke_pie" key_image="@attr/IconStrokePie" keycode="KEYCODE_3" long_press_data="3" press_data="p" />
+            <softkey desc="@string/stroke_dian_key_content_desc" id="@id/softkey_stroke_dot" key_image="@attr/IconStrokeDian" keycode="KEYCODE_4" long_press_data="4" press_data="n" />
+            <softkey desc="@string/stroke_zhe_key_content_desc" id="@id/softkey_stroke_zhe" key_image="@attr/IconStrokeZhe" keycode="KEYCODE_5" long_press_data="5" press_data="z" />
+            <softkey desc="@string/stroke_wildcard_key_content_desc" id="@id/softkey_stroke_matched" key_image="@attr/IconStrokeWildcard" keycode="KEYCODE_6" long_press_data="6" press_data="*" />
+        </softkey_list>
+        <softkey_template id="@id/softkey_template_stroke_text" layout="@layout/softkey_9key" multi_touch="false" popup_timing="ON_GESTURE" slide_sensitivity="NORMAL">
+            <action data="$press_data$" intention="COMMIT" keycode="$keycode$" type="PRESS" />
+            <action data="$long_press_data$" intention="COMMIT" keycode="$keycode$" popup_label="$long_press_data$" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <label location="@id/label" value="$press_data$" />
+            <label location="@id/label_sup" value="$long_press_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_stroke_text">
+            <softkey id="@id/softkey_stroke_exclamation" keycode="KEYCODE_8" long_press_data="8" press_data="！" />
+            <softkey id="@id/softkey_stroke_questionmark" keycode="KEYCODE_9" long_press_data="9" press_data="？" />
+        </softkey_list>
+        <softkey content_description="@string/space_key_content_desc" id="@id/softkey_9key_space_stroke" layout="@layout/softkey_space_label_small_grey_label_sup_dark" multi_touch="false" popup_timing="ON_GESTURE">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <action data="0" intention="COMMIT" keycode="KEYCODE_0" popup_label="0" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <if language="zh-HK">
+                <label location="@id/label" value="@string/label_space_stroke_zh_hk" />
+            </if>
+            <else>
+                <label location="@id/label" value="@string/label_space_stroke" />
+            </else>
+            <label location="@id/label_sup" value="0" />
+        </softkey>
+        <softkey alpha="@attr/IconStrokeAlpha" content_description="@string/separator_key_content_desc" id="@id/softkey_stroke_ci" layout="@layout/softkey_icon_center_label_sup_dark" multi_touch="false" popup_timing="ON_GESTURE" slide_sensitivity="NORMAL">
+            <action data="'" intention="DECODE" keycode="KEYCODE_7" type="PRESS" />
+            <action data="7" intention="COMMIT" keycode="KEYCODE_7" popup_label="7" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <if language="zh-HK|zh-TW|zh-XG">
+                <icon location="@id/icon" value="@attr/IconCiTraditional" />
+            </if>
+            <else>
+                <icon location="@id/icon" value="@attr/IconCiSimplified" />
+            </else>
+            <label location="@id/label_sup" value="7" />
+        </softkey>
+    </softkeys>
+</framework>

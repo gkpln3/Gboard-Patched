@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.Keyboard" id="@id/keyboard_dummy" />
+</framework>

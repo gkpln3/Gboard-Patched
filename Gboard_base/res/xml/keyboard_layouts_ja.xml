@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard-layouts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <keyboard-layout android:label="@string/setting_japanese_hardware_keymap_japanese109a" android:name="keyboard_layout_japanese109" android:keyboardLayout="@raw/keyboard_layout_japanese109a" />
+</keyboard-layouts>

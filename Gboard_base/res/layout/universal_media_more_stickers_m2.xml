@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/universal_media_sticker_more_results_content_desc"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:tag=".icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_arrow_forward_white_24" android:importantForAccessibility="no" />
+    <TextView android:textSize="12.0dip" android:textColor="@color/google_white" android:id="@id/universal_media_sticker_more_button_text" android:tag=".label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/universal_media_sticker_more_results" />
+</LinearLayout>

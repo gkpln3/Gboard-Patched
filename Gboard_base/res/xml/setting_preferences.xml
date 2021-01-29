@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_preferences" android:key="@string/setting_preferences_key"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_keys_category_title" android:key="@string/setting_keys_category_key">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_enable_number_row" android:key="@string/pref_key_enable_number_row" android:summary="@string/setting_enable_number_row_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_show_emoji_switch_key_title" android:key="@string/pref_key_show_emoji_switch_key" android:summary="@string/setting_show_emoji_switch_key_summary" android:disableDependentsState="true" />
+        <com.google.android.libraries.inputmethod.preferencewidgets.UncheckDisabledSwitchPreference android:persistent="true" android:title="@string/setting_show_language_switch_key_title" android:key="@string/pref_key_show_language_switch_key" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_show_recent_emoji_in_symbol_keyboard_title" android:key="@string/pref_key_show_recent_emoji_in_symbol_keyboard" android:summary="@string/setting_show_recent_emoji_in_symbol_keyboard_summary" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_layout_category_title" android:key="@string/setting_layout_category_key">
+        <ListPreference android:entries="@array/entries_one_handed_mode" android:title="@string/setting_one_handed_mode_title" android:key="@string/pref_key_one_handed_mode" android:summary="%s" android:dialogTitle="@string/setting_one_handed_mode_title" android:entryValues="@array/entryvalues_one_handed_mode" />
+        <ListPreference android:entries="@array/entries_keyboard_height_ratio" android:title="@string/setting_keyboard_height_ratio_title" android:key="@string/pref_key_keyboard_height_ratio" android:summary="%s" android:dialogTitle="@string/setting_keyboard_height_ratio_title" android:entryValues="@array/entryvalues_keyboard_height_ratio" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_enable_emoji_to_expression_title" android:key="@string/pref_key_enable_emoji_to_expression" android:summary="@string/setting_enable_emoji_to_expression_summary">
+            <extra android:name="hide_if_flag_is_false" android:value="enable_content_suggestion_in_emoji_keyboard=false" />
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/setting_enable_fast_access_bar_title" android:key="@string/pref_key_enable_fast_access_bar" android:summary="@string/setting_enable_fast_access_bar_summary">
+            <extra android:name="hide_if_flag_is_false" android:value="enable_fast_access_bar=false" />
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/setting_battery_saver_theme_switching_title" android:key="@string/pref_key_enable_battery_saver_theme_switching" android:summary="@string/setting_battery_saver_theme_switching_summary" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_key_press_category_title" android:key="@string/setting_key_press_category_key">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_sound_on_keypress_title" android:key="@string/pref_key_enable_sound_on_keypress" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.VolumePreference android:persistent="true" android:title="@string/setting_sound_volume_of_keypress" android:key="@string/pref_key_sound_volume_on_keypress" android:dependency="@string/pref_key_enable_sound_on_keypress" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_vibrate_on_keypress_title" android:key="@string/pref_key_enable_vibrate_on_keypress" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.VibrationDurationPreference android:persistent="true" android:title="@string/setting_vibration_strength_on_keypress_title" android:key="@string/pref_key_vibration_duration_on_keypress" android:dependency="@string/pref_key_enable_vibrate_on_keypress" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_popup_on_keypress_title" android:key="@string/pref_key_enable_popup_on_keypress" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_long_press_for_symbols_title" android:key="@string/pref_key_enable_secondary_symbols" android:summary="@string/setting_long_press_for_symbols_summary" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.LongPressDelayPreference android:persistent="true" android:max="@integer/setting_long_press_delay_max_progress" android:title="@string/setting_key_long_press_delay_title" android:key="@string/pref_key_key_long_press_delay" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.LongPressDelayPreference android:persistent="true" android:max="@integer/setting_long_press_delay_max_progress_for_a11y" android:title="@string/setting_key_long_press_delay_title_for_a11y" android:key="@string/pref_key_key_long_press_delay_for_a11y" custom:minValue="@integer/setting_long_press_delay_min_value_for_a11y" custom:valueInterval="@integer/setting_long_press_delay_value_interval_for_a11y" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

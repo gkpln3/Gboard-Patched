@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyView android:tag=".background-icon.for-action-key" android:background="?android:selectableItemBackground" style="@style/SoftKey.Transparent.DelayPressEffect"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

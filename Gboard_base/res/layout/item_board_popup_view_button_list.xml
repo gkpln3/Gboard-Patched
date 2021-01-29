@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/item_board_popup_button_wrapper" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="inherit"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/item_board_popup_paste_button" android:background="@drawable/background_item_board_paste_button" android:layoutDirection="inherit" style="@style/PopupItemBoardButtonWrapperV2">
+        <ImageView android:tag=".icon.clipboard-keys" android:src="@drawable/quantum_ic_content_paste_white_24" android:contentDescription="@string/item_board_paste_button_content_desc" style="@style/PopupItemBoardButtonV2" />
+        <TextView android:text="@string/item_board_paste_button_content" style="@style/PopupItemBoardButtonText" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/item_board_popup_pin_button" android:background="@drawable/background_item_board_pin_button" android:layoutDirection="inherit" style="@style/PopupItemBoardButtonWrapperV2">
+        <ImageView android:tag=".icon.clipboard-keys" android:src="@drawable/quantum_gm_ic_keep_pin_outline_white_24" android:contentDescription="@string/item_board_pin_button_content_desc" style="@style/PopupItemBoardButtonV2" />
+        <TextView android:text="@string/item_board_pin_button_content" style="@style/PopupItemBoardButtonText" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/item_board_popup_unpin_button" android:background="@drawable/background_item_board_pin_button" android:visibility="gone" android:layoutDirection="inherit" style="@style/PopupItemBoardButtonWrapperV2">
+        <ImageView android:tag=".icon.clipboard-keys-pinned" android:src="@drawable/quantum_gm_ic_keep_pin_gm_blue_24" android:contentDescription="@string/item_board_unpin_button_content_desc" style="@style/PopupItemBoardButtonV2" />
+        <TextView android:text="@string/item_board_unpin_button_content" style="@style/PopupItemBoardButtonText" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/item_board_popup_delete_button" android:background="@drawable/background_item_board_delete_button" android:layoutDirection="inherit" style="@style/PopupItemBoardButtonWrapperV2">
+        <ImageView android:tag=".icon.clipboard-keys" android:src="@drawable/quantum_gm_ic_delete_white_24" android:contentDescription="@string/item_board_delete_button_content_desc" style="@style/PopupItemBoardButtonV2" />
+        <TextView android:text="@string/item_board_delete_button_content" style="@style/PopupItemBoardButtonText" />
+    </LinearLayout>
+</LinearLayout>

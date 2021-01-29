@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@id/softkey_ci" view_id="@id/key_pos_shift" />
+    </key_mapping>
+    <key_mapping state="COMPOSING+SHIFT_LOCK">
+        <mapping key_id="@id/softkey_shift_locked" view_id="@id/key_pos_shift" />
+    </key_mapping>
+    <key_mapping state="COMPOSING+SHUANGPIN_MS_ZIGUANG">
+        <mapping key_id="@id/softkey_chinese_semicolon_in_shuangpin_darkkey" view_id="@id/key_pos_shift" />
+    </key_mapping>
+    <key_mapping state="COMPOSING+SHUANGPIN_MS_ZIGUANG+SHIFT_LOCK">
+        <mapping key_id="@id/softkey_shift_locked" view_id="@id/key_pos_shift" />
+    </key_mapping>
+</framework>

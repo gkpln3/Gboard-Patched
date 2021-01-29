@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".libs.framework.keyboard.Keyboard" id="@id/keyboard_ko_hard" initial_states="NO_MICROPHONE" session_states="SHIFT_LOCK" />
+</framework>

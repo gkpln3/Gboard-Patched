@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:splitMotionEvents="false" style="@style/Body.HandwritingFullscreen"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/keyboard_fullscreen_handwriting_body_inner_cj" />
+    <include layout="@layout/keyboard_fullscreen_handwriting_candidates_body_inner" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_balinese_letter_akara" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_balinese_letter_ikara" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_balinese_letter_ukara" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_balinese_letter_ekara" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_balinese_vowel_sign_tedung" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_balinese_vowel_sign_taling" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_balinese_vowel_sign_ulu" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_balinese_sign_cecek" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_balinese_sign_surang" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_balinese_sign_bisah" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_balinese_letter_aikara" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_balinese_letter_okara" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_balinese_letter_ra_repa" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_balinese_letter_la_lenga" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_balinese_adeg_adeg" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_balinese_vowel_sign_suku" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_balinese_vowel_sign_taling_repa" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_balinese_vowel_sign_pepet" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_balinese_vowel_sign_ra_repa" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_balinese_vowel_sign_la_lenga" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_balinese_letter_ha" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_balinese_letter_na" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_balinese_letter_ca" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_balinese_letter_ra" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_balinese_letter_ka" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_balinese_letter_da" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_balinese_letter_ta" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_balinese_letter_sa" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_balinese_letter_wa" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_balinese_letter_la" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_2_pages_main_page" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_balinese_letter_ma" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_balinese_letter_ga" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_balinese_letter_ba" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_balinese_letter_nga" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_balinese_letter_pa" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_balinese_letter_ja" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_balinese_letter_ya" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_balinese_letter_nya" view_id="@id/key_pos_3_8" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_2">
+        <mapping key_id="@id/softkey_balinese_letter_na_rambat" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_balinese_letter_ca_laca" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_balinese_letter_ka_mahaprana" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_balinese_letter_da_madu" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_balinese_letter_da_murda_alpaprana" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_balinese_letter_da_murda_mahaprana" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_balinese_letter_ta_tawa" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_balinese_letter_ta_latik" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_balinese_letter_ta_murda_mahaprana" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_balinese_letter_sa_saga" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_2_pages_page_1" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_balinese_letter_sa_sapa" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_balinese_letter_ga_gora" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_balinese_letter_ba_kembang" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_balinese_letter_pa_kapal" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_balinese_letter_ja_jera" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_balinese_letter_kaf_sasak" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_balinese_letter_ef_sasak" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_balinese_letter_zal_sasak" view_id="@id/key_pos_3_8" />
+    </key_mapping>
+</framework>

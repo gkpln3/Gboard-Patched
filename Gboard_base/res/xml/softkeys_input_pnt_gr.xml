@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_semicolon" long_press_data=":,·" press_data=";" />
+            <softkey id="@id/softkey_colon" long_press_data=";,·" press_data=":" />
+            <softkey id="@id/softkey_greek_small_letter_upsilon" long_press_data="ύ,ϋ,ΰ" merge_index="1" press_data="υ" />
+            <softkey id="@id/softkey_greek_capital_letter_upsilon" long_press_data="Ύ,Ϋ" merge_index="1" press_data="Υ" />
+            <softkey id="@id/softkey_greek_small_letter_epsilon" long_press_data="έ" merge_index="1" press_data="ε" />
+            <softkey id="@id/softkey_greek_capital_letter_epsilon" long_press_data="Έ" merge_index="1" press_data="Ε" />
+            <softkey id="@id/softkey_greek_small_letter_final_sigma" press_data="ς" />
+            <softkey id="@id/softkey_greek_small_letter_iota" long_press_data="ί,ϊ,ΐ" merge_index="1" press_data="ι" />
+            <softkey id="@id/softkey_greek_capital_letter_iota" long_press_data="Ί,Ϊ" merge_index="1" press_data="Ι" />
+            <softkey id="@id/softkey_greek_small_letter_omicron" long_press_data="ό,ο̈" merge_index="1" press_data="ο" />
+            <softkey id="@id/softkey_greek_capital_letter_omicron" long_press_data="Ό,Ο̈" merge_index="1" press_data="Ο" />
+            <softkey id="@id/softkey_greek_small_letter_alpha" long_press_data="ά,α̈" press_data="α" />
+            <softkey id="@id/softkey_greek_capital_letter_alpha" long_press_data="Ά,Α̈" press_data="Α" />
+            <softkey id="@id/softkey_greek_small_letter_eta" long_press_data="ή" press_data="η" />
+            <softkey id="@id/softkey_greek_capital_letter_eta" long_press_data="Ή" press_data="Η" />
+            <softkey id="@id/softkey_greek_small_letter_omega" long_press_data="ώ" press_data="ω" />
+            <softkey id="@id/softkey_greek_capital_letter_omega" long_press_data="Ώ" press_data="Ω" />
+            <softkey id="@id/softkey_greek_small_letter_sigma" long_press_data="σ̌" press_data="σ" />
+            <softkey id="@id/softkey_greek_capital_letter_sigma" long_press_data="Σ̌" press_data="Σ" />
+            <softkey id="@id/softkey_greek_small_letter_xi" long_press_data="ξ̌" press_data="ξ" />
+            <softkey id="@id/softkey_greek_capital_letter_xi" long_press_data="Ξ̌" press_data="Ξ" />
+            <softkey id="@id/softkey_greek_small_letter_zeta" long_press_data="ζ̌" press_data="ζ" />
+            <softkey id="@id/softkey_greek_capital_letter_zeta" long_press_data="Ζ̌" press_data="Ζ" />
+            <softkey id="@id/softkey_greek_small_letter_psi" long_press_data="ψ̌" press_data="ψ" />
+            <softkey id="@id/softkey_greek_capital_letter_psi" long_press_data="Ψ̌" press_data="Ψ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_greek_small_letter_rho" press_data="ρ" />
+            <softkey id="@id/softkey_greek_capital_letter_rho" press_data="Ρ" />
+            <softkey id="@id/softkey_greek_small_letter_tau" press_data="τ" />
+            <softkey id="@id/softkey_greek_capital_letter_tau" press_data="Τ" />
+            <softkey id="@id/softkey_greek_small_letter_theta" press_data="θ" />
+            <softkey id="@id/softkey_greek_capital_letter_theta" press_data="Θ" />
+            <softkey id="@id/softkey_greek_small_letter_pi" press_data="π" />
+            <softkey id="@id/softkey_greek_capital_letter_pi" press_data="Π" />
+            <softkey id="@id/softkey_greek_small_letter_delta" press_data="δ" />
+            <softkey id="@id/softkey_greek_capital_letter_delta" press_data="Δ" />
+            <softkey id="@id/softkey_greek_small_letter_phi" press_data="φ" />
+            <softkey id="@id/softkey_greek_capital_letter_phi" press_data="Φ" />
+            <softkey id="@id/softkey_greek_small_letter_gamma" press_data="γ" />
+            <softkey id="@id/softkey_greek_capital_letter_gamma" press_data="Γ" />
+            <softkey id="@id/softkey_greek_small_letter_kappa" press_data="κ" />
+            <softkey id="@id/softkey_greek_capital_letter_kappa" press_data="Κ" />
+            <softkey id="@id/softkey_greek_small_letter_lamda" press_data="λ" />
+            <softkey id="@id/softkey_greek_capital_letter_lamda" press_data="Λ" />
+            <softkey id="@id/softkey_greek_small_letter_chi" press_data="χ" />
+            <softkey id="@id/softkey_greek_capital_letter_chi" press_data="Χ" />
+            <softkey id="@id/softkey_greek_small_letter_beta" press_data="β" />
+            <softkey id="@id/softkey_greek_capital_letter_beta" press_data="Β" />
+            <softkey id="@id/softkey_greek_small_letter_nu" press_data="ν" />
+            <softkey id="@id/softkey_greek_capital_letter_nu" press_data="Ν" />
+            <softkey id="@id/softkey_greek_small_letter_mu" press_data="μ" />
+            <softkey id="@id/softkey_greek_capital_letter_mu" press_data="Μ" />
+        </softkey_list>
+    </softkeys>
+</framework>

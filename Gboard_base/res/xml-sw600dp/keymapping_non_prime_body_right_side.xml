@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_ime_action_non_prime" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_del" />
+        <mapping key_id="@id/softkey_empty" view_id="@id/key_pos_right_side_3rd_key" />
+    </key_mapping>
+</framework>

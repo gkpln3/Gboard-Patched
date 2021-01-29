@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_chr">
+        <view layout="@layout/keyboard_latin_9_9_8_no_shift_body" override="motion_event_handler" type="body">
+            <if enable_joystick_delete="true">
+                <motion_event_handler class=".libs.framework.keyboard.handler.JoystickDeleteMotionEventHandler" />
+            </if>
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinMotionEventHandler" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubDeleteMotionEventHandler" preference_key="@string/pref_key_enable_scrub_delete" reverse_preference="false" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubMoveMotionEventHandler" preference_key="@string/pref_key_enable_scrub_move" reverse_preference="false" />
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinKeyboardLayoutHandler" />
+            <softkeys href="@xml/softkeys_input_chr" />
+            <include href="@xml/keymapping_chr" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+        <if device="tablet">
+            <view layout="@layout/keyboard_latin_tablet_10_10_10_no_shift_body" type="body" />
+        </if>
+    </keyboard>
+</framework>

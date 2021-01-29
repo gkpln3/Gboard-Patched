@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_merge_header_simple" layout="@layout/softkey_qwerty_label_character_label_header" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+            <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+            <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="SLIDE_UP" />
+            <label location="@id/label_header" value="$long_press_data$" />
+        </softkey_template>
+        <softkey_list splitter="," template_id="@id/softkey_template_merge_header_simple">
+            <softkey id="@id/softkey_fragment_superscript_question_mark" long_press_data="\?" />
+            <softkey id="@id/softkey_fragment_superscript_exclamation_mark" long_press_data="!" />
+            <softkey id="@id/softkey_fragment_superscript_semicolon" long_press_data=";" />
+            <softkey id="@id/softkey_fragment_superscript_colon" long_press_data=":" />
+            <softkey id="@id/softkey_fragment_superscript_apostrophe" long_press_data="'" />
+            <softkey id="@id/softkey_fragment_superscript_quot" long_press_data="&quot;" />
+            <softkey id="@id/softkey_fragment_superscript_asterisk" long_press_data="*" />
+            <softkey id="@id/softkey_fragment_superscript_right_parenthesis" long_press_data=")" />
+            <softkey id="@id/softkey_fragment_superscript_left_parenthesis" long_press_data="(" />
+            <softkey id="@id/softkey_fragment_superscript_plus_sign" long_press_data="+" />
+            <softkey id="@id/softkey_fragment_superscript_hyphen_minus" long_press_data="-" />
+            <softkey id="@id/softkey_fragment_superscript_slash" long_press_data="/" />
+            <softkey id="@id/softkey_fragment_superscript_low_line" long_press_data="_" />
+            <softkey id="@id/softkey_fragment_superscript_percent_sign" long_press_data="%" />
+            <softkey id="@id/softkey_fragment_superscript_yen_sign" long_press_data="¥" />
+            <softkey id="@id/softkey_fragment_superscript_number_sign" long_press_data="\#" />
+            <softkey id="@id/softkey_fragment_superscript_commercial_at" long_press_data="\@" />
+            <softkey id="@id/softkey_fragment_superscript_reverse_solidus" long_press_data="\\" />
+            <softkey id="@id/softkey_fragment_superscript_amp" long_press_data="&amp;" />
+            <softkey id="@id/softkey_fragment_superscript_vertical_line" long_press_data="|" />
+            <softkey id="@id/softkey_fragment_superscript_equals_sign" long_press_data="=" />
+            <softkey id="@id/softkey_fragment_superscript_left_square_bracket" long_press_data="[" />
+            <softkey id="@id/softkey_fragment_superscript_right_square_bracket" long_press_data="]" />
+            <softkey id="@id/softkey_fragment_superscript_less_than" long_press_data="&lt;" />
+            <softkey id="@id/softkey_fragment_superscript_more_than" long_press_data=">" />
+            <softkey id="@id/softkey_fragment_superscript_left_curly_bracket" long_press_data="{" />
+            <softkey id="@id/softkey_fragment_superscript_right_curly_bracket" long_press_data="}" />
+        </softkey_list>
+    </softkeys>
+</framework>

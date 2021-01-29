@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/InputArea.9Key"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout style="@style/T9KeyboardLeftPanel.BigPanel">
+        <ImageView style="@style/KeyboardSeparator.OnRight" />
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.ReadingTextCandidateHolderView android:id="@id/softkey_holder_9key_left_panel" default_sub_view_count="4" style="@style/DigitKeyboardLeftPanel.BigPanel" />
+    </FrameLayout>
+    <LinearLayout android:id="@id/t9_input_area" android:layout_width="0.0dip" android:weightSum="3.0" android:layout_weight="@integer/keyboard_9key_middle_column_weight_sum" style="@style/DigitKeyboardMiddlePanel.BigPanel">
+        <LinearLayout android:weightSum="@integer/keyboard_9key_middle_column_weight_sum" android:layout_weight="1.0" style="@style/Linear.HeightWeighted.Horizontal">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_1" android:layout_weight="234.0" style="@style/KeyTop.BigPanel.TopLeftCorner" />
+            <ImageView style="@style/DigitKeyboardBigPanelVerticalSeparator" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_2" android:layout_weight="234.0" style="@style/KeyTop.BigPanel" />
+            <ImageView style="@style/DigitKeyboardBigPanelVerticalSeparator" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_3" android:layout_weight="234.0" style="@style/KeyTop.BigPanel.TopRightCorner" />
+        </LinearLayout>
+        <ImageView style="@style/DigitKeyboardBigPanelHorizontalSeparator" />
+        <LinearLayout android:weightSum="@integer/keyboard_9key_middle_column_weight_sum" android:layout_weight="1.0" style="@style/Linear.HeightWeighted.Horizontal">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_4" android:layout_weight="234.0" style="@style/KeyTop.BigPanel" />
+            <ImageView style="@style/DigitKeyboardBigPanelVerticalSeparator" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_5" android:layout_weight="234.0" style="@style/KeyTop.BigPanel" />
+            <ImageView style="@style/DigitKeyboardBigPanelVerticalSeparator" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_6" android:layout_weight="234.0" style="@style/KeyTop.BigPanel" />
+        </LinearLayout>
+        <ImageView style="@style/DigitKeyboardBigPanelHorizontalSeparator" />
+        <LinearLayout android:weightSum="@integer/keyboard_9key_middle_column_weight_sum" android:layout_weight="1.0" style="@style/Linear.HeightWeighted.Horizontal">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_7" android:layout_weight="234.0" style="@style/KeyTop.BigPanel.BottomLeftCorner" />
+            <ImageView style="@style/DigitKeyboardBigPanelVerticalSeparator" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_8" android:layout_weight="234.0" style="@style/KeyTop.BigPanel" />
+            <ImageView style="@style/DigitKeyboardBigPanelVerticalSeparator" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_9key_9" android:layout_weight="234.0" style="@style/KeyTop.BigPanel.BottomRightCorner" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout style="@style/T9KeyboardRightPanel">
+        <ImageView style="@style/KeyboardSeparator.OnLeft" />
+        <LinearLayout android:weightSum="3.0" style="@style/Linear.Vertical">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_del" android:layout_weight="1.0" style="@style/SoftKey.SmallInset.Dark.InColumn.Numpad" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="1.0" style="@style/SoftKey.SmallInset.Dark.InColumn.Numpad" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_shift" android:layout_weight="1.0" style="@style/SoftKey.SmallInset.Dark.InColumn.Numpad" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

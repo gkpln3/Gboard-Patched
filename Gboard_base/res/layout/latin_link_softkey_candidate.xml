@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/KeyTop.Candidate"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/candidate_separator" style="@style/SoftKeyCandidateSeparator" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/CandidateHolder">
+        <com.google.android.libraries.inputmethod.widgets.AutoScaleXTextView android:id="@id/label" android:paddingRight="2.0dip" android:layout_width="wrap_content" enable_relayout="false" minimum_scale="0.7" style="@style/Label.Candidate.EllipsizeMiddle" />
+        <ImageView android:paddingRight="@dimen/softkey_candidate_padding_right" android:visibility="visible" android:src="@drawable/quantum_gm_ic_exit_to_app_white_18" style="@style/Icon.Center.FunctionKey" />
+    </LinearLayout>
+</FrameLayout>

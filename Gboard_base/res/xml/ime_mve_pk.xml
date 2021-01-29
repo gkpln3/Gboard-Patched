@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="mve-PK" string_id="ime_marwari">
+        <keyboard_group layout_theme="@style/KeyboardLayoutTheme.4LetterRows" variant="marwari_arabic" variant_label="@string/variant_marwari">
+            <keyboard def="@xml/keyboard_mve_pk" type="prime" />
+            <include href="@xml/keyboards_non_prime_ascii_with_extended_arabic_indic_digits" />
+            <override_keyboard_xml_conditions>
+                <bool name="@string/pref_key_enable_number_row" value="false" />
+            </override_keyboard_xml_conditions>
+        </keyboard_group>
+    </ime>
+</framework>

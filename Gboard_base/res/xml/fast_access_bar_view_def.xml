@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard_group>
+        <keyboard def="@xml/fast_access_bar_keyboard_def" type="@string/keyboard_type_fast_access_bar" />
+    </keyboard_group>
+</framework>

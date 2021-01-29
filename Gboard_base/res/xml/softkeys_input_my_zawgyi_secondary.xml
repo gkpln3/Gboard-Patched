@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey content_description="@string/letter_keyboard_key_content_desc" id="@id/softkey_switch_to_zawgyi_prime_keyboard" layout="@layout/softkey_function_key_label" multi_touch="true">
+            <action data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="ကခ" />
+        </softkey>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_0" press_data="၁" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_1" press_data="၂" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_2" press_data="၃" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_3" press_data="၄" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_4" press_data="၅" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_5" press_data="၆" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_6" press_data="၇" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_7" press_data="၈" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_8" press_data="၉" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_0_9" press_data="၀" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_0" press_data="ဧ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_1" press_data="ဍ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_2" press_data="႑" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_3" press_data="၌" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_4" press_data="ဦ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_5" press_data="ဣ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_6" press_data="၎" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_7" press_data="ႁ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_8" press_data="ႂ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_1_9" press_data="ႋ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_1" press_data="ဋ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_2" press_data="၍" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_3" press_data="႒" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_4" press_data="ၫ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_5" press_data="ဈ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_6" press_data="ၯ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_7" press_data="၏" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_8" press_data="ဤ" />
+            <softkey id="@id/softkey_my_zawgyi_b_0_2_9" press_data="ႎ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_0" press_data="ၠ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_1" press_data="ၡ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_2" press_data="ၢ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_3" press_data="ၣ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_4" press_data="ၥ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_5" press_data="ၨ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_6" press_data="ၩ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_7" press_data="ၬ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_8" press_data="ၭ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_0_9" press_data="ၰ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_0" press_data="ၵ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_1" press_data="ၶ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_2" press_data="ၷ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_3" press_data="ၸ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_4" press_data="ၹ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_5" press_data="ၺ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_6" press_data="ၻ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_7" press_data="ၼ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_8" press_data="ႅ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_1_9" press_data="႖" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_1" press_data="ၱ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_2" press_data="ၲ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_3" press_data="ၳ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_4" press_data="ၴ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_5" press_data="ၦ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_6" press_data="ၧ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_7" press_data="႓" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_8" press_data="ႍ" />
+            <softkey id="@id/softkey_my_zawgyi_b_1_2_9" press_data="ႆ" />
+        </softkey_list>
+    </softkeys>
+</framework>

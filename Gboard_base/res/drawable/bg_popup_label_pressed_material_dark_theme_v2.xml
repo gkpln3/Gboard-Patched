@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:inset="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape android:shape="rectangle">
+        <solid android:color="@color/label_popup_pressed_material_dark_theme" />
+        <corners android:radius="@dimen/material_popup_corner_radius_v2" />
+    </shape>
+</inset>

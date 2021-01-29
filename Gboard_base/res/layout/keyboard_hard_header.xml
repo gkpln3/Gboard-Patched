@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/Header"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/keyboard_hard_header_inner" />
+    <include layout="@layout/keyboard_candidates_header_inner" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

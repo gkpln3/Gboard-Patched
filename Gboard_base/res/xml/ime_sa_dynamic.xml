@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="sa" string_id="ime_sanskrit_dynamic" use_ascii_password_keyboard="true">
+        <keyboard_group layout_theme="@style/KeyboardLayoutTheme.5LetterRows" variant="sanskrit" variant_label="@string/variant_sanskrit">
+            <keyboard def="@xml/keyboard_sa_dynamic" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_double_space_to_period_replacement" value="। " />
+        </extra_values>
+    </ime>
+</framework>

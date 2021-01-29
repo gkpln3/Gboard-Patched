@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_niu_nu">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_tvl_tv" />
+        </view>
+    </keyboard>
+</framework>

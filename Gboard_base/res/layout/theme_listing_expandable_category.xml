@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="15.0sp" android:textColor="?android:textColorPrimary" android:layout_gravity="start" android:id="@id/theme_listing_category_title" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <android.support.v7.widget.RecyclerView android:orientation="vertical" android:id="@id/theme_listing_item_container" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:clipToPadding="false" android:layout_width="0.0dip" android:layout_height="wrap_content" />
+    <TextView android:textSize="15.0sp" android:textColor="?android:textColorLink" android:gravity="top" android:layout_gravity="end" android:id="@id/theme_listing_category_show_more" android:background="?android:selectableItemBackground" android:padding="8.0dip" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="48.0dip" android:text="@string/theme_listing_show_more_button" />
+</LinearLayout>

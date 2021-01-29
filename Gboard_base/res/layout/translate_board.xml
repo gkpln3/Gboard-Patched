@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:id="@id/translate_board" android:tag=".background.for-extension" android:background="?BgTranslateBoard" android:layout_width="fill_parent" android:layout_height="wrap_content" app:allowMockActionDown="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/translate_board_language_bar" android:layout_width="fill_parent" android:layout_height="@dimen/translate_board_language_bar_height" android:layout_marginLeft="@dimen/translate_board_language_margin_horiz" android:layout_marginRight="@dimen/translate_board_language_margin_horiz">
+            <include layout="@layout/translate_board_language" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/translate_board_query_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/translate_board_margin_horiz" android:layout_marginTop="@dimen/translate_board_margin_vert" android:layout_marginRight="@dimen/translate_board_margin_horiz" android:layout_marginBottom="@dimen/translate_board_margin_vert">
+            <include layout="@layout/translate_board_query" />
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

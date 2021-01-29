@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_emoticon">
+        <softkey desc="@string/flexing_emoticon_description_flexing_face" param_data="ᕙ(⇀‸↼‶)ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_happy_flexing" param_data="ᕙ(＠°▽°＠)ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_happy_flexing" param_data="ᕙ(  • ‿ •  )ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_happy_flexing" param_data="୧(﹒︠ᴗ﹒︡)୨" />
+        <softkey desc="@string/flexing_emoticon_description_flexing_face" param_data="ᕙ (° ~͜ʖ~ °) ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_happy_flexing" param_data="ᕙ( ͡◉ ͜ ʖ ͡◉)ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_happy_flexing" param_data="୧(＾ 〰 ＾)୨" />
+        <softkey desc="@string/flexing_emoticon_description_teary_eyed_flex" param_data="ᕙ( ¤ 〰 ¤ )ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_happy_flexing" param_data="ᕙ( ~ . ~ )ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_smug_flex" param_data="ᕙ( : ˘ ∧ ˘ : )ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_screaming_flex" param_data="ᕙ[･۝･]ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_angry_flex" param_data="ᕦ( ⊡ 益 ⊡ )ᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_yelling_flex" param_data="ᕙ(ಠ ਊ ಠ)ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_wide_eyed_flex" param_data="ᕙ(☉ਊ☉)ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_disapproval_flexing_face" param_data="୧( ಠ Д ಠ )୨" />
+        <softkey desc="@string/flexing_emoticon_description_flexing_face" param_data="ᕦ⊙෴⊙ᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_flexing_face" param_data="ᕦ(ò_óˇ)ᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_disapproval_flexing_face" param_data="ᕦ(ಠ_ಠ)ᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_happy_flexing" param_data="ᕦ[ ◑ □ ◑ ]ᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_surprise_flex" param_data="ᕦ༼ ~ •́ ₒ •̀ ~ ༽ᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_nervous_flex" param_data="୧( ˵ ° ~ ° ˵ )୨" />
+        <softkey desc="@string/flexing_emoticon_description_nervous_flex" param_data="୧| ͡ᵔ ﹏ ͡ᵔ |୨" />
+        <softkey desc="@string/flexing_emoticon_description_left_flex" param_data="ᕙ (° ~ ° ~)" />
+        <softkey desc="@string/flexing_emoticon_description_right_flex" param_data="( ͝° ͜ʖ͡°)ᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_flexing_lenny" param_data="ᕙ( ͡° ͜ʖ ͡°)ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_flexing_lenny" param_data="ᕙ(͡°‿ ͡°)ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_donger_flex" param_data="ᕦ༼ຈل͜ຈ༽ᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_donger_flex" param_data="༼ᕗຈل͜ຈ༽ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_flexing_bear" param_data="ᕙ༼◕ ᴥ ◕༽ᕗ" />
+        <softkey desc="@string/flexing_emoticon_description_flexing_bear" param_data="ᕦʕ •ᴥ•ʔᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_flexing_bear" param_data="ᕦᶘ ᵒ㉨ᵒᶅᕤ" />
+        <softkey desc="@string/flexing_emoticon_description_star_eyed_flex" param_data="ᕦ༼✩ل͜✩༽ᕤ" />
+    </softkey_list>
+</framework>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_ja_tri_state_digit_1" view_id="@id/key_pos_ja_12keys_key_0" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_2" view_id="@id/key_pos_ja_12keys_key_1" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_3" view_id="@id/key_pos_ja_12keys_key_2" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_4" view_id="@id/key_pos_ja_12keys_key_3" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_5" view_id="@id/key_pos_ja_12keys_key_4" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_6" view_id="@id/key_pos_ja_12keys_key_5" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_7" view_id="@id/key_pos_ja_12keys_key_6" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_8" view_id="@id/key_pos_ja_12keys_key_7" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_9" view_id="@id/key_pos_ja_12keys_key_8" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_bracket" view_id="@id/key_pos_ja_12keys_key_9" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_0" view_id="@id/key_pos_ja_12keys_key_10" />
+        <mapping key_id="@id/softkey_ja_tri_state_digit_punctuation" view_id="@id/key_pos_ja_12keys_key_11" />
+        <mapping key_id="@id/softkey_ja_switch_to_tri_state_hiragana" view_id="@id/key_pos_switch_hiragana_alphabet" />
+    </key_mapping>
+    <key_mapping>
+        <mapping key_id="@id/softkey_ja_switch_to_symbols" view_id="@id/key_pos_switch_to_symbol" />
+        <mapping key_id="@id/softkey_empty" view_id="@id/key_pos_switch_to_smiley" />
+    </key_mapping>
+    <key_mapping state="EMOJI_AVAILABLE">
+        <mapping key_id="@id/softkey_ja_switch_to_tri_state_symbols" view_id="@id/key_pos_switch_to_symbol" />
+        <mapping key_id="@id/softkey_empty" view_id="@id/key_pos_switch_to_smiley" />
+    </key_mapping>
+</framework>

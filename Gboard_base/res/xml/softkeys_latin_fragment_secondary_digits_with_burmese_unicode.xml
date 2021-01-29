@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_merge_header_with_burmese_unicode" layout="@layout/softkey_qwerty_label_character_label_header_with_burmese_unicode" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+            <action data="$long_press_data$" intention="$long_press_intention=COMMIT$" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@layout/popup_bubble_rectangular_material_with_burmese_unicode" type="LONG_PRESS" />
+            <label location="@id/label_header" value="$long_press_data$" />
+        </softkey_template>
+        <softkey_list splitter="," template_id="@id/softkey_template_merge_header_with_burmese_unicode">
+            <softkey id="@id/softkey_fragment_superscript_digit_one" long_press_data="1" />
+            <softkey id="@id/softkey_fragment_superscript_digit_two" long_press_data="2" />
+            <softkey id="@id/softkey_fragment_superscript_digit_three" long_press_data="3" />
+            <softkey id="@id/softkey_fragment_superscript_digit_four" long_press_data="4" />
+            <softkey id="@id/softkey_fragment_superscript_digit_five" long_press_data="5" />
+            <softkey id="@id/softkey_fragment_superscript_digit_six" long_press_data="6" />
+            <softkey id="@id/softkey_fragment_superscript_digit_seven" long_press_data="7" />
+            <softkey id="@id/softkey_fragment_superscript_digit_eight" long_press_data="8" />
+            <softkey id="@id/softkey_fragment_superscript_digit_nine" long_press_data="9" />
+            <softkey id="@id/softkey_fragment_superscript_digit_zero" long_press_data="0" />
+        </softkey_list>
+    </softkeys>
+</framework>

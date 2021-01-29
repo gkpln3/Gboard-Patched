@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_stroke_left_panel" />
+    <include href="@xml/keymapping_stroke" />
+    <include href="@xml/keymapping_stroke_right_panel" />
+</framework>

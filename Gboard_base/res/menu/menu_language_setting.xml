@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/quantum_ic_edit_white_24" android:id="@id/action_edit_language" android:title="@string/setting_edit" app:showAsAction="always" />
+    <item android:icon="@drawable/quantum_ic_delete_white_24" android:id="@id/action_remove_language" android:title="@string/setting_language_remove_language" app:showAsAction="always" />
+</menu>

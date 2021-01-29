@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_crs_sc">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_crs_sc" />
+        </view>
+    </keyboard>
+</framework>

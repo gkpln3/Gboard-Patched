@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="body">
+            <softkeys href="@xml/softkeys_fragment_secondary_symbols_support_slide_down" />
+            <include href="@xml/keymapping_fragment_secondary_symbols_pinyin" />
+        </view>
+    </keyboard>
+</framework>

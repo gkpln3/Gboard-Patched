@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey id="@id/softkey_fragment_bottom_popup_switch_to_emoji" popup_timing="ON_TOUCH">
+            <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="OPEN_EXTENSION" popup_icon="@attr/IconSwitchToSmileyAsAction" popup_layout="@attr/PopupBubbleActionLayout" type="LONG_PRESS" />
+        </softkey>
+        <softkey id="@id/softkey_fragment_bottom_popup_switch_to_emoji_with_symbols" popup_timing="ON_TOUCH">
+            <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="OPEN_EXTENSION" popup_icon="@attr/IconSwitchToSmileyPopupWithSymbols" popup_layout="@attr/PopupBubbleRectangularLabelSmallLayout" type="LONG_PRESS" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" id="@id/softkey_fragment_bottom_icon_emoji" layout="@layout/softkey_label_medium_bottom_icon_top">
+            <icon location="@id/icon" value="@attr/IconSwitchToSmiley" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" id="@id/softkey_fragment_bottom_icon_emoji_small_label" layout="@layout/softkey_label_small_bottom_icon_top">
+            <icon location="@id/icon" value="@attr/IconSwitchToSmiley" />
+        </softkey>
+        <softkey id="@id/softkey_fragment_bottom_popup_switch_to_emoticon" popup_timing="ON_TOUCH">
+            <action data="@string/keyboard_type_emoticon" keycode="SWITCH_KEYBOARD" popup_icon="@attr/IconSwitchToEmoticonAsAction" popup_layout="@attr/PopupBubbleActionLayout" type="LONG_PRESS" />
+        </softkey>
+        <softkey id="@id/softkey_fragment_bottom_popup_switch_to_emoticon_with_symbols" popup_timing="ON_TOUCH">
+            <action data="@string/keyboard_type_emoticon" keycode="SWITCH_KEYBOARD" popup_icon="@attr/IconSwitchToEmoticonPopupWithSymbols" popup_layout="@attr/PopupBubbleRectangularLabelSmallLayout" type="LONG_PRESS" />
+        </softkey>
+    </softkeys>
+</framework>

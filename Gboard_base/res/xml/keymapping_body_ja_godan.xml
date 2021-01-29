@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if separate_button_numpad="true">
+        <key_mapping>
+            <mapping key_id="@id/softkey_ja_godan_a_label" view_id="@id/key_pos_ja_godan_a" />
+            <mapping key_id="@id/softkey_ja_godan_i_label" view_id="@id/key_pos_ja_godan_i" />
+            <mapping key_id="@id/softkey_ja_godan_u_label" view_id="@id/key_pos_ja_godan_u" />
+            <mapping key_id="@id/softkey_ja_godan_e_label" view_id="@id/key_pos_ja_godan_e" />
+            <mapping key_id="@id/softkey_ja_godan_o_label" view_id="@id/key_pos_ja_godan_o" />
+            <mapping key_id="@id/softkey_ja_godan_k_label" view_id="@id/key_pos_ja_godan_k" />
+            <mapping key_id="@id/softkey_ja_godan_s_label" view_id="@id/key_pos_ja_godan_s" />
+            <mapping key_id="@id/softkey_ja_godan_t_label" view_id="@id/key_pos_ja_godan_t" />
+            <mapping key_id="@id/softkey_ja_godan_n_label" view_id="@id/key_pos_ja_godan_n" />
+            <mapping key_id="@id/softkey_ja_godan_h_label" view_id="@id/key_pos_ja_godan_h" />
+            <mapping key_id="@id/softkey_ja_godan_m_label" view_id="@id/key_pos_ja_godan_m" />
+            <mapping key_id="@id/softkey_ja_godan_y_label" view_id="@id/key_pos_ja_godan_y" />
+            <mapping key_id="@id/softkey_ja_godan_r_label" view_id="@id/key_pos_ja_godan_r" />
+            <mapping key_id="@id/softkey_ja_godan_w_label" view_id="@id/key_pos_ja_godan_w" />
+        </key_mapping>
+    </if>
+    <else>
+        <key_mapping>
+            <mapping key_id="@id/softkey_ja_godan_a" view_id="@id/key_pos_ja_godan_a" />
+            <mapping key_id="@id/softkey_ja_godan_i" view_id="@id/key_pos_ja_godan_i" />
+            <mapping key_id="@id/softkey_ja_godan_u" view_id="@id/key_pos_ja_godan_u" />
+            <mapping key_id="@id/softkey_ja_godan_e" view_id="@id/key_pos_ja_godan_e" />
+            <mapping key_id="@id/softkey_ja_godan_o" view_id="@id/key_pos_ja_godan_o" />
+            <mapping key_id="@id/softkey_ja_godan_k" view_id="@id/key_pos_ja_godan_k" />
+            <mapping key_id="@id/softkey_ja_godan_s" view_id="@id/key_pos_ja_godan_s" />
+            <mapping key_id="@id/softkey_ja_godan_t" view_id="@id/key_pos_ja_godan_t" />
+            <mapping key_id="@id/softkey_ja_godan_n" view_id="@id/key_pos_ja_godan_n" />
+            <mapping key_id="@id/softkey_ja_godan_h" view_id="@id/key_pos_ja_godan_h" />
+            <mapping key_id="@id/softkey_ja_godan_m" view_id="@id/key_pos_ja_godan_m" />
+            <mapping key_id="@id/softkey_ja_godan_y" view_id="@id/key_pos_ja_godan_y" />
+            <mapping key_id="@id/softkey_ja_godan_r" view_id="@id/key_pos_ja_godan_r" />
+            <mapping key_id="@id/softkey_ja_godan_w" view_id="@id/key_pos_ja_godan_w" />
+        </key_mapping>
+    </else>
+    <key_mapping>
+        <mapping key_id="@id/softkey_ja_daisyou" view_id="@id/key_pos_globe_daisyou" />
+        <mapping key_id="@id/softkey_switch_to_alphabet" view_id="@id/key_pos_switch_hiragana_alphabet" />
+    </key_mapping>
+    <key_mapping state="SHOW_LANGUAGE_SWITCH_KEY">
+        <mapping key_id="@id/softkey_ja_switch_to_next_language" view_id="@id/key_pos_globe_daisyou" />
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@id/softkey_ja_daisyou" view_id="@id/key_pos_globe_daisyou" />
+        <mapping key_id="@id/softkey_space_ja_no_label_conversion" view_id="@id/key_pos_space" />
+    </key_mapping>
+</framework>

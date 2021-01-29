@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>అ</primary_input>
+        <action state="0">అ</action>
+        <action state="0">ౕ</action>
+        <action state="0">ఽ</action>
+    </key>
+    <key>
+        <primary_input>ఆ</primary_input>
+        <action state="0">ఆ</action>
+        <action state="0">ా</action>
+    </key>
+    <key>
+        <primary_input>ఇ</primary_input>
+        <action state="0">ఇ</action>
+        <action state="0">ి</action>
+    </key>
+    <key>
+        <primary_input>ఈ</primary_input>
+        <action state="0">ఈ</action>
+        <action state="0">ీ</action>
+    </key>
+    <key>
+        <primary_input>ఉ</primary_input>
+        <action state="0">ఉ</action>
+        <action state="0">ు</action>
+    </key>
+    <key>
+        <primary_input>ఊ</primary_input>
+        <action state="0">ఊ</action>
+        <action state="0">ూ</action>
+    </key>
+    <key>
+        <primary_input>ఋ</primary_input>
+        <action state="0">ఋ</action>
+        <action state="0">ృ</action>
+        <action state="0">ఌ</action>
+        <action state="0">ౢ</action>
+    </key>
+    <key>
+        <primary_input>ౠ</primary_input>
+        <action state="0">ౠ</action>
+        <action state="0">ౄ</action>
+        <action state="0">ౡ</action>
+        <action state="0">ౣ</action>
+    </key>
+    <key>
+        <primary_input>ఎ</primary_input>
+        <action state="0">ఎ</action>
+        <action state="0">ె</action>
+    </key>
+    <key>
+        <primary_input>ఏ</primary_input>
+        <action state="0">ఏ</action>
+        <action state="0">ే</action>
+    </key>
+    <key>
+        <primary_input>ఐ</primary_input>
+        <action state="0">ఐ</action>
+        <action state="0">ై</action>
+        <action state="0">ౖ</action>
+    </key>
+    <key>
+        <primary_input>ఒ</primary_input>
+        <action state="0">ఒ</action>
+        <action state="0">ొ</action>
+    </key>
+    <key>
+        <primary_input>ఓ</primary_input>
+        <action state="0">ఓ</action>
+        <action state="0">ో</action>
+    </key>
+    <key>
+        <primary_input>ఔ</primary_input>
+        <action state="0">ఔ</action>
+        <action state="0">ౌ</action>
+    </key>
+    <key>
+        <primary_input>ం</primary_input>
+        <action state="0">ం</action>
+        <action state="0">ఁ</action>
+    </key>
+    <key>
+        <primary_input>ః</primary_input>
+        <action state="0">ః</action>
+    </key>
+    <key>
+        <primary_input>్</primary_input>
+        <action state="0">్</action>
+    </key>
+</dynamic_keys>

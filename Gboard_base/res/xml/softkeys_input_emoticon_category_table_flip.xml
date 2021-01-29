@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_emoticon">
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(╯°□°）╯︵ ┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ノ｀Д´)ノ彡┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(┛◉Д◉)┛彡┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ﾉ≧∇≦)ﾉ ﾐ ┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ノಠ益ಠ)ノ彡┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(╯ರ ~ ರ)╯︵ ┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(┛ಸ_ಸ)┛彡┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ﾉ´･ω･)ﾉ ﾐ ┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ノಥ,_｣ಥ)ノ彡┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(┛✧Д✧))┛彡┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="┻┻︵¯\\(ツ)/¯︵┻┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="┻┻︵ヽ(`Д´)ﾉ︵┻┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(/¯◡ ‿ ◡)/¯ ~ ┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ノ｀⌒´)ノ┫：・┻┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ﾉ°_o)ﾉ⌒┫ ┻ ┣ ┳" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="┻━┻ミ＼(≧ﾛ≦＼)" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="┻━┻︵└(՞▽՞ └)" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="┻━┻︵└(´_｀└)" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="┻━┻ ヘ╰( •̀ε•́ ╰)" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="─=≡Σ(╯°□°)╯︵┻┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ノ•̀ o •́ )ノ ~ ┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(-_- )ﾉ⌒┫ ┻ ┣ ┳" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ノ￣皿￣)ノ ⌒== ┫" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(┛❍ᴥ❍)┛彡┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="(ノT＿T)ノ ＾┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_table_flip" param_data="ʕノ•ᴥ•ʔノ ︵ ┻━┻" />
+        <softkey desc="@string/table_flip_emoticon_description_places_table_back" param_data="┬─┬ノ( ͡° ͜ʖ ͡°ノ)" />
+        <softkey desc="@string/table_flip_emoticon_description_places_table_back" param_data="┬─┬ノ(ಠ_ಠノ)" />
+        <softkey desc="@string/table_flip_emoticon_description_places_table_back" param_data="┬─┬ノ( º _ ºノ)" />
+        <softkey desc="@string/table_flip_emoticon_description_places_table_back" param_data="┬──┬◡ﾉ(° -°ﾉ)" />
+        <softkey desc="@string/table_flip_emoticon_description_places_table_back" param_data="(ヘ･_･)ヘ┳━┳" />
+        <softkey desc="@string/table_flip_emoticon_description_places_table_back" param_data="┬──┬ ¯\\_(ツ)" />
+    </softkey_list>
+</framework>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/icon_background" style="@style/JaFlickableBackgroundIcon"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/label" style="@style/Label.JaTwelveKeysHiragana.NoSupport" />
+</FrameLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nga_button_fill_color">@color/google_grey900</color>
+    <color name="nga_button_fill_color_disabled">@color/google_grey900</color>
+    <color name="nga_button_fill_color_pressed">@color/google_grey800</color>
+    <color name="nga_button_icon_color_disabled">@color/google_grey600</color>
+    <color name="nga_button_icon_color_enabled">#ff8ab4f8</color>
+    <color name="nga_button_label_color_disabled">@color/google_grey600</color>
+    <color name="nga_button_label_color_enabled">#fff6f6f6</color>
+    <color name="nga_button_outline_color">#3dffffff</color>
+    <color name="nga_button_outline_color_disabled">@color/google_transparent</color>
+    <color name="nga_button_outline_color_pressed">@color/google_transparent</color>
+    <color name="nga_ime_background_bottom_color">#ff000000</color>
+    <color name="nga_ime_background_mid_color">#eb000000</color>
+    <color name="nga_ime_background_top_color">#e0000000</color>
+    <color name="nga_label_color">#ffffffff</color>
+    <color name="nga_label_promo_color">@color/google_green300</color>
+    <color name="nga_label_voice_color">#ff8ab4f8</color>
+    <color name="nga_onboarding_background_color">@color/google_grey900</color>
+    <color name="nga_onboarding_mic_color">#ffffffff</color>
+    <color name="nga_onboarding_text_color">#ffffffff</color>
+    <color name="theme_details_background">#ff424242</color>
+    <color name="theme_details_preview_background">#ff303030</color>
+</resources>

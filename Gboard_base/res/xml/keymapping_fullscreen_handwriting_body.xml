@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_switch_to_halfscreen" view_id="@id/key_pos_toggle_fullscreen" />
+        <mapping key_id="@id/softkey_single_quotation" view_id="@id/key_pos_punctuation_1" />
+        <mapping key_id="@id/softkey_question" view_id="@id/key_pos_punctuation_2" />
+        <mapping key_id="@id/softkey_exclamation" view_id="@id/key_pos_punctuation_3" />
+        <mapping key_id="@id/softkey_comma" view_id="@id/key_pos_punctuation_4" />
+        <mapping key_id="@id/softkey_sentence" view_id="@id/key_pos_punctuation_5" />
+        <mapping key_id="@id/softkey_at" view_id="@id/key_pos_punctuation_6" />
+        <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_punctuation_7" />
+        <mapping key_id="@id/softkey_semicolon" view_id="@id/key_pos_punctuation_8" />
+        <if language="zh">
+            <mapping key_id="@id/softkey_fullwidth_question_mark" view_id="@id/key_pos_punctuation_2" />
+            <mapping key_id="@id/softkey_fullwidth_exclamation_mark" view_id="@id/key_pos_punctuation_3" />
+            <mapping key_id="@id/softkey_fullwidth_comma" view_id="@id/key_pos_punctuation_4" />
+            <mapping key_id="@id/softkey_ideographic_full_stop" view_id="@id/key_pos_punctuation_5" />
+            <mapping key_id="@id/softkey_fullwidth_colon" view_id="@id/key_pos_punctuation_7" />
+            <mapping key_id="@id/softkey_fullwidth_semicolon" view_id="@id/key_pos_punctuation_8" />
+        </if>
+    </key_mapping>
+</framework>

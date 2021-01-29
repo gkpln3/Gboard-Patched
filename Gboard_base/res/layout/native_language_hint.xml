@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/NativeLanguageHint"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/KeyboardOverlayHeader">
+        <ImageView android:src="@mipmap/ic_app" style="@style/KeyboardOverlayAppImage" />
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/native_language_hint_title" android:text="@string/native_language_hint_title" android:contentDescription="@string/native_language_hint_title" style="@style/KeyboardOverlayTitle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/native_language_hint_content" style="@style/NativeLanguageHintContent">
+        <LinearLayout android:id="@id/native_language_list_wrapper" style="@style/NativeLanguageListWrapper">
+            <TextView android:id="@id/native_language_list" style="@style/NativeLanguageList" />
+        </LinearLayout>
+        <TextView android:id="@id/more_native_languages" style="@style/NativeLanguageHintMoreLanguages" />
+    </LinearLayout>
+    <RelativeLayout style="@style/KeyboardOverlayButtonWrapper">
+        <com.google.android.libraries.inputmethod.widgets.OverlayButton android:id="@id/okay_button" android:text="@string/label_go_to_language_selection" android:contentDescription="@string/label_go_to_language_selection" android:layout_alignParentEnd="true" style="@style/KeyboardOverlayOkayButton" />
+        <com.google.android.libraries.inputmethod.widgets.OverlayButton android:id="@id/cancel_button" android:text="@string/label_refuse_suggested_feature" android:layout_toStartOf="@id/okay_button" style="@style/KeyboardOverlayCancelButton" />
+    </RelativeLayout>
+</LinearLayout>

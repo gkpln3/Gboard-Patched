@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header">
+            <softkey hint_label="ឥ,ឦ" id="@id/softkey_khmer_letter_ka" long_press_data="ឥ,ឦ" long_press_label="ឥ,ឦ" press_data="ក" press_label="ក" />
+            <softkey hint_label="ឧ,ឩ" id="@id/softkey_khmer_letter_kha" long_press_data="ឧ,ឩ" long_press_label="ឧ,ឩ" press_data="ខ" press_label="ខ" />
+            <softkey hint_label="ឪ,ឳ" id="@id/softkey_khmer_letter_ko" long_press_data="ឪ,ឳ" long_press_label="ឪ,ឳ" press_data="គ" press_label="គ" />
+            <softkey hint_label="ឫ" id="@id/softkey_khmer_letter_kho" long_press_data="ឫ" long_press_label="ឫ" press_data="ឃ" press_label="ឃ" />
+            <softkey hint_label="ឬ" id="@id/softkey_khmer_letter_ngo" long_press_data="ឬ" long_press_label="ឬ" press_data="ង" press_label="ង" />
+            <softkey hint_label="ឭ" id="@id/softkey_khmer_letter_ca" long_press_data="ឭ" long_press_label="ឭ" press_data="ច" press_label="ច" />
+            <softkey hint_label="ឮ" id="@id/softkey_khmer_letter_cha" long_press_data="ឮ" long_press_label="ឮ" press_data="ឆ" press_label="ឆ" />
+            <softkey hint_label="ឯ" id="@id/softkey_khmer_letter_co" long_press_data="ឯ" long_press_label="ឯ" press_data="ជ" press_label="ជ" />
+            <softkey hint_label="ឰ" id="@id/softkey_khmer_letter_cho" long_press_data="ឰ" long_press_label="ឰ" press_data="ឈ" press_label="ឈ" />
+            <softkey hint_label="ឱ,ឲ" id="@id/softkey_khmer_letter_nyo" long_press_data="ឱ,ឲ" long_press_label="ឱ,ឲ" press_data="ញ" press_label="ញ" />
+            <softkey hint_label="ា" id="@id/softkey_khmer_letter_da" long_press_data="ា" long_press_label="ា" press_data="ដ" press_label="ដ" />
+            <softkey hint_label="ឋ" id="@id/softkey_khmer_vowel_sign_i" long_press_data="ឋ" long_press_label="ឋ" press_data="ិ" press_label="ិ" />
+            <softkey hint_label="ឌ" id="@id/softkey_khmer_vowel_sign_ii" long_press_data="ឌ" long_press_label="ឌ" press_data="ី" press_label="ី" />
+            <softkey hint_label="ឍ" id="@id/softkey_khmer_vowel_sign_y" long_press_data="ឍ" long_press_label="ឍ" press_data="ឹ" press_label="ឹ" />
+            <softkey hint_label="ឺ" id="@id/softkey_khmer_letter_nno" long_press_data="ឺ" long_press_label="ឺ" press_data="ណ" press_label="ណ" />
+            <softkey hint_label="ុ" id="@id/softkey_khmer_letter_ta" long_press_data="ុ" long_press_label="ុ" press_data="ត" press_label="ត" />
+            <softkey hint_label="ូ" id="@id/softkey_khmer_letter_tha" long_press_data="ូ" long_press_label="ូ" press_data="ថ" press_label="ថ" />
+            <softkey hint_label="ួ" id="@id/softkey_khmer_letter_to" long_press_data="ួ" long_press_label="ួ" press_data="ទ" press_label="ទ" />
+            <softkey hint_label="ើ" id="@id/softkey_khmer_letter_tho" long_press_data="ើ" long_press_label="ើ" press_data="ធ" press_label="ធ" />
+            <softkey hint_label="ឿ" id="@id/softkey_khmer_letter_no" long_press_data="ឿ" long_press_label="ឿ" press_data="ន" press_label="ន" />
+            <softkey hint_label="ៀ" id="@id/softkey_khmer_letter_ba" long_press_data="ៀ" long_press_label="ៀ" press_data="ប" press_label="ប" />
+            <softkey hint_label="េ" id="@id/softkey_khmer_letter_pha" long_press_data="េ" long_press_label="េ" press_data="ផ" press_label="ផ" />
+            <softkey hint_label="ែ" id="@id/softkey_khmer_letter_po" long_press_data="ែ" long_press_label="ែ" press_data="ព" press_label="ព" />
+            <softkey hint_label="ៃ" id="@id/softkey_khmer_letter_pho" long_press_data="ៃ" long_press_label="ៃ" press_data="ភ" press_label="ភ" />
+            <softkey hint_label="ោ" id="@id/softkey_khmer_letter_mo" long_press_data="ោ" long_press_label="ោ" press_data="ម" press_label="ម" />
+            <softkey hint_label="ៅ" id="@id/softkey_khmer_letter_yo" long_press_data="ៅ" long_press_label="ៅ" press_data="យ" press_label="យ" />
+            <softkey hint_label="ុំ" id="@id/softkey_khmer_letter_ro" long_press_data="ុំ" long_press_label="ុំ" press_data="រ" press_label="រ" />
+            <softkey hint_label="ំ" id="@id/softkey_khmer_letter_lo" long_press_data="ំ" long_press_label="ំ" press_data="ល" press_label="ល" />
+            <softkey hint_label="ាំ" id="@id/softkey_khmer_letter_vo" long_press_data="ាំ" long_press_label="ាំ" press_data="វ" press_label="វ" />
+            <softkey hint_label="ះ" id="@id/softkey_khmer_letter_sa" long_press_data="ះ" long_press_label="ះ" press_data="ស" press_label="ស" />
+            <softkey hint_label="ុះ" id="@id/softkey_khmer_letter_ha" long_press_data="ុះ" long_press_label="ុះ" press_data="ហ" press_label="ហ" />
+            <softkey hint_label="េះ" id="@id/softkey_khmer_letter_la" long_press_data="េះ" long_press_label="េះ" press_data="ឡ" press_label="ឡ" />
+            <softkey hint_label="ោះ" id="@id/softkey_khmer_letter_qa" long_press_data="ោះ" long_press_label="ោះ" press_data="អ" press_label="អ" />
+            <softkey hint_label="ៈ" id="@id/softkey_khmer_sign_bantoc" long_press_data="ៈ" long_press_label="ៈ" press_data="់" press_label="់" />
+            <softkey hint_label="៊" id="@id/softkey_khmer_sign_muusikatoan" long_press_data="៊" long_press_label="៊" press_data="៉" press_label="៉" />
+            <softkey hint_label="៏" id="@id/softkey_khmer_sign_toandakhiat" long_press_data="៏" long_press_label="៏" press_data="៍" press_label="៍" />
+            <softkey hint_label="៌" id="@id/softkey_khmer_sign_samyok_sanny" long_press_data="៌" long_press_label="៌" press_data="័" press_label="័" />
+            <softkey hint_label="៕" id="@id/softkey_khmer_sign_khan" long_press_data="៕" long_press_label="៕" press_data="។" press_label="។" />
+            <softkey hint_label="១" id="@id/softkey_khmer_independent_vowel_qi" long_press_data="១" long_press_label="១" press_data="ឥ" press_label="ឥ" />
+            <softkey hint_label="២" id="@id/softkey_khmer_independent_vowel_qu" long_press_data="២" long_press_label="២" press_data="ឧ" press_label="ឧ" />
+            <softkey hint_label="៣" id="@id/softkey_khmer_independent_vowel_quuv" long_press_data="៣" long_press_label="៣" press_data="ឪ" press_label="ឪ" />
+            <softkey hint_label="៤" id="@id/softkey_khmer_independent_vowel_ry" long_press_data="៤" long_press_label="៤" press_data="ឫ" press_label="ឫ" />
+            <softkey hint_label="៥" id="@id/softkey_khmer_independent_vowel_ryy" long_press_data="៥" long_press_label="៥" press_data="ឬ" press_label="ឬ" />
+            <softkey hint_label="៦" id="@id/softkey_khmer_independent_vowel_ly" long_press_data="៦" long_press_label="៦" press_data="ឭ" press_label="ឭ" />
+            <softkey hint_label="៧" id="@id/softkey_khmer_independent_vowel_lyy" long_press_data="៧;" long_press_label="៧" press_data="ឮ" press_label="ឮ" />
+            <softkey hint_label="៨" id="@id/softkey_khmer_independent_vowel_qe" long_press_data="៨" long_press_label="៨" press_data="ឯ" press_label="ឯ" />
+            <softkey hint_label="៩" id="@id/softkey_khmer_independent_vowel_qai" long_press_data="៩" long_press_label="៩" press_data="ឰ" press_label="ឰ" />
+            <softkey hint_label="០" id="@id/softkey_khmer_independent_vowel_qoo_type_one" long_press_data="០" long_press_label="០" press_data="ឱ" press_label="ឱ" />
+            <softkey hint_label="៙" id="@id/softkey_khmer_vowel_sign_reahmuk" long_press_data="៙" long_press_label="៙" press_data="ះ" press_label="ះ" />
+            <softkey hint_label="«" id="@id/softkey_khmer_vowel_sign_u_reahmuk" long_press_data="«" long_press_label="«" press_data="ុះ" press_label="ុះ" />
+            <softkey hint_label="»" id="@id/softkey_khmer_vowel_sign_e_reahmuk" long_press_data="»" long_press_label="»" press_data="េះ" press_label="េះ" />
+            <softkey hint_label="៛" id="@id/softkey_khmer_vowel_sign_oo_reahmuk" long_press_data="៛" long_press_label="៛" press_data="ោះ" press_label="ោះ" />
+            <softkey hint_label="៖" id="@id/softkey_khmer_sign_yuukaleapintu" long_press_data="៖" long_press_label="៖" press_data="ៈ" press_label="ៈ" />
+            <softkey hint_label="៘" id="@id/softkey_khmer_sign_triisap" long_press_data="៘" long_press_label="៘" press_data="៊" press_label="៊" />
+            <softkey hint_label="ៗ" id="@id/softkey_khmer_sign_ahsda" long_press_data="ៗ" long_press_label="ៗ" press_data="៏" press_label="៏" />
+            <softkey hint_label="!" id="@id/softkey_khmer_sign_robat" long_press_data="!" long_press_label="!" press_data="៌" press_label="៌" />
+            <softkey hint_label="\?" id="@id/softkey_khmer_sign_bariyoosan" long_press_data="\?" long_press_label="\?" press_data="៕" press_label="៕" />
+            <softkey hint_label="៚" id="@id/softkey_zero_width_space" long_press_data="៚" long_press_label="៚" press_data="​" press_label="›|‹" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup">
+            <softkey id="@id/softkey_khmer_sign_coeng" press_data="្" press_label="្" />
+            <softkey id="@id/softkey_khmer_vowel_sign_aa" press_data="ា" press_label="ា" />
+            <softkey id="@id/softkey_khmer_vowel_sign_i_no_popup" press_data="ិ" press_label="ិ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_ii_no_popup" press_data="ី" press_label="ី" />
+            <softkey id="@id/softkey_khmer_vowel_sign_y_no_popup" press_data="ឹ" press_label="ឹ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_yy" press_data="ឺ" press_label="ឺ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_u" press_data="ុ" press_label="ុ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_uu" press_data="ូ" press_label="ូ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_ua" press_data="ួ" press_label="ួ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_oe" press_data="ើ" press_label="ើ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_ya" press_data="ឿ" press_label="ឿ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_ie" press_data="ៀ" press_label="ៀ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_e" press_data="េ" press_label="េ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_ae" press_data="ែ" press_label="ែ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_ai" press_data="ៃ" press_label="ៃ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_oo" press_data="ោ" press_label="ោ" />
+            <softkey id="@id/softkey_khmer_sign_kakabat" press_data="៎" press_label="៎" />
+            <softkey id="@id/softkey_khmer_vowel_sign_au" press_data="ៅ" press_label="ៅ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_u_khmer_sign_nikahit" press_data="ុំ" press_label="ុំ" />
+            <softkey id="@id/softkey_khmer_sign_nikahit" press_data="ំ" press_label="ំ" />
+            <softkey id="@id/softkey_khmer_vowel_sign_aa_khmer_sign_nikahit" press_data="ាំ" press_label="ាំ" />
+            <softkey id="@id/softkey_zero_width_space_no_popup" press_data="​" press_label="›|‹" />
+        </softkey_list>
+    </softkeys>
+</framework>

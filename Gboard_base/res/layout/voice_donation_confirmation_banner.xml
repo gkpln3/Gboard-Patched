@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/VoiceDonationBannerView"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <com.caverock.androidsvg.SVGImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:adjustViewBounds="true" finsky:svg="@raw/voice_donation_confirmation_banner_background" />
+    <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:textSize="@dimen/text_size_notice" android:textColor="@android:color/white" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/voice_donation_confirmation_banner_text" android:fontFamily="@font/google_sans" android:paddingStart="24.0dip" android:paddingEnd="24.0dip" />
+</FrameLayout>

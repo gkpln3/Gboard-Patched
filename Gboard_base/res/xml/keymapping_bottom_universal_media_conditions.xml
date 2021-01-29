@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping state="FULL_SCREEN_MODE">
+        <mapping key_id="@id/softkey_non_prime_universal_media_tab_disabled" view_id="@id/key_pos_non_prime_category_0" />
+    </key_mapping>
+</framework>

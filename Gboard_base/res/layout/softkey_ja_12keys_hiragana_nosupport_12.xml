@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/icon_background" style="@style/JaFlickableBackgroundIcon"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_marginRight="@dimen/label_margin_twelvekeys_hiragana_nosupport_12_label0_right" android:text="、" style="@style/Label.JaTwelveKeysHiragana.NoSupport.12" />
+    <TextView android:layout_marginRight="@dimen/label_margin_twelvekeys_hiragana_nosupport_12_label1_right" android:text="。" style="@style/Label.JaTwelveKeysHiragana.NoSupport.12" />
+    <TextView android:layout_marginLeft="@dimen/label_margin_twelvekeys_hiragana_nosupport_12_label2_left" android:text="？" style="@style/Label.JaTwelveKeysHiragana.NoSupport.12" />
+    <TextView android:layout_marginLeft="@dimen/label_margin_twelvekeys_hiragana_nosupport_12_label3_left" android:text="！" style="@style/Label.JaTwelveKeysHiragana.NoSupport.12" />
+</FrameLayout>

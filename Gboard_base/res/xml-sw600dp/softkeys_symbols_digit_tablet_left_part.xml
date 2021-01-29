@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_symbol" layout="@layout/softkey_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$param_data$" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_symbol">
+            <softkey param_data="(" />
+            <softkey param_data=")" />
+            <softkey param_data=":" />
+            <softkey param_data="!" />
+            <softkey param_data="\?" />
+            <softkey param_data=";" />
+            <softkey param_data="\#" />
+        </softkey_list>
+        <softkey_list splitter=",">
+            <softkey layout="@layout/softkey_label_medium" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+                <action data="$" keycode="PLAIN_TEXT" type="PRESS" />
+                <action data="¢,£,€,¥,₱" keycode="PLAIN_TEXT" popup_label="¢,£,€,¥,₱" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+                <label location="@id/label" value="$" />
+            </softkey>
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_symbol">
+            <softkey param_data="%" />
+        </softkey_list>
+    </softkeys>
+</framework>

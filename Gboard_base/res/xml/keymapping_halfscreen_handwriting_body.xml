@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_switch_to_fullscreen" view_id="@id/key_pos_toggle_fullscreen" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.widget.FixedSizeSoftKeyViewsPage android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" column_count="@integer/keyboard_emoji_search_results_column_count_tablet" horizontal_alignment="true" row_count="@integer/keyboard_emoji_search_results_row_count" softkeyview_layout="@layout/softkeyview_pageable_transparent"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

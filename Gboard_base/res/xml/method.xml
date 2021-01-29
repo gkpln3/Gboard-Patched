@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method android:isDefault="@bool/is_default_ime" android:settingsActivity="com.google.android.apps.inputmethod.latinguyk.preference.SettingsActivity" android:supportsSwitchingToNextInputMethod="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype android:label="@string/subtype_label_gboard" android:icon="@drawable/ic_ime_switcher_dark" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable,TrySuppressingImeSwitcher" android:overridesImplicitlyEnabledSubtype="true" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="en_US" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="en_GB" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="af" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ak_GH" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="am" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ar_EG" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ar_MA" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="as_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="az_AZ" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="be_BY" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="bg" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="bm_ML" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="bn_BD" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="bn_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="bo_CN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="br_FR" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="brx_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="bs" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ca" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="chr" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="cs" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="cy" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="da" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="de_DE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="de_CH" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="dz" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ee" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="el_GR" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="en_AU" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="en_CA" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="en_IN" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="en_ZA" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="en_KE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="en_NG" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="en_PH" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="es_ES" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="es_US" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="es_AR" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="es_MX" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="et_EE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="eu_ES" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="fa" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="fa_AF" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ff" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="fi" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="fo_FO" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="fr_FR" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="fr_BE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="fr_CA" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="fr_CH" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="fy" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ga" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="gd_GB" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="gl_ES" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="gsw_CH" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="gu_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="gv" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ha_NG" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="haw" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="hi_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="hr" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="hsb_DE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="hu" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="hy_AM" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ig" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="in" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="is" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="it_IT" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="it_CH" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="iw_IL" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ka_GE" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="kk" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="kl" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="km_KH" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ki_KE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="kn_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="kok" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ky" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="lb" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="lg_UG" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ln_CD" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="lo_LA" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="lt" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="lv" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="mg" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="mk" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ml_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="mn_MN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="mr-IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ms_MY" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="mt" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="my" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="mzn_IR" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="nb" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ne_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ne_NP" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="nl_NL" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="nl_BE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="nn_NO" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="om" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="or_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="os_RU" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="pa_PK" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="pa_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="pl" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ps" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="pt_BR" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="pt_PT" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="qu_PE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="rm_CH" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="rn_BI" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ro_RO" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ro_MD" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ru_RU" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="rw" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="sah_RU" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="se_NO" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="sg_CF" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="si_LK" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="sk" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="sl" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="sn" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="so" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="sq" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="sr" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="sv_SE" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="sw" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ta_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ta_LK" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ta_SG" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="te_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="th_TH" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="tl" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="to_TO" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="tr_TR" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="ug" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="uk" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ur_IN" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="ur_PK" android:imeSubtypeMode="keyboard" android:isAsciiCapable="false" />
+    <subtype android:imeSubtypeLocale="uz" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="vi" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="yo" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+    <subtype android:imeSubtypeLocale="zu" android:imeSubtypeMode="keyboard" android:imeSubtypeExtraValue="AsciiCapable" android:isAsciiCapable="true" />
+</input-method>

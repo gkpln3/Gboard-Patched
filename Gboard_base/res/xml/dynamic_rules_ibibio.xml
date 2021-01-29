@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_rules>
+    <rule>
+        <pattern>ị</pattern>
+        <label>ị</label>
+        <replacement>ị</replacement>
+        <input_text>iị</input_text>
+    </rule>
+    <rule>
+        <pattern>Ị</pattern>
+        <label>Ị</label>
+        <replacement>Ị</replacement>
+        <input_text>IỊ</input_text>
+    </rule>
+    <rule>
+        <pattern>ọ</pattern>
+        <label>ọ</label>
+        <replacement>ọ</replacement>
+        <input_text>oọ</input_text>
+    </rule>
+    <rule>
+        <pattern>Ọ</pattern>
+        <label>Ọ</label>
+        <replacement>Ọ</replacement>
+        <input_text>OỌ</input_text>
+    </rule>
+    <rule>
+        <pattern>ụ</pattern>
+        <label>ụ</label>
+        <replacement>ụ</replacement>
+        <input_text>uụ</input_text>
+    </rule>
+    <rule>
+        <pattern>Ụ</pattern>
+        <label>Ụ</label>
+        <replacement>Ụ</replacement>
+        <input_text>UỤ</input_text>
+    </rule>
+    <rule>
+        <pattern>ṇ</pattern>
+        <label>ñ</label>
+        <replacement>ñ</replacement>
+        <input_text>nñ</input_text>
+    </rule>
+    <rule>
+        <pattern>Ṇ</pattern>
+        <label>Ñ</label>
+        <replacement>Ñ</replacement>
+        <input_text>NÑ</input_text>
+    </rule>
+    <rule>
+        <pattern>̣</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+</dynamic_rules>

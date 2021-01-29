@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="sr-XB" string_id="ime_montenegrin_cyrillic">
+        <if enable_number_row="false">
+            <keyboard_group variant="serbian" variant_label="@string/variant_montenegrin">
+                <keyboard def="@xml/keyboard_sr" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="serbian" variant_label="@string/variant_montenegrin">
+                <keyboard def="@xml/keyboard_sr" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_10" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+    </ime>
+</framework>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="clipboard_item_checker_layout_angle">180</integer>
+</resources>

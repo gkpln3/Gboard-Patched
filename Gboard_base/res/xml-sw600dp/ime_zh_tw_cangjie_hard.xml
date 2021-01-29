@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" candidate_selection_keys="1,2,3,4,5,6,7,8,9,0" class="com.google.android.libraries.inputmethod.ime.processor.ProcessorBasedIme" indicator_icon="@drawable/ic_cangjie_indicator_icon" inline_composing="true" label="@string/cangjie_ime_label" language="zh-TW" prime_keyboard_type="HARD_QWERTY" status_icon="@drawable/ic_cangjie_status_icon" string_id="zh_tw_cangjie_hard">
+        <keyboard_group>
+            <keyboard def="@xml/keyboard_chinese_floating_hard_qwerty" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_enable_prediction" value="false" />
+            <item id="@id/extra_value_period" value="。" />
+            <item id="@id/extra_value_enable_double_space_period_pref_key" value="@string/pref_key_enable_double_space_period" />
+        </extra_values>
+        <include href="@xml/processors_zh_tw_cangjie" />
+    </ime>
+</framework>

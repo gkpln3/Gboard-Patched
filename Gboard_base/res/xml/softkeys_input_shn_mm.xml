@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_myanmar_letter_shan_ca" long_press_data="ꩡ,ၹ" press_data="ၸ" />
+            <softkey id="@id/softkey_myanmar_letter_khamti_ca" long_press_data="ၹ" press_data="ꩡ" />
+            <softkey id="@id/softkey_myanmar_letter_ta" long_press_data="ၻ,ꩦ,ꩨ" press_data="တ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_da" long_press_data="ꩦ,ꩨ" press_data="ၻ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_na" long_press_data="ꧣ" press_data="ၼ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_nna" press_data="ꧣ" />
+            <softkey id="@id/softkey_myanmar_letter_ma" long_press_data="႞" press_data="မ" />
+            <softkey id="@id/softkey_myanmar_symbol_shan_one" press_data="႞" />
+            <softkey id="@id/softkey_myanmar_letter_shan_a" long_press_data="ြ" press_data="ဢ" />
+            <softkey id="@id/softkey_myanmar_consonant_sign_medial_ra" press_data="ြ" />
+            <softkey id="@id/softkey_myanmar_letter_pa" long_press_data="ၿ" press_data="ပ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_ba" press_data="ၿ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_ka" long_press_data="ၷ" press_data="ၵ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_ga" press_data="ၷ" />
+            <softkey id="@id/softkey_myanmar_letter_nga" long_press_data="ရ" press_data="င" />
+            <softkey id="@id/softkey_myanmar_letter_ra" press_data="ရ" />
+            <softkey id="@id/softkey_myanmar_letter_wa" long_press_data="သ,ꧡ,ꧢ" press_data="ဝ" />
+            <softkey id="@id/softkey_myanmar_letter_sa" long_press_data="ꧡ,ꧢ" press_data="သ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_ha" long_press_data="ႀ" press_data="ႁ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_tha" press_data="ႀ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_e" long_press_data="ဵ" press_data="ေ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_e_above" press_data="ဵ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_shan_e" long_press_data="ႅ,ꧥ" press_data="ႄ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_shan_e_above" long_press_data="ꧥ" press_data="ႄ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_i" long_press_data="ီ" press_data="ိ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_ii" press_data="ီ" />
+            <softkey id="@id/softkey_myanmar_sign_asat" long_press_data="ႂ်" press_data="်" />
+            <softkey id="@id/softkey_myanmar_consonant_sign_shan_medial_wa_myanmar_sign_asat" press_data="ႂ်" />
+            <softkey id="@id/softkey_myanmar_consonant_sign_medial_wa" long_press_data="ႂ" press_data="ွ" />
+            <softkey id="@id/softkey_myanmar_consonant_sign_shan_medial_wa" press_data="ႂ" />
+            <softkey id="@id/softkey_myanmar_sign_shan_tone_5" long_press_data="့" press_data="ႉ" />
+            <softkey id="@id/softkey_myanmar_sign_dot_below" press_data="့" />
+            <softkey id="@id/softkey_myanmar_sign_shan_tone_2" long_press_data="ႆ" press_data="ႇ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_shan_final_y" press_data="ႆ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_u" long_press_data="ံ" press_data="ု" />
+            <softkey id="@id/softkey_myanmar_sign_anusvara" press_data="ံ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_uu" long_press_data="ႊ" press_data="ူ" />
+            <softkey id="@id/softkey_myanmar_sign_shan_tone_6" press_data="ႊ" />
+            <softkey id="@id/softkey_myanmar_sign_shan_tone_3" long_press_data="း" press_data="ႈ" />
+            <softkey id="@id/softkey_myanmar_sign_visarga" press_data="း" />
+            <softkey id="@id/softkey_myanmar_letter_shan_pha" long_press_data="ꧤ" press_data="ၽ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_bha" press_data="ꧤ" />
+            <softkey id="@id/softkey_myanmar_letter_tha" long_press_data="ꩪ,ꩧ,ꩩ" press_data="ထ" />
+            <softkey id="@id/softkey_myanmar_letter_khamti_dha" long_press_data="ꩧ,ꩩ" press_data="ꩪ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_kha" long_press_data="ꧠ" press_data="ၶ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_gha" press_data="ꧠ" />
+            <softkey id="@id/softkey_myanmar_letter_la" long_press_data="ꩮ" press_data="လ" />
+            <softkey id="@id/softkey_myanmar_letter_khamti_hha" press_data="ꩮ" />
+            <softkey id="@id/softkey_myanmar_letter_ya" long_press_data="ျ" press_data="ယ" />
+            <softkey id="@id/softkey_myanmar_consonant_sign_medial_ya" press_data="ျ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_nya" long_press_data="ၾ" press_data="ၺ" />
+            <softkey id="@id/softkey_myanmar_letter_shan_fa" press_data="ၾ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_sgaw_karen_eu" long_press_data="ႃ" press_data="ၢ" />
+            <softkey id="@id/softkey_myanmar_vowel_sign_shan_aa" press_data="ႃ" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime class="com.google.android.apps.inputmethod.libs.mozc.ime.SimpleJapaneseIme" display_app_completions="false" inline_composing="true" language="@string/japanese_language_id" language_specific_settings="@xml/setting_japanese_language_specific" string_id="@string/string_id_japanese_godan" unacceptable_meta_keys="" use_ascii_password_keyboard="true">
+        <keyboard_group variant="godan">
+            <if enable_number_row="true">
+                <params layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" />
+            </if>
+            <layout_specific_settings resource_id="@xml/setting_japanese_softwarekeyboard" />
+            <keyboard def="@xml/keyboard_ja_godan" type="prime">
+                <merge def="@xml/keyboard_latin_ja_godan" />
+            </keyboard>
+            <keyboard def="@xml/keyboard_non_prime_digit" type="digit" />
+            <keyboard def="@xml/keyboard_non_prime_symbol" type="symbol" />
+            <keyboard def="@xml/keyboard_ja_qwerty_alphabet" type="alphabet_qwerty">
+                <if enable_number_row="true">
+                    <merge def="@xml/keyboard_ja_qwerty_alphabet_fragment_numbers_10_10_10_9" />
+                </if>
+                <merge def="@xml/keyboard_fragment_qwerty_alphabet_bottom" />
+            </keyboard>
+            <keyboard def="@xml/keyboard_ja_tri_state_digit" type="tri_state_digit" />
+            <keyboard def="@xml/keyboard_non_prime_symbol_ja_tri_state" type="tri_state_symbol" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_prime_keyboard_specification" value="GODAN_KANA" />
+            <item id="@id/extra_value_hardware_keyboard_specification" value="HARDWARE_QWERTY_KANA" />
+            <item id="@id/extra_value_is_language_switch_key_hidden_on_processing" value="true" />
+        </extra_values>
+    </ime>
+</framework>

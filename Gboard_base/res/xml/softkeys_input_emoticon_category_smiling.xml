@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_emoticon">
+        <softkey desc="@string/smiling_emoticon_description_smiley_face" param_data="(•‿•)" />
+        <softkey desc="@string/smiling_emoticon_description_smiling_bird_face" param_data="(・∀・)" />
+        <softkey desc="@string/smiling_emoticon_description_smiley_face" param_data="◉‿◉" />
+        <softkey desc="@string/smiling_emoticon_description_smiley_face" param_data="｡◕‿◕｡" />
+        <softkey desc="@string/smiling_emoticon_description_smiley_face" param_data="(. ❛ ᴗ ❛.)" />
+        <softkey desc="@string/smiling_emoticon_description_wide_eyed_smiley_face" param_data="(θ‿θ)" />
+        <softkey desc="@string/smiling_emoticon_description_wide_eyed_smiley_face" param_data="ʘ‿ʘ" />
+        <softkey desc="@string/smiling_emoticon_description_smile_with_starey_eyes" param_data="(✷‿✷)" />
+        <softkey desc="@string/smiling_emoticon_description_eyes_looking_up_smiley_face" param_data="(◔‿◔)" />
+        <softkey desc="@string/smiling_emoticon_description_adorable_face" param_data="(◕ᴗ◕✿)" />
+        <softkey desc="@string/smiling_emoticon_description_excited_adorable_face" param_data="(ʘᴗʘ✿)" />
+        <softkey desc="@string/smiling_emoticon_description_hands_up_happy_face" param_data="(人 •͈ᴗ•͈)" />
+        <softkey desc="@string/smiling_emoticon_description_blushing_happy_face" param_data="(◍•ᴗ•◍)" />
+        <softkey desc="@string/smiling_emoticon_description_bird_face" param_data="( ╹▽╹ )" />
+        <softkey desc="@string/smiling_emoticon_description_Grinning_Squinting_Face" param_data="(≧▽≦)" />
+        <softkey desc="@string/smiling_emoticon_description_star_eyed_happy_face" param_data="(☆▽☆)" />
+        <softkey desc="@string/smiling_emoticon_description_grinning_face_with_star_eyes" param_data="(✯ᴗ✯)" />
+        <softkey desc="@string/smiling_emoticon_description_flushed_face" param_data="ಡ ͜ ʖ ಡ" />
+        <softkey desc="@string/smiling_emoticon_description_wide_eyed_smiling_bear_face" param_data="(ㆁωㆁ)" />
+        <softkey desc="@string/smiling_emoticon_description_smug_smile_with_arms_behind_head" param_data="&lt;(￣︶￣)>" />
+        <softkey desc="@string/smiling_emoticon_description_squinting_smiling_bear_face" param_data="(*´ω｀*)" />
+        <softkey desc="@string/smiling_emoticon_description_blushing_face" param_data="( ꈍᴗꈍ)" />
+        <softkey desc="@string/smiling_emoticon_description_grinning_face_with_flower" param_data="(✿^‿^)" />
+        <softkey desc="@string/smiling_emoticon_description_big_wide_smile" param_data="^_________^" />
+        <softkey desc="@string/smiling_emoticon_description_grinning_Denko" param_data="(◡ ω ◡)" />
+        <softkey desc="@string/smiling_emoticon_description_gentle_smile_with_closed_eyes" param_data="( ´◡‿ゝ◡`)" />
+        <softkey desc="@string/smiling_emoticon_description_wink" param_data="(｡•̀ᴗ-)✧" />
+        <softkey desc="@string/smiling_emoticon_description_wink" param_data="(◠‿◕)" />
+        <softkey desc="@string/smiling_emoticon_description_wink_with_magic" param_data="(◠‿・)—☆" />
+        <softkey desc="@string/smiling_emoticon_description_smiling_and_throwing_sparkles" param_data="✧◝(⁰▿⁰)◜✧" />
+        <softkey desc="@string/smiling_emoticon_description_hands_up_with_sparkles" param_data="(人*´∀｀)｡*ﾟ+" />
+        <softkey desc="@string/smiling_emoticon_description_throwing_sparkles" param_data="(ﾉ◕ヮ◕)ﾉ*.✧" />
+    </softkey_list>
+</framework>

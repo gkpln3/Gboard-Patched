@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard_group>
+        <keyboard def="@xml/keyboard_maestro_promo_viewer" type="@string/keyboard_type_maestro_promo" />
+    </keyboard_group>
+</framework>

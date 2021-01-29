@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_simple">
+            <softkey id="@id/softkey_cham_letter_a" press_data="ꨀ" />
+            <softkey id="@id/softkey_cham_letter_i" press_data="ꨁ" />
+            <softkey id="@id/softkey_cham_letter_u" press_data="ꨂ" />
+            <softkey id="@id/softkey_cham_letter_e" press_data="ꨃ" />
+            <softkey id="@id/softkey_cham_letter_ai" press_data="ꨄ" />
+            <softkey id="@id/softkey_cham_letter_o" press_data="ꨅ" />
+            <softkey hint_label="ꩀ" id="@id/softkey_cham_letter_ka" long_press_data="ꩀ" press_data="ꨆ" />
+            <softkey id="@id/softkey_cham_letter_kha" press_data="ꨇ" />
+            <softkey hint_label="ꩁ" id="@id/softkey_cham_letter_ga" long_press_data="ꩁ" press_data="ꨈ" />
+            <softkey id="@id/softkey_cham_letter_gha" press_data="ꨉ" />
+            <softkey hint_label="ꩂ" id="@id/softkey_cham_letter_ngue" long_press_data="ꩂ" press_data="ꨊ" />
+            <softkey id="@id/softkey_cham_letter_nga" press_data="ꨋ" />
+            <softkey hint_label="ꩄ" id="@id/softkey_cham_letter_cha" long_press_data="ꩄ" press_data="ꨌ" />
+            <softkey id="@id/softkey_cham_letter_chha" press_data="ꨍ" />
+            <softkey id="@id/softkey_cham_letter_ja" press_data="ꨎ" />
+            <softkey id="@id/softkey_cham_letter_jha" press_data="ꨏ" />
+            <softkey id="@id/softkey_cham_letter_nhue" press_data="ꨐ" />
+            <softkey id="@id/softkey_cham_letter_nha" press_data="ꨑ" />
+            <softkey id="@id/softkey_cham_letter_nhja" press_data="ꨒ" />
+            <softkey hint_label="ꩅ" id="@id/softkey_cham_letter_ta" long_press_data="ꩅ" press_data="ꨓ" />
+            <softkey id="@id/softkey_cham_letter_tha" press_data="ꨔ" />
+            <softkey id="@id/softkey_cham_letter_da" press_data="ꨕ" />
+            <softkey id="@id/softkey_cham_letter_dha" press_data="ꨖ" />
+            <softkey hint_label="ꩆ" id="@id/softkey_cham_letter_nue" long_press_data="ꩆ" press_data="ꨗ" />
+            <softkey id="@id/softkey_cham_letter_na" press_data="ꨘ" />
+            <softkey id="@id/softkey_cham_letter_dda" press_data="ꨙ" />
+            <softkey hint_label="ꩇ" id="@id/softkey_cham_letter_pa" long_press_data="ꩇ" press_data="ꨚ" />
+            <softkey id="@id/softkey_cham_letter_ppa" press_data="ꨛ" />
+            <softkey id="@id/softkey_cham_letter_pha" press_data="ꨜ" />
+            <softkey id="@id/softkey_cham_letter_ba" press_data="ꨝ" />
+            <softkey id="@id/softkey_cham_letter_bha" press_data="ꨞ" />
+            <softkey id="@id/softkey_cham_letter_mue" press_data="ꨟ" />
+            <softkey id="@id/softkey_cham_letter_ma" press_data="ꨠ" />
+            <softkey id="@id/softkey_cham_letter_bba" press_data="ꨡ" />
+            <softkey hint_label="ꩈ" id="@id/softkey_cham_letter_ya" long_press_data="ꩈ" press_data="ꨢ" />
+            <softkey hint_label="ꩉ" id="@id/softkey_cham_letter_ra" long_press_data="ꩉ" press_data="ꨣ" />
+            <softkey hint_label="ꩊ" id="@id/softkey_cham_letter_la" long_press_data="ꩊ" press_data="ꨤ" />
+            <softkey id="@id/softkey_cham_letter_va" press_data="ꨥ" />
+            <softkey hint_label="ꩋ" id="@id/softkey_cham_letter_ssa" long_press_data="ꩋ" press_data="ꨦ" />
+            <softkey id="@id/softkey_cham_letter_sa" press_data="ꨧ" />
+            <softkey id="@id/softkey_cham_letter_ha" press_data="ꨨ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_auto_centered_small_dynamic">
+            <softkey id="@id/softkey_cham_vowel_sign_aa" press_data="ꨩ" press_label="ꨩ" />
+            <softkey id="@id/softkey_cham_vowel_sign_i" press_data="ꨪ" press_label="ꨪ" />
+            <softkey id="@id/softkey_cham_vowel_sign_ii" press_data="ꨫ" press_label="ꨫ" />
+            <softkey id="@id/softkey_cham_vowel_sign_ei" press_data="ꨬ" press_label="ꨬ" />
+            <softkey id="@id/softkey_cham_vowel_sign_u" press_data="ꨭ" press_label="ꨭ" />
+            <softkey id="@id/softkey_cham_vowel_sign_oe" press_data="ꨮ" press_label="ꨮ" />
+            <softkey id="@id/softkey_cham_vowel_sign_o" press_data="ꨯ" press_label="ꨯ" />
+            <softkey id="@id/softkey_cham_vowel_sign_ai" press_data="ꨰ" press_label="ꨰ" />
+            <softkey id="@id/softkey_cham_vowel_sign_au" press_data="ꨱ" press_label="ꨱ" />
+            <softkey id="@id/softkey_cham_vowel_sign_ue" press_data="ꨲ" press_label="ꨲ" />
+            <softkey id="@id/softkey_cham_consonant_sign_ya" press_data="ꨳ" press_label="ꨳ" />
+            <softkey id="@id/softkey_cham_consonant_sign_ra" press_data="ꨴ" press_label="ꨴ" />
+            <softkey id="@id/softkey_cham_consonant_sign_la" press_data="ꨵ" press_label="ꨵ" />
+            <softkey id="@id/softkey_cham_consonant_sign_wa" press_data="ꨶ" press_label="ꨶ" />
+            <softkey id="@id/softkey_cham_consonant_sign_final_ng" press_data="ꩃ" press_label="ꩃ" />
+            <softkey id="@id/softkey_cham_consonant_sign_final_m" press_data="ꩌ" press_label="ꩌ" />
+            <softkey id="@id/softkey_cham_consonant_sign_final_h" press_data="ꩍ" press_label="ꩍ" />
+            <softkey id="@id/softkey_codepoint_ec02" press_data="" press_label=" " />
+        </softkey_list>
+    </softkeys>
+</framework>

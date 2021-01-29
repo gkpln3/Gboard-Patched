@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_merge_header" layout="@layout/softkey_qwerty_label_character_label_header" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+            <action data="$long_press_data$" intention="$long_press_intention=COMMIT$" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+            <label location="@id/label_header" value="$hint_label$" />
+        </softkey_template>
+        <softkey_list splitter="," template_id="@id/softkey_template_merge_header">
+            <softkey hint_label="١" id="@id/softkey_fragment_superscript_digit_one" long_press_data="١,1" />
+            <softkey hint_label="٢" id="@id/softkey_fragment_superscript_digit_two" long_press_data="٢,2" />
+            <softkey hint_label="٣" id="@id/softkey_fragment_superscript_digit_three" long_press_data="٣,3" />
+            <softkey hint_label="٤" id="@id/softkey_fragment_superscript_digit_four" long_press_data="٤,4" />
+            <softkey hint_label="٥" id="@id/softkey_fragment_superscript_digit_five" long_press_data="٥,5" />
+            <softkey hint_label="٦" id="@id/softkey_fragment_superscript_digit_six" long_press_data="٦,6" />
+            <softkey hint_label="٧" id="@id/softkey_fragment_superscript_digit_seven" long_press_data="٧,7" />
+            <softkey hint_label="٨" id="@id/softkey_fragment_superscript_digit_eight" long_press_data="٨,8" />
+            <softkey hint_label="٩" id="@id/softkey_fragment_superscript_digit_nine" long_press_data="٩,9" />
+            <softkey hint_label="٠" id="@id/softkey_fragment_superscript_digit_zero" long_press_data="٠,0" />
+        </softkey_list>
+    </softkeys>
+</framework>

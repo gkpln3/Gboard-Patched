@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_body_candidates_ime_action_short_message" />
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@id/softkey_enter" view_id="@id/key_pos_candidates_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_GO">
+        <mapping key_id="@id/softkey_action_go" view_id="@id/key_pos_candidates_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_SEARCH">
+        <mapping key_id="@id/softkey_action_search" view_id="@id/key_pos_candidates_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_SEND">
+        <mapping key_id="@id/softkey_action_send" view_id="@id/key_pos_candidates_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_NEXT">
+        <mapping key_id="@id/softkey_action_next" view_id="@id/key_pos_candidates_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_PREVIOUS">
+        <mapping key_id="@id/softkey_action_previous" view_id="@id/key_pos_candidates_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_DONE">
+        <mapping key_id="@id/softkey_action_done" view_id="@id/key_pos_candidates_ime_action" />
+    </key_mapping>
+    <if language="zh|ja">
+        <key_mapping state="COMPOSING">
+            <mapping key_id="@id/softkey_enter" view_id="@id/key_pos_candidates_ime_action" />
+        </key_mapping>
+    </if>
+</framework>

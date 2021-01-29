@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/Body">
+    <LinearLayout style="@style/BodyInner">
+        <include layout="@layout/keyboard_latin_morse_2_input_area" />
+        <include layout="@layout/keyboard_latin_bottom_for_morse" />
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

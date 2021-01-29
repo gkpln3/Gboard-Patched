@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_back_to_prime" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.BottomLeft" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_non_prime_symbol_1" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_non_prime_category_1" android:layout_weight="100.0" style="@style/SoftKey.Bottom" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_space" android:layout_weight="500.0" style="@style/SoftKey.Bottom" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_non_prime_category_2" android:layout_weight="100.0" style="@style/SoftKey.Bottom" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_non_prime_symbol_2" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_back_to_prime2" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.BottomRight" />
+</LinearLayout>

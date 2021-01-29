@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/number_row" style="@style/PrimeKeyboardNumberRow"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_0" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_1" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_2" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_3" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_4" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_5" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_6" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_7" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_8" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_number_9" android:layout_weight="100.0" style="@style/SoftKey.NumberRow" />
+</LinearLayout>

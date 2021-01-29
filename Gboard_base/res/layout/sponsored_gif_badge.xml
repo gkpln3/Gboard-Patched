@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="12.0sp" android:textColor="@color/google_white" android:gravity="center" android:layout_gravity="start|center|top" android:id="@id/animated_image_sponsored_gif_badge" android:background="@color/google_transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="16.0dip" android:layout_margin="5.0dip" android:text="@string/sponsored_gif_badge_label" android:includeFontPadding="false" android:lineSpacingExtra="0.0dip" android:contentDescription="@string/sponsored_gif_badge_label" android:paddingStart="5.0dip" android:paddingEnd="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

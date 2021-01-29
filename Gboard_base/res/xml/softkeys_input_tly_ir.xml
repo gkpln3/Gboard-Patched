@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header">
+            <softkey id="@id/softkey_arabic_letter_heh" long_press_data="ه‍" long_press_label="ﻫ" press_data="ه" press_label="ه" />
+            <softkey hint_label="ئ" id="@id/softkey_arabic_letter_farsi_yeh" long_press_data="ئ" long_press_label="ئ" press_data="ی" press_label="ی" />
+            <softkey hint_label="أ" id="@id/softkey_arabic_letter_alef" long_press_data="أ,آ,ء,إ" long_press_label="أ,آ,ء,إ" press_data="ا" press_label="ا" />
+            <softkey hint_label="ؤ" id="@id/softkey_arabic_letter_waw" long_press_data="ؤ" long_press_label="ؤ" press_data="و" press_label="و" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_simple">
+            <softkey id="@id/softkey_arabic_letter_dad" press_data="ض" />
+            <softkey id="@id/softkey_arabic_letter_sad" press_data="ص" />
+            <softkey id="@id/softkey_arabic_letter_theh" press_data="ث" />
+            <softkey id="@id/softkey_arabic_letter_qaf" press_data="ق" />
+            <softkey id="@id/softkey_arabic_letter_feh" press_data="ف" />
+            <softkey id="@id/softkey_arabic_letter_ghain" press_data="غ" />
+            <softkey id="@id/softkey_arabic_letter_ain" press_data="ع" />
+            <softkey id="@id/softkey_arabic_letter_khah" press_data="خ" />
+            <softkey id="@id/softkey_arabic_letter_hah" press_data="ح" />
+            <softkey id="@id/softkey_arabic_letter_jeem" press_data="ج" />
+            <softkey id="@id/softkey_arabic_letter_tcheh" press_data="چ" />
+            <softkey id="@id/softkey_arabic_letter_sheen" press_data="ش" />
+            <softkey id="@id/softkey_arabic_letter_seen" press_data="س" />
+            <softkey id="@id/softkey_arabic_letter_beh" press_data="ب" />
+            <softkey id="@id/softkey_arabic_letter_lam" press_data="ل" />
+            <softkey id="@id/softkey_arabic_letter_teh" press_data="ت" press_label="ت" />
+            <softkey id="@id/softkey_arabic_letter_noon" press_data="ن" />
+            <softkey id="@id/softkey_arabic_letter_meem" press_data="م" />
+            <softkey id="@id/softkey_arabic_letter_keheh" press_data="ک" />
+            <softkey id="@id/softkey_arabic_letter_gaf" press_data="گ" />
+            <softkey id="@id/softkey_arabic_letter_zah" press_data="ظ" />
+            <softkey id="@id/softkey_arabic_letter_tah" press_data="ط" />
+            <softkey id="@id/softkey_arabic_letter_jeh" press_data="ژ" />
+            <softkey id="@id/softkey_arabic_letter_zain" press_data="ز" />
+            <softkey id="@id/softkey_arabic_letter_reh" press_data="ر" />
+            <softkey id="@id/softkey_arabic_letter_thal" press_data="ذ" />
+            <softkey id="@id/softkey_arabic_letter_dal" press_data="د" />
+            <softkey id="@id/softkey_arabic_letter_peh" press_data="پ" />
+            <softkey id="@id/softkey_arabic_letter_alef_with_madda_above" press_data="آ" />
+        </softkey_list>
+    </softkeys>
+</framework>

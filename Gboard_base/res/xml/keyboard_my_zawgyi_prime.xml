@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_my_zawgyi_prime">
+        <view layout="@layout/keyboard_latin_11_11_10_body" override="motion_event_handler" type="body">
+            <if enable_joystick_delete="true">
+                <motion_event_handler class=".libs.framework.keyboard.handler.JoystickDeleteMotionEventHandler" />
+            </if>
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinMotionEventHandler" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubDeleteMotionEventHandler" preference_key="@string/pref_key_enable_scrub_delete" reverse_preference="false" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubMoveMotionEventHandler" preference_key="@string/pref_key_enable_scrub_move" reverse_preference="false" />
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinKeyboardLayoutHandler" />
+            <softkeys href="@xml/softkeys_input_my_zawgyi_prime" />
+            <softkeys href="@xml/softkeys_latin_fragment_secondary_digits" />
+            <include href="@xml/keymapping_my_zawgyi_prime" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup_autosized_label_with_emoji_hint" />
+            <include href="@xml/keymapping_latin_fragment_secondary_digits" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_fragment_secondary_symbols_4x10" />
+</framework>

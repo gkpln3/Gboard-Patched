@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_canadian_syllabics_glottal_stop" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_canadian_syllabics_pe" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_canadian_syllabics_te" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_canadian_syllabics_ke" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_canadian_syllabics_ce" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_canadian_syllabics_me" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_canadian_syllabics_ne" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_le" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_canadian_syllabics_r_cree_re" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_canadian_syllabics_medial_l" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_canadian_syllabics_le" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_re" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_canadian_syllabics_se" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_canadian_syllabics_she" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_canadian_syllabics_ye" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_canadian_syllabics_th_cree_the" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_canadian_syllabics_the" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_canadian_syllabics_fe" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_canadian_syllabics_final_double_short_vertical_strokes" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_canadian_syllabics_medial_r" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_canadian_syllabics_e" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_canadian_syllabics_i" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_canadian_syllabics_ii" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_canadian_syllabics_o" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_canadian_syllabics_oo" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_canadian_syllabics_a" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_canadian_syllabics_aa" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_canadian_syllabics_hk" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_canadian_syllabics_kw" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_canadian_syllabics_mh" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_canadian_syllabics_we" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_canadian_syllabics_wi" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_canadian_syllabics_wii" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_canadian_syllabics_wo" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_canadian_syllabics_woo" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_canadian_syllabics_wa" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_canadian_syllabics_waa" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_canadian_syllabics_p" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_canadian_syllabics_final_raised_dot" view_id="@id/key_pos_3_8" />
+        <mapping key_id="@id/softkey_canadian_syllabics_moose_cree_sk" view_id="@id/key_pos_3_9" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_we" view_id="@id/key_pos_4_0" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_wi" view_id="@id/key_pos_4_1" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_wii" view_id="@id/key_pos_4_2" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_wo" view_id="@id/key_pos_4_3" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_woo" view_id="@id/key_pos_4_4" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_wa" view_id="@id/key_pos_4_5" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_waa" view_id="@id/key_pos_4_6" />
+        <mapping key_id="@id/softkey_canadian_syllabics_west_cree_p" view_id="@id/key_pos_4_7" />
+        <mapping key_id="@id/softkey_canadian_syllabics_final_ring" view_id="@id/key_pos_4_8" />
+    </key_mapping>
+</framework>

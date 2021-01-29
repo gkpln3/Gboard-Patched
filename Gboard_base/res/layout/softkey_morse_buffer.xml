@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="200.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/text_size_morse_buffer_character" android:ellipsize="middle" android:gravity="center|right" android:id="@id/label_morse_buffer_character" android:layout_marginRight="@dimen/morse_buffer_horizontal_margin" android:layout_weight="100.0" style="@style/Label.MorseBuffer" />
+    <com.google.android.libraries.inputmethod.widgets.AutoScaleXTextView android:textSize="@dimen/text_size_morse_buffer_morse_code" android:textStyle="bold" android:gravity="center|left" android:id="@id/label_morse_buffer_morse_hint" android:layout_marginLeft="@dimen/morse_buffer_horizontal_margin" android:layout_weight="100.0" minimum_scale="0.7" style="@style/Label.MorseBuffer" />
+</LinearLayout>

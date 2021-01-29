@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.handwriting.ime.HandwritingIme" display_app_completions="true" language="ja" language_specific_settings="@xml/setting_japanese_language_specific" string_id="ime_ja_handwriting" supports_one_handed_mode="false" use_ascii_password_keyboard="true">
+        <keyboard_group variant="handwriting" variant_label="@string/variant_handwriting">
+            <layout_specific_settings resource_id="@xml/zh_hw_layout_settings" />
+            <keyboard def="@xml/keyboard_handwriting_cj" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_has_more_candidates_view" value="true" />
+        </extra_values>
+    </ime>
+</framework>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:tag=".bitmoji-logo-text" android:src="@drawable/bitmoji_logo_top" style="@style/BitmojiCardLogo" />
+        <ImageView android:src="@drawable/bitmoji_logo_bottom" style="@style/BitmojiCardLogo" />
+    </FrameLayout>
+    <TextView style="@style/BitmojiCardSecondaryText.InstallCardPromo" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/bitmoji_zero_graphic_a" android:scaleType="fitCenter" android:adjustViewBounds="true" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="16.0dip" android:layout_marginBottom="24.0dip" style="@style/BitmojiCardActionButton" />
+    </LinearLayout>
+</LinearLayout>

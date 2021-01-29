@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/delete_key_content_desc" id="@id/softkey_candidate_del" layout="@layout/softkey_function_key_icon" multi_touch="false">
+            <action keycode="DEL" repeatable="true" type="PRESS" />
+            <action keycode="DELETE_FINISH" type="UP" />
+            <icon location="@id/icon" value="@attr/IconDel" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/delete_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_candidate_del_composing" layout="@layout/softkey_function_key_icon" multi_touch="false" popup_timing="ON_GESTURE" slide_sensitivity="LESS">
+            <action keycode="DEL" repeatable="true" type="PRESS" />
+            <action keycode="DELETE_FINISH" type="UP" />
+            <action keycode="CLEAR_ALL" popup_label="@string/label_clear_key" popup_layout="@layout/popup_small_square_bubble_no_cancelable" type="SLIDE_LEFT" />
+            <icon location="@id/icon" value="@attr/IconDel" />
+        </softkey>
+    </softkeys>
+</framework>

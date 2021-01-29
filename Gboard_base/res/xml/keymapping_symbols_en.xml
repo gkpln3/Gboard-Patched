@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_latin" />
+    <include href="@xml/keymapping_symbols_common" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_asterisk" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_quot" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_apostrophe" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_semicolon" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_exclamation_mark" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_question_mark" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/softkey_percent_sign" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_copyright_sign" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_registered_sign" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_trade_mark_sign" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_check_mark" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_left_square_bracket" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_right_square_bracket" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkeys_popup_one_handed_mode_fragments" />
+    <softkeys>
+        <softkey_list splitter=" ">
+            <softkey_template content_description="$desc$" id="@id/softkey_template_function_key_label" layout="@layout/softkey_function_key_label" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+                <action data="$data$" intention="DECODE" keycode="$keycode$" popup_label="$data$" type="PRESS" />
+                <action data="" intention="DECODE" keycode="0" type="SLIDE_LEFT" />
+                <action data="" intention="DECODE" keycode="0" type="SLIDE_UP" />
+                <action data="" intention="DECODE" keycode="0" type="SLIDE_RIGHT" />
+                <action data="" intention="DECODE" keycode="0" type="SLIDE_DOWN" />
+                <label location="@id/label" value="$data$" />
+            </softkey_template>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@id/softkey_template_function_key_label">
+            <softkey data="," id="@id/softkey_comma" keycode="COMMA" />
+            <softkey data="/" id="@id/softkey_slash" keycode="SLASH" />
+            <softkey data="\@" id="@id/softkey_at" keycode="AT" />
+            <softkey data="." id="@id/softkey_period" keycode="PERIOD" />
+            <softkey data="\?" id="@id/softkey_ja_qwerty_question" keycode="PLAIN_TEXT" />
+            <softkey data="~" id="@id/softkey_ja_qwerty_tilde" keycode="PLAIN_TEXT" />
+        </softkey_list>
+        <softkey_list splitter=" ">
+            <if is_gboard="true">
+                <softkey content_description="@string/cd_keyboard_kana" id="@id/softkey_switch_to_hiragana" layout="@layout/softkey_ja_switch_to_hiragana" popup_timing="@string/qwerty_popup_timing">
+                    <action data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+                </softkey>
+            </if>
+            <else>
+                <softkey content_description="@string/cd_keyboard_kana" id="@id/softkey_switch_to_hiragana" layout="@attr/LayoutJaFunction" popup_timing="@string/qwerty_popup_timing">
+                    <action data="@string/japanese_language_id" keycode="SWITCH_LANGUAGE" type="PRESS" />
+                    <icon location="@id/icon" value="@raw/qwerty__function__alphabet__icon" />
+                </softkey>
+            </else>
+            <if is_gboard="true">
+                <softkey content_description="@string/cd_keyboard_alphabet" id="@id/softkey_switch_to_alphabet" layout="@layout/softkey_ja_switch_to_alphabet" popup_timing="@string/qwerty_popup_timing">
+                    <action keycode="SWITCH_TO_JAPANESE_ALPHABET_KEYBOARD" type="PRESS" />
+                </softkey>
+            </if>
+            <else>
+                <softkey content_description="@string/cd_keyboard_alphabet" id="@id/softkey_switch_to_alphabet" layout="@attr/LayoutJaFunction" popup_timing="@string/qwerty_popup_timing">
+                    <action data="@string/english_language_id" keycode="SWITCH_LANGUAGE" type="PRESS" />
+                    <icon location="@id/icon" value="@raw/qwerty__function__kana__icon" />
+                </softkey>
+            </else>
+            <softkey content_description="@string/symbol_keyboard_key_content_desc" id="@id/softkey_ja_switch_to_symbols" layout="@attr/LayoutJaFunction">
+                <action data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+                <icon location="@id/icon" value="@attr/IconJaSwitchToSymbol" />
+            </softkey>
+            <softkey content_description="@string/symbol_keyboard_key_content_desc" id="@id/softkey_ja_switch_to_tri_state_symbols" layout="@layout/softkey_function_key_label">
+                <if enable_rich_symbol_keyboard="true">
+                    <action data="rich_symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+                </if>
+                <else>
+                    <action data="tri_state_symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+                </else>
+                <label location="@id/label" value="@string/label_switch_to_japanese_tri_state_symbol" />
+            </softkey>
+            <softkey content_description="@string/next_language_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_ja_switch_to_next_language" layout="@attr/LayoutJaFunction">
+                <action keycode="SWITCH_TO_NEXT_LANGUAGE" type="PRESS" />
+                <action action_on_down="true" data="globe" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+                <icon location="@id/icon" value="@attr/IconJaGlobe" />
+            </softkey>
+            <softkey content_description="@string/digit_keyboard_key_content_desc" id="@id/softkey_ja_switch_to_tri_state_digit" layout="@layout/softkey_ja_switch_tri_state_alphabet" popup_timing="@string/qwerty_popup_timing">
+                <action data="tri_state_digit" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            </softkey>
+            <softkey content_description="@string/cd_keyboard_kana" id="@id/softkey_ja_switch_to_tri_state_hiragana" layout="@layout/softkey_ja_switch_tri_state_digit" popup_timing="@string/qwerty_popup_timing">
+                <action data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            </softkey>
+            <softkey content_description="@string/cd_keyboard_alphabet" id="@id/softkey_ja_switch_to_tri_state_alphabet" layout="@layout/softkey_ja_switch_tri_state_hiragana" popup_timing="@string/qwerty_popup_timing">
+                <action keycode="SWITCH_TO_JAPANESE_ALPHABET_KEYBOARD" type="PRESS" />
+            </softkey>
+            <softkey content_description="@string/cd_keyboard_alphabet" id="@id/softkey_ja_switch_to_tri_state_alphabet_qwerty" layout="@layout/softkey_ja_switch_tri_state_hiragana" popup_timing="@string/qwerty_popup_timing">
+                <action data="alphabet_qwerty" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            </softkey>
+            <softkey content_description="@string/space_key_content_desc" id="@id/softkey_space_ja" layout="@layout/softkey_space_label_grey">
+                <action data=" " keycode="SPACE" type="PRESS" />
+                <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+                <label location="@id/label" value="@string/label_space_ja" />
+            </softkey>
+            <softkey content_description="@string/space_key_content_desc" id="@id/softkey_space_ja_no_label" layout="@attr/LayoutJaFunction">
+                <action data=" " keycode="SPACE" type="PRESS" />
+                <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+                <icon location="@id/icon" value="@attr/IconJaSpace" />
+            </softkey>
+            <softkey content_description="@string/space_key_content_desc" id="@id/softkey_space_ja_conversion" layout="@layout/softkey_space_label_grey">
+                <action data=" " keycode="SPACE" type="PRESS" />
+                <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+                <label location="@id/label" value="@string/label_space_conversion" />
+            </softkey>
+            <softkey content_description="@string/space_key_content_desc" id="@id/softkey_space_ja_no_label_conversion" layout="@layout/softkey_function_key_label">
+                <action data=" " keycode="SPACE" type="PRESS" />
+                <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+                <label location="@id/label" value="@string/label_space_conversion" />
+            </softkey>
+            <softkey content_description="@string/cd_key_left" id="@id/softkey_left_arrow" layout="@attr/LayoutJaFunction" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+                <action keycode="DPAD_LEFT" repeatable="true" type="PRESS" />
+                <action keycode="DPAD_LEFT" popup_icon="@attr/IconMoveCursorLeft" repeatable="true" type="SLIDE_LEFT" />
+                <action keycode="DPAD_UP" popup_icon="@attr/IconMoveCursorUp" repeatable="true" type="SLIDE_UP" />
+                <action keycode="DPAD_RIGHT" popup_icon="@attr/IconMoveCursorRight" repeatable="true" type="SLIDE_RIGHT" />
+                <action keycode="DPAD_DOWN" popup_icon="@attr/IconMoveCursorDown" repeatable="true" type="SLIDE_DOWN" />
+                <icon location="@id/icon" value="@attr/IconJaLeftArrow" />
+            </softkey>
+            <softkey content_description="@string/cd_key_right" id="@id/softkey_right_arrow" layout="@attr/LayoutJaFunction" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+                <action keycode="DPAD_RIGHT" repeatable="true" type="PRESS" />
+                <action keycode="DPAD_LEFT" popup_icon="@attr/IconMoveCursorLeft" repeatable="true" type="SLIDE_LEFT" />
+                <action keycode="DPAD_UP" popup_icon="@attr/IconMoveCursorUp" repeatable="true" type="SLIDE_UP" />
+                <action keycode="DPAD_RIGHT" popup_icon="@attr/IconMoveCursorRight" repeatable="true" type="SLIDE_RIGHT" />
+                <action keycode="DPAD_DOWN" popup_icon="@attr/IconMoveCursorDown" repeatable="true" type="SLIDE_DOWN" />
+                <icon location="@id/icon" value="@attr/IconJaRightArrow" />
+            </softkey>
+            <softkey content_description="@string/cd_key_undo" id="@id/softkey_undo" layout="@attr/LayoutJaFunction">
+                <action keycode="UNDO" type="PRESS" />
+                <icon location="@id/icon" value="@attr/IconJaUndo" />
+            </softkey>
+            <softkey content_description="@string/more_candidates_key_content_desc" id="@id/softkey_show_more_candidates_foreground" layout="@layout/softkey_ja_more_candidates_button">
+                <action data="EXPAND_KEYBOARD" keycode="TOGGLE_SHOW_MORE_CANDIDATES" type="PRESS" />
+                <icon location="@id/icon" value="@attr/IconJaShowMoreCandidate" />
+            </softkey>
+            <softkey content_description="@string/hide_more_candidates_key_content_desc" id="@id/softkey_hide_more_candidates_foreground" layout="@layout/softkey_ja_more_candidates_button">
+                <action data="FOLD_KEYBOARD" keycode="TOGGLE_SHOW_MORE_CANDIDATES" type="PRESS" />
+                <icon location="@id/icon" value="@attr/IconJaHideMoreCandidate" />
+            </softkey>
+            <softkey id="@id/softkey_more_candidates_background_default" layout="@layout/softkey_ja_more_candidates_button_background">
+                <icon location="@id/icon" value="@attr/IconJaMoreCandidateDefault" />
+            </softkey>
+            <softkey id="@id/softkey_more_candidates_background_scrolled_enough" layout="@layout/softkey_ja_more_candidates_button_background">
+                <icon location="@id/icon" value="@attr/IconJaMoreCandidateScrolledEnough" />
+            </softkey>
+            <softkey content_description="@string/label_ja_submit" id="@id/softkey_ja_submit" layout="@layout/softkey_ja_function_submit">
+                <action keycode="ENTER" type="PRESS" />
+                <label location="@id/label" value="@string/label_ja_submit" />
+            </softkey>
+        </softkey_list>
+    </softkeys>
+    <include href="@xml/softkeys_switch_to_emoji_search_extension" />
+</framework>

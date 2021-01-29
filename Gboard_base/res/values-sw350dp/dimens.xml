@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="apps_min_height">125.0dip</dimen>
+    <item type="dimen" name="email_candidate_domain_minimum_scale">0.85</item>
+    <dimen name="email_candidate_domain_size">12.0dip</dimen>
+    <item type="dimen" name="email_candidate_username_minimum_scale">0.85</item>
+    <dimen name="floating_keyboard_body_height">212.0dip</dimen>
+    <dimen name="floating_keyboard_body_height_more_letter_rows">253.0dip</dimen>
+    <dimen name="godan_punctuation_rect_size">8.0dip</dimen>
+    <dimen name="keyboard_body_height">205.0dip</dimen>
+    <dimen name="keyboard_body_height_more_letter_rows">246.0dip</dimen>
+    <dimen name="keyboard_expression_header_search_box_vertical_margin">5.0dip</dimen>
+    <dimen name="keyboard_expression_header_vertical_margin">4.0dip</dimen>
+    <dimen name="keyboard_expression_header_vertical_padding">2.0dip</dimen>
+    <dimen name="keyboard_header_height">44.0dip</dimen>
+    <dimen name="keyboard_height">249.0dip</dimen>
+    <dimen name="keyboard_side_frame_height">200.0dip</dimen>
+    <dimen name="label_margin_godan_horizontal">16.5dip</dimen>
+    <dimen name="label_margin_godan_vertical">14.0dip</dimen>
+    <dimen name="material_popup_bubble_width">38.0dip</dimen>
+    <dimen name="morse_hint_card_height">270.0dip</dimen>
+    <dimen name="morse_hint_card_width">300.0dip</dimen>
+    <dimen name="morse_keyboard_body_mini_height">146.0dip</dimen>
+    <dimen name="one_handed_keyboard_body_height_for_large_screen">208.0dip</dimen>
+    <dimen name="one_handed_keyboard_body_height_more_letter_rows_for_large_screen">249.0dip</dimen>
+    <dimen name="popup_label_width">38.0dip</dimen>
+    <dimen name="popup_small_label_width">38.0dip</dimen>
+    <dimen name="text_size_ja_label_godan_primary">21.5dip</dimen>
+    <dimen name="text_size_ja_label_godan_secondary">9.5dip</dimen>
+    <dimen name="text_size_qwerty_label">23.0dip</dimen>
+    <dimen name="text_size_very_tiny">10.0dip</dimen>
+</resources>

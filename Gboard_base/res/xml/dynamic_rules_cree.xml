@@ -1,0 +1,3651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_rules>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐯ</label>
+        <replacement>ᐯ‌</replacement>
+        <input_text>(ᐯ)ᐯ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐱ</label>
+        <replacement>ᐱ</replacement>
+        <input_text>(ᐯ)ᐱ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐲ</label>
+        <replacement>ᐲ</replacement>
+        <input_text>(ᐯ)ᐲ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐳ</label>
+        <replacement>ᐳ</replacement>
+        <input_text>(ᐯ)ᐳ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐴ</label>
+        <replacement>ᐴ</replacement>
+        <input_text>(ᐯ)ᐴ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐵ</label>
+        <replacement>ᐵ</replacement>
+        <input_text>(ᐯ)ᐵ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐸ</label>
+        <replacement>ᐸ</replacement>
+        <input_text>(ᐯ)ᐸ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐹ</label>
+        <replacement>ᐹ</replacement>
+        <input_text>(ᐯ)ᐹ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐺ</label>
+        <replacement>ᐺ</replacement>
+        <input_text>(ᐯ)ᐺ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐻ</label>
+        <replacement>ᐻ</replacement>
+        <input_text>(ᐯ)ᐻ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐼ</label>
+        <replacement>ᐼ</replacement>
+        <input_text>(ᐯ)ᐼ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐽ</label>
+        <replacement>ᐽ</replacement>
+        <input_text>(ᐯ)ᐽ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐾ</label>
+        <replacement>ᐾ</replacement>
+        <input_text>(ᐯ)ᐾ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᐿ</label>
+        <replacement>ᐿ</replacement>
+        <input_text>(ᐯ)ᐿ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑀ</label>
+        <replacement>ᑀ</replacement>
+        <input_text>(ᐯ)ᑀ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑁ</label>
+        <replacement>ᑁ</replacement>
+        <input_text>(ᐯ)ᑁ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑂ</label>
+        <replacement>ᑂ</replacement>
+        <input_text>(ᐯ)ᑂ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑃ</label>
+        <replacement>ᑃ</replacement>
+        <input_text>(ᐯ)ᑃ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑄ</label>
+        <replacement>ᑄ</replacement>
+        <input_text>(ᐯ)ᑄ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑅ</label>
+        <replacement>ᑅ</replacement>
+        <input_text>(ᐯ)ᑅ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑆ</label>
+        <replacement>ᑆ</replacement>
+        <input_text>(ᐯ)ᑆ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑇ</label>
+        <replacement>ᑇ</replacement>
+        <input_text>(ᐯ)ᑇ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑈ</label>
+        <replacement>ᑈ</replacement>
+        <input_text>(ᐯ)ᑈ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label> </label>
+        <replacement>ᐯ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑉ</label>
+        <replacement>ᑉ</replacement>
+        <input_text>(ᐯ)ᑉ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᑊ</label>
+        <replacement>ᑊ</replacement>
+        <input_text>(ᐯ)ᑊ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᣔ</label>
+        <replacement>ᣔ</replacement>
+        <input_text>(ᐯ)ᣔ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᢴ</label>
+        <replacement>ᢴ</replacement>
+        <input_text>(ᐯ)ᢴ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᢶ</label>
+        <replacement>ᢶ</replacement>
+        <input_text>(ᐯ)ᢶ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label>ᢵ</label>
+        <replacement>ᢵ</replacement>
+        <input_text>(ᐯ)ᢵ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label> </label>
+        <replacement>ᐯ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᐯ</pattern>
+        <label> </label>
+        <replacement>ᐯ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑌ</label>
+        <replacement>ᑌ‌</replacement>
+        <input_text>(ᑌ)ᑌ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑎ</label>
+        <replacement>ᑎ</replacement>
+        <input_text>(ᑌ)ᑎ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑏ</label>
+        <replacement>ᑏ</replacement>
+        <input_text>(ᑌ)ᑏ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑐ</label>
+        <replacement>ᑐ</replacement>
+        <input_text>(ᑌ)ᑐ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑑ</label>
+        <replacement>ᑑ</replacement>
+        <input_text>(ᑌ)ᑑ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑒ</label>
+        <replacement>ᑒ</replacement>
+        <input_text>(ᑌ)ᑒ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑕ</label>
+        <replacement>ᑕ</replacement>
+        <input_text>(ᑌ)ᑕ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑖ</label>
+        <replacement>ᑖ</replacement>
+        <input_text>(ᑌ)ᑖ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑗ</label>
+        <replacement>ᑗ</replacement>
+        <input_text>(ᑌ)ᑗ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑘ</label>
+        <replacement>ᑘ</replacement>
+        <input_text>(ᑌ)ᑘ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑙ</label>
+        <replacement>ᑙ</replacement>
+        <input_text>(ᑌ)ᑙ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑚ</label>
+        <replacement>ᑚ</replacement>
+        <input_text>(ᑌ)ᑚ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑛ</label>
+        <replacement>ᑛ</replacement>
+        <input_text>(ᑌ)ᑛ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑜ</label>
+        <replacement>ᑜ</replacement>
+        <input_text>(ᑌ)ᑜ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑝ</label>
+        <replacement>ᑝ</replacement>
+        <input_text>(ᑌ)ᑝ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑞ</label>
+        <replacement>ᑞ</replacement>
+        <input_text>(ᑌ)ᑞ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑟ</label>
+        <replacement>ᑟ</replacement>
+        <input_text>(ᑌ)ᑟ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑠ</label>
+        <replacement>ᑠ</replacement>
+        <input_text>(ᑌ)ᑠ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑡ</label>
+        <replacement>ᑡ</replacement>
+        <input_text>(ᑌ)ᑡ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑢ</label>
+        <replacement>ᑢ</replacement>
+        <input_text>(ᑌ)ᑢ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑣ</label>
+        <replacement>ᑣ</replacement>
+        <input_text>(ᑌ)ᑣ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑤ</label>
+        <replacement>ᑤ</replacement>
+        <input_text>(ᑌ)ᑤ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑥ</label>
+        <replacement>ᑥ</replacement>
+        <input_text>(ᑌ)ᑥ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label> </label>
+        <replacement>ᑌ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᑦ</label>
+        <replacement>ᑦ</replacement>
+        <input_text>(ᑌ)ᑦ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᐟ</label>
+        <replacement>ᐟ</replacement>
+        <input_text>(ᑌ)ᐟ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᣕ</label>
+        <replacement>ᣕ</replacement>
+        <input_text>(ᑌ)ᣕ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label> </label>
+        <replacement>ᑌ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label> </label>
+        <replacement>ᑌ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label>ᢷ</label>
+        <replacement>ᢷ</replacement>
+        <input_text>(ᑌ)ᢷ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label> </label>
+        <replacement>ᑌ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑌ</pattern>
+        <label> </label>
+        <replacement>ᑌ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑫ</label>
+        <replacement>ᑫ‌</replacement>
+        <input_text>(ᑫ)ᑫ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑭ</label>
+        <replacement>ᑭ</replacement>
+        <input_text>(ᑫ)ᑭ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑮ</label>
+        <replacement>ᑮ</replacement>
+        <input_text>(ᑫ)ᑮ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑯ</label>
+        <replacement>ᑯ</replacement>
+        <input_text>(ᑫ)ᑯ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑰ</label>
+        <replacement>ᑰ</replacement>
+        <input_text>(ᑫ)ᑰ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑱ</label>
+        <replacement>ᑱ</replacement>
+        <input_text>(ᑫ)ᑱ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑲ</label>
+        <replacement>ᑲ</replacement>
+        <input_text>(ᑫ)ᑲ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑳ</label>
+        <replacement>ᑳ</replacement>
+        <input_text>(ᑫ)ᑳ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑴ</label>
+        <replacement>ᑴ</replacement>
+        <input_text>(ᑫ)ᑴ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑵ</label>
+        <replacement>ᑵ</replacement>
+        <input_text>(ᑫ)ᑵ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑶ</label>
+        <replacement>ᑶ</replacement>
+        <input_text>(ᑫ)ᑶ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑷ</label>
+        <replacement>ᑷ</replacement>
+        <input_text>(ᑫ)ᑷ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑸ</label>
+        <replacement>ᑸ</replacement>
+        <input_text>(ᑫ)ᑸ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑹ</label>
+        <replacement>ᑹ</replacement>
+        <input_text>(ᑫ)ᑹ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑺ</label>
+        <replacement>ᑺ</replacement>
+        <input_text>(ᑫ)ᑺ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑻ</label>
+        <replacement>ᑻ</replacement>
+        <input_text>(ᑫ)ᑻ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑼ</label>
+        <replacement>ᑼ</replacement>
+        <input_text>(ᑫ)ᑼ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑽ</label>
+        <replacement>ᑽ</replacement>
+        <input_text>(ᑫ)ᑽ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑾ</label>
+        <replacement>ᑾ</replacement>
+        <input_text>(ᑫ)ᑾ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᑿ</label>
+        <replacement>ᑿ</replacement>
+        <input_text>(ᑫ)ᑿ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᒀ</label>
+        <replacement>ᒀ</replacement>
+        <input_text>(ᑫ)ᒀ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᒁ</label>
+        <replacement>ᒁ</replacement>
+        <input_text>(ᑫ)ᒁ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᒂ</label>
+        <replacement>ᒂ</replacement>
+        <input_text>(ᑫ)ᒂ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label> </label>
+        <replacement>ᑫ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᒃ</label>
+        <replacement>ᒃ</replacement>
+        <input_text>(ᑫ)ᒃ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᐠ</label>
+        <replacement>ᐠ</replacement>
+        <input_text>(ᑫ)ᐠ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᣖ</label>
+        <replacement>ᣖ</replacement>
+        <input_text>(ᑫ)ᣖ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label> </label>
+        <replacement>ᑫ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label> </label>
+        <replacement>ᑫ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᢸ</label>
+        <replacement>ᢸ</replacement>
+        <input_text>(ᑫ)ᢸ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label> </label>
+        <replacement>ᑫ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᑫ</pattern>
+        <label>ᢹ</label>
+        <replacement>ᢹ</replacement>
+        <input_text>(ᑫ)ᢹ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒉ</label>
+        <replacement>ᒉ‌</replacement>
+        <input_text>(ᒉ)ᒉ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒋ</label>
+        <replacement>ᒋ</replacement>
+        <input_text>(ᒉ)ᒋ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒌ</label>
+        <replacement>ᒌ</replacement>
+        <input_text>(ᒉ)ᒌ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒍ</label>
+        <replacement>ᒍ</replacement>
+        <input_text>(ᒉ)ᒍ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒎ</label>
+        <replacement>ᒎ</replacement>
+        <input_text>(ᒉ)ᒎ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒏ</label>
+        <replacement>ᒏ</replacement>
+        <input_text>(ᒉ)ᒏ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒐ</label>
+        <replacement>ᒐ</replacement>
+        <input_text>(ᒉ)ᒐ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒑ</label>
+        <replacement>ᒑ</replacement>
+        <input_text>(ᒉ)ᒑ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒒ</label>
+        <replacement>ᒒ</replacement>
+        <input_text>(ᒉ)ᒒ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒓ</label>
+        <replacement>ᒓ</replacement>
+        <input_text>(ᒉ)ᒓ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒔ</label>
+        <replacement>ᒔ</replacement>
+        <input_text>(ᒉ)ᒔ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒕ</label>
+        <replacement>ᒕ</replacement>
+        <input_text>(ᒉ)ᒕ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒖ</label>
+        <replacement>ᒖ</replacement>
+        <input_text>(ᒉ)ᒖ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒗ</label>
+        <replacement>ᒗ</replacement>
+        <input_text>(ᒉ)ᒗ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒘ</label>
+        <replacement>ᒘ</replacement>
+        <input_text>(ᒉ)ᒘ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒙ</label>
+        <replacement>ᒙ</replacement>
+        <input_text>(ᒉ)ᒙ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒚ</label>
+        <replacement>ᒚ</replacement>
+        <input_text>(ᒉ)ᒚ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒛ</label>
+        <replacement>ᒛ</replacement>
+        <input_text>(ᒉ)ᒛ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒜ</label>
+        <replacement>ᒜ</replacement>
+        <input_text>(ᒉ)ᒜ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒝ</label>
+        <replacement>ᒝ</replacement>
+        <input_text>(ᒉ)ᒝ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒞ</label>
+        <replacement>ᒞ</replacement>
+        <input_text>(ᒉ)ᒞ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒟ</label>
+        <replacement>ᒟ</replacement>
+        <input_text>(ᒉ)ᒟ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒠ</label>
+        <replacement>ᒠ</replacement>
+        <input_text>(ᒉ)ᒠ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label> </label>
+        <replacement>ᒉ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᒡ</label>
+        <replacement>ᒡ</replacement>
+        <input_text>(ᒉ)ᒡ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᐨ</label>
+        <replacement>ᐨ</replacement>
+        <input_text>(ᒉ)ᐨ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᣗ</label>
+        <replacement>ᣗ</replacement>
+        <input_text>(ᒉ)ᣗ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label> </label>
+        <replacement>ᒉ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label> </label>
+        <replacement>ᒉ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label>ᢺ</label>
+        <replacement>ᢺ</replacement>
+        <input_text>(ᒉ)ᢺ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label> </label>
+        <replacement>ᒉ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒉ</pattern>
+        <label> </label>
+        <replacement>ᒉ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒣ</label>
+        <replacement>ᒣ‌</replacement>
+        <input_text>(ᒣ)ᒣ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒥ</label>
+        <replacement>ᒥ</replacement>
+        <input_text>(ᒣ)ᒥ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒦ</label>
+        <replacement>ᒦ</replacement>
+        <input_text>(ᒣ)ᒦ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒧ</label>
+        <replacement>ᒧ</replacement>
+        <input_text>(ᒣ)ᒧ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒨ</label>
+        <replacement>ᒨ</replacement>
+        <input_text>(ᒣ)ᒨ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒩ</label>
+        <replacement>ᒩ</replacement>
+        <input_text>(ᒣ)ᒩ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒪ</label>
+        <replacement>ᒪ</replacement>
+        <input_text>(ᒣ)ᒪ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒫ</label>
+        <replacement>ᒫ</replacement>
+        <input_text>(ᒣ)ᒫ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒬ</label>
+        <replacement>ᒬ</replacement>
+        <input_text>(ᒣ)ᒬ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒭ</label>
+        <replacement>ᒭ</replacement>
+        <input_text>(ᒣ)ᒭ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒮ</label>
+        <replacement>ᒮ</replacement>
+        <input_text>(ᒣ)ᒮ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒯ</label>
+        <replacement>ᒯ</replacement>
+        <input_text>(ᒣ)ᒯ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒰ</label>
+        <replacement>ᒰ</replacement>
+        <input_text>(ᒣ)ᒰ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒱ</label>
+        <replacement>ᒱ</replacement>
+        <input_text>(ᒣ)ᒱ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒲ</label>
+        <replacement>ᒲ</replacement>
+        <input_text>(ᒣ)ᒲ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒳ</label>
+        <replacement>ᒳ</replacement>
+        <input_text>(ᒣ)ᒳ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒴ</label>
+        <replacement>ᒴ</replacement>
+        <input_text>(ᒣ)ᒴ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒵ</label>
+        <replacement>ᒵ</replacement>
+        <input_text>(ᒣ)ᒵ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒶ</label>
+        <replacement>ᒶ</replacement>
+        <input_text>(ᒣ)ᒶ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒷ</label>
+        <replacement>ᒷ</replacement>
+        <input_text>(ᒣ)ᒷ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒸ</label>
+        <replacement>ᒸ</replacement>
+        <input_text>(ᒣ)ᒸ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒹ</label>
+        <replacement>ᒹ</replacement>
+        <input_text>(ᒣ)ᒹ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒺ</label>
+        <replacement>ᒺ</replacement>
+        <input_text>(ᒣ)ᒺ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label> </label>
+        <replacement>ᒣ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒻ</label>
+        <replacement>ᒻ</replacement>
+        <input_text>(ᒣ)ᒻ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᒼ</label>
+        <replacement>ᒼ</replacement>
+        <input_text>(ᒣ)ᒼ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label>ᣘ</label>
+        <replacement>ᣘ</replacement>
+        <input_text>(ᒣ)ᣘ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label> </label>
+        <replacement>ᒣ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label> </label>
+        <replacement>ᒣ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label> </label>
+        <replacement>ᒣ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label> </label>
+        <replacement>ᒣ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᒣ</pattern>
+        <label> </label>
+        <replacement>ᒣ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓀ</label>
+        <replacement>ᓀ‌</replacement>
+        <input_text>(ᓀ)ᓀ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓂ</label>
+        <replacement>ᓂ</replacement>
+        <input_text>(ᓀ)ᓂ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓃ</label>
+        <replacement>ᓃ</replacement>
+        <input_text>(ᓀ)ᓃ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓄ</label>
+        <replacement>ᓄ</replacement>
+        <input_text>(ᓀ)ᓄ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓅ</label>
+        <replacement>ᓅ</replacement>
+        <input_text>(ᓀ)ᓅ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓆ</label>
+        <replacement>ᓆ</replacement>
+        <input_text>(ᓀ)ᓆ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓇ</label>
+        <replacement>ᓇ</replacement>
+        <input_text>(ᓀ)ᓇ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓈ</label>
+        <replacement>ᓈ</replacement>
+        <input_text>(ᓀ)ᓈ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓉ</label>
+        <replacement>ᓉ</replacement>
+        <input_text>(ᓀ)ᓉ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓊ</label>
+        <replacement>ᓊ</replacement>
+        <input_text>(ᓀ)ᓊ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣆ</label>
+        <replacement>ᣆ</replacement>
+        <input_text>(ᓀ)ᣆ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣇ</label>
+        <replacement>ᣇ</replacement>
+        <input_text>(ᓀ)ᣇ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣈ</label>
+        <replacement>ᣈ</replacement>
+        <input_text>(ᓀ)ᣈ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣉ</label>
+        <replacement>ᣉ</replacement>
+        <input_text>(ᓀ)ᣉ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣊ</label>
+        <replacement>ᣊ</replacement>
+        <input_text>(ᓀ)ᣊ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣋ</label>
+        <replacement>ᣋ</replacement>
+        <input_text>(ᓀ)ᣋ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣌ</label>
+        <replacement>ᣌ</replacement>
+        <input_text>(ᓀ)ᣌ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣍ</label>
+        <replacement>ᣍ</replacement>
+        <input_text>(ᓀ)ᣍ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓋ</label>
+        <replacement>ᓋ</replacement>
+        <input_text>(ᓀ)ᓋ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓌ</label>
+        <replacement>ᓌ</replacement>
+        <input_text>(ᓀ)ᓌ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓍ</label>
+        <replacement>ᓍ</replacement>
+        <input_text>(ᓀ)ᓍ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓎ</label>
+        <replacement>ᓎ</replacement>
+        <input_text>(ᓀ)ᓎ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓏ</label>
+        <replacement>ᓏ</replacement>
+        <input_text>(ᓀ)ᓏ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label> </label>
+        <replacement>ᓀ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᓐ</label>
+        <replacement>ᓐ</replacement>
+        <input_text>(ᓀ)ᓐ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᐣ</label>
+        <replacement>ᐣ</replacement>
+        <input_text>(ᓀ)ᐣ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᣙ</label>
+        <replacement>ᣙ</replacement>
+        <input_text>(ᓀ)ᣙ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᢻ</label>
+        <replacement>ᢻ</replacement>
+        <input_text>(ᓀ)ᢻ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label> </label>
+        <replacement>ᓀ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label>ᢼ</label>
+        <replacement>ᢼ</replacement>
+        <input_text>(ᓀ)ᢼ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label> </label>
+        <replacement>ᓀ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓀ</pattern>
+        <label> </label>
+        <replacement>ᓀ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label>ᖛ</label>
+        <replacement>ᖛ‌</replacement>
+        <input_text>(ᖛ)ᖛ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label>ᖜ</label>
+        <replacement>ᖜ</replacement>
+        <input_text>(ᖛ)ᖜ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label>ᖝ</label>
+        <replacement>ᖝ</replacement>
+        <input_text>(ᖛ)ᖝ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label>ᖞ</label>
+        <replacement>ᖞ</replacement>
+        <input_text>(ᖛ)ᖞ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label>ᖟ</label>
+        <replacement>ᖟ</replacement>
+        <input_text>(ᖛ)ᖟ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖛ</pattern>
+        <label> </label>
+        <replacement>ᖛ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label>ᕄ</label>
+        <replacement>ᕄ‌</replacement>
+        <input_text>(ᕄ)ᕄ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label>ᕂ</label>
+        <replacement>ᕂ</replacement>
+        <input_text>(ᕄ)ᕂ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label>ᕊ</label>
+        <replacement>ᕊ</replacement>
+        <input_text>(ᕄ)ᕊ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label>ᕍ</label>
+        <replacement>ᕍ</replacement>
+        <input_text>(ᕄ)ᕍ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label>ᔆ</label>
+        <replacement>ᔆ</replacement>
+        <input_text>(ᕄ)ᔆ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕄ</pattern>
+        <label> </label>
+        <replacement>ᕄ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕃ</label>
+        <replacement>ᕃ‌</replacement>
+        <input_text>(ᕃ)ᕃ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕆ</label>
+        <replacement>ᕆ</replacement>
+        <input_text>(ᕃ)ᕆ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕇ</label>
+        <replacement>ᕇ</replacement>
+        <input_text>(ᕃ)ᕇ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕈ</label>
+        <replacement>ᕈ</replacement>
+        <input_text>(ᕃ)ᕈ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕉ</label>
+        <replacement>ᕉ</replacement>
+        <input_text>(ᕃ)ᕉ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕋ</label>
+        <replacement>ᕋ</replacement>
+        <input_text>(ᕃ)ᕋ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕌ</label>
+        <replacement>ᕌ</replacement>
+        <input_text>(ᕃ)ᕌ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᣎ</label>
+        <replacement>ᣎ</replacement>
+        <input_text>(ᕃ)ᣎ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᣏ</label>
+        <replacement>ᣏ</replacement>
+        <input_text>(ᕃ)ᣏ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᣐ</label>
+        <replacement>ᣐ</replacement>
+        <input_text>(ᕃ)ᣐ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᣑ</label>
+        <replacement>ᣑ</replacement>
+        <input_text>(ᕃ)ᣑ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᣒ</label>
+        <replacement>ᣒ</replacement>
+        <input_text>(ᕃ)ᣒ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᣓ</label>
+        <replacement>ᣓ</replacement>
+        <input_text>(ᕃ)ᣓ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕎ</label>
+        <replacement>ᕎ</replacement>
+        <input_text>(ᕃ)ᕎ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕏ</label>
+        <replacement>ᕏ</replacement>
+        <input_text>(ᕃ)ᕏ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᕐ</label>
+        <replacement>ᕐ</replacement>
+        <input_text>(ᕃ)ᕐ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label>ᣅ</label>
+        <replacement>ᣅ</replacement>
+        <input_text>(ᕃ)ᣅ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕃ</pattern>
+        <label> </label>
+        <replacement>ᕃ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓓ</label>
+        <replacement>ᓓ‌</replacement>
+        <input_text>(ᓓ)ᓓ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓕ</label>
+        <replacement>ᓕ</replacement>
+        <input_text>(ᓓ)ᓕ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓖ</label>
+        <replacement>ᓖ</replacement>
+        <input_text>(ᓓ)ᓖ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓗ</label>
+        <replacement>ᓗ</replacement>
+        <input_text>(ᓓ)ᓗ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓘ</label>
+        <replacement>ᓘ</replacement>
+        <input_text>(ᓓ)ᓘ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓙ</label>
+        <replacement>ᓙ</replacement>
+        <input_text>(ᓓ)ᓙ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓚ</label>
+        <replacement>ᓚ</replacement>
+        <input_text>(ᓓ)ᓚ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓛ</label>
+        <replacement>ᓛ</replacement>
+        <input_text>(ᓓ)ᓛ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓜ</label>
+        <replacement>ᓜ</replacement>
+        <input_text>(ᓓ)ᓜ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓝ</label>
+        <replacement>ᓝ</replacement>
+        <input_text>(ᓓ)ᓝ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓞ</label>
+        <replacement>ᓞ</replacement>
+        <input_text>(ᓓ)ᓞ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓟ</label>
+        <replacement>ᓟ</replacement>
+        <input_text>(ᓓ)ᓟ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓠ</label>
+        <replacement>ᓠ</replacement>
+        <input_text>(ᓓ)ᓠ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓡ</label>
+        <replacement>ᓡ</replacement>
+        <input_text>(ᓓ)ᓡ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓢ</label>
+        <replacement>ᓢ</replacement>
+        <input_text>(ᓓ)ᓢ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓣ</label>
+        <replacement>ᓣ</replacement>
+        <input_text>(ᓓ)ᓣ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓤ</label>
+        <replacement>ᓤ</replacement>
+        <input_text>(ᓓ)ᓤ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓥ</label>
+        <replacement>ᓥ</replacement>
+        <input_text>(ᓓ)ᓥ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓦ</label>
+        <replacement>ᓦ</replacement>
+        <input_text>(ᓓ)ᓦ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓧ</label>
+        <replacement>ᓧ</replacement>
+        <input_text>(ᓓ)ᓧ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓨ</label>
+        <replacement>ᓨ</replacement>
+        <input_text>(ᓓ)ᓨ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓩ</label>
+        <replacement>ᓩ</replacement>
+        <input_text>(ᓓ)ᓩ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label> </label>
+        <replacement>ᓓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label> </label>
+        <replacement>ᓓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᓪ</label>
+        <replacement>ᓪ</replacement>
+        <input_text>(ᓓ)ᓪ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᐪ</label>
+        <replacement>ᐪ</replacement>
+        <input_text>(ᓓ)ᐪ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label> </label>
+        <replacement>ᓓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label> </label>
+        <replacement>ᓓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label> </label>
+        <replacement>ᓓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label>ᢽ</label>
+        <replacement>ᢽ</replacement>
+        <input_text>(ᓓ)ᢽ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label> </label>
+        <replacement>ᓓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓓ</pattern>
+        <label> </label>
+        <replacement>ᓓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label>ᖊ</label>
+        <replacement>ᖊ‌</replacement>
+        <input_text>(ᖊ)ᖊ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label>ᖋ</label>
+        <replacement>ᖋ</replacement>
+        <input_text>(ᖊ)ᖋ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label>ᖌ</label>
+        <replacement>ᖌ</replacement>
+        <input_text>(ᖊ)ᖌ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label>ᖍ</label>
+        <replacement>ᖍ</replacement>
+        <input_text>(ᖊ)ᖍ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label>ᙆ</label>
+        <replacement>ᙆ</replacement>
+        <input_text>(ᖊ)ᙆ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖊ</pattern>
+        <label> </label>
+        <replacement>ᖊ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓭ</label>
+        <replacement>ᓭ‌</replacement>
+        <input_text>(ᓭ)ᓭ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓯ</label>
+        <replacement>ᓯ</replacement>
+        <input_text>(ᓭ)ᓯ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓰ</label>
+        <replacement>ᓰ</replacement>
+        <input_text>(ᓭ)ᓰ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓱ</label>
+        <replacement>ᓱ</replacement>
+        <input_text>(ᓭ)ᓱ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓲ</label>
+        <replacement>ᓲ</replacement>
+        <input_text>(ᓭ)ᓲ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓳ</label>
+        <replacement>ᓳ</replacement>
+        <input_text>(ᓭ)ᓳ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓴ</label>
+        <replacement>ᓴ</replacement>
+        <input_text>(ᓭ)ᓴ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓵ</label>
+        <replacement>ᓵ</replacement>
+        <input_text>(ᓭ)ᓵ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓶ</label>
+        <replacement>ᓶ</replacement>
+        <input_text>(ᓭ)ᓶ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓷ</label>
+        <replacement>ᓷ</replacement>
+        <input_text>(ᓭ)ᓷ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓸ</label>
+        <replacement>ᓸ</replacement>
+        <input_text>(ᓭ)ᓸ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓹ</label>
+        <replacement>ᓹ</replacement>
+        <input_text>(ᓭ)ᓹ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓺ</label>
+        <replacement>ᓺ</replacement>
+        <input_text>(ᓭ)ᓺ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓻ</label>
+        <replacement>ᓻ</replacement>
+        <input_text>(ᓭ)ᓻ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓼ</label>
+        <replacement>ᓼ</replacement>
+        <input_text>(ᓭ)ᓼ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓽ</label>
+        <replacement>ᓽ</replacement>
+        <input_text>(ᓭ)ᓽ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓾ</label>
+        <replacement>ᓾ</replacement>
+        <input_text>(ᓭ)ᓾ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᓿ</label>
+        <replacement>ᓿ</replacement>
+        <input_text>(ᓭ)ᓿ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᔀ</label>
+        <replacement>ᔀ</replacement>
+        <input_text>(ᓭ)ᔀ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᔁ</label>
+        <replacement>ᔁ</replacement>
+        <input_text>(ᓭ)ᔁ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᔂ</label>
+        <replacement>ᔂ</replacement>
+        <input_text>(ᓭ)ᔂ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᔃ</label>
+        <replacement>ᔃ</replacement>
+        <input_text>(ᓭ)ᔃ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᔄ</label>
+        <replacement>ᔄ</replacement>
+        <input_text>(ᓭ)ᔄ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label> </label>
+        <replacement>ᓭ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᔅ</label>
+        <replacement>ᔅ</replacement>
+        <input_text>(ᓭ)ᔅ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᐢ</label>
+        <replacement>ᐢ</replacement>
+        <input_text>(ᓭ)ᐢ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᣚ</label>
+        <replacement>ᣚ</replacement>
+        <input_text>(ᓭ)ᣚ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᢾ</label>
+        <replacement>ᢾ</replacement>
+        <input_text>(ᓭ)ᢾ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label> </label>
+        <replacement>ᓭ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label>ᢿ</label>
+        <replacement>ᢿ</replacement>
+        <input_text>(ᓭ)ᢿ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label> </label>
+        <replacement>ᓭ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᓭ</pattern>
+        <label> </label>
+        <replacement>ᓭ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔐ</label>
+        <replacement>ᔐ‌</replacement>
+        <input_text>(ᔐ)ᔐ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔑ</label>
+        <replacement>ᔑ</replacement>
+        <input_text>(ᔐ)ᔑ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔒ</label>
+        <replacement>ᔒ</replacement>
+        <input_text>(ᔐ)ᔒ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔓ</label>
+        <replacement>ᔓ</replacement>
+        <input_text>(ᔐ)ᔓ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔔ</label>
+        <replacement>ᔔ</replacement>
+        <input_text>(ᔐ)ᔔ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label> </label>
+        <replacement>ᔐ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔕ</label>
+        <replacement>ᔕ</replacement>
+        <input_text>(ᔐ)ᔕ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔖ</label>
+        <replacement>ᔖ</replacement>
+        <input_text>(ᔐ)ᔖ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔗ</label>
+        <replacement>ᔗ</replacement>
+        <input_text>(ᔐ)ᔗ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔘ</label>
+        <replacement>ᔘ</replacement>
+        <input_text>(ᔐ)ᔘ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔙ</label>
+        <replacement>ᔙ</replacement>
+        <input_text>(ᔐ)ᔙ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔚ</label>
+        <replacement>ᔚ</replacement>
+        <input_text>(ᔐ)ᔚ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔛ</label>
+        <replacement>ᔛ</replacement>
+        <input_text>(ᔐ)ᔛ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔜ</label>
+        <replacement>ᔜ</replacement>
+        <input_text>(ᔐ)ᔜ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔝ</label>
+        <replacement>ᔝ</replacement>
+        <input_text>(ᔐ)ᔝ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔞ</label>
+        <replacement>ᔞ</replacement>
+        <input_text>(ᔐ)ᔞ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔟ</label>
+        <replacement>ᔟ</replacement>
+        <input_text>(ᔐ)ᔟ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔠ</label>
+        <replacement>ᔠ</replacement>
+        <input_text>(ᔐ)ᔠ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔡ</label>
+        <replacement>ᔡ</replacement>
+        <input_text>(ᔐ)ᔡ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔢ</label>
+        <replacement>ᔢ</replacement>
+        <input_text>(ᔐ)ᔢ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔣ</label>
+        <replacement>ᔣ</replacement>
+        <input_text>(ᔐ)ᔣ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔤ</label>
+        <replacement>ᔤ</replacement>
+        <input_text>(ᔐ)ᔤ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label> </label>
+        <replacement>ᔐ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label> </label>
+        <replacement>ᔐ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᔥ</label>
+        <replacement>ᔥ</replacement>
+        <input_text>(ᔐ)ᔥ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᐡ</label>
+        <replacement>ᐡ</replacement>
+        <input_text>(ᔐ)ᐡ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᣛ</label>
+        <replacement>ᣛ</replacement>
+        <input_text>(ᔐ)ᣛ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᣀ</label>
+        <replacement>ᣀ</replacement>
+        <input_text>(ᔐ)ᣀ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᣂ</label>
+        <replacement>ᣂ</replacement>
+        <input_text>(ᔐ)ᣂ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label>ᣁ</label>
+        <replacement>ᣁ</replacement>
+        <input_text>(ᔐ)ᣁ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label> </label>
+        <replacement>ᔐ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔐ</pattern>
+        <label> </label>
+        <replacement>ᔐ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔦ</label>
+        <replacement>ᔦ‌</replacement>
+        <input_text>(ᔦ)ᔦ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔨ</label>
+        <replacement>ᔨ</replacement>
+        <input_text>(ᔦ)ᔨ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔩ</label>
+        <replacement>ᔩ</replacement>
+        <input_text>(ᔦ)ᔩ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔪ</label>
+        <replacement>ᔪ</replacement>
+        <input_text>(ᔦ)ᔪ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔫ</label>
+        <replacement>ᔫ</replacement>
+        <input_text>(ᔦ)ᔫ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔬ</label>
+        <replacement>ᔬ</replacement>
+        <input_text>(ᔦ)ᔬ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔭ</label>
+        <replacement>ᔭ</replacement>
+        <input_text>(ᔦ)ᔭ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔮ</label>
+        <replacement>ᔮ</replacement>
+        <input_text>(ᔦ)ᔮ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔯ</label>
+        <replacement>ᔯ</replacement>
+        <input_text>(ᔦ)ᔯ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔰ</label>
+        <replacement>ᔰ</replacement>
+        <input_text>(ᔦ)ᔰ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔱ</label>
+        <replacement>ᔱ</replacement>
+        <input_text>(ᔦ)ᔱ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔲ</label>
+        <replacement>ᔲ</replacement>
+        <input_text>(ᔦ)ᔲ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔳ</label>
+        <replacement>ᔳ</replacement>
+        <input_text>(ᔦ)ᔳ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔴ</label>
+        <replacement>ᔴ</replacement>
+        <input_text>(ᔦ)ᔴ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔵ</label>
+        <replacement>ᔵ</replacement>
+        <input_text>(ᔦ)ᔵ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔶ</label>
+        <replacement>ᔶ</replacement>
+        <input_text>(ᔦ)ᔶ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔷ</label>
+        <replacement>ᔷ</replacement>
+        <input_text>(ᔦ)ᔷ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔸ</label>
+        <replacement>ᔸ</replacement>
+        <input_text>(ᔦ)ᔸ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔹ</label>
+        <replacement>ᔹ</replacement>
+        <input_text>(ᔦ)ᔹ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔺ</label>
+        <replacement>ᔺ</replacement>
+        <input_text>(ᔦ)ᔺ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔻ</label>
+        <replacement>ᔻ</replacement>
+        <input_text>(ᔦ)ᔻ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔼ</label>
+        <replacement>ᔼ</replacement>
+        <input_text>(ᔦ)ᔼ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔽ</label>
+        <replacement>ᔽ</replacement>
+        <input_text>(ᔦ)ᔽ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label> </label>
+        <replacement>ᔦ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᔾ</label>
+        <replacement>ᔾ</replacement>
+        <input_text>(ᔦ)ᔾ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᕀ</label>
+        <replacement>ᕀ</replacement>
+        <input_text>(ᔦ)ᕀ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label> </label>
+        <replacement>ᔦ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᣃ</label>
+        <replacement>ᣃ</replacement>
+        <input_text>(ᔦ)ᣃ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label> </label>
+        <replacement>ᔦ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label>ᣄ</label>
+        <replacement>ᣄ</replacement>
+        <input_text>(ᔦ)ᣄ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label> </label>
+        <replacement>ᔦ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᔦ</pattern>
+        <label> </label>
+        <replacement>ᔦ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᖧ</label>
+        <replacement>ᖧ‌</replacement>
+        <input_text>(ᖧ)ᖧ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᖨ</label>
+        <replacement>ᖨ</replacement>
+        <input_text>(ᖧ)ᖨ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᖩ</label>
+        <replacement>ᖩ</replacement>
+        <input_text>(ᖧ)ᖩ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᖪ</label>
+        <replacement>ᖪ</replacement>
+        <input_text>(ᖧ)ᖪ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᖫ</label>
+        <replacement>ᖫ</replacement>
+        <input_text>(ᖧ)ᖫ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᖬ</label>
+        <replacement>ᖬ</replacement>
+        <input_text>(ᖧ)ᖬ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᖭ</label>
+        <replacement>ᖭ</replacement>
+        <input_text>(ᖧ)ᖭ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᙷ</label>
+        <replacement>ᙷ</replacement>
+        <input_text>(ᖧ)ᙷ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᙸ</label>
+        <replacement>ᙸ</replacement>
+        <input_text>(ᖧ)ᙸ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᙹ</label>
+        <replacement>ᙹ</replacement>
+        <input_text>(ᖧ)ᙹ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᙺ</label>
+        <replacement>ᙺ</replacement>
+        <input_text>(ᖧ)ᙺ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᙻ</label>
+        <replacement>ᙻ</replacement>
+        <input_text>(ᖧ)ᙻ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᙼ</label>
+        <replacement>ᙼ</replacement>
+        <input_text>(ᖧ)ᙼ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᙽ</label>
+        <replacement>ᙽ</replacement>
+        <input_text>(ᖧ)ᙽ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᖮ</label>
+        <replacement>ᖮ</replacement>
+        <input_text>(ᖧ)ᖮ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label>ᙾ</label>
+        <replacement>ᙾ</replacement>
+        <input_text>(ᖧ)ᙾ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᖧ</pattern>
+        <label> </label>
+        <replacement>ᖧ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕞ</label>
+        <replacement>ᕞ‌</replacement>
+        <input_text>(ᕞ)ᕞ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕠ</label>
+        <replacement>ᕠ</replacement>
+        <input_text>(ᕞ)ᕠ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕢ</label>
+        <replacement>ᕢ</replacement>
+        <input_text>(ᕞ)ᕢ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕤ</label>
+        <replacement>ᕤ</replacement>
+        <input_text>(ᕞ)ᕤ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕥ</label>
+        <replacement>ᕥ</replacement>
+        <input_text>(ᕞ)ᕥ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕦ</label>
+        <replacement>ᕦ</replacement>
+        <input_text>(ᕞ)ᕦ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕧ</label>
+        <replacement>ᕧ</replacement>
+        <input_text>(ᕞ)ᕧ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕨ</label>
+        <replacement>ᕨ</replacement>
+        <input_text>(ᕞ)ᕨ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕩ</label>
+        <replacement>ᕩ</replacement>
+        <input_text>(ᕞ)ᕩ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label>ᕪ</label>
+        <replacement>ᕪ</replacement>
+        <input_text>(ᕞ)ᕪ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕞ</pattern>
+        <label> </label>
+        <replacement>ᕞ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕟ</label>
+        <replacement>ᕟ‌</replacement>
+        <input_text>(ᕟ)ᕟ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕡ</label>
+        <replacement>ᕡ</replacement>
+        <input_text>(ᕟ)ᕡ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕣ</label>
+        <replacement>ᕣ</replacement>
+        <input_text>(ᕟ)ᕣ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕤ</label>
+        <replacement>ᕤ</replacement>
+        <input_text>(ᕟ)ᕤ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕥ</label>
+        <replacement>ᕥ</replacement>
+        <input_text>(ᕟ)ᕥ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕦ</label>
+        <replacement>ᕦ</replacement>
+        <input_text>(ᕟ)ᕦ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕧ</label>
+        <replacement>ᕧ</replacement>
+        <input_text>(ᕟ)ᕧ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕨ</label>
+        <replacement>ᕨ</replacement>
+        <input_text>(ᕟ)ᕨ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕩ</label>
+        <replacement>ᕩ</replacement>
+        <input_text>(ᕟ)ᕩ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label>ᕪ</label>
+        <replacement>ᕪ</replacement>
+        <input_text>(ᕟ)ᕪ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕟ</pattern>
+        <label> </label>
+        <replacement>ᕟ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕓ</label>
+        <replacement>ᕓ‌</replacement>
+        <input_text>(ᕓ)ᕓ‌</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕕ</label>
+        <replacement>ᕕ</replacement>
+        <input_text>(ᕓ)ᕕ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕖ</label>
+        <replacement>ᕖ</replacement>
+        <input_text>(ᕓ)ᕖ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕗ</label>
+        <replacement>ᕗ</replacement>
+        <input_text>(ᕓ)ᕗ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕘ</label>
+        <replacement>ᕘ</replacement>
+        <input_text>(ᕓ)ᕘ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕙ</label>
+        <replacement>ᕙ</replacement>
+        <input_text>(ᕓ)ᕙ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕚ</label>
+        <replacement>ᕚ</replacement>
+        <input_text>(ᕓ)ᕚ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕛ</label>
+        <replacement>ᕛ</replacement>
+        <input_text>(ᕓ)ᕛ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕜ</label>
+        <replacement>ᕜ</replacement>
+        <input_text>(ᕓ)ᕜ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label>ᕝ</label>
+        <replacement>ᕝ</replacement>
+        <input_text>(ᕓ)ᕝ</input_text>
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>ᕓ</pattern>
+        <label> </label>
+        <replacement>ᕓ</replacement>
+        <input_text />
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐁ</label>
+        <replacement>ᐁ</replacement>
+        <input_text>(‌?)ᐁ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐃ</label>
+        <replacement>ᐃ</replacement>
+        <input_text>(‌?)ᐃ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐄ</label>
+        <replacement>ᐄ</replacement>
+        <input_text>(‌?)ᐄ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐅ</label>
+        <replacement>ᐅ</replacement>
+        <input_text>(‌?)ᐅ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐆ</label>
+        <replacement>ᐆ</replacement>
+        <input_text>(‌?)ᐆ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐇ</label>
+        <replacement>ᐇ</replacement>
+        <input_text>(‌?)ᐇ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐊ</label>
+        <replacement>ᐊ</replacement>
+        <input_text>(‌?)ᐊ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐋ</label>
+        <replacement>ᐋ</replacement>
+        <input_text>(‌?)ᐋ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐌ</label>
+        <replacement>ᐌ</replacement>
+        <input_text>(‌?)ᐌ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐍ</label>
+        <replacement>ᐍ</replacement>
+        <input_text>(‌?)ᐍ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐎ</label>
+        <replacement>ᐎ</replacement>
+        <input_text>(‌?)ᐎ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐏ</label>
+        <replacement>ᐏ</replacement>
+        <input_text>(‌?)ᐏ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐐ</label>
+        <replacement>ᐐ</replacement>
+        <input_text>(‌?)ᐐ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐑ</label>
+        <replacement>ᐑ</replacement>
+        <input_text>(‌?)ᐑ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐒ</label>
+        <replacement>ᐒ</replacement>
+        <input_text>(‌?)ᐒ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐓ</label>
+        <replacement>ᐓ</replacement>
+        <input_text>(‌?)ᐓ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐔ</label>
+        <replacement>ᐔ</replacement>
+        <input_text>(‌?)ᐔ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐕ</label>
+        <replacement>ᐕ</replacement>
+        <input_text>(‌?)ᐕ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐗ</label>
+        <replacement>ᐗ</replacement>
+        <input_text>(‌?)ᐗ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐘ</label>
+        <replacement>ᐘ</replacement>
+        <input_text>(‌?)ᐘ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐙ</label>
+        <replacement>ᐙ</replacement>
+        <input_text>(‌?)ᐙ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐚ</label>
+        <replacement>ᐚ</replacement>
+        <input_text>(‌?)ᐚ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐛ</label>
+        <replacement>ᐛ</replacement>
+        <input_text>(‌?)ᐛ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᐖ</label>
+        <replacement>ᐖ</replacement>
+        <input_text>(‌?)ᐖ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label> </label>
+        <replacement />
+        <input_text>(‌?)</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label> </label>
+        <replacement />
+        <input_text>(‌?)</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label> </label>
+        <replacement />
+        <input_text>(‌?)</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᢰ</label>
+        <replacement>ᢰ</replacement>
+        <input_text>(‌?)ᢰ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label> </label>
+        <replacement />
+        <input_text>(‌?)</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᢱ</label>
+        <replacement>ᢱ</replacement>
+        <input_text>(‌?)ᢱ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᢲ</label>
+        <replacement>ᢲ</replacement>
+        <input_text>(‌?)ᢲ</input_text>
+    </rule>
+    <rule>
+        <pattern>(‌?)</pattern>
+        <label>ᢳ</label>
+        <replacement>ᢳ</replacement>
+        <input_text>(‌?)ᢳ</input_text>
+    </rule>
+</dynamic_rules>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="emoji_popup_search_results_height">60.0dip</dimen>
+    <dimen name="keyboard_body_height">324.0dip</dimen>
+    <dimen name="keyboard_body_height_more_letter_rows">388.0dip</dimen>
+    <dimen name="keyboard_height">378.0dip</dimen>
+    <dimen name="morse_hint_card_height">225.0dip</dimen>
+    <dimen name="morse_hint_card_width">912.0dip</dimen>
+    <dimen name="softkey_bg_bottom_padded_inset_bottom">26.299988dip</dimen>
+    <dimen name="softkey_bg_inset_bottom">13.0dip</dimen>
+    <dimen name="softkey_bg_inset_left">6.5dip</dimen>
+    <dimen name="softkey_bg_inset_right">6.5dip</dimen>
+    <dimen name="softkey_bg_middle_inset_bottom">9.0dip</dimen>
+    <dimen name="softkey_number_row_bg_inset_bottom">8.0dip</dimen>
+    <dimen name="softkey_show_more_candidates_min_width">106.0dip</dimen>
+    <dimen name="suggestions_strip_horizontal_margin">228.0dip</dimen>
+    <dimen name="text_size_qwerty_label">30.0dip</dimen>
+</resources>

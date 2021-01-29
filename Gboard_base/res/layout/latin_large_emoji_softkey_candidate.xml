@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/KeyTop.Candidate"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/candidate_separator" style="@style/SoftKeyCandidateSeparator" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/CandidateHolder">
+        <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:textSize="@dimen/emoji_candidate_text_size" android:id="@id/label" style="@style/Label.Candidate" />
+    </LinearLayout>
+</FrameLayout>

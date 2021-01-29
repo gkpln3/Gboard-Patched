@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.sharing.GboardSharingSetupDonePage android:id="@id/first_run_content" style="@style/FirstRunPage"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/first_run_page_header" />
+    <LinearLayout style="@style/FirstRunSharingContent">
+        <TextView android:text="@string/setup_done_page_title" style="@style/FirstRunPageTitle" />
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/first_run_sharing_content" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/first_run_sharing_description" android:layout_marginBottom="14.0dip" android:text="@string/first_run_sharing_description" android:paddingStart="@dimen/sharing_activity_content_padding" android:paddingEnd="@dimen/sharing_activity_content_padding" style="@style/FirstRunPageDescription" />
+            <ImageView android:paddingStart="@dimen/sharing_activity_content_padding" android:paddingEnd="@dimen/sharing_activity_content_padding" style="@style/SharingSplitter" />
+            <android.support.v7.widget.RecyclerView android:id="@id/first_run_sharing_list" android:paddingStart="@dimen/sharing_activity_list_padding" android:paddingEnd="@dimen/sharing_activity_list_padding" style="@style/SharingDialogList" />
+            <ImageView android:paddingStart="@dimen/sharing_activity_content_padding" android:paddingEnd="@dimen/sharing_activity_content_padding" style="@style/SharingSplitter" />
+        </LinearLayout>
+        <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@id/first_run_page_setup_languages_label" android:text="@string/first_run_page_select_language" style="@style/FirstRunPageDescription" />
+        <Button android:id="@id/first_run_page_setup_done_button" android:text="@string/tutorial_done" style="@style/FirstRunPageButton" />
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.sharing.GboardSharingSetupDonePage>

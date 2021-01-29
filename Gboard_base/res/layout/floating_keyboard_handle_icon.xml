@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="@dimen/floating_keyboard_handle_width" android:layout_height="@dimen/floating_keyboard_handle_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:background="@drawable/bg_floating_keyboard_handle_bar_shadow" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/floating_keyboard_handle" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/floating_keyboard_handle_background" android:tag=".keyboard-body-area.for-floating-keyboard-handle" android:background="@drawable/bg_floating_keyboard_handle_bar" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:layout_gravity="center|top" android:tag=".icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_center_focus_weak_24px" />
+    </FrameLayout>
+</FrameLayout>

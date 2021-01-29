@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_syriac_dotted_zlama_horizontal" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_syriac_dotted_zlama_angular" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_syriac_letter_qaph" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_syriac_letter_waw" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_syriac_letter_rish" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_syriac_letter_taw" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_syriac_letter_yudh" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_syriac_letter_e" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_syriac_letter_pe" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_syriac_rukkakha" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_combining_breve_below" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_syriac_pthaha_dotted" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_syriac_zqapha_dotted" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_syriac_letter_alaph" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_syriac_letter_semkath" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_syriac_letter_dalath" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_syriac_letter_gamal" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_syriac_letter_he" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_syriac_letter_teth" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_syriac_letter_kaph" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_syriac_letter_lamadh" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_combining_tilde_below" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_syriac_rwaha" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_syriac_hbasa_esasa_dotted" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_syriac_letter_zain" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_syriac_letter_sadhe" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_syriac_letter_heth" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_syriac_letter_shin" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_syriac_letter_beth" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_syriac_letter_nun" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_syriac_letter_mim" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_combining_diaeresis" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+</framework>

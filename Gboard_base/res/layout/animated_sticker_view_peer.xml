@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_gravity="center_vertical" android:id="@id/animated_image_view_card" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/sticker_image_margin" app:cardCornerRadius="5.0dip" style="@style/StickerCardViewWrapperM2"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.apps.inputmethod.libs.expression.animatedview.AnimatedImageView android:id="@id/animated_image_view" android:background="@color/google_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:contentDescription="@string/gboard_sticker_image_content_desc" app:measureStrategy="variable_height" app:touchRipple="?android:selectableItemBackground" />
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/HeaderInner.Prime"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:paddingLeft="?KeyboardInnerPadding" android:paddingRight="?KeyboardInnerPadding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout android:id="@id/heading_candidates_area" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.CopyImageSourceView android:id="@id/copy_src" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointsBar app:managed="true" style="@style/AccessPointsBar" />
+                <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.FixedSizeCandidatesHolderView android:id="@id/softkey_holder_fixed_candidates" android:layout_marginStart="?SuggestionsStripHorizontalMargin" android:layout_marginEnd="?SuggestionsStripHorizontalMargin" app:managed="true" best_candidate_width_percentile="0.2" candidate_background="@attr/BgCandidate" candidate_layout="@layout/softkey_candidate" center_single_candidate="true" contextual_candidate_layout="@layout/latin_contextual_softkey_candidate" contextual_special_candidate_layout="@layout/latin_contextual_special_softkey_candidate" email_candidate_layout="@layout/latin_email_softkey_candidate" last_column_candidate_background="@attr/BgCandidateLastColumn" max_candidates_count="5" style="@style/CandidateBar" />
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:layout_gravity="end|center" android:id="@id/key_pos_show_more_candidates" android:layout_marginStart="?SuggestionsStripHorizontalMargin" android:layout_marginEnd="?SuggestionsStripHorizontalMargin" style="@style/SoftKeyCandidateBarShowMoreCandidate" />
+                <com.google.android.apps.inputmethod.libs.framework.notice.NoticeHolderView android:id="@id/key_pos_header_notice" android:layout_marginStart="?SuggestionsStripHorizontalMargin" android:layout_marginEnd="?SuggestionsStripHorizontalMargin" app:managed="true" style="@style/NoticeHolderView" />
+                <include layout="@layout/proactive_suggestions_header_inner" />
+            </com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout>
+        </FrameLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_header_voice" style="@style/SuggestionStripVoiceIcon.Prime" />
+        <FrameLayout android:id="@id/key_pos_header_action" android:visibility="invisible" android:layout_width="@dimen/suggestions_strip_voice_key_width" style="@style/SuggestionStripVoiceIcon.Prime">
+            <include layout="@layout/proactive_suggestions_pinned_action_holder_view" />
+        </FrameLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_header_access_points_menu" style="@style/SuggestionStripAccessPointsMenuIcon" />
+    </FrameLayout>
+</FrameLayout>

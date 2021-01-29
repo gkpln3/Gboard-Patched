@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latinguyk.keyboard.LatinNumberKeyboard" id="@id/keyboard_date_time">
+        <if show_keyboard_header_for_proactive_suggestions="true" show_suggestions="true">
+            <view always_show="false" direction="locale" layout="@layout/keyboard_proactive_suggestions_header" scalable="false" type="header" />
+        </if>
+        <view layout="@layout/keyboard_number_body" type="body">
+            <softkeys href="@xml/softkeys_input_number_and_date_time" />
+            <softkeys href="@xml/softkeys_function" />
+            <include href="@xml/keymapping_keyboard_date_time" />
+        </view>
+    </keyboard>
+</framework>

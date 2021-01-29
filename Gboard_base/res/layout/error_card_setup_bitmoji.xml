@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.24">
+        <TextView style="@style/BitmojiSetupCardLoggedOut" />
+        <TextView style="@style/BitmojiSetupCardInstruction" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.5">
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="0.0dip" android:src="@drawable/bitmoji_avatars" android:scaleType="fitCenter" android:adjustViewBounds="true" android:layout_weight="0.75" android:importantForAccessibility="no" />
+        <Button android:layout_height="0.0dip" android:layout_weight="0.25" style="@style/BitmojiCardActionButton" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.22">
+        <TextView style="@style/BitmojiCardSecondaryText.SetupCard" />
+    </LinearLayout>
+</LinearLayout>

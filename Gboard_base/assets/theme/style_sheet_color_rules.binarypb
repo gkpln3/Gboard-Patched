@@ -1,0 +1,123 @@
+
+Œ
+.keyboard-body-area
+.tab.in-keyboard-header-area
+0.keyboard-body-area.for-floating-keyboard-handle
+.keyboard-voice-overlay"
+color_base
+=
+.keyboard-footer-area""color_expression_footer_background
+‘
+.keyboard-header-area
+.keyboard-base-area
+.keyboard-clipboard-offoverlay
+.candidates-area
+.candidates-area.expanded
+.popup"color_header
+
+	.popup_v2"color_popup_v2
+-
+.keyboard-clipboard-offoverlay	Q…ëQ¸í?
+<
+.label.in-left-panel
+.label.for-function-key		Qffffffæ?
++
+.icon.for-action-key"color_icon_action
+O
+$.keytop.for-candidates-expansion-key"%color_icon_more_candidates_background
++
+.label.secondary"color_label_secondary
+'
+.label.dynamic"color_label_dynamic
+=
+.label.for-category-key.active"color_label_header_active
+8
+.label.for-category-key"color_label_header_inactive
+K
+!.label.for-candidate-key:selected"$color_state_label_candidate_selected
+[
+.label.for-candidate-key
+ .label.for-image-candidate-popup"color_state_label_candidate
+-
+.notice.for-notice-key"color_notice_text
+5
+.space_bar:pressed"color_state_space_bar_pressed
+C
+
+.space_bar
+.label.for-prime-page-switch"color_state_space_bar
+G
+.mask.for-dashboard-key:pressed""color_state_dashboard_mask_pressed
+7
+.mask.for-dashboard-key"color_state_dashboard_mask
+]
+ .divider.vertical.for-side-panel
+.divider.for-numpad-big-panel"color_keyboard_separator
+P
+..divider.horizontal.top.for-keyboard-base-area"color_keyboard_top_separator
+B
+#.divider.vertical.for-candidate-key"color_candidate_separator
+O
+*.divider.vertical.for-candidate-side-panel"color_candidate_panel_separator
+D
+$.scrollbar.horizontal.for-key-paging"color_key_paging_scrollbar
+O
+$.scrollbar.horizontal.for-key-paging"%color_key_paging_scrollbar_background
+E
+.icon.access-point-item"(color_state_access_point_item_background
+J
+.expand-access-points-hint"*color_expand_access_points_hint_background
+J
+.expand-access-points-hint"*alpha_expand_access_points_hint_background
+U
+#.background.for-extension:activated",color_generic_extension_background_activated
+A
+.background.for-extension""color_generic_extension_background
+E
+.icon.keyboard_editing_edge"$color_keyboard_editing_edge_disabled
+=
+.keyboard_editing_overlay"color_keyboard_editing_overlay
+@
+.icon.keyboard_editing_button"color_keyboard_editing_button
+L
+.icon.access-points-panel-item"(color_access_point_panel_item_background
+Q
+#.background.access-point-panel-item"(color_access_point_panel_item_background
+E
+.background.text-editing-body""color_background_text_editing_body
+@
+".background.text-editing-separator"color_keyboard_separator
+O
+".label.text-editing-unactivate-key"'color_label_text_editing_unactivate_key
+5
+.icon.extension-tab"default_generic_accent_color
+J
+.expand-access-points-hint"*color_expand_access_points_hint_background
+N
+$.keytop.for-prime-header-tab:pressed"$color_state_prime_header_tab_pressed
+4
+.icon.header.inactive	"alpha_header_tab_inactive
+\
+.icon.for-category-key
+.label.for-expression-search""color_expression_category_inactive
+Õ
+ .icon.for-corpus-selector.active
+.icon.for-category-key:pressed
+.icon.for-category-key:selected
+$.label.for-expression-search:pressed
+%.label.for-expression-search:selected"!color_expression_content_accented
+x
+'.expression-highlight-underline:pressed
+(.expression-highlight-underline:selected"!color_expression_content_accented
+B
+.expression-highlight-underline"default_transparent_key_color
+J
+.corpus-selector"4color_expression_corpus_selector_background_inactive
+k
+.corpus-selector:pressed
+.corpus-selector:selected"2color_expression_corpus_selector_background_active
+M
+.expression-header-accent-btn"*color_expression_content_accented_contrast
+D
+.expression-header-accent-btn"!color_expression_content_accentedH
+ default_popup_item_color_pressed$default_generic_accent_color_pressed

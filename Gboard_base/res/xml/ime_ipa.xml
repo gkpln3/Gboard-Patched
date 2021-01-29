@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="mul-XI" string_id="ime_international_phonetic_alphabet">
+        <keyboard_group layout_theme="@style/KeyboardLayoutTheme.5LetterRows" variant="ipa_chart" variant_label="@string/variant_ipa_chart">
+            <keyboard def="@xml/keyboard_ipa" type="prime" />
+            <include href="@xml/keyboards_non_prime_ipa" />
+        </keyboard_group>
+        <keyboard_group layout_theme="@style/KeyboardLayoutTheme.4LetterRows" variant="qwerty">
+            <keyboard def="@xml/keyboard_ipa_qwerty" type="prime" />
+            <include href="@xml/keyboards_non_prime_ipa" />
+        </keyboard_group>
+    </ime>
+</framework>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".libs.pinyin.PinyinHardKeyboard" id="@id/keyboard_zh_cn_pinyin_hard_qwerty" initial_states="NO_MICROPHONE">
+        <view always_show="false" layout="@layout/keyboard_floating_candidates" scalable="false" type="floating_candidates">
+            <softkeys href="@xml/softkeys_floating_header_candidates" />
+            <softkeys href="@xml/softkeys_floating_body_candidates" />
+            <include href="@xml/keymapping_floating_header_candidates" />
+            <include href="@xml/keymapping_floating_body_candidates" />
+        </view>
+    </keyboard>
+</framework>

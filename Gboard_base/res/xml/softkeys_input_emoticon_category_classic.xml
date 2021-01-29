@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_emoticon">
+        <softkey desc="@string/classic_emoticon_description_smiley_face" param_data=":-)" />
+        <softkey desc="@string/classic_emoticon_description_happy_face" param_data=":^)" />
+        <softkey desc="@string/classic_emoticon_description_grinning_eyes" param_data="^_^" />
+        <softkey desc="@string/classic_emoticon_description_grinning_eyes" param_data="(^^)" />
+        <softkey desc="@string/classic_emoticon_description_touched" param_data=":,-)" />
+        <softkey desc="@string/classic_emoticon_description_bug_eyed" param_data="8-)" />
+        <softkey desc="@string/classic_emoticon_description_cool_face" param_data="B-)" />
+        <softkey desc="@string/classic_emoticon_description_angel_face" param_data="o:-)" />
+        <softkey desc="@string/classic_emoticon_description_big_grin" param_data=":-D" />
+        <softkey desc="@string/classic_emoticon_description_devilish" param_data="}:‑)" />
+        <softkey desc="@string/classic_emoticon_description_wink" param_data=";)" />
+        <softkey desc="@string/classic_emoticon_description_wink" param_data=";-)" />
+        <softkey desc="@string/classic_emoticon_description_kiss" param_data=":-*" />
+        <softkey desc="@string/classic_emoticon_description_tongue_out" param_data=":-P" />
+        <softkey desc="@string/classic_emoticon_description_exclamation_face" param_data=":-!" />
+        <softkey desc="@string/classic_emoticon_description_embarassed_face" param_data=":-$" />
+        <softkey desc="@string/classic_emoticon_description_lips_are_sealed" param_data=":‑X" />
+        <softkey desc="@string/classic_emoticon_description_disapointed_face" param_data=":-|" />
+        <softkey desc="@string/classic_emoticon_description_slant_face" param_data=":-\\" />
+        <softkey desc="@string/classic_emoticon_description_frown_face" param_data=":-[" />
+        <softkey desc="@string/classic_emoticon_description_frown_face" param_data=":-(" />
+        <softkey desc="@string/classic_emoticon_description_crying_face" param_data=":'(" />
+        <softkey desc="@string/classic_emoticon_description_crying_face" param_data="(TT)" />
+        <softkey desc="@string/classic_emoticon_description_glare" param_data="=_=" />
+        <softkey desc="@string/classic_emoticon_description_skeptical_face" param_data=">.&lt;" />
+        <softkey desc="@string/classic_emoticon_description_Amazed_face" param_data="(+_+)" />
+        <softkey desc="@string/classic_emoticon_description_Amazed_face" param_data="(*_*)" />
+        <softkey desc="@string/classic_emoticon_description_shocked_face" param_data="O_o" />
+        <softkey desc="@string/classic_emoticon_description_shocked_face" param_data=":-O" />
+        <softkey desc="@string/classic_emoticon_description_shocked_face" param_data="=-O" />
+        <softkey desc="@string/classic_emoticon_description_shocked_face" param_data=":0" />
+        <softkey desc="@string/classic_emoticon_description_cheerleader" param_data="*\\0/*" />
+    </softkey_list>
+</framework>

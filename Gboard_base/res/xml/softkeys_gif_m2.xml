@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <include href="@xml/softkey_gif_fragments_m2" />
+    </softkeys>
+</framework>

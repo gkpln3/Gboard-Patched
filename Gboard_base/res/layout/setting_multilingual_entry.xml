@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0" android:minHeight="55.0dip">
+        <TextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:id="@id/language_name" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:paddingStart="@dimen/setting_language_preference_horizontal_padding" />
+        <CheckBox android:id="@id/language_checkbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="16.0dip" android:layout_marginEnd="@dimen/setting_language_preference_horizontal_padding" />
+    </LinearLayout>
+    <View android:id="@id/multilingual_setting_divider" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="@dimen/setting_language_preference_horizontal_padding" />
+</LinearLayout>

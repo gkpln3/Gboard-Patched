@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/image_candidate_popup_arrow" android:tag=".popup.concept-candidate" android:background="@drawable/image_candidate_popup_arrow_down" android:layout_width="18.0dip" android:layout_height="18.0dip" android:layout_marginBottom="5.0dip" android:elevation="3.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/image_candidate_popup_page_card_view" />
+    <androidx.cardview.widget.CardView android:id="@id/image_candidate_popup_page_card_view" android:tag=".popup.concept-candidate" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginTop="5.0dip" android:layout_marginStart="5.0dip" android:layout_marginEnd="5.0dip" app:cardBackgroundColor="?BgHeader" app:cardCornerRadius="8.0dip" app:cardElevation="3.0dip" app:layout_constraintBottom_toTopOf="@id/image_candidate_popup_arrow" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <ViewSwitcher android:id="@id/image_candidate_popup_page_animator" android:layout_width="fill_parent" android:layout_height="fill_parent" android:inAnimation="@android:anim/slide_in_left" android:outAnimation="@android:anim/slide_out_right" android:animateFirstView="false">
+            <include layout="@layout/image_candidate_popup_share_page" />
+            <include layout="@layout/image_candidate_popup_options_page" />
+        </ViewSwitcher>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

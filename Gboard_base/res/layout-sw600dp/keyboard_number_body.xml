@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/Body"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" style="@style/BodyInner.Number">
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/keyboard_number_left_side_empty_view_weight" />
+        <include layout="@layout/keyboard_number_body_left_part" />
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/keyboard_number_empty_view_weight" />
+        <include layout="@layout/keyboard_number_body_right_part" />
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

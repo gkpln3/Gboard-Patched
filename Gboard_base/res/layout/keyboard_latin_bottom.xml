@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_symbol" android:layout_weight="150.0" style="@style/SoftKey.Bottom.Dark.BottomLeft" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_bottom_symbol_1" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="500.0">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_next_language" android:visibility="gone" android:layout_weight="100.0" android:foregroundGravity="center|right|top|clip_horizontal|clip_vertical" style="@style/SoftKey.Bottom" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="400.0">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_space" android:visibility="gone" android:layout_weight="300.0" style="@style/SoftKey.Bottom.Space" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_zwnj_with_zwj" android:visibility="gone" android:layout_weight="100.0" style="@style/SoftKey.Bottom" />
+        </LinearLayout>
+    </LinearLayout>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_bottom_symbol_2" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="150.0" style="@style/SoftKey.Bottom.ImeAction.BottomRight" />
+</LinearLayout>

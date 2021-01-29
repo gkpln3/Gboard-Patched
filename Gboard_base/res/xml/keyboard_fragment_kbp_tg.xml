@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_kbp_tg">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_kbp_tg" />
+        </view>
+    </keyboard>
+</framework>

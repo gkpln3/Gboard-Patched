@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView app:allowMockActionDown="false" style="@style/SearchHeader.NonPrime"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="?ColorLabelCandidate" android:id="@id/tenor_trending_search_candidate_title" android:tag=".label.for-candidate-key" android:padding="8.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tenor_trending_search_candidate_title_text" />
+        <com.google.android.apps.inputmethod.libs.search.widget.SuggestionListRecyclerView android:id="@id/tenor_trending_search_candidate_list_holder" android:visibility="gone" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/keyboard_expression_header_search_box_vertical_margin" android:paddingStart="@dimen/keyboard_expression_header_horizontal_margin_portrait" android:paddingEnd="@dimen/keyboard_expression_header_horizontal_margin_portrait" />
+        <include layout="@layout/keyboard_search_header_inner_m2" />
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

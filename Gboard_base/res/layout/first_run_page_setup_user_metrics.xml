@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.firstrun.UserMetricsStepPage pageId="@id/page_id_first_run_page_setup_user_metrics" style="@style/FirstRunPage"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/first_run_page_header" />
+    <LinearLayout style="@style/FirstRunPageContent">
+        <TextView android:id="@id/first_run_page_setup_step_title" style="@style/FirstRunPageTitle" />
+        <TextView android:id="@id/first_run_page_setup_description_label" android:text="@string/first_run_page_user_metrics_message" style="@style/FirstRunPageDescription" />
+        <com.google.android.apps.inputmethod.libs.framework.core.PreferenceCheckBox android:id="@id/first_run_page_setup_button" android:text="@string/user_metrics_accept" pref_key="@string/pref_key_enable_user_metrics" style="@style/FirstRunPageCheckBox" />
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.framework.firstrun.UserMetricsStepPage>

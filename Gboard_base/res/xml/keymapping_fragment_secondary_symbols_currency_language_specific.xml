@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_secondary_symbols="true">
+        <if language="abr-GH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </if>
+        <else_if language="act-NL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ada-GH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ady-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ahr-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ak-GH|ak-x-akuapem|ak-x-asante">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="an-ES">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="anp-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="anw-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="as-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="as-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ast-ES">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="av-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="awa-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="az-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="az-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bar-AT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bcl-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bfy-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bfz-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bgc-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bgq-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bgx-TR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_turkish_lira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bhb-Deva">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bhb-Gujr">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bho-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bin-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bjj-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="blt-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dong" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bn-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bn-BD|bn-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bns-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bom-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bpr-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bpy-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bqi-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="br-FR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="brx-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="brx-Beng|brx-Deva" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bto-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bxm-MN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_tugrik" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="bxr-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ca">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cbk-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ccp-BD">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_bengali_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cdo-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ce-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ceb">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cja-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_khmer_currency_symbol_riel" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cjm">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dong" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cnr-Latn-ME|cnr-Cyrl-ME">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="co">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cps-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ctg-BD">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_bengali_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cu-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cv-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cy">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_currency_pound" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="cyo-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="dag-GH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="dar-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="dcc-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="de-AT|de-BE|de-DE|de-LU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="dga-GH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="dhd-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="diq-TR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_turkish_lira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="doi-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="doi-Arab|doi-Deva" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="drt-NL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="dsb-DE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="dty-NP" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_nepalese_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ee">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="efi-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="egl-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="el">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="en-GB">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_currency_pound" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="en-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="en-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="en-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="es-ES">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="et-EE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="eu-ES">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ext-ES">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="fa">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="fay-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="fi">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="fr-FR|fr-BE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="fur-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="fuv-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="fy">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ga">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gbm-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gcf-GP">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gcr-GF">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gd-GB">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_currency_pound" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gdq-YE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gdx-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gju-Deva">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gl-ES">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="glk-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_guarani_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gno">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gos-NL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gpe-GH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="grt">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gu-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gu-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gur-GH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gv">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_currency_pound" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="gvr-NP" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_nepalese_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ha-GH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ha-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hac-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hak-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hea-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hi">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hil-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hlb-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hlb-Orya">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hmn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hne-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hni-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hoj-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hsb-DE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="hy-AM">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_armenian_dram" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ibb-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ig">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="igb-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="igl-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ijc-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ilo-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="inh-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="iso-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="it">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="itv-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ium-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="iw">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_new_sheqel" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kbd-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kfq-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kfy-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kha-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kiu-TR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_turkish_lira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kk">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_tenge_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="km-KH" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_khmer_currency_symbol_riel" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kmz-Latn|kmz-Arab">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kn-IN|kn-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kne-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="knn-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ko">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_won_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="koi-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kok-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kok-Deva|kok-Knda" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kr-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="krc-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="krl-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kru-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kru-Mlym">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ks-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ks-Arab|ks-Deva" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ksh-DE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kv-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ku-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kum-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kw-GB">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_currency_pound" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="kv-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="la">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lad-IL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_new_sheqel" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lb">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lbe-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lez-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lhu-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="li-NL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lif-Deva" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_nepalese_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lij-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="liv-LV">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lki-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lld-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lmn-Deva" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lmn-Knda" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lmn-Telu" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lmo-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lo-LA">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_kip" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lrc-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lrl-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lt">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ltg-LV">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lus-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="luz-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="lv">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mag-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mag-NP" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_nepalese_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mai-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mai-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mdf-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mdh-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mfa-TH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_baht" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mhr-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mjl-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ml-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ml-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mmr-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mn-MN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_tugrik" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mni-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mni-Beng" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mnp-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mr-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mr-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mrj-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mrw-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mt">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mtq-VN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dong" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mtr-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mup-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mww-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="myv-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="mzn-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="nap-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="nds-DE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ne-NP" variant="nepali_nepal_romanized|nepali_nepal_traditional|nepali_nepal_dynamic|handwriting">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_nepalese_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ne-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ne-IN|ne-NP" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="nl">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="noe-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="nrf-x-gallo">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="nup-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="nut-VN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dong" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="oc-FR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="olo-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="or-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="or-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="os-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pa-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pa-PK" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pa-Guru" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pag-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pam-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pap-AW">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_florin" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pcd-BE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pcm-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pfl-DE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pms-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pnt-GR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="prs-AF">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_afghani_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ps">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_afghani_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="psh-AF">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_afghani_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="psi-AF">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_afghani_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="pt-PT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="qaa-x-alsatian">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="qxq-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="rcf-RE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="rkt-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ru-BY">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dollar_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ru-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ru-KG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dollar_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="rue-UA">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_hryvnia" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="rwr-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sa">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sat-Beng|sat-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sat-Olck|sat-Deva" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sc-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sck-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="scn-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sco-GB">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_currency_pound" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sd-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sd-Arab|sd-Deva" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sdc-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sdh-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sgj-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sgs-LT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="si-LK" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_sri_lankan_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sjp-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sk">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sl">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sty-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sv-FI">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="swv-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="sxu-DE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="syl" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_bengali_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ta-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ta-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ta-LK|ta-SG" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dollar_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tab-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="taj-NP">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_nepalese_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tcy-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tdd-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="te-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="te-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="th">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_baht" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tiv-NG">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tks-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tl">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tly-AZ">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_manat_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tly-IR">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_rial" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tly-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tr">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_turkish_lira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="trp">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tsg-PH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="twd-NL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tyv-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="tyz-VN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dong" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="udm-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="uk">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_hryvnia" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="unr">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ur-Latn">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ur-IN" variant="urdu_in|handwriting">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vah">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vas-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vec-IT">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vel-NL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vep-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vi">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dong" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vls-BE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vmf-de">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="vro-EE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="wa-BE">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="war">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_peso_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="wbr-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="wry-IN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="xal-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="xnr-IN" variant="qwerty">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_indian_rupee" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="xon-GH">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_cedi_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="ydd-IL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_new_sheqel" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="yo">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_naira" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="yrk-RU">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_russian_ruble_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="zea-NL">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_euro" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="zyb-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else_if language="zyj-CN">
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_yen_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else_if>
+        <else>
+            <merge_key_mapping>
+                <merge key_id="@id/softkey_fragment_superscript_dollar_sign" view_id="@id/key_pos_1_2" />
+            </merge_key_mapping>
+        </else>
+    </if>
+</framework>

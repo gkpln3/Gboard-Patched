@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/multilingual_setting_header" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/setting_language_preference_horizontal_padding" android:paddingEnd="@dimen/setting_language_preference_horizontal_padding">
+        <Switch android:id="@id/multilingual_setting_switch" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentEnd="true" />
+        <TextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:id="@id/multilingual_setting_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_multilingual_title" android:layout_alignParentTop="true" android:layout_toStartOf="@id/multilingual_setting_switch" android:layout_alignParentStart="true" />
+        <TextView android:textSize="14.0sp" android:textColor="?android:textColorSecondary" android:id="@id/multilingual_setting_summary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/multilingual_setting_title" android:layout_alignEnd="@id/multilingual_setting_title" />
+    </RelativeLayout>
+    <com.google.android.apps.inputmethod.libs.framework.preference.SettingPreferenceListView android:id="@id/multilingual_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" />
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_emoticon">
+        <softkey desc="@string/nervous_emoticon_description_quivering_with_sweat" param_data="(๑•﹏•)" />
+        <softkey desc="@string/nervous_emoticon_description_quivering_face" param_data="⊙﹏⊙" />
+        <softkey desc="@string/nervous_emoticon_description_sweaty_shocked_face" param_data="╏ ” ⊚ ͟ʖ ⊚ ” ╏" />
+        <softkey desc="@string/nervous_emoticon_description_zany_face" param_data="(╬☉д⊙)⊰⊹ฺ" />
+        <softkey desc="@string/nervous_emoticon_description_zany_face" param_data="ヘ（。□°）ヘ" />
+        <softkey desc="@string/nervous_emoticon_description_zany_face" param_data="(⊙_◎)" />
+        <softkey desc="@string/nervous_emoticon_description_zany_face" param_data="ミ●﹏☉ミ" />
+        <softkey desc="@string/nervous_emoticon_description_anguished_face" param_data="(●´⌓`●)" />
+        <softkey desc="@string/nervous_emoticon_description_quivering_glassy_eyed_face" param_data="(*﹏*;)" />
+        <softkey desc="@string/nervous_emoticon_description_wide_eyed_and_sweating" param_data="(＠_＠;)" />
+        <softkey desc="@string/nervous_emoticon_description_wide_eyed_and_sweating" param_data="(ꏿ﹏ꏿ;)" />
+        <softkey desc="@string/nervous_emoticon_description_wide_eyed_and_sweating" param_data="(;ŏ﹏ŏ)" />
+        <softkey desc="@string/nervous_emoticon_description_sweaty_bird_face" param_data="(• ▽ •;)" />
+        <softkey desc="@string/nervous_emoticon_description_concerned_face" param_data="(˘･_･˘)" />
+        <softkey desc="@string/nervous_emoticon_description_concerned_face" param_data="(*・～・*)" />
+        <softkey desc="@string/nervous_emoticon_description_sweaty_face" param_data="(・_・;)" />
+        <softkey desc="@string/nervous_emoticon_description_very_sweaty_face" param_data="(;;;・_・)" />
+        <softkey desc="@string/nervous_emoticon_description_scratching_head_and_sweating_face" param_data="(・–・;)ゞ" />
+        <softkey desc="@string/nervous_emoticon_description_scratching_head_and_sweating_face" param_data="(^～^;)ゞ" />
+        <softkey desc="@string/nervous_emoticon_description_frown_face_with_sweat" param_data="(￣ヘ￣;)" />
+        <softkey desc="@string/nervous_emoticon_description_expressionless_face_with_sweat" param_data="(٥↼_↼)" />
+        <softkey desc="@string/nervous_emoticon_description_expressionless_face_with_sweat" param_data="(ー_ー゛)" />
+        <softkey desc="@string/nervous_emoticon_description_expressionless_face_with_sweat" param_data="(─.─||）" />
+        <softkey desc="@string/nervous_emoticon_description_expressionless_face_with_sweat" param_data="(-_-;)" />
+        <softkey desc="@string/nervous_emoticon_description_expressionless_face_with_sweat" param_data="(-_-メ)" />
+        <softkey desc="@string/nervous_emoticon_description_sweaty_face_with_long_pause" param_data="(-_-;)・・・" />
+        <softkey desc="@string/nervous_emoticon_description_sweaty_nervous_face" param_data="(´-﹏-`；)" />
+        <softkey desc="@string/nervous_emoticon_description_serious_sweaty_face" param_data="(~_~メ)" />
+        <softkey desc="@string/nervous_emoticon_description_serious_sweaty_face" param_data="(~_~;)" />
+        <softkey desc="@string/nervous_emoticon_description_upset_sweaty_face" param_data="(ʘ言ʘ╬)" />
+        <softkey desc="@string/nervous_emoticon_description_grinning_eyes_with_sweat" param_data="(^_^メ)" />
+        <softkey desc="@string/nervous_emoticon_description_sweaty_happy_denko" param_data="(；^ω^）" />
+    </softkey_list>
+</framework>

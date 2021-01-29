@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_syloti_nagri_letter_ko" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_kho" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_go" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_gho" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_po" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_pho" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_bo" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_bho" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_mo" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_co" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_cho" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_jo" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_jho" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_ro" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_lo" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_rro" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_so" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_ho" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_tto" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_ttho" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_ddo" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_ddho" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_a" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_i" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_u" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_e" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_o" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_to" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_tho" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_do" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_dho" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_syloti_nagri_letter_no" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_syloti_nagri_sign_anusvara" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_syloti_nagri_sign_dvisvara" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_syloti_nagri_sign_hasanta" view_id="@id/key_pos_3_7" />
+    </key_mapping>
+</framework>

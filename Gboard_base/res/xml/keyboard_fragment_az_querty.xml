@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_az_querty">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_az_querty" />
+        </view>
+    </keyboard>
+</framework>

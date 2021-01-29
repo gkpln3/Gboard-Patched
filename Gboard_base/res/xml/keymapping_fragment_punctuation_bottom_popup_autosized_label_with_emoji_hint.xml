@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_fragment_punctuation_bottom_popup_without_settings" />
+    <if device="tablet">
+        <include href="@xml/keymapping_bottom_symbol_1_popup_settings" />
+    </if>
+    <else>
+        <include href="@xml/keymapping_bottom_symbol_1_popup_switch_to_emoji_no_hint_icon" />
+        <merge_key_mapping exclude_state="INPUT_TYPE_EMAIL_ADDRESS,INPUT_TYPE_URI,SHOW_EMOJI_SWITCH_KEY" state="EMOJI_AVAILABLE">
+            <merge key_id="@id/softkey_fragment_bottom_icon_emoji_small_label" view_id="@id/key_pos_bottom_symbol_1" />
+        </merge_key_mapping>
+        <include href="@xml/keymapping_bottom_symbol_1_popup_settings" />
+        <include href="@xml/keymapping_bottom_symbol_1_popup_left_handed_mode" />
+    </else>
+</framework>

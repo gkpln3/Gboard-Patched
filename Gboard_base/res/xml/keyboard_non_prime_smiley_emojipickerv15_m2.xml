@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.emoji.standard.EmojiPickerKeyboard" id="@id/keyboard_non_prime_smiley" initial_states="LOCK_KEYBOARD+SUB_CATEGORY_2" persistent_states="@string/smiley_keyboard_persist_states" persistent_states_pref_key="@string/smiley_keyboard_persist_states_pref_key" recent_key_layout="@layout/softkey_label_emoji" recent_key_popup_layout="@layout/popup_bubble_rectangular_label_small_material_keep_order" recent_key_type="smiley" remember_recent_key="ALL_ACTIONS">
+        <view direction="locale" layout="@layout/keyboard_non_prime_smiley_header_emojipicker" scalable="false" type="header" />
+        <view direction="locale" layout="@layout/keyboard_non_prime_smiley_body_emojipickerv15_m2" type="body">
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.search.emoji.picker.EmojiPickerMotionEventHandler" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubDeleteMotionEventHandler" preference_key="@string/pref_key_enable_scrub_delete" reverse_preference="false" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubMoveMotionEventHandler" preference_key="@string/pref_key_enable_scrub_move" reverse_preference="false" />
+            <softkeys href="@xml/softkeys_non_prime_smiley_sub_category" />
+            <include href="@xml/keymapping_header_smiley" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_non_prime_category" />
+            <softkeys href="@xml/softkeys_input_non_prime_bottom_symbol" />
+            <softkeys href="@xml/softkeys_back_to_prime_language_specific" />
+            <softkeys href="@xml/softkeys_card_viewer_bottom" />
+            <softkeys href="@xml/softkeys_gif_m2" />
+            <include href="@xml/keymapping_bottom_smiley_with_gif" />
+            <include href="@xml/keymapping_card_viewer_bottom_in_extension" />
+            <include href="@xml/keymapping_fragment_back_to_prime_language_specific" />
+        </view>
+    </keyboard>
+</framework>

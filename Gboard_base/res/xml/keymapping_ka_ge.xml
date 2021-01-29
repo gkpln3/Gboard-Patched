@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_georgian_letter_ghan" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_georgian_letter_jhan" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_georgian_letter_un" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_georgian_letter_kan" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_georgian_letter_en" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_georgian_letter_nar" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_georgian_letter_gan" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_georgian_letter_shin" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_georgian_letter_cil" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_georgian_letter_zen" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_georgian_letter_xan" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_georgian_letter_can" view_id="@id/key_pos_0_11" />
+        <mapping key_id="@id/softkey_georgian_letter_phar" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_georgian_letter_jil" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_georgian_letter_vin" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_georgian_letter_tan" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_georgian_letter_an" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_georgian_letter_par" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_georgian_letter_rae" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_georgian_letter_on" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_georgian_letter_las" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_georgian_letter_don" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_georgian_letter_zhar" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_georgian_letter_char" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_georgian_letter_chin" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_georgian_letter_qar" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_georgian_letter_san" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_georgian_letter_man" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_georgian_letter_in" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_georgian_letter_tar" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_georgian_letter_khar" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_georgian_letter_ban" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_georgian_letter_hae" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+</framework>

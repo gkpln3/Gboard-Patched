@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animator android:duration="@integer/banner_animation_duration" android:valueFrom="0" android:valueTo="@dimen/clipboard_banner_height" android:valueType="intType"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

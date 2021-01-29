@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/Body"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout style="@style/BodyInnerWrapper">
+        <include layout="@layout/keyboard_ja_candidates_body_inner" />
+        <include layout="@layout/keyboard_ja_12keys_body_inner" />
+    </FrameLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

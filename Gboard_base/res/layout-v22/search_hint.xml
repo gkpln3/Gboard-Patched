@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/search_hint_ripple" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <TextView android:textSize="16.0sp" android:textColor="#ff1a73e8" android:gravity="center" android:id="@id/search_hint_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/search_key_content_desc" android:textFontWeight="400" />
+    <FrameLayout android:id="@id/search_hint_button" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/search_hint_button_key" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SoftKey.Bottom.ImeAction.BottomRight" />
+    </FrameLayout>
+</FrameLayout>

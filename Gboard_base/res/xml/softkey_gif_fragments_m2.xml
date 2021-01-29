@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/gif_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_gif_tab" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/keyboard_type_gif_search_result" keycode="SWITCH_KEYBOARD" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabGif" />
+    </softkey>
+    <softkey content_description="@string/emoji_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_emoji_tab_highlighted" layout="@layout/softkey_corpus_selector">
+        <icon location="@id/icon" value="@attr/IconTabSmiley" />
+    </softkey>
+    <softkey content_description="@string/emoticon_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_emoticon_tab_highlighted" layout="@layout/softkey_corpus_selector">
+        <icon location="@id/icon" value="@attr/IconTabEmotion" />
+    </softkey>
+    <softkey content_description="@string/gif_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_gif_tab_highlighted" layout="@layout/softkey_corpus_selector">
+        <icon location="@id/icon" value="@attr/IconTabGif" />
+    </softkey>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/emoji_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_emoji_tab_in_extension" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/keyboard_type_emoji" keycode="SWITCH_KEYBOARD" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabSmiley" />
+    </softkey>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/emoticon_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_emoticon_tab_in_extension" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/keyboard_type_emoticon" keycode="SWITCH_KEYBOARD" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabEmotion" />
+    </softkey>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/rich_symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_rich_symbol_tab" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/keyboard_type_rich_symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabRichSymbol" />
+    </softkey>
+    <softkey content_description="@string/rich_symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_rich_symbol_tab_highlighted" layout="@layout/softkey_corpus_selector">
+        <icon location="@id/icon" value="@attr/IconTabRichSymbol" />
+    </softkey>
+    <softkey alpha="@attr/IconDisabledAlpha" content_description="@string/emoji_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_emoji_tab_disabled" layout="@layout/softkey_corpus_selector_deactive">
+        <icon location="@id/icon" value="@attr/IconTabSmiley" />
+    </softkey>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/gif_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_gif_tab_disabled" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/image_disabled_toast_message" keycode="SHOW_TOAST_SHORT_TIME" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabGifDisabled" />
+    </softkey>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/universal_media_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_universal_media_tab_disabled" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/image_disabled_toast_message" keycode="SHOW_TOAST_SHORT_TIME" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabUniversalMediaDisabled" />
+    </softkey>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/sticker_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_sticker_tab" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/keyboard_type_sticker_search_result" keycode="SWITCH_KEYBOARD" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabSticker" />
+    </softkey>
+    <softkey content_description="@string/sticker_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_sticker_tab_highlighted" layout="@layout/softkey_corpus_selector">
+        <icon location="@id/icon" value="@attr/IconTabSticker" />
+    </softkey>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/bitmoji_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_bitmoji_tab" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/keyboard_type_bitmoji_search_result" keycode="SWITCH_KEYBOARD" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabBitmoji" />
+    </softkey>
+    <softkey content_description="@string/bitmoji_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_bitmoji_tab_highlighted" layout="@layout/softkey_corpus_selector">
+        <icon location="@id/icon" value="@attr/IconTabBitmoji" />
+    </softkey>
+    <softkey alpha="@attr/IconAlpha" content_description="@string/universal_media_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_universal_media_tab" layout="@layout/softkey_corpus_selector_deactive">
+        <action data="@string/keyboard_type_universal_media_search_result" keycode="SWITCH_KEYBOARD" type="PRESS" />
+        <icon location="@id/icon" value="@attr/IconTabUniversalMedia" />
+    </softkey>
+    <softkey content_description="@string/universal_media_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_universal_media_tab_highlighted" layout="@layout/softkey_corpus_selector">
+        <icon location="@id/icon" value="@attr/IconTabUniversalMedia" />
+    </softkey>
+</framework>

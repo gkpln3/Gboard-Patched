@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/KeyTop.Candidate"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/candidate_separator" style="@style/SoftKeyCandidateSeparator" />
+    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+        <com.google.android.libraries.inputmethod.widgets.AutoScaleXTextView android:layout_gravity="center" android:id="@id/label" android:layout_height="0.0dip" android:layout_weight="500.0" enable_relayout="false" minimum_scale="0.7" style="@style/Label.Candidate.EllipsizeMiddle" />
+        <ImageView android:id="@id/candidate_morse_hint" android:layout_weight="200.0" style="@style/MorseHint.Candidate" />
+    </LinearLayout>
+</FrameLayout>

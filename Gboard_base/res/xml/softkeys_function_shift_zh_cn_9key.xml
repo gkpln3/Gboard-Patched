@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/enable_digit_mode" id="@id/softkey_9key_zh_shift" layout="@layout/softkey_icon_center_icon_bottom" multi_touch="false">
+            <action keycode="LOCK_SHIFT" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconShiftOff" />
+            <icon location="@id/icon_bottom" value="@attr/Icon9KeyShiftUnderline" />
+        </softkey>
+        <softkey content_description="@string/disable_digit_mode" id="@id/softkey_9key_zh_shift_locked" layout="@layout/softkey_icon_center_active_icon_bottom_active" multi_touch="false">
+            <action keycode="UNLOCK_SHIFT" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconShiftOn" />
+            <icon location="@id/icon_bottom" value="@attr/Icon9KeyShiftUnderlineHighlight" />
+        </softkey>
+    </softkeys>
+</framework>

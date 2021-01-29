@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping exclude_state="IME_ACTION_NEXT" state="IME_FLAG_NAVIGATE_NEXT">
+        <merge key_id="@id/softkey_fragment_action_key_popup_next" view_id="@id/key_pos_ime_action" />
+    </merge_key_mapping>
+    <merge_key_mapping exclude_state="IME_ACTION_PREVIOUS" state="IME_FLAG_NAVIGATE_PREVIOUS">
+        <merge key_id="@id/softkey_fragment_action_key_popup_previous" view_id="@id/key_pos_ime_action" />
+    </merge_key_mapping>
+</framework>

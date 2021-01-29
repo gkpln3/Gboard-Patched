@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/Body"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/BodyInner">
+        <include layout="@layout/keyboard_latin_5x12_no_shift_input_area" />
+        <include layout="@layout/keyboard_latin_bottom" />
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

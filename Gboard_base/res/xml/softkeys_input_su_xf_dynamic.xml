@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_sundanese_letter_a" press_data="ᮃ" />
+            <softkey id="@id/softkey_sundanese_letter_i" long_press_data="ᮤ" press_data="ᮄ" />
+            <softkey id="@id/softkey_sundanese_letter_u" long_press_data="ᮥ" press_data="ᮅ" />
+            <softkey id="@id/softkey_sundanese_letter_ae" long_press_data="ᮦ" press_data="ᮆ" />
+            <softkey id="@id/softkey_sundanese_letter_o" long_press_data="ᮧ" press_data="ᮇ" />
+            <softkey id="@id/softkey_sundanese_letter_e" long_press_data="ᮨ" press_data="ᮈ" />
+            <softkey id="@id/softkey_sundanese_letter_eu" long_press_data="ᮩ" press_data="ᮉ" />
+            <softkey id="@id/softkey_sundanese_consonant_sign_pamingkal" long_press_data="ᮬ" press_data="ᮡ" />
+            <softkey id="@id/softkey_sundanese_consonant_sign_panyakra" press_data="ᮢ" />
+            <softkey id="@id/softkey_sundanese_consonant_sign_panyiku" long_press_data="ᮭ" press_data="ᮣ" />
+            <softkey id="@id/softkey_sundanese_sign_panglayar" press_data="ᮁ" />
+            <softkey id="@id/softkey_sundanese_sign_panyecek" press_data="ᮀ" />
+            <softkey id="@id/softkey_sundanese_sign_pangwisad" press_data="ᮂ" />
+            <softkey id="@id/softkey_sundanese_sign_pamaaeh" long_press_data="᮫,ᮺ" press_data="᮪" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_sundanese_letter_ka" long_press_data="ᮾ" press_data="ᮊ" />
+            <softkey id="@id/softkey_sundanese_letter_ga" press_data="ᮌ" />
+            <softkey id="@id/softkey_sundanese_letter_nga" press_data="ᮍ" />
+            <softkey id="@id/softkey_sundanese_letter_ca" press_data="ᮎ" />
+            <softkey id="@id/softkey_sundanese_letter_ja" press_data="ᮏ" />
+            <softkey id="@id/softkey_sundanese_letter_nya" press_data="ᮑ" />
+            <softkey id="@id/softkey_sundanese_letter_ta" press_data="ᮒ" />
+            <softkey id="@id/softkey_sundanese_letter_da" press_data="ᮓ" />
+            <softkey id="@id/softkey_sundanese_letter_na" press_data="ᮔ" />
+            <softkey id="@id/softkey_sundanese_letter_pa" press_data="ᮕ" />
+            <softkey id="@id/softkey_sundanese_letter_ba" long_press_data="ᮽ" press_data="ᮘ" />
+            <softkey id="@id/softkey_sundanese_letter_ma" long_press_data="ᮿ,ᮬ" press_data="ᮙ" />
+            <softkey id="@id/softkey_sundanese_letter_ya" press_data="ᮚ" />
+            <softkey id="@id/softkey_sundanese_letter_ra" long_press_data="ᮻ" press_data="ᮛ" />
+            <softkey id="@id/softkey_sundanese_letter_la" long_press_data="ᮼ" press_data="ᮜ" />
+            <softkey id="@id/softkey_sundanese_letter_wa" long_press_data="ᮭ" press_data="ᮝ" />
+            <softkey id="@id/softkey_sundanese_letter_sa" press_data="ᮞ" />
+            <softkey id="@id/softkey_sundanese_letter_ha" press_data="ᮠ" />
+            <softkey id="@id/softkey_sundanese_letter_qa" press_data="ᮋ" />
+            <softkey id="@id/softkey_sundanese_letter_za" press_data="ᮐ" />
+            <softkey id="@id/softkey_sundanese_letter_fa" press_data="ᮖ" />
+            <softkey id="@id/softkey_sundanese_letter_va" press_data="ᮗ" />
+            <softkey id="@id/softkey_sundanese_letter_xa" press_data="ᮟ" />
+            <softkey id="@id/softkey_sundanese_letter_kha" press_data="ᮮ" />
+            <softkey id="@id/softkey_sundanese_letter_sya" press_data="ᮯ" />
+        </softkey_list>
+    </softkeys>
+</framework>

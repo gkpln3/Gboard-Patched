@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>અ</primary_input>
+        <action state="0">અ</action>
+    </key>
+    <key>
+        <primary_input>આ</primary_input>
+        <action state="0">આ</action>
+        <action state="0">ા</action>
+    </key>
+    <key>
+        <primary_input>ઇ</primary_input>
+        <action state="0">ઇ</action>
+        <action state="0">િ</action>
+    </key>
+    <key>
+        <primary_input>ઈ</primary_input>
+        <action state="0">ઈ</action>
+        <action state="0">ી</action>
+    </key>
+    <key>
+        <primary_input>ઉ</primary_input>
+        <action state="0">ઉ</action>
+        <action state="0">ુ</action>
+    </key>
+    <key>
+        <primary_input>ઊ</primary_input>
+        <action state="0">ઊ</action>
+        <action state="0">ૂ</action>
+    </key>
+    <key>
+        <primary_input>એ</primary_input>
+        <action state="0">એ</action>
+        <action state="0">ે</action>
+    </key>
+    <key>
+        <primary_input>ઐ</primary_input>
+        <action state="0">ઐ</action>
+        <action state="0">ૈ</action>
+    </key>
+    <key>
+        <primary_input>ઓ</primary_input>
+        <action state="0">ઓ</action>
+        <action state="0">ો</action>
+    </key>
+    <key>
+        <primary_input>ઔ</primary_input>
+        <action state="0">ઔ</action>
+        <action state="0">ૌ</action>
+    </key>
+    <key>
+        <primary_input>અં</primary_input>
+        <action state="0">અં</action>
+        <action state="0">ં</action>
+    </key>
+    <key>
+        <primary_input>અઃ</primary_input>
+        <action state="0">અઃ</action>
+        <action state="0">ઃ</action>
+    </key>
+    <key>
+        <primary_input>ઋ</primary_input>
+        <action state="0">ઋ</action>
+        <action state="0">ૃ</action>
+    </key>
+    <key>
+        <primary_input>ઍ</primary_input>
+        <action state="0">ઍ</action>
+        <action state="0">ૅ</action>
+    </key>
+    <key>
+        <primary_input>ઑ</primary_input>
+        <action state="0">ઑ</action>
+        <action state="0">ૉ</action>
+    </key>
+</dynamic_keys>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_ethiopic_syllable_ha" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_hu" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_hi" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_haa" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_hee" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_ho" long_press_data="" long_press_label=" " press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_rya" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_lwa" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_qwi" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_qwaa" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_qwee" press_data="" press_label=" " />
+            <softkey id="@id/softkey_ethiopic_syllable_qwe" press_data="" press_label=" " />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_ethiopic_syllable_he" press_data="ህ" />
+            <softkey id="@id/softkey_ethiopic_syllable_le" press_data="ል" />
+            <softkey id="@id/softkey_ethiopic_syllable_hhe" press_data="ሕ" />
+            <softkey id="@id/softkey_ethiopic_syllable_me" press_data="ም" />
+            <softkey id="@id/softkey_ethiopic_syllable_sze" press_data="ሥ" />
+            <softkey id="@id/softkey_ethiopic_syllable_re" press_data="ር" />
+            <softkey id="@id/softkey_ethiopic_syllable_se" press_data="ስ" />
+            <softkey id="@id/softkey_ethiopic_syllable_she" press_data="ሽ" />
+            <softkey id="@id/softkey_ethiopic_syllable_qe" press_data="ቅ" />
+            <softkey id="@id/softkey_ethiopic_syllable_qhe" press_data="ቕ" />
+            <softkey id="@id/softkey_ethiopic_syllable_be" press_data="ብ" />
+            <softkey id="@id/softkey_ethiopic_syllable_ve" press_data="ቭ" />
+            <softkey id="@id/softkey_ethiopic_syllable_te" press_data="ት" />
+            <softkey id="@id/softkey_ethiopic_syllable_ce" press_data="ች" />
+            <softkey id="@id/softkey_ethiopic_syllable_xe" press_data="ኅ" />
+            <softkey id="@id/softkey_ethiopic_syllable_ne" press_data="ን" />
+            <softkey id="@id/softkey_ethiopic_syllable_nye" press_data="ኝ" />
+            <softkey id="@id/softkey_ethiopic_syllable_glottal_e" press_data="እ" />
+            <softkey id="@id/softkey_ethiopic_syllable_ke" press_data="ክ" />
+            <softkey id="@id/softkey_ethiopic_syllable_kxe" press_data="ኽ" />
+            <softkey id="@id/softkey_ethiopic_syllable_we" press_data="ው" />
+            <softkey id="@id/softkey_ethiopic_syllable_pharyngeal_e" press_data="ዕ" />
+            <softkey id="@id/softkey_ethiopic_syllable_ze" press_data="ዝ" />
+            <softkey id="@id/softkey_ethiopic_syllable_zhe" press_data="ዥ" />
+            <softkey id="@id/softkey_ethiopic_syllable_ye" press_data="ይ" />
+            <softkey id="@id/softkey_ethiopic_syllable_de" press_data="ድ" />
+            <softkey id="@id/softkey_ethiopic_syllable_dde" press_data="ዽ" />
+            <softkey id="@id/softkey_ethiopic_syllable_je" press_data="ጅ" />
+            <softkey id="@id/softkey_ethiopic_syllable_ge" press_data="ግ" />
+            <softkey id="@id/softkey_ethiopic_syllable_gge" press_data="ጝ" />
+            <softkey id="@id/softkey_ethiopic_syllable_the" press_data="ጥ" />
+            <softkey id="@id/softkey_ethiopic_syllable_che" press_data="ጭ" />
+            <softkey id="@id/softkey_ethiopic_syllable_phe" press_data="ጵ" />
+            <softkey id="@id/softkey_ethiopic_syllable_tse" press_data="ጽ" />
+            <softkey id="@id/softkey_ethiopic_syllable_tze" press_data="ፅ" />
+            <softkey id="@id/softkey_ethiopic_syllable_fe" press_data="ፍ" />
+            <softkey id="@id/softkey_ethiopic_syllable_pe" press_data="ፕ" />
+        </softkey_list>
+    </softkeys>
+</framework>

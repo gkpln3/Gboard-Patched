@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView android:tag=".fast-access-bar-tab-indicator" android:layout_width="@dimen/fast_access_bar_intro_indicator_tab_size" android:layout_height="@dimen/fast_access_bar_intro_indicator_tab_size" android:layout_marginLeft="@dimen/fast_access_bar_intro_indicator_tab_margin" android:layout_marginRight="@dimen/fast_access_bar_intro_indicator_tab_margin" android:src="@drawable/quantum_gm_ic_brightness_1_vd_theme_24" android:contentDescription="@null" android:layout_marginHorizontal="@dimen/fast_access_bar_intro_indicator_tab_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

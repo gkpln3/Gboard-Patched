@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard>
+        <view layout="@layout/keyboard_latin_10_12_9_body" type="body">
+            <softkeys href="@xml/softkeys_input_dvorak_additional" />
+            <include href="@xml/keymapping_dvorak_spanish" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup_without_settings" />
+            <include href="@xml/keymapping_bottom_symbol_1_popup_switch_to_emoji_no_hint_icon" />
+            <include href="@xml/keymapping_bottom_symbol_1_popup_settings" />
+            <include href="@xml/keymapping_bottom_symbol_1_popup_left_handed_mode" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_latin_fragment_superscript" />
+</framework>

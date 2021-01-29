@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:tag=".keyboard-base-area" android:background="?BgKeyboardArea" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:tag=".keyboard-background.for-preview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="@integer/theme_listing_candidate_height">
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="@integer/theme_listing_candidate_header_height" style="@style/Header" />
+        <View android:tag=".keyboard-body-area.for-preview" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="@integer/theme_listing_candidate_body_height" style="@style/Body" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="92.0">
+        <Space android:layout_weight="77.0" style="@style/CandidateVerticalView" />
+        <LinearLayout android:orientation="horizontal" android:weightSum="128.0" android:layout_weight="8.0" style="@style/CandidateVerticalView">
+            <Space android:layout_weight="28.0" style="@style/CandidateHorizontalView" />
+            <View android:tag=".space_bar" android:background="?BgSpaceTiny" android:layout_weight="69.0" style="@style/CandidateHorizontalView" />
+            <Space android:layout_weight="31.0" style="@style/CandidateHorizontalView" />
+        </LinearLayout>
+        <Space android:layout_weight="7.0" style="@style/CandidateVerticalView" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="92.0">
+        <Space android:layout_weight="74.0" style="@style/CandidateVerticalView" />
+        <LinearLayout android:orientation="horizontal" android:weightSum="128.0" android:layout_weight="14.0" style="@style/CandidateVerticalView">
+            <Space android:layout_weight="108.0" style="@style/CandidateHorizontalView" />
+            <ImageView android:tag=".background-icon.for-action-key.for-preview" android:src="@drawable/ic_key_ime_action_back_material_dark_theme_selector" android:layout_weight="15.0" style="@style/CandidateHorizontalView" />
+            <Space android:layout_weight="5.0" style="@style/CandidateHorizontalView" />
+        </LinearLayout>
+        <Space android:layout_weight="4.0" style="@style/CandidateVerticalView" />
+    </LinearLayout>
+    <include layout="@layout/theme_listing_item_loading_indicator" />
+</FrameLayout>

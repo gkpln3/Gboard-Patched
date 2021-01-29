@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@android:id/list_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <androidx.cardview.widget.CardView android:id="@id/language_setting_bottom_strip" android:background="@color/setting_language_specific_bottom_strip_color" android:layout_width="fill_parent" android:layout_height="@dimen/setting_language_bottom_confirm_button_strip_height" card_view:cardCornerRadius="0.0dip" card_view:cardElevation="6.0dip">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip">
+            <Button android:id="@id/language_specific_setting_done_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_language_done_button_label" android:layout_centerVertical="true" android:textAllCaps="false" android:fontFamily="@font/google_sans" android:layout_alignParentEnd="true" style="@style/SettingsButton" />
+            <Button android:id="@id/language_specific_setting_cancel_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_language_cancel_button_label" android:layout_centerVertical="true" android:textAllCaps="false" android:fontFamily="@font/google_sans" android:layout_marginEnd="@dimen/language_specific_setting_bottom_button_margin" android:layout_toStartOf="@id/language_specific_setting_done_button" style="?borderlessButtonStyle" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/setting_keyboard_layout_selection_desc_color" android:ellipsize="end" android:id="@id/language_specific_setting_selection_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_language_layout_selection_desc" android:maxLines="2" android:layout_centerVertical="true" android:fontFamily="roboto-regular" android:layout_toStartOf="@id/language_specific_setting_cancel_button" android:layout_alignParentStart="true" />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

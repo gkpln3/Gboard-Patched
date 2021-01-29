@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.expression.emojiview.EmojiView android:textSize="@dimen/text_size_emoji_v2_max" android:id="@id/label" android:layout_width="fill_parent" android:layout_height="fill_parent" app:minTextSize="@dimen/text_size_emoji_v2_min" style="@style/Label.Emoji.V2" xmlns:app="http://schemas.android.com/apk/res-auto" />
+    <include layout="@layout/variant_availability_indicator" />
+</merge>

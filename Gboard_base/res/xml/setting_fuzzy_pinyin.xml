@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_fuzzy_pinyin_detail_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_z_zh" android:key="@string/pref_key_fuzzy_pinyin_z_zh" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_z_zh" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_c_ch" android:key="@string/pref_key_fuzzy_pinyin_c_ch" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_c_ch" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_s_sh" android:key="@string/pref_key_fuzzy_pinyin_s_sh" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_s_sh" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_an_ang" android:key="@string/pref_key_fuzzy_pinyin_an_ang" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_an_ang" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_en_eng" android:key="@string/pref_key_fuzzy_pinyin_en_eng" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_en_eng" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_in_ing" android:key="@string/pref_key_fuzzy_pinyin_in_ing" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_in_ing" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_l_n" android:key="@string/pref_key_fuzzy_pinyin_l_n" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_l_n" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_f_h" android:key="@string/pref_key_fuzzy_pinyin_f_h" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_f_h" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_r_l" android:key="@string/pref_key_fuzzy_pinyin_r_l" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_r_l" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_k_g" android:key="@string/pref_key_fuzzy_pinyin_k_g" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_k_g" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_ian_iang" android:key="@string/pref_key_fuzzy_pinyin_ian_iang" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_ian_iang" />
+    <SwitchPreference android:persistent="true" android:title="@string/setting_fuzzy_pinyin_option_uan_uang" android:key="@string/pref_key_fuzzy_pinyin_uan_uang" android:defaultValue="@bool/pref_def_value_fuzzy_pinyin_uan_uang" />
+</PreferenceScreen>

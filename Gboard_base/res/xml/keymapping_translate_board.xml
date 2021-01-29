@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_translate_settings_source" view_id="@id/translate_settings_source" />
+        <mapping key_id="@id/softkey_translate_settings_source_drop_down" view_id="@id/translate_settings_source_drop_down" />
+        <mapping key_id="@id/softkey_translate_settings_target" view_id="@id/translate_settings_target" />
+        <mapping key_id="@id/softkey_translate_settings_target_drop_down" view_id="@id/translate_settings_target_drop_down" />
+        <mapping key_id="@id/softkey_translate_settings_switch" view_id="@id/translate_settings_switch" />
+    </key_mapping>
+</framework>

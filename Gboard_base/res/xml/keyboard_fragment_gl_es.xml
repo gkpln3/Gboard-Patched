@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_gl_es">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_gl_es" />
+        </view>
+    </keyboard>
+</framework>

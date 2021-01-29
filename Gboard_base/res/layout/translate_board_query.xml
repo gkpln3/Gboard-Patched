@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="@dimen/translate_board_editbox_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.module.EditTextOnKeyboard android:id="@id/translate_query_editbox" style="@style/TranslateQueryEditor" />
+    <com.google.android.libraries.material.progress.MaterialProgressBar android:id="@id/translate_network_progress_bar" android:visibility="gone" style="@style/TranslateNetworkProgress" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/translate_query_network_status" android:visibility="gone" style="@style/TranslateNetworkStatus">
+        <ImageView android:id="@id/translate_query_network_off_icon" android:background="@android:color/white" android:src="@drawable/quantum_ic_cloud_off_grey600_24" android:layout_marginStart="10.0dip" style="@style/TranslateBoardLanguageSelectorIcon" />
+        <TextView android:id="@id/translate_query_network_off_message" style="@style/TranslateNetworkStatusMessage" />
+    </LinearLayout>
+</FrameLayout>

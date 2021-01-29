@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/icon_background" style="@style/JaFlickableBackgroundIcon"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/text_size_ja_label_tri_state_digit" android:id="@id/label" android:layout_marginBottom="1.0dip" style="@style/Label" />
+    <TextView android:textSize="@dimen/text_size_ja_label_tri_state_digit_bottom" android:typeface="monospace" android:id="@id/label_bottom" android:tag=".label.secondary.for-japanese-support" android:layout_marginTop="@dimen/label_margin_tri_state_digit_bottom" style="@style/Label" />
+</FrameLayout>

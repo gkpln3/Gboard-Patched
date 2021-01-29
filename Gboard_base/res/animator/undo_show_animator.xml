@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator android:duration="@integer/undo_popup_show_animation_duration" android:valueFrom="200" android:valueTo="0" android:valueType="floatType" android:propertyName="translationY"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

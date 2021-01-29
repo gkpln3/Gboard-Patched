@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey disable_lift_to_tap="true" id="@id/softkey_translate_settings_source" layout="@layout/translate_softkey_label_white">
+            <action data="source" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <label location="@id/label" value="@string/translate_language_auto_detect" />
+        </softkey>
+        <softkey content_description="@string/translate_source_language_drop_down_content_desc" disable_lift_to_tap="true" id="@id/softkey_translate_settings_source_drop_down" layout="@layout/translate_softkey_icon">
+            <action data="source" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconDropDown" />
+        </softkey>
+        <softkey content_description="@string/translate_swap_language_content_desc" disable_lift_to_tap="true" id="@id/softkey_translate_settings_switch" layout="@layout/translate_softkey_icon">
+            <action data="swap" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSwapHoriz" />
+        </softkey>
+        <softkey disable_lift_to_tap="true" id="@id/softkey_translate_settings_target" layout="@layout/translate_softkey_label_white">
+            <action data="target" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <label location="@id/label" value="English" />
+        </softkey>
+        <softkey content_description="@string/translate_target_language_drop_down_content_desc" disable_lift_to_tap="true" id="@id/softkey_translate_settings_target_drop_down" layout="@layout/translate_softkey_icon">
+            <action data="target" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconDropDown" />
+        </softkey>
+    </softkeys>
+</framework>

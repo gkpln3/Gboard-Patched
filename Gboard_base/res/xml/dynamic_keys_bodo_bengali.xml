@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>অ</primary_input>
+        <action state="0">অ</action>
+    </key>
+    <key>
+        <primary_input>আ</primary_input>
+        <action state="0">আ</action>
+        <action state="0">া</action>
+    </key>
+    <key>
+        <primary_input>ই</primary_input>
+        <action state="0">ই</action>
+        <action state="0">ি</action>
+    </key>
+    <key>
+        <primary_input>ঈ</primary_input>
+        <action state="0">ঈ</action>
+        <action state="0">ী</action>
+    </key>
+    <key>
+        <primary_input>উ</primary_input>
+        <action state="0">উ</action>
+        <action state="0">ু</action>
+    </key>
+    <key>
+        <primary_input>ঊ</primary_input>
+        <action state="0">ঊ</action>
+        <action state="0">ূ</action>
+    </key>
+    <key>
+        <primary_input>এ</primary_input>
+        <action state="0">এ</action>
+        <action state="0">ে</action>
+    </key>
+    <key>
+        <primary_input>ঐ</primary_input>
+        <action state="0">ঐ</action>
+        <action state="0">ৈ</action>
+    </key>
+    <key>
+        <primary_input>ও</primary_input>
+        <action state="0">ও</action>
+        <action state="0">ো</action>
+    </key>
+    <key>
+        <primary_input>ঔ</primary_input>
+        <action state="0">ঔ</action>
+        <action state="0">ৌ</action>
+    </key>
+    <key>
+        <primary_input>ঋ</primary_input>
+        <action state="0">ঋ</action>
+        <action state="0">ৃ</action>
+    </key>
+</dynamic_keys>

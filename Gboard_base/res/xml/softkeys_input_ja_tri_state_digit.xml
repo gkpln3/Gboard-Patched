@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$data$" enable_slide_actions_in_a11y_mode="true" id="@id/softkey_template_ja_tri_state_noslidedown" layout="$key_layout=@layout/softkey_ja_tri_state_digit$" multi_touch="false" popup_timing="ON_TOUCH" slide_sensitivity="NORMAL">
+            <action content_description="$data$" data="$data$" icon_background_level="@integer/level_action_press" intention="DECODE" keycode="PLAIN_TEXT" popup_label="$press_label$" popup_layout="$press_layout=@layout/popup_bubble_ja_support$" type="PRESS" />
+            <action content_description="$left_data$" data="$left_data$" icon_background_level="@integer/level_action_slide_left" intention="DECODE" keycode="PLAIN_TEXT" popup_label="$left_data$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_LEFT" />
+            <action content_description="$up_data$" data="$up_data$" icon_background_level="@integer/level_action_slide_up" intention="DECODE" keycode="PLAIN_TEXT" popup_label="$up_data$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_UP" />
+            <action content_description="$right_data$" data="$right_data$" icon_background_level="@integer/level_action_slide_right" intention="DECODE" keycode="PLAIN_TEXT" popup_label="$right_data$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_RIGHT" />
+            <action data="" icon_background_level="@integer/level_action_press" intention="DECODE" keycode="0" type="SLIDE_DOWN" />
+            <label location="@id/label" value="$key_label$" />
+            <label location="@id/label_bottom" value="$key_label_bottom$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_ja_tri_state_noslidedown">
+            <softkey data="1" id="@id/softkey_ja_tri_state_digit_1" key_label="1" key_label_bottom="☆♪→" left_data="☆" press_label="1 ☆ ♪ →" right_data="→" up_data="♪" />
+            <softkey data="2" id="@id/softkey_ja_tri_state_digit_2" key_label="2" key_label_bottom="¥$€" left_data="¥" press_label="2 ¥ $ €" right_data="€" up_data="$" />
+            <softkey data="3" id="@id/softkey_ja_tri_state_digit_3" key_label="3" key_label_bottom="%ﾟ#" left_data="%" press_label="3 % ゜ #" right_data="\#" up_data="゜" />
+            <softkey data="4" id="@id/softkey_ja_tri_state_digit_4" key_label="4" key_label_bottom="○*・" left_data="○" press_label="4 ○ * ・" right_data="・" up_data="*" />
+            <softkey data="5" id="@id/softkey_ja_tri_state_digit_5" key_label="5" key_label_bottom="+×÷" left_data="+" press_label="5 + × ÷" right_data="÷" up_data="×" />
+            <softkey data="6" id="@id/softkey_ja_tri_state_digit_6" key_label="6" key_label_bottom="&lt;=>" left_data="&lt;" press_label="6 &lt; = >" right_data=">" up_data="=" />
+            <softkey data="7" id="@id/softkey_ja_tri_state_digit_7" key_label="7" key_label_bottom="｢｣:" left_data="「" press_label="7 ｢ ｣ :" right_data=":" up_data="」" />
+            <softkey data="8" id="@id/softkey_ja_tri_state_digit_8" key_label="8" key_label_bottom="〒々〆" left_data="〒" press_label="8 〒 々 〆" right_data="〆" up_data="々" />
+            <softkey data="9" id="@id/softkey_ja_tri_state_digit_9" key_label="9" key_label_bottom="^|\\" left_data="^" press_label="9 ^ | \\" right_data="\\" up_data="|" />
+            <softkey data="(" id="@id/softkey_ja_tri_state_digit_bracket" key_label="()[]" left_data=")" press_label="( ) [ ]" right_data="]" up_data="[" />
+            <softkey data="." id="@id/softkey_ja_tri_state_digit_punctuation" key_label=".,-/" left_data="," press_label=". , - /" right_data="/" up_data="-" />
+            <softkey data="0" id="@id/softkey_ja_tri_state_digit_0" key_label="0" key_label_bottom="〜…@" left_data="〜" press_label="0 〜 … @" right_data="\@" up_data="…" />
+        </softkey_list>
+    </softkeys>
+</framework>

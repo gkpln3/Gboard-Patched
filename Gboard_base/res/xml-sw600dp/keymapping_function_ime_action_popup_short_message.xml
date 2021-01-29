@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping exclude_state="IME_ACTION_NONE" state="INPUT_TYPE_SHORT_MESSAGE+MULTI_LINE">
+        <merge key_id="@id/softkey_fragment_action_key_popup_insert_new_line" view_id="@id/key_pos_ime_action" />
+    </merge_key_mapping>
+</framework>

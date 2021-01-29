@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header">
+            <softkey id="@id/softkey_arabic_letter_heh" long_press_data="ه‍,هٔ,ة,ۀ" long_press_label="ﻫ,هٔ,ة,ۀ" press_data="ه" press_label="ه" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_simple">
+            <softkey id="@id/softkey_arabic_letter_dad" press_data="ض" />
+            <softkey id="@id/softkey_arabic_letter_sad" press_data="ص" />
+            <softkey id="@id/softkey_arabic_letter_theh" press_data="ث" />
+            <softkey id="@id/softkey_arabic_letter_qaf" press_data="ق" />
+            <softkey id="@id/softkey_arabic_letter_feh" press_data="ف" />
+            <softkey id="@id/softkey_arabic_letter_ghain" press_data="غ" />
+            <softkey id="@id/softkey_arabic_letter_ain" press_data="ع" />
+            <softkey id="@id/softkey_arabic_letter_khah" press_data="خ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press">
+            <softkey id="@id/softkey_arabic_letter_farsi_yeh" long_press_data="ئ,ي,ى,ۍ,ې" long_press_label="ئ,ي,ﯨ,ۍ,ې" press_data="ی" press_label="ی" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_arabic_letter_hah" long_press_data="ځ,څ" press_data="ح" />
+            <softkey id="@id/softkey_arabic_letter_seen" long_press_data="ښ" press_data="س" />
+            <softkey id="@id/softkey_arabic_letter_teh" long_press_data="ة,ټ" press_data="ت" />
+            <softkey id="@id/softkey_arabic_letter_keheh" long_press_data="ك,ګ" press_data="ک" />
+            <softkey id="@id/softkey_arabic_letter_noon" long_press_data="ڼ" press_data="ن" />
+            <softkey id="@id/softkey_arabic_letter_reh" long_press_data="ږ" press_data="ر" />
+            <softkey id="@id/softkey_arabic_letter_dal" long_press_data="ډ" press_data="د" />
+            <softkey id="@id/softkey_arabic_letter_waw" long_press_data="ؤ" press_data="و" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_arabic_letter_jeem" press_data="ج" />
+            <softkey id="@id/softkey_arabic_letter_sheen" press_data="ش" />
+            <softkey id="@id/softkey_arabic_letter_beh" press_data="ب" />
+            <softkey id="@id/softkey_arabic_letter_lam" press_data="ل" />
+            <softkey id="@id/softkey_arabic_letter_meem" press_data="م" />
+            <softkey id="@id/softkey_arabic_letter_gaf" press_data="گ" />
+            <softkey id="@id/softkey_arabic_letter_zah" press_data="ظ" />
+            <softkey id="@id/softkey_arabic_letter_tah" press_data="ط" />
+            <softkey id="@id/softkey_arabic_letter_jeh" press_data="ژ" />
+            <softkey id="@id/softkey_arabic_letter_zain" press_data="ز" />
+            <softkey id="@id/softkey_arabic_letter_thal" press_data="ذ" />
+            <softkey id="@id/softkey_arabic_letter_peh" press_data="پ" />
+            <softkey id="@id/softkey_arabic_letter_alef_with_madda_above" press_data="آ" />
+            <softkey id="@id/softkey_arabic_letter_tcheh" press_data="چ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_fix_order_simple">
+            <softkey id="@id/softkey_arabic_letter_alef" long_press_data="ٱ,ء,آ,أ,إ" press_data="ا" />
+        </softkey_list>
+    </softkeys>
+</framework>

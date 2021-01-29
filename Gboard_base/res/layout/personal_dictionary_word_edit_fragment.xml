@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/personal_dictionary_settings_add_dialog_top" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <EditText android:layout_gravity="fill_horizontal|center" android:id="@id/personal_dictionary_add_word_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:hint="@string/personal_dictionary_settings_add_word_hint" android:maxLength="@integer/personal_dictionary_max_word_length" android:inputType="textNoSuggestions" android:imeOptions="actionNext|flagNoFullscreen" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip">
+            <requestFocus />
+        </EditText>
+        <TextView android:layout_gravity="start|center" android:id="@id/personal_dictionary_add_shortcut_label" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/personal_dictionary_settings_add_shortcut_option_name" android:layout_marginStart="10.0dip" style="?android:textAppearanceSmall" />
+        <EditText android:layout_gravity="fill_horizontal|center" android:id="@id/personal_dictionary_add_shortcut" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/personal_dictionary_settings_add_shortcut_hint" android:maxLength="@integer/personal_dictionary_max_word_length" android:inputType="textNoSuggestions" android:imeOptions="actionDone|flagNoFullscreen" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+    </LinearLayout>
+</ScrollView>

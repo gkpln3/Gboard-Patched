@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" style="@style/Icon.Top.Hint" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/icon">
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/label_bottom" align_to_baseline="false" style="@style/Label.Small" />
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/label" align_to_baseline="false" style="@style/Label.Small" />
+    </FrameLayout>
+</RelativeLayout>

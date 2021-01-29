@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" inline_composing="false" language="zh-CN" language_specific_settings="@xml/zh_cn_language_settings" secondary_ime_def="@xml/ime_zh_cn_pinyin_hard_qwerty" string_id="ime_zh_cn" use_ascii_password_keyboard="true">
+        <if enable_number_row="false">
+            <keyboard_group variant="qwerty" variant_label="@string/variant_qwerty_zh">
+                <layout_specific_settings resource_id="@xml/zh_cn_pinyin_layout_settings" />
+                <keyboard def="@xml/keyboard_fragment_zh_pinyin" type="prime">
+                    <merge def="@xml/keyboard_chinese_pinyin_qwerty" />
+                    <merge def="@xml/keyboard_function_zh_pinyin" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="qwerty" variant_label="@string/variant_qwerty_zh">
+                <layout_specific_settings resource_id="@xml/zh_cn_pinyin_layout_settings" />
+                <keyboard def="@xml/keyboard_fragment_zh_pinyin" type="prime">
+                    <merge def="@xml/keyboard_chinese_pinyin_qwerty" />
+                    <merge def="@xml/keyboard_function_zh_pinyin" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_9_9_zh" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+        <extra_values>
+            <item id="@id/extra_value_period" value="。" />
+            <item id="@id/extra_value_enable_double_space_period_pref_key" value="@string/pref_key_enable_double_space_period" />
+            <item id="@id/extra_value_has_more_candidates_view" value="true" />
+            <item id="@id/extra_value_metrics_processors" value="hmm" />
+        </extra_values>
+        <processors>
+            <if enable_voice_in_chinese="true">
+                <processor class="com.google.android.apps.inputmethod.libs.hmmvoice.ChineseHmmVoiceInputProcessor" id="@id/ime_hmm_voice_input_processor" />
+            </if>
+            <processor class="com.google.android.apps.inputmethod.libs.pinyin.HmmPinyinQwertyDecodeProcessor" id="@id/ime_decode_processor" />
+            <processor class="com.google.android.apps.inputmethod.libs.chinese.ime.hmm.ChineseDoubleSpaceProcessor" id="@id/ime_double_space_processor" />
+            <processor class="com.google.android.apps.inputmethod.libs.chinese.ime.hmm.ChineseAutoSpaceProcessor" id="@id/ime_auto_space_processor" />
+            <processor class="com.google.android.libraries.inputmethod.ime.processor.ScrubMoveProcessor" id="@id/ime_scrub_move_processor" />
+            <processor class="com.google.android.libraries.inputmethod.ime.processor.OutputProcessor" id="@id/ime_output_processor" />
+        </processors>
+    </ime>
+</framework>

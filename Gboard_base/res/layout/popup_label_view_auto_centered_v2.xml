@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag=".popup-item.for-keytop-popup" android:background="?BgPopupLabelSelectorV2" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.AutoCenteredLabelView android:id="@id/popup_label" align_to_baseline="false" style="@style/BigPopupLabelV2" />
+</FrameLayout>

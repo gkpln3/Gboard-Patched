@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="insert_empty_separator_span_between_words">false</bool>
+    <bool name="insert_space_between_words">false</bool>
+</resources>

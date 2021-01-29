@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:tag=".keytop.for-action-key.for-action-go-key" style="@style/KeyTop.ImeActionInner">
+        <ImageView android:tag=".background-icon.for-action-key.for-action-go-key" style="@style/Icon.Center.Padding.ImeActionBack" />
+        <ImageView android:id="@id/icon" android:tag=".icon.for-action-key.for-action-go-key" style="@style/Icon.Center.ImeAction" />
+    </FrameLayout>
+</merge>

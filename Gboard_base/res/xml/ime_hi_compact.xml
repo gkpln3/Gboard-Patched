@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="hi" string_id="ime_hindi_compact">
+        <if enable_number_row="false">
+            <keyboard_group variant="hindi_compact" variant_label="@string/variant_hindi_compact">
+                <keyboard def="@xml/keyboard_hi_compact" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="hindi_compact" variant_label="@string/variant_hindi_compact">
+                <keyboard def="@xml/keyboard_hi_compact" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_11_no_shift" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+        <extra_values>
+            <item id="@id/extra_value_double_space_to_period_replacement" value="। " />
+        </extra_values>
+    </ime>
+</framework>

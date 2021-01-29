@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:clipChildren="false" android:layout_width="@dimen/morse_hint_card_width" android:layout_height="@dimen/morse_hint_card_height" android:contentDescription="@string/morse_hint_image_content_desc"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/morse_hint_image" android:clickable="true" android:layout_width="@dimen/morse_hint_card_width" android:layout_height="@dimen/morse_hint_card_height" android:src="@drawable/morse_hint_card" android:scaleType="center" android:importantForAccessibility="no" />
+    <View android:id="@id/morse_hint_shadow" android:background="@drawable/morse_hint_inner_shadow" android:layout_width="fill_parent" android:layout_height="8.0dip" android:layout_alignParentBottom="true" />
+</RelativeLayout>

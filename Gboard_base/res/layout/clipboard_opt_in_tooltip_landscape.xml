@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/clipboard_opt_in_tooltip_view_landscape" android:baselineAligned="false" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/clipboard_opt_in_triangle" style="@style/ClipboardTooltipWrapperLandscape"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="2.0">
+        <include layout="@layout/clipboard_opt_in_tooltip_title_bar" />
+        <TextView android:text="@string/clipboard_opt_in_tooltip_message" style="@style/ClipboardTooltipTextLandscape" />
+    </LinearLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:contentDescription="@string/clipboard_opt_in_tooltip_splitter_desc" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/ClipboardTooltipSplitter" />
+        <Button android:id="@id/clipboard_opt_in_tooltip_button" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/ClipboardTooltipButtonLandscape" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

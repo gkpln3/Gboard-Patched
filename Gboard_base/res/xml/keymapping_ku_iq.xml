@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_arabic_letter_tcheh" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_arabic_letter_peh" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_arabic_letter_qaf" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_arabic_letter_veh" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_arabic_letter_feh" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_arabic_letter_ghain" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_arabic_letter_ain" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_arabic_letter_heh" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_arabic_letter_khah" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_arabic_letter_hah" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_arabic_letter_jeem" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_arabic_letter_sheen" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_arabic_letter_seen" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_arabic_letter_farsi_yeh" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_arabic_letter_beh" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_arabic_letter_lam" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_arabic_letter_alef" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_arabic_letter_teh" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_arabic_letter_noon" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_arabic_letter_meem" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_arabic_letter_keheh" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_arabic_letter_gaf" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_arabic_letter_yeh_with_hamza_above" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_arabic_letter_reh_with_small_v_below" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_arabic_letter_reh" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_arabic_letter_yeh_with_small_v" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_arabic_letter_lam_with_small_v" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_arabic_letter_ae" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_arabic_letter_waw" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_arabic_letter_zain" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_arabic_letter_oe" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_arabic_letter_dal" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+</framework>

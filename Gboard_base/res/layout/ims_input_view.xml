@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.core.InputView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/keyboard_area" android:tag=".keyboard-base-area" android:background="?BgKeyboardArea" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="8.0dip">
+        <com.google.android.libraries.inputmethod.widgets.ShrinkableFrameView style="@style/KeyboardBackgroundFrame" />
+        <ViewStub android:layout_gravity="bottom|center|left" android:id="@id/keyboard_left_frame" android:layout="@layout/keyboard_left_side_view" style="@style/KeyboardSideFrame" />
+        <ViewStub android:layout_gravity="bottom|center|right" android:id="@id/keyboard_right_frame" android:layout="@layout/keyboard_right_side_view" style="@style/KeyboardSideFrame" />
+        <com.google.android.apps.inputmethod.libs.framework.core.KeyboardHolder android:orientation="vertical" android:id="@id/keyboard_holder" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.google.android.apps.inputmethod.libs.framework.core.KeyboardViewHolder style="@style/ExtensionViewHolder" />
+            <com.google.android.apps.inputmethod.libs.framework.core.KeyboardViewHolder style="@style/KeyboardHeaderViewHolder" />
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.google.android.apps.inputmethod.libs.framework.core.KeyboardViewHolder style="@style/KeyboardBodyViewHolder" />
+                <View android:id="@id/keyboard_bottom_frame" style="@style/KeyboardBottomFrame" />
+            </FrameLayout>
+        </com.google.android.apps.inputmethod.libs.framework.core.KeyboardHolder>
+        <View android:id="@id/keyboard_bottom_deadzone_frame" style="@style/KeyboardBottomDeadzone" />
+        <com.google.android.libraries.inputmethod.widgets.ShrinkableFrameView android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView style="@style/KeyboardTopSeparator" />
+        </com.google.android.libraries.inputmethod.widgets.ShrinkableFrameView>
+    </FrameLayout>
+</com.google.android.apps.inputmethod.libs.framework.core.InputView>

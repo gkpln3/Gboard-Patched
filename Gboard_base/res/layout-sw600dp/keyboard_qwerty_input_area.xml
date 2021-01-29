@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/InputArea.Qwerty"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/KeyboardRow">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_q" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_w" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_e" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_r" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_t" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_y" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_u" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_i" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_o" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_p" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_del" android:layout_weight="100.0" style="@style/SoftKey.BigInset.Dark" />
+    </LinearLayout>
+    <LinearLayout style="@style/KeyboardRow">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_a" android:layout_weight="150.0" style="@style/SoftKey">
+            <LinearLayout android:weightSum="150.0" style="@style/SoftKeySide.Left">
+                <FrameLayout android:id="@id/host" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+            </LinearLayout>
+        </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_s" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_d" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_f" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_g" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_h" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_j" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_k" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_l" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="150.0" style="@style/SoftKey.BigInset.ImeAction" />
+    </LinearLayout>
+    <LinearLayout style="@style/KeyboardRow">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_shift" android:layout_weight="100.0" style="@style/SoftKey.BigInset.Dark" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_z" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_x" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_c" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_v" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_b" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_n" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_qwerty_m" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_input_symbol_1" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_input_symbol_2" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_shift_right" android:layout_weight="100.0" style="@style/SoftKey.BigInset.Dark" />
+    </LinearLayout>
+</LinearLayout>

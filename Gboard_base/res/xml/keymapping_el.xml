@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_semicolon" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_greek_small_letter_final_sigma" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_greek_small_letter_epsilon" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_greek_small_letter_rho" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_greek_small_letter_tau" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_greek_small_letter_upsilon" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_greek_small_letter_theta" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_greek_small_letter_iota" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_greek_small_letter_omicron" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_greek_small_letter_pi" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_greek_small_letter_alpha" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_greek_small_letter_sigma" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_greek_small_letter_delta" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_greek_small_letter_phi" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_greek_small_letter_gamma" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_greek_small_letter_eta" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_greek_small_letter_xi" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_greek_small_letter_kappa" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_greek_small_letter_lamda" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_greek_small_letter_zeta" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_greek_small_letter_chi" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_greek_small_letter_psi" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_greek_small_letter_omega" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_greek_small_letter_beta" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_greek_small_letter_nu" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_greek_small_letter_mu" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_greek_capital_letter_epsilon" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_greek_capital_letter_rho" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_greek_capital_letter_tau" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_greek_capital_letter_upsilon" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_greek_capital_letter_theta" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_greek_capital_letter_iota" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_greek_capital_letter_omicron" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_greek_capital_letter_pi" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_greek_capital_letter_alpha" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_greek_capital_letter_sigma" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_greek_capital_letter_delta" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_greek_capital_letter_phi" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_greek_capital_letter_gamma" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_greek_capital_letter_eta" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_greek_capital_letter_xi" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_greek_capital_letter_kappa" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_greek_capital_letter_lamda" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_greek_capital_letter_zeta" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_greek_capital_letter_chi" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_greek_capital_letter_psi" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_greek_capital_letter_omega" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_greek_capital_letter_beta" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_greek_capital_letter_nu" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_greek_capital_letter_mu" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+    <key_mapping state="MANUAL_SHIFT">
+        <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_0_0" />
+    </key_mapping>
+</framework>

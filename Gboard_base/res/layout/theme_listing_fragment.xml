@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.RecyclerView android:orientation="vertical" android:id="@id/theme_listing_category_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/theme_listing_details_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

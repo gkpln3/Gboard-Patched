@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey id="@id/softkey_khmer_zwj" layout="@layout/softkey_qwerty_label_character" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+            <action data="!" intention="DECODE" keycode="ALPHABET" popup_label="!" type="PRESS" />
+            <action data="‍" intention="D" keycode="ALPHABET" popup_icon="@attr/IconZWJ" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <label location="@id/label" value="!" />
+        </softkey>
+        <softkey id="@id/softkey_khmer_zwnj" layout="@layout/softkey_qwerty_label_character" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+            <action data="ៗ" intention="DECODE" keycode="ALPHABET" popup_label="ៗ" type="PRESS" />
+            <action data="‌" intention="D" keycode="ALPHABET" popup_icon="@attr/IconZWNJ" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <label location="@id/label" value="ៗ" />
+        </softkey>
+        <softkey id="@id/softkey_lower_comma" layout="@layout/softkey_qwerty_label_character" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="," intention="COMMIT" keycode="COMMA" popup_label="," type="PRESS" />
+            <label location="@id/label" value="," />
+        </softkey>
+        <softkey id="@id/softkey_freq_space" layout="@layout/softkey_qwerty_label_character">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <label location="@id/label" value="⎵" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?123" />
+        </softkey>
+        <softkey content_description="@string/number_ime_label" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_freq_digit" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="digit" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="123" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_freq_symbol" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?!;" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_adlam" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="U+1E953U+1E952U+1E951U+061F" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_arabic" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="٣٢١؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="123؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_balinese" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="᭗᭘᭙" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_bamum" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="꛷ꛦꛧꛨ" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_bengali" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?১২৩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_chakma" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_cham" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?꩑꩒꩓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?፩፪፫" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_gujarati" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?૧૨૩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_gurmukhi" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?੧੨੩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_indic" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?१२३" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_ipa" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="/ [ {" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_javanese" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="ꧏ꧐꧑" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_kannada" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?೧೨೩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_kayah_li" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?꤁꤂꤃" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_lepcha" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?᱁᱂᱃" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_limbu" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="᥅᥇᥈᥉" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_meetei_mayek" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?꯱꯲꯳" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_myanmar" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?၁၂၃" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_myanmar_shan" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?႑႒႓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_new_tai_lue" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="？᧑᧒᧓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_nko" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="߃߂߁؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_odia" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?୧୨୩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_ol_chiki" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?᱑᱒᱓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_persian" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="۳۲۱؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_saurashtra" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?꣑꣒꣓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_sundanese" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?᮱᮲᮳" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_tibetan" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="༡༢༣" />
+        </softkey>
+        <softkey content_description="@string/settings_content_desc" disable_lift_to_tap="true" id="@id/softkey_bottom_settings" layout="@layout/softkey_icon" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action keycode="LAUNCH_PREFERENCE_ACTIVITY" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSetting" />
+        </softkey>
+        <if enable_emoji_icon_action_color="true">
+            <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/emoji_button_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_emoji" layout="@layout/softkey_action_color_emoji_key">
+                <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="OPEN_EXTENSION" type="PRESS" />
+                <icon location="@id/icon" value="@attr/IconSwitchToSmiley" />
+            </softkey>
+        </if>
+        <else>
+            <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/emoji_button_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_emoji" layout="@layout/softkey_function_key_icon">
+                <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="OPEN_EXTENSION" type="PRESS" />
+                <icon location="@id/icon" value="@attr/IconSwitchToSmiley" />
+            </softkey>
+        </else>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/emoticon_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_emoticon" layout="@layout/softkey_function_key_icon">
+            <action data="@string/keyboard_type_emoticon" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSwitchToEmoticon" />
+        </softkey>
+        <softkey content_description="@string/emoji_button_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_emoji_as_action" layout="@layout/softkey_ime_action_icon_emoji" popup_timing="ON_TOUCH">
+            <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="OPEN_EXTENSION" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSwitchToSmileyAsAction" />
+        </softkey>
+        <softkey content_description="@string/emoticon_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_emoticon_as_action" layout="@layout/softkey_ime_action_icon_emoticon" popup_timing="ON_TOUCH">
+            <action data="@string/keyboard_type_emoticon" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSwitchToEmoticonAsAction" />
+        </softkey>
+    </softkeys>
+</framework>

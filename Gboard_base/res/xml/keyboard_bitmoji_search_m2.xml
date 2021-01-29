@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.sticker.BitmojiSearchKeyboard" id="@id/keyboard_search">
+        <view direction="locale" layout="@layout/keyboard_search_header_m2" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_search_header" />
+            <include href="@xml/keymapping_search_header_gif_and_emoji_m2" />
+        </view>
+        <view id="@id/popup_view_app_overlay" layout="@layout/popup_view_app_overlay" />
+    </keyboard>
+</framework>

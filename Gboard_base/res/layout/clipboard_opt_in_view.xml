@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/clipboard_opt_in_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/clipboard_opt_in_view_background" />
+    <include layout="@layout/clipboard_opt_in_view_triangle" />
+    <include layout="@layout/clipboard_opt_in_tooltip" />
+</androidx.constraintlayout.widget.ConstraintLayout>

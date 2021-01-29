@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkeys_input_phone_number" />
+    <softkeys>
+        <softkey id="@id/softkey_phone_numbers_pause" layout="@layout/softkey_label_tiny" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="," keycode="COMMA" popup_label="," type="PRESS" />
+            <label location="@id/label" value="@string/label_pause_key" />
+        </softkey>
+        <softkey id="@id/softkey_phone_numbers_wait" layout="@layout/softkey_label_tiny" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data=";" keycode="SEMICOLON" popup_label=";" type="PRESS" />
+            <label location="@id/label" value="@string/label_wait_key" />
+        </softkey>
+    </softkeys>
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$ripple_appear__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="outer" android:animation="@drawable/$ripple_appear__1" />
+    <target android:name="inner" android:animation="@drawable/$ripple_appear__2" />
+</animated-vector>

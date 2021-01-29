@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" id="@id/softkey_switch_to_non_prime_keyboard" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?123" />
+        </softkey>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_exclamation_mark" long_press_data="¡" merge_index="-1" press_data="!" />
+            <softkey id="@id/softkey_question_mark" long_press_data="¿" press_data="\?" />
+            <softkey id="@id/softkey_fullwidth_exclamation_mark" long_press_data="!,¡" long_press_intention="COMMIT" merge_index="-1" press_data="！" press_intention="COMMIT" />
+            <softkey id="@id/softkey_fullwidth_question_mark" long_press_data="\?,¿" long_press_intention="COMMIT" press_data="？" press_intention="COMMIT" />
+        </softkey_list>
+    </softkeys>
+</framework>

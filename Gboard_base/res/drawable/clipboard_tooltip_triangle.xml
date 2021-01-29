@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <rotate android:fromDegrees="45.0" android:toDegrees="45.0" android:pivotX="-39.999996%" android:pivotY="87.0%">
+            <shape android:shape="rectangle">
+                <size android:height="@dimen/clipboard_opt_in_tooltip_triangle_size" android:width="@dimen/clipboard_opt_in_tooltip_triangle_size" />
+                <solid android:color="@android:color/white" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

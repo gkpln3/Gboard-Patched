@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>ഊ</primary_input>
+        <action state="0">ഊ</action>
+        <action state="0">ൂ</action>
+    </key>
+    <key>
+        <primary_input>അ</primary_input>
+        <action state="0">അ</action>
+        <action state="0">്</action>
+        <action state="0">്‌</action>
+        <action state="0">അ</action>
+    </key>
+    <key>
+        <primary_input>ആ</primary_input>
+        <action state="0">ആ</action>
+        <action state="0">ാ</action>
+    </key>
+    <key>
+        <primary_input>ഇ</primary_input>
+        <action state="0">ഇ</action>
+        <action state="0">ി</action>
+    </key>
+    <key>
+        <primary_input>ഈ</primary_input>
+        <action state="0">ഈ</action>
+        <action state="0">ീ</action>
+    </key>
+    <key>
+        <primary_input>ഉ</primary_input>
+        <action state="0">ഉ</action>
+        <action state="0">ു</action>
+    </key>
+    <key>
+        <primary_input>ഔ</primary_input>
+        <action state="0">ഔ</action>
+        <action state="0">ൗ</action>
+        <action state="0">ൌ</action>
+    </key>
+    <key>
+        <primary_input>എ</primary_input>
+        <action state="0">എ</action>
+        <action state="0">െ</action>
+    </key>
+    <key>
+        <primary_input>ഏ</primary_input>
+        <action state="0">ഏ</action>
+        <action state="0">േ</action>
+    </key>
+    <key>
+        <primary_input>ഐ</primary_input>
+        <action state="0">ഐ</action>
+        <action state="0">ൈ</action>
+    </key>
+    <key>
+        <primary_input>ഒ</primary_input>
+        <action state="0">ഒ</action>
+        <action state="0">ൊ</action>
+    </key>
+    <key>
+        <primary_input>ഓ</primary_input>
+        <action state="0">ഓ</action>
+        <action state="0">ോ</action>
+    </key>
+    <key>
+        <primary_input>ഋ</primary_input>
+        <action state="0">ഋ</action>
+        <action state="0">ൃ</action>
+        <action state="0">ൠ</action>
+        <action state="0">ൄ</action>
+        <action state="0">ഌ</action>
+        <action state="0">ൢ</action>
+        <action state="0">ൡ</action>
+        <action state="0">ൣ</action>
+    </key>
+</dynamic_keys>

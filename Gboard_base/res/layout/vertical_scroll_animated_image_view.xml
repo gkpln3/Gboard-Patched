@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_gravity="center_vertical" android:id="@id/animated_image_view_card" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/GifCardViewWrapper">
+        <com.google.android.apps.inputmethod.libs.expression.animatedview.AnimatedImageView android:id="@id/animated_image_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitXY" android:contentDescription="@string/gboard_gif_image_content_desc" app:measureStrategy="variable_height" />
+        <include layout="@layout/animated_image_view_footer" />
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

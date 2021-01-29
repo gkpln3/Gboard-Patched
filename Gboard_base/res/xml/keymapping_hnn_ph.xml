@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_hanunoo_letter_a" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_hanunoo_letter_i" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_hanunoo_letter_u" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_hanunoo_letter_ka" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_hanunoo_letter_ga" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_hanunoo_letter_nga" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_hanunoo_letter_ta" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_hanunoo_letter_da" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_hanunoo_letter_na" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_hanunoo_letter_pa" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_hanunoo_vowel_sign_i" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_hanunoo_vowel_sign_u" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_hanunoo_sign_pamudpod" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_hanunoo_letter_ba" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_hanunoo_letter_ma" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_hanunoo_letter_ya" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_hanunoo_letter_ra" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_hanunoo_letter_la" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_hanunoo_letter_wa" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_hanunoo_letter_sa" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_hanunoo_letter_ha" view_id="@id/key_pos_2_5" />
+    </key_mapping>
+</framework>

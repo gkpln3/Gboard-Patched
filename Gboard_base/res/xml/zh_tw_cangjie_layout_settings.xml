@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_cangjie_title">
+        <ListPreference android:persistent="true" android:entries="@array/setting_cangjie_version" android:title="@string/setting_cangjie_version_title" android:key="@string/pref_key_cangjie_version_zh_tw" android:summary="%s" android:entryValues="@array/entryvalues_cangjie_version" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

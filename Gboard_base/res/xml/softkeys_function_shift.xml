@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_key_content_desc" id="@id/softkey_shift" layout="@layout/softkey_icon_shift" multi_touch="true">
+            <action keycode="SHIFT_DOWN" type="DOWN" />
+            <action keycode="SHIFT_UP" type="UP" />
+            <action action_on_down="true" keycode="SHIFT_LEFT" type="PRESS" />
+            <action action_on_down="true" keycode="LOCK_SHIFT" type="LONG_PRESS" />
+            <action action_on_down="true" keycode="LOCK_SHIFT" type="DOUBLE_TAP" />
+            <icon location="@id/icon" value="@attr/IconShiftOff" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_key_content_desc" id="@id/softkey_shift_no_lock" layout="@layout/softkey_icon_shift" multi_touch="true">
+            <action keycode="SHIFT_DOWN" type="DOWN" />
+            <action keycode="SHIFT_UP" type="UP" />
+            <action action_on_down="true" keycode="SHIFT_LEFT" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconShiftOff" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_flip_content_desc" id="@id/softkey_shift_flip" layout="@layout/softkey_function_key_icon" multi_touch="true">
+            <action action_on_down="true" keycode="LOCK_SHIFT" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSymbolKeyboardPage1Flip" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_locked_flip_content_desc" id="@id/softkey_shift_locked_flip" layout="@layout/softkey_function_key_icon" multi_touch="true">
+            <action action_on_down="true" keycode="UNLOCK_SHIFT" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSymbolKeyboardPage2Flip" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_flip_content_desc" id="@id/softkey_symbols_flip" layout="@layout/softkey_function_key_icon" multi_touch="true">
+            <action action_on_down="true" data="SUB_CATEGORY_1" keycode="SWITCH_SUB_CATEGORY" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSymbolKeyboardPage1Flip" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_locked_flip_content_desc" id="@id/softkey_more_symbols_flip" layout="@layout/softkey_function_key_icon" multi_touch="true">
+            <action action_on_down="true" data="NORMAL" keycode="SWITCH_SUB_CATEGORY" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSymbolKeyboardPage2Flip" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_key_content_desc" id="@id/softkey_shift_shifted" layout="@layout/softkey_icon_shift_active" long_press_delay="1200" multi_touch="true">
+            <action keycode="SHIFT_DOWN" type="DOWN" />
+            <action keycode="SHIFT_UP" type="UP" />
+            <action keycode="SHIFT_LEFT" type="PRESS" />
+            <action action_on_down="true" keycode="LOCK_SHIFT" type="LONG_PRESS" />
+            <action action_on_down="true" keycode="LOCK_SHIFT" type="DOUBLE_TAP" />
+            <icon location="@id/icon" value="@attr/IconShiftOn" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_key_content_desc" id="@id/softkey_shift_shifted_combo" layout="@layout/softkey_icon_shift_active" multi_touch="true">
+            <action keycode="SHIFT_DOWN" type="DOWN" />
+            <action keycode="SHIFT_UP" type="UP" />
+            <action keycode="SHIFT_LEFT" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconShiftOn" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_key_content_desc" id="@id/softkey_shift_shifted_no_lock" layout="@layout/softkey_icon_shift_active" multi_touch="true">
+            <action keycode="SHIFT_DOWN" type="DOWN" />
+            <action keycode="SHIFT_UP" type="UP" />
+            <action keycode="SHIFT_LEFT" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconShiftOn" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_key_content_desc" id="@id/softkey_shift_locked" layout="@layout/softkey_icon_shift_active" long_press_delay="1200" multi_touch="true">
+            <action keycode="SHIFT_DOWN" type="DOWN" />
+            <action keycode="SHIFT_UP" type="UP" />
+            <action keycode="UNLOCK_SHIFT" type="PRESS" />
+            <action action_on_down="true" keycode="UNLOCK_SHIFT" type="LONG_PRESS" />
+            <icon location="@id/icon" value="@attr/IconShiftLocked" />
+        </softkey>
+    </softkeys>
+</framework>

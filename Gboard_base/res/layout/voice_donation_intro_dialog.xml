@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:id="@id/voice_donation_intro_dialog" android:layout_width="264.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <com.caverock.androidsvg.SVGImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" finsky:svg="@raw/voice_donation_intro_dialog_background" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center|top" android:id="@id/voice_donation_intro_dialog_icon" android:paddingTop="18.0dip" android:layout_width="52.0dip" android:layout_height="52.0dip" android:src="@drawable/product_logo_gboard_color_24" android:contentDescription="@string/voice_donation_gboard_icon_description" />
+        <TextView android:id="@id/voice_donation_intro_dialog_title" android:paddingTop="10.0dip" android:text="@string/voice_donation_intro_dialog_title" android:paddingStart="26.0dip" android:paddingEnd="26.0dip" style="@style/VoiceDonationDialogTitle" />
+        <com.caverock.androidsvg.SVGImageView android:layout_gravity="center|top" android:id="@id/voice_donation_intro_dialog_image" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="182.0dip" android:layout_height="182.0dip" android:scaleType="fitXY" finsky:svg="@raw/voice_donation_intro_dialog_image" />
+        <TextView android:id="@id/voice_donation_intro_dialog_text" android:text="@string/voice_donation_intro_dialog_text" android:paddingStart="20.0dip" android:paddingEnd="20.0dip" style="@style/VoiceDonationDialogText" />
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/voice_donation_intro_dialog_negative_button" android:layout_marginTop="20.0dip" android:text="@string/voice_donation_intro_dialog_negative_button" android:layout_marginEnd="12.0dip" finsky:layout_constraintBottom_toBottomOf="parent" finsky:layout_constraintEnd_toStartOf="@id/voice_donation_intro_dialog_positive_button" finsky:layout_constraintTop_toTopOf="parent" style="@style/VoiceDonationButton" />
+            <TextView android:id="@id/voice_donation_intro_dialog_positive_button" android:layout_marginTop="20.0dip" android:text="@string/voice_donation_intro_dialog_positive_button" finsky:layout_constraintBottom_toBottomOf="parent" finsky:layout_constraintEnd_toEndOf="parent" finsky:layout_constraintTop_toTopOf="parent" style="@style/VoiceDonationButton" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+</FrameLayout>

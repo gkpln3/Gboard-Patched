@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_rejang_vowel_sign_i" press_data="ꥇ" />
+            <softkey id="@id/softkey_rejang_vowel_sign_u" press_data="ꥈ" />
+            <softkey id="@id/softkey_rejang_vowel_sign_e" press_data="ꥉ" />
+            <softkey id="@id/softkey_rejang_vowel_sign_ai" press_data="ꥊ" />
+            <softkey id="@id/softkey_rejang_vowel_sign_o" press_data="ꥋ" />
+            <softkey id="@id/softkey_rejang_vowel_sign_au" press_data="ꥌ" />
+            <softkey id="@id/softkey_rejang_vowel_sign_eu" press_data="ꥍ" />
+            <softkey id="@id/softkey_rejang_vowel_sign_ea" press_data="ꥎ" />
+            <softkey id="@id/softkey_rejang_virama" press_data="꥓" />
+            <softkey id="@id/softkey_rejang_consonant_sign_ng" press_data="ꥏ" />
+            <softkey id="@id/softkey_rejang_consonant_sign_n" press_data="ꥐ" />
+            <softkey id="@id/softkey_rejang_consonant_sign_r" press_data="ꥑ" />
+            <softkey id="@id/softkey_rejang_consonant_sign_h" press_data="ꥒ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_rejang_letter_ka" press_data="ꤰ" />
+            <softkey id="@id/softkey_rejang_letter_ga" press_data="ꤱ" />
+            <softkey id="@id/softkey_rejang_letter_nga" press_data="ꤲ" />
+            <softkey id="@id/softkey_rejang_letter_ta" press_data="ꤳ" />
+            <softkey id="@id/softkey_rejang_letter_da" press_data="ꤴ" />
+            <softkey id="@id/softkey_rejang_letter_na" press_data="ꤵ" />
+            <softkey id="@id/softkey_rejang_letter_pa" press_data="ꤶ" />
+            <softkey id="@id/softkey_rejang_letter_ba" press_data="ꤷ" />
+            <softkey id="@id/softkey_rejang_letter_ma" press_data="ꤸ" />
+            <softkey id="@id/softkey_rejang_letter_ca" press_data="ꤹ" />
+            <softkey id="@id/softkey_rejang_letter_ja" press_data="ꤺ" />
+            <softkey id="@id/softkey_rejang_letter_nya" long_press_data="ꥅ" press_data="ꤻ" />
+            <softkey id="@id/softkey_rejang_letter_sa" press_data="ꤼ" />
+            <softkey id="@id/softkey_rejang_letter_ra" press_data="ꤽ" />
+            <softkey id="@id/softkey_rejang_letter_la" press_data="ꤾ" />
+            <softkey id="@id/softkey_rejang_letter_ya" press_data="ꤿ" />
+            <softkey id="@id/softkey_rejang_letter_wa" press_data="ꥀ" />
+            <softkey id="@id/softkey_rejang_letter_ha" press_data="ꥁ" />
+            <softkey id="@id/softkey_rejang_letter_mba" press_data="ꥂ" />
+            <softkey id="@id/softkey_rejang_letter_ngga" press_data="ꥃ" />
+            <softkey id="@id/softkey_rejang_letter_nda" press_data="ꥄ" />
+            <softkey id="@id/softkey_rejang_letter_a" press_data="ꥆ" />
+        </softkey_list>
+    </softkeys>
+</framework>

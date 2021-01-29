@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/add_clip_item_dialog_dialog_zone" android:layout_above="@id/add_clip_item_dialog_keyboard_placeholder" style="@style/AddClipItemDialogZone"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/add_clip_item_dialog_dialog_view" android:background="@drawable/clipboard_add_item_background_without_shadow" style="@style/AddClipItemDialogView">
+        <TextView android:text="@string/add_clip_item_dialog_title" android:layout_alignParentTop="true" style="@style/AddClipItemTitle" />
+        <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/add_clip_item_dialog_edit_text_wrapper_height" android:layout_alignParentTop="true">
+            <com.google.android.apps.inputmethod.libs.framework.module.EditTextOnKeyboard android:layout_gravity="bottom" android:id="@id/add_clip_item_dialog_edit_text" android:layout_weight="1.0" style="@style/AddClipItemEditText" />
+            <LinearLayout android:layout_gravity="bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/add_clip_item_dialog_button_wrapper_margin_bottom" android:layout_weight="0.0">
+                <TextView android:id="@id/add_clip_item_dialog_cancel" android:text="@string/add_clip_item_dialog_cancel" android:layout_marginStart="@dimen/add_clip_item_dialog_cancel_button_margin_start" style="@style/AddClipItemButton" />
+                <TextView android:id="@id/add_clip_item_dialog_confirm" android:text="@string/add_clip_item_dialog_confirm" android:layout_marginStart="@dimen/add_clip_item_dialog_save_button_margin_start" style="@style/AddClipItemButton" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

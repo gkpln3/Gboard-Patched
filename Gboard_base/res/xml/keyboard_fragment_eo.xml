@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_eo">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_eo" />
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" style="@style/ThemeDetails"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/ThemeDetailsPreviewHolder">
+        <ImageView android:id="@id/theme_details_preview" style="@style/ThemeDetailsPreview" />
+    </LinearLayout>
+    <LinearLayout style="@style/ThemeDetailsSwitchHolder">
+        <LinearLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <Switch style="@style/ThemeDetailsKeyBorderSwitch" />
+        </LinearLayout>
+        <ImageView style="@style/ThemeDetailsEditButton" />
+        <Space android:layout_width="12.0dip" android:layout_height="wrap_content" />
+        <ImageView style="@style/ThemeDetailsDeleteButton" />
+    </LinearLayout>
+    <FrameLayout style="@style/ThemeDetailsApplyButtonHolder">
+        <Button style="@style/ThemeDetailsApplyButton" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_non_prime_bitmoji_tab" view_id="@id/key_pos_non_prime_category_2" />
+        <mapping key_id="@id/softkey_non_prime_sticker_tab" view_id="@id/key_pos_non_prime_category_3" />
+    </key_mapping>
+</framework>

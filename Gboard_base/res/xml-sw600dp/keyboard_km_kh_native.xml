@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <include href="@xml/keyboard_fragment_tablet" />
+    <keyboard id="@id/keyboard_km_kh">
+        <view layout="@layout/keyboard_latin_tablet_11_10_11_14_body" type="body">
+            <softkeys href="@xml/softkeys_input_km_kh_native" />
+            <include href="@xml/keymapping_km_kh_native" />
+            <include href="@xml/keymapping_softkey_empty_tablet_additional" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_fragment_secondary_symbols_km_kh" />
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/feature_pack_right_triangle" />
+    <item android:drawable="@drawable/ic_spark_white" android:left="5.0dip" android:top="18.0dip" android:right="18.0dip" android:bottom="5.0dip" />
+</layer-list>

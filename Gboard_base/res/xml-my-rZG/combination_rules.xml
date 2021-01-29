@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rules>
+    <rule>
+        <regex>([ုူ])့$</regex>
+        <replacement>1႔</replacement>
+    </rule>
+</rules>

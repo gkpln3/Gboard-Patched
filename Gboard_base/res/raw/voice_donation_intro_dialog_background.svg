@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="262px" height="467px" viewBox="0 0 262 467" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Modal Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-1" y="0" width="263" height="467" rx="8"></rect>
+    </defs>
+    <g id="Modal-Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+        <g id="Group-7" mask="url(#mask-2)">
+            <g transform="translate(-81.000000, -27.000000)">
+                <text id="也许" opacity="0.402622768" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400">
+                    <tspan x="330" y="227" fill="#D3D3D3"></tspan>
+                    <tspan x="330" y="260" fill="#D3D3D3">也许</tspan>
+                </text>
+                <text id="Молим" opacity="0.374488467" font-family="GoogleSans-Medium, Google Sans" font-size="18" font-weight="400">
+                    <tspan x="54" y="186" fill="#D3D3D3">Молим</tspan>
+                </text>
+                <text id="也许" opacity="0.402622768" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400">
+                    <tspan x="47" y="283" fill="#D3D3D3"></tspan>
+                    <tspan x="47" y="316" fill="#D3D3D3">也许</tspan>
+                </text>
+                <text id="Πώς-είσαι" opacity="0.374488467" font-family="GoogleSans-Medium, Google Sans" font-size="18" font-weight="400">
+                    <tspan x="307" y="416" fill="#D3D3D3">Πώς είσαι</tspan>
+                </text>
+                <text id="شكرا-لكم" opacity="0.374488467" font-family="GeezaPro-Bold, Geeza Pro" font-size="24" font-weight="bold">
+                    <tspan x="350.288203" y="75" fill="#D3D3D3">شكرا</tspan>
+                    <tspan x="338.257823" y="80.598999" font-family="GoogleSans-Medium, Google Sans" font-weight="400" fill="#D3D3D3"> </tspan>
+                    <tspan x="315" y="75" fill="#D3D3D3">لكم</tspan>
+                </text>
+                <text id="お願いします" opacity="0.402622768" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400">
+                    <tspan x="0" y="25" fill="#D3D3D3"></tspan>
+                    <tspan x="0" y="58" fill="#D3D3D3">お願いします</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

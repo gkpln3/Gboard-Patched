@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/clipboard_opt_in_body" android:tag=".keyboard-clipboard-offoverlay" android:background="@color/off_overlay_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:alpha="0.5" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

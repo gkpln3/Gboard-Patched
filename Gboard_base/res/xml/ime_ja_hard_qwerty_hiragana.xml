@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" candidate_selection_keys="1,2,3,4,5,6,7,8,9" class="com.google.android.apps.inputmethod.libs.mozc.ime.SimpleJapaneseIme" inline_composing="true" language="@string/japanese_language_id" prime_keyboard_type="HARD_QWERTY" status_icon="@drawable/ic_japanese_status_icon" string_id="@string/string_id_japanese_floating_hard_qwerty_hiragana" unacceptable_meta_keys="">
+        <keyboard_group>
+            <keyboard def="@xml/keyboard_ja_floating_hard_qwerty" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/extra_value_prime_keyboard_specification" value="HARDWARE_QWERTY_KANA" />
+            <item id="@id/extra_value_hardware_keyboard_specification" value="HARDWARE_QWERTY_KANA" />
+            <item id="@id/extra_value_is_floating_candidates" value="true" />
+            <item id="@id/extra_value_hardware_keyboard_candidates_per_page" value="@integer/floating_candidate_candidate_num" />
+        </extra_values>
+    </ime>
+</framework>

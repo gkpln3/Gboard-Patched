@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_km_kh">
+        <view layout="@layout/keyboard_latin_4x12_body" type="body">
+            <softkeys href="@xml/softkeys_input_km_kh" />
+            <softkeys href="@xml/softkeys_latin_fragment_secondary_digits" />
+            <include href="@xml/keymapping_km_kh" />
+            <include href="@xml/keymapping_latin_fragment_secondary_digits_exclude_shift" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+    <include href="@xml/keyboard_fragment_secondary_symbols_km_kh" />
+</framework>

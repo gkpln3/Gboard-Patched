@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/Body">
+    <FrameLayout style="@style/BodyInnerWrapper">
+        <include layout="@layout/keyboard_ja_candidates_body_inner" />
+        <FrameLayout style="@style/InputAreaFrame">
+            <LinearLayout style="@style/BodyInner.Japanese">
+                <LinearLayout style="@style/InputArea.QwertyWithNumbers">
+                    <include layout="@layout/keyboard_prime_number_row" />
+                    <include layout="@layout/keyboard_qwerty_input_area" />
+                </LinearLayout>
+                <include layout="@layout/keyboard_ja_qwerty_alphabet_bottom" />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/SharingActivity"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/sharing_header" />
+    <LinearLayout style="@style/SharingActivityContent">
+        <TextView android:id="@id/gboard_link_receiving_title_text" android:scrollbars="vertical" android:layout_marginTop="20.0dip" android:maxHeight="150.0dip" android:text="@string/gboard_link_receiving_title" android:paddingStart="@dimen/sharing_activity_content_padding" android:paddingEnd="@dimen/sharing_activity_content_padding" style="@style/ReceivingActivityDescription" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include layout="@layout/gboard_link_receiving_enable_content" />
+            <include layout="@layout/gboard_link_receiving_share_content" />
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

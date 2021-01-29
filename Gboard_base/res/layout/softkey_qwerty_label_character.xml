@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/label" enable_lowercase_offset="true" enable_relayout="false" style="@style/Label.QwertyCenter"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

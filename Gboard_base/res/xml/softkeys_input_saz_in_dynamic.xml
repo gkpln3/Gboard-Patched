@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_saurashtra_letter_a" long_press_data="꣄" long_press_label="◌꣄" press_data="ꢂ" press_label="ꢂ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_saurashtra_letter_aa" long_press_data="ꢵ" press_data="ꢃ" />
+            <softkey id="@id/softkey_saurashtra_letter_i" long_press_data="ꢶ" press_data="ꢄ" />
+            <softkey id="@id/softkey_saurashtra_letter_ii" long_press_data="ꢷ" press_data="ꢅ" />
+            <softkey id="@id/softkey_saurashtra_letter_u" long_press_data="ꢸ" press_data="ꢆ" />
+            <softkey id="@id/softkey_saurashtra_letter_uu" long_press_data="ꢹ" press_data="ꢇ" />
+            <softkey id="@id/softkey_saurashtra_letter_vocalic_r" long_press_data="ꢺ,ꢉ,ꢻ" press_data="ꢈ" />
+            <softkey id="@id/softkey_saurashtra_letter_vocalic_l" long_press_data="ꢼ,ꢋ,ꢽ" press_data="ꢊ" />
+            <softkey id="@id/softkey_saurashtra_letter_e" long_press_data="ꢾ" press_data="ꢌ" />
+            <softkey id="@id/softkey_saurashtra_letter_ee" long_press_data="ꢿ" press_data="ꢍ" />
+            <softkey id="@id/softkey_saurashtra_letter_ai" long_press_data="ꣀ" press_data="ꢎ" />
+            <softkey id="@id/softkey_saurashtra_letter_o" long_press_data="ꣁ" press_data="ꢏ" />
+            <softkey id="@id/softkey_saurashtra_letter_oo" long_press_data="ꣂ" press_data="ꢐ" />
+            <softkey id="@id/softkey_saurashtra_letter_au" long_press_data="ꣃ" press_data="ꢑ" />
+            <softkey id="@id/softkey_saurashtra_sign_anusvara" long_press_data="ꢴ,ꢁ,ꣅ" press_data="ꢀ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_saurashtra_letter_ka" long_press_data="ꢒ꣄‍ꢰ" press_data="ꢒ" />
+            <softkey id="@id/softkey_saurashtra_letter_kha" press_data="ꢓ" />
+            <softkey id="@id/softkey_saurashtra_letter_ga" press_data="ꢔ" />
+            <softkey id="@id/softkey_saurashtra_letter_gha" press_data="ꢕ" />
+            <softkey id="@id/softkey_saurashtra_letter_nga" press_data="ꢖ" />
+            <softkey id="@id/softkey_saurashtra_letter_ca" press_data="ꢗ" />
+            <softkey id="@id/softkey_saurashtra_letter_cha" press_data="ꢘ" />
+            <softkey id="@id/softkey_saurashtra_letter_ja" press_data="ꢙ" />
+            <softkey id="@id/softkey_saurashtra_letter_jha" press_data="ꢚ" />
+            <softkey id="@id/softkey_saurashtra_letter_nya" press_data="ꢛ" />
+            <softkey id="@id/softkey_saurashtra_letter_tta" press_data="ꢜ" />
+            <softkey id="@id/softkey_saurashtra_letter_ttha" press_data="ꢝ" />
+            <softkey id="@id/softkey_saurashtra_letter_dda" press_data="ꢞ" />
+            <softkey id="@id/softkey_saurashtra_letter_ddha" press_data="ꢟ" />
+            <softkey id="@id/softkey_saurashtra_letter_nna" press_data="ꢠ" />
+            <softkey id="@id/softkey_saurashtra_letter_ta" press_data="ꢡ" />
+            <softkey id="@id/softkey_saurashtra_letter_tha" press_data="ꢢ" />
+            <softkey id="@id/softkey_saurashtra_letter_da" press_data="ꢣ" />
+            <softkey id="@id/softkey_saurashtra_letter_dha" press_data="ꢤ" />
+            <softkey id="@id/softkey_saurashtra_letter_na" long_press_data="ꢥꢴ" press_data="ꢥ" />
+            <softkey id="@id/softkey_saurashtra_letter_pa" press_data="ꢦ" />
+            <softkey id="@id/softkey_saurashtra_letter_pha" press_data="ꢧ" />
+            <softkey id="@id/softkey_saurashtra_letter_ba" press_data="ꢨ" />
+            <softkey id="@id/softkey_saurashtra_letter_bha" press_data="ꢩ" />
+            <softkey id="@id/softkey_saurashtra_letter_ma" long_press_data="ꢪꢴ" press_data="ꢪ" />
+            <softkey id="@id/softkey_saurashtra_letter_ya" press_data="ꢫ" />
+            <softkey id="@id/softkey_saurashtra_letter_ra" long_press_data="ꢬꢴ" press_data="ꢬ" />
+            <softkey id="@id/softkey_saurashtra_letter_la" long_press_data="ꢭꢴ" press_data="ꢭ" />
+            <softkey id="@id/softkey_saurashtra_letter_va" press_data="ꢮ" />
+            <softkey id="@id/softkey_saurashtra_letter_sha" press_data="ꢯ" />
+            <softkey id="@id/softkey_saurashtra_letter_ssa" press_data="ꢰ" />
+            <softkey id="@id/softkey_saurashtra_letter_sa" press_data="ꢱ" />
+            <softkey id="@id/softkey_saurashtra_letter_ha" press_data="ꢲ" />
+            <softkey id="@id/softkey_saurashtra_letter_lla" press_data="ꢳ" />
+        </softkey_list>
+    </softkeys>
+</framework>

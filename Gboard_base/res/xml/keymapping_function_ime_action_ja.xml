@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_ime_action" />
+    <key_mapping state="composing">
+        <mapping key_id="@id/softkey_enter" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <include href="@xml/keymapping_function_ime_action_popup_switch_to_emoji" />
+    <include href="@xml/keymapping_function_ime_action_popup_short_message" />
+    <include href="@xml/keymapping_function_ime_action_popup_navigation" />
+    <include href="@xml/keymapping_function_ime_action_popup_right_handed_mode" />
+</framework>

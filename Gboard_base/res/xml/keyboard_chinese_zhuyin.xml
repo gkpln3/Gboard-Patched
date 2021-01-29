@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base_t13n_chinese" />
+    <keyboard>
+        <view layout="@layout/keyboard_latin_4x10_no_shift_del_body_zh" override="motion_event_handler" type="body">
+            <motion_event_handler class=".libs.framework.keyboard.handler.BasicMotionEventHandler" preference_key="@string/pref_key_enable_spatial_model" reverse_preference="true" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.SpatialModelMotionEventHandler" preference_key="@string/pref_key_enable_spatial_model" reverse_preference="false" />
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.zhuyin.ZhuyinGestureHandler" preference_key="@string/pref_key_enable_gesture_input" reverse_preference="false" />
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.zhuyin.ZhuyinKeyboardLayoutHandler" preference_key="@string/pref_key_enable_gesture_input" reverse_preference="false" />
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.framework.keyboard.handler.ScrubMoveMotionEventHandler" preference_key="@string/pref_key_enable_scrub_move" reverse_preference="false" />
+            <include href="@xml/keymapping_zhuyin" />
+            <include href="@xml/keymapping_bottom_zhuyin" />
+            <include href="@xml/keymapping_function_candidates_zh" />
+            <include href="@xml/keymapping_function_space_zhuyin" />
+            <include href="@xml/keymapping_bottom_symbol_1_popup_settings" />
+            <if device="tablet" />
+            <else>
+                <include href="@xml/keymapping_fragment_bottom_symbol_1_popup_switch_to_emoji_no_hint_icon_with_symbols" />
+                <include href="@xml/keymapping_fragment_bottom_symbol_1_popup_left_handed_mode_with_symbols" />
+            </else>
+        </view>
+        <if device="tablet">
+            <view layout="@layout/keyboard_latin_tablet_4x11_no_shift_body_zhuyin" type="body" />
+        </if>
+    </keyboard>
+</framework>

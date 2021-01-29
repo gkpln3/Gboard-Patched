@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" style="@style/TextEditingViewNested"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/left_most_arrow" android:layout_weight="100.0" style="@style/TextEditingViewInColumn.ArrowKey" />
+    <FrameLayout android:layout_weight="100.0" style="@style/TextEditingViewInColumn">
+        <ImageView android:layout_gravity="top" style="@style/Separator.Horizental" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/right_most_arrow" android:layout_weight="100.0" style="@style/TextEditingViewNested.ArrowKey" />
+    </FrameLayout>
+</LinearLayout>

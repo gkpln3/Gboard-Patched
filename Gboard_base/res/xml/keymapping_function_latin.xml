@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_space_empty" view_id="@id/key_pos_space" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_del" />
+        <mapping key_id="@id/softkey_switch_to_non_prime_keyboard" view_id="@id/key_pos_switch_to_symbol" />
+        <mapping key_id="@id/softkey_switch_to_non_prime_keyboard" view_id="@id/key_pos_switch_to_symbol_right" />
+    </key_mapping>
+    <if language="adx-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_no_break_space" view_id="@id/key_pos_space" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ahr-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="aii">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="am">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="anp-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ar-AE|ar-BH|ar-DZ|ar-IQ|ar-LY|ar-MA|ar-MR|ar-SD|ar-TD|ar-TN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ar-EG|ar-OM|ar-SA|ar-YE|ar-x-levant">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="as-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="awa-IN" variant="awadhi_dynamic">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="az-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bal-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ban-Bali">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_balinese" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_balinese" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bax-CM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bamum" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bamum" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bcc-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bcq-Ethi">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bft-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bfy-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bfz-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bgp-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bgq-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bgn-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bgq-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bhb-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bhb-Gujr">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gujarati" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gujarati" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bho-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bjj-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="blk-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bm-Nkoo">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_nko" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_nko" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bn-BD|bn-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bns-IN" variant="bundeli_dynamic">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bo-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_no_break_space" view_id="@id/key_pos_space" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bpy-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="bqi-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="brh-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="brx-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="brx-Beng">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ccp-BD">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_chakma" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_chakma" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="cja-KH">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_cham" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_cham" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="cjm-VN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_cham" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_cham" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="cld-IQ">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ctg-BD">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="dcc-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="dhd-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="doi-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="doi-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="dty-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="dv-MV">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="dyu-Nkoo">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_nko" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_nko" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="dz">
+        <key_mapping>
+            <mapping key_id="@id/softkey_no_break_space" view_id="@id/key_pos_space" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="fa">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="fay-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ff-Adlm">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_adlam" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_adlam" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gbm-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gdq-YE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gdx-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gez">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gjk-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gju-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gju-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="glk-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gno-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="grt-Beng">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gu-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gujarati" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gujarati" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gvr-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="gwc-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hac-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="haz-AF">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hdy-ET">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hi-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hlb-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hlb-Orya">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_odia" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_odia" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hnd-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hne-IN" variant="chhattisgarhi_dynamic">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hno-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="hoj-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="jv-Java">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_javanese" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_javanese" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kfq-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kfr-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gujarati" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gujarati" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kfy-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="khb-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_new_tai_lue" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_new_tai_lue" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="khg-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_no_break_space" view_id="@id/key_pos_space" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kjp-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="khw" variant="qwerty">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kmz-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kn-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kannada" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kannada" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="knn-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kok-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kok-Knda">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kannada" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kannada" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kru-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ks-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ks-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ksw-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ktb-Ethi">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ku-IQ|ku-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kvx-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kxu-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_odia" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_odia" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="kyu-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kayah_li" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kayah_li" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lep-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_lepcha" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_lepcha" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lep-Tibt">
+        <key_mapping>
+            <mapping key_id="@id/softkey_no_break_space" view_id="@id/key_pos_space" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_tibetan" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lif-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lif-Limb">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_limbu" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_limbu" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lki-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lmn-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lmn-Knda">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kannada" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kannada" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lrc-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="lrl-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="luz-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mag-IN|mag-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mai-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mde-TD">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mfa-TH">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mjl-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mki-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mni-Beng">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mni-Mtei">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_meetei_mayek" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_meetei_mayek" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mnw-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mr-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ms-Arab-BN|ms-Arab-MY">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mtr-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mul-x-ipa">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ipa" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ipa" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mup-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mve-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="mvy-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="my">
+        <if variant="burmese_zawgyi">
+            <key_mapping>
+                <mapping key_id="@id/softkey_switch_to_non_prime_keyboard" view_id="@id/key_pos_switch_to_symbol" />
+                <mapping key_id="@id/softkey_switch_to_non_prime_keyboard" view_id="@id/key_pos_switch_to_symbol_right" />
+            </key_mapping>
+        </if>
+        <else>
+            <key_mapping>
+                <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol" />
+                <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol_right" />
+            </key_mapping>
+        </else>
+    </if>
+    <if language="mzn-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ne-IN|ne-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="new-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="noe-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="or-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_odia" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_odia" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="pa-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="pa-Guru">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gurmukhi" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gurmukhi" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="phr-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="plk-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="prs">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ps">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="psh-AF">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="psi-AF">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="qxq-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="rki-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="rkt-Beng">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="rkt-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="rwr-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sa-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sas-Bali">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_balinese" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_balinese" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sat-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sat-Beng">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sat-Olck">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ol_chiki" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ol_chiki" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="saz-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_saurashtra" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_saurashtra" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sck-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="scl-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sd-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sd-Deva">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sdh-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sgj-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sgw-ET">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="shn-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar_shan" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_myanmar_shan" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="sjp-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="skr">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="stv-ET">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="su-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="su-Sund">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_sundanese" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_sundanese" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="swv-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="syc-IQ">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_arabic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="syl-Beng|syl-Sylo">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="taj-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="tcy-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kannada" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_kannada" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ti">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ethiopic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="tks-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="tly-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="trp-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="trw">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ug">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="unr-Beng">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_bengali" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="unr-Orya">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_odia" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_odia" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ur-IN" variant="urdu_in|handwriting">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ur-IN|ur-PK" variant="qwerty">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="ur-PK" variant="urdu_pakistan|handwriting">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="vah">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="vas-Gujr">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gujarati" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_gujarati" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="vas-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="wbr-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="wne-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_persian" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="wry-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="xnr-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+    <if language="xsr-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol" />
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard_indic" view_id="@id/key_pos_switch_to_symbol_right" />
+        </key_mapping>
+    </if>
+</framework>

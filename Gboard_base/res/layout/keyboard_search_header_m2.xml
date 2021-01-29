@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView app:allowMockActionDown="false" style="@style/SearchHeader.NonPrime" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/keyboard_search_header_inner_m2" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

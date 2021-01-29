@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_buginese_vowel_sign_e" press_data="ᨙ" press_label=" " />
+            <softkey id="@id/softkey_buginese_vowel_sign_i" press_data="ᨗ" press_label=" " />
+            <softkey id="@id/softkey_buginese_vowel_sign_o" press_data="ᨚ" press_label=" " />
+            <softkey id="@id/softkey_buginese_vowel_sign_u" press_data="ᨘ" press_label=" " />
+            <softkey id="@id/softkey_buginese_vowel_sign_ae" press_data="ᨛ" press_label=" " />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_buginese_letter_ka" press_data="ᨀ" />
+            <softkey id="@id/softkey_buginese_letter_ga" press_data="ᨁ" />
+            <softkey id="@id/softkey_buginese_letter_nga" press_data="ᨂ" />
+            <softkey id="@id/softkey_buginese_letter_ngka" press_data="ᨃ" />
+            <softkey id="@id/softkey_buginese_letter_pa" press_data="ᨄ" />
+            <softkey id="@id/softkey_buginese_letter_ba" press_data="ᨅ" />
+            <softkey id="@id/softkey_buginese_letter_ma" press_data="ᨆ" />
+            <softkey id="@id/softkey_buginese_letter_mpa" press_data="ᨇ" />
+            <softkey id="@id/softkey_buginese_letter_ta" press_data="ᨈ" />
+            <softkey id="@id/softkey_buginese_letter_da" press_data="ᨉ" />
+            <softkey id="@id/softkey_buginese_letter_na" press_data="ᨊ" />
+            <softkey id="@id/softkey_buginese_letter_nra" press_data="ᨋ" />
+            <softkey id="@id/softkey_buginese_letter_ca" press_data="ᨌ" />
+            <softkey id="@id/softkey_buginese_letter_ja" press_data="ᨍ" />
+            <softkey id="@id/softkey_buginese_letter_nya" press_data="ᨎ" />
+            <softkey id="@id/softkey_buginese_letter_nyca" press_data="ᨏ" />
+            <softkey id="@id/softkey_buginese_letter_ya" press_data="ᨐ" />
+            <softkey id="@id/softkey_buginese_letter_ra" press_data="ᨑ" />
+            <softkey id="@id/softkey_buginese_letter_la" press_data="ᨒ" />
+            <softkey id="@id/softkey_buginese_letter_va" press_data="ᨓ" />
+            <softkey id="@id/softkey_buginese_pallawa" long_press_data="᨟" press_data="᨞" />
+            <softkey id="@id/softkey_buginese_letter_sa" press_data="ᨔ" />
+            <softkey id="@id/softkey_buginese_letter_a" press_data="ᨕ" />
+            <softkey id="@id/softkey_buginese_letter_ha" press_data="ᨖ" />
+        </softkey_list>
+    </softkeys>
+</framework>

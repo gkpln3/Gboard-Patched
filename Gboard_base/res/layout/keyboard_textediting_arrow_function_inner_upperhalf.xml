@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_weight="300.0" style="@style/TextEditingViewInColumn"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/left_arrow" android:layout_weight="3.0" style="@style/TextEditingViewInRow.ArrowKey" />
+    <FrameLayout android:layout_weight="4.0" style="@style/TextEditingViewInRow">
+        <ImageView android:layout_gravity="left" style="@style/Separator.Vertical" />
+        <include layout="@layout/keyboard_textediting_arrow_updown_inner" />
+        <ImageView android:layout_gravity="right" style="@style/Separator.Vertical" />
+    </FrameLayout>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/right_arrow" android:layout_weight="3.0" style="@style/TextEditingViewInRow.ArrowKey" />
+</LinearLayout>

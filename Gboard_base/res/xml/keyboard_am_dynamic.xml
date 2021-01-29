@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_am_dynamic">
+        <view layout="@layout/keyboard_latin_5x10_no_shift_body" type="body">
+            <softkeys href="@xml/softkeys_input_am_dynamic" />
+            <include href="@xml/keymapping_am_dynamic" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup_autosized_label_with_emoji_hint" />
+        </view>
+    </keyboard>
+</framework>

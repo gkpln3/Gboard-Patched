@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_tai_viet_letter_low_ko" long_press_data="ꪁ" press_data="ꪀ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_ko" press_data="ꪁ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_kho" long_press_data="ꪃ" press_data="ꪂ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_kho" press_data="ꪃ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_khho" long_press_data="ꪅ" press_data="ꪄ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_khho" press_data="ꪅ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_go" long_press_data="ꪇ" press_data="ꪆ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_go" press_data="ꪇ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_ngo" long_press_data="ꪉ" press_data="ꪈ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_ngo" press_data="ꪉ" />
+            <softkey id="@id/softkey_tai_viet_mai_kang" press_data="ꪰ" />
+            <softkey id="@id/softkey_tai_viet_vowel_aa" press_data="ꪱ" />
+            <softkey id="@id/softkey_tai_viet_vowel_i" press_data="ꪲ" />
+            <softkey id="@id/softkey_tai_viet_vowel_ue" press_data="ꪳ" />
+            <softkey id="@id/softkey_tai_viet_vowel_u" press_data="ꪴ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_co" long_press_data="ꪋ" press_data="ꪊ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_co" press_data="ꪋ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_cho" long_press_data="ꪍ" press_data="ꪌ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_cho" press_data="ꪍ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_so" long_press_data="ꪏ" press_data="ꪎ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_so" press_data="ꪏ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_nyo" long_press_data="ꪑ" press_data="ꪐ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_nyo" press_data="ꪑ" />
+            <softkey id="@id/softkey_tai_viet_symbol_kon" press_data="ꫛ" />
+            <softkey id="@id/softkey_tai_viet_vowel_e" press_data="ꪵ" />
+            <softkey id="@id/softkey_tai_viet_vowel_o" press_data="ꪶ" />
+            <softkey id="@id/softkey_tai_viet_mai_khit" press_data="ꪷ" />
+            <softkey id="@id/softkey_tai_viet_vowel_ia" press_data="ꪸ" />
+            <softkey id="@id/softkey_tai_viet_vowel_uea" press_data="ꪹ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_do" long_press_data="ꪓ" press_data="ꪒ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_do" press_data="ꪓ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_to" long_press_data="ꪕ" press_data="ꪔ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_to" press_data="ꪕ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_tho" long_press_data="ꪗ" press_data="ꪖ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_tho" press_data="ꪗ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_no" long_press_data="ꪙ" press_data="ꪘ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_no" press_data="ꪙ" />
+            <softkey id="@id/softkey_tai_viet_symbol_nueng" press_data="ꫜ" />
+            <softkey id="@id/softkey_tai_viet_vowel_ua" press_data="ꪺ" />
+            <softkey id="@id/softkey_tai_viet_vowel_aue" press_data="ꪻ" />
+            <softkey id="@id/softkey_tai_viet_vowel_ay" press_data="ꪼ" />
+            <softkey id="@id/softkey_tai_viet_vowel_an" press_data="ꪽ" />
+            <softkey id="@id/softkey_tai_viet_vowel_am" press_data="ꪾ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_bo" long_press_data="ꪛ" press_data="ꪚ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_bo" press_data="ꪛ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_po" long_press_data="ꪝ" press_data="ꪜ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_po" press_data="ꪝ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_pho" long_press_data="ꪟ" press_data="ꪞ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_pho" press_data="ꪟ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_fo" long_press_data="ꪡ" press_data="ꪠ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_fo" press_data="ꪡ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_mo" long_press_data="ꪣ" press_data="ꪢ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_mo" press_data="ꪣ" />
+            <softkey id="@id/softkey_tai_viet_tone_mai_ek" press_data="꪿" />
+            <softkey id="@id/softkey_tai_viet_tone_mai_nueng" press_data="ꫀ" />
+            <softkey id="@id/softkey_tai_viet_tone_mai_tho" press_data="꫁" />
+            <softkey id="@id/softkey_tai_viet_tone_mai_song" press_data="ꫂ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_yo" long_press_data="ꪥ" press_data="ꪤ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_yo" press_data="ꪥ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_ro" long_press_data="ꪧ" press_data="ꪦ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_ro" press_data="ꪧ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_lo" long_press_data="ꪩ" press_data="ꪨ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_lo" press_data="ꪩ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_vo" long_press_data="ꪫ" press_data="ꪪ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_vo" press_data="ꪫ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_ho" long_press_data="ꪭ" press_data="ꪬ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_ho" press_data="ꪭ" />
+            <softkey id="@id/softkey_tai_viet_letter_low_o" long_press_data="ꪯ" press_data="ꪮ" />
+            <softkey id="@id/softkey_tai_viet_letter_high_o" press_data="ꪯ" />
+            <softkey id="@id/softkey_tai_viet_symbol_sam" press_data="ꫝ" />
+        </softkey_list>
+    </softkeys>
+</framework>

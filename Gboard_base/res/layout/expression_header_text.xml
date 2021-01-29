@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0dip" android:id="@id/expression_header_text" android:tag=".label.for-expression-search" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/element_underline_minimum_width_with_padding" android:layout_centerInParent="true" android:fontFamily="sans-serif-smallcaps" android:textAlignment="center" />
+    <View android:layout_alignStart="@id/expression_header_text" android:layout_alignEnd="@id/expression_header_text" style="@style/ExpressionElementUnderline.Text" />
+</RelativeLayout>

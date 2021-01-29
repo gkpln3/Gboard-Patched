@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <inset android:drawable="@android:color/transparent" android:inset="0.0dip" />
+    </item>
+    <item android:state_activated="true">
+        <inset android:insetLeft="3.0dip" android:insetRight="3.0dip" android:insetTop="6.0dip" android:insetBottom="6.0dip">
+            <shape android:shape="rectangle">
+                <corners android:radius="6.0dip" />
+                <solid android:color="@android:color/background_dark" />
+            </shape>
+        </inset>
+    </item>
+    <item android:state_activated="false">
+        <inset android:drawable="@android:color/transparent" android:inset="0.0dip" />
+    </item>
+</selector>

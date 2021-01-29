@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_thaana_letter_daviyani" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_thaana_letter_ainu" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_thaana_eybeyfili" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_thaana_letter_hhaa" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_thaana_letter_taviyani" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_thaana_letter_khaa" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_thaana_ooboofili" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_thaana_eebeefili" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_thaana_oaboafili" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_thaana_letter_paviyani" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_thaana_sukun" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_thaana_letter_alifu" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_thaana_ebefili" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_thaana_letter_raa" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_thaana_letter_thaa" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_thaana_letter_yaa" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_thaana_ubufili" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_thaana_ibifili" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_thaana_obofili" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_thaana_letter_lhaviyani" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_thaana_aabaafili" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_thaana_abafili" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_thaana_letter_seenu" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_thaana_letter_dhaalu" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_thaana_letter_faafu" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_thaana_letter_gaafu" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_thaana_letter_haa" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_thaana_letter_javiyani" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_thaana_letter_kaafu" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_thaana_letter_laamu" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_thaana_letter_sheenu" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_thaana_letter_shaviyani" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_thaana_letter_zaviyani" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_thaana_letter_ttaa" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_thaana_letter_chaviyani" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_thaana_letter_vaavu" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_thaana_letter_baa" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_thaana_letter_noonu" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_thaana_letter_meemu" view_id="@id/key_pos_3_8" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/attribute_name_text_size" android:textStyle="bold" android:textColor="@color/off_state_stroke_color" android:gravity="center_horizontal" android:id="@id/attributeTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/attribute_name_text_margin" />
+    <android.support.v7.widget.RecyclerView android:id="@id/valuesGrid" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

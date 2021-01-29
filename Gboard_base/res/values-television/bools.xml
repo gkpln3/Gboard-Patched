@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="pref_def_value_enable_emoji_alt_physical_key">false</bool>
+    <bool name="show_launcher_icon">false</bool>
+    <bool name="supports_floating_candidates">false</bool>
+    <bool name="supports_one_handed_mode">false</bool>
+</resources>

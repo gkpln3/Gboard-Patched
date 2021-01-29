@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="?android:selectableItemBackground" android:layout_width="@dimen/keyboard_expression_header_element_size" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.AppCompatImageView android:gravity="center" android:layout_gravity="center" android:id="@id/expression_header_icon" android:tag=".icon.for-category-key" android:layout_width="@dimen/element_icon_width_medium" android:layout_height="@dimen/element_icon_height_medium" />
+    <View style="@style/ExpressionElementUnderline.Image" />
+</FrameLayout>

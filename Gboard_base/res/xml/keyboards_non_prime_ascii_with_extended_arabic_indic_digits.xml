@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard def="@xml/keyboard_non_prime_digit" type="digit" />
+    <keyboard def="@xml/keyboard_non_prime_symbol_ascii_with_extended_arabic_indic_digits" type="symbol" />
+</framework>

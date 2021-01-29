@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/icon_background" style="@style/JaFlickableBackgroundIcon"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon_secondary" android:tag=".label.secondary" style="@style/Icon.Center" />
+    <ImageView android:id="@id/icon" android:tag=".label" style="@style/Icon.Center" />
+</FrameLayout>

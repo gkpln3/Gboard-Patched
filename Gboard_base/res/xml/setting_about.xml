@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_about_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:persistent="false" android:title="@string/setting_tos_title">
+        <intent android:action="android.intent.action.VIEW" android:data="@string/tos_url" />
+    </Preference>
+    <Preference android:persistent="false" android:title="@string/setting_privacy_title">
+        <intent android:action="android.intent.action.VIEW" android:data="@string/privacy_url" />
+    </Preference>
+    <Preference android:persistent="false" android:title="@string/setting_license_title" android:summary="@string/setting_license_summary">
+        <extra android:name="START_ACTIVITY" android:value="com.google.android.libraries.social.licenses.LicenseMenuActivity" />
+    </Preference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:persistent="false" android:focusable="false" android:maxLines="100" android:title="@string/setting_about_version_title" android:selectable="false" android:key="@string/setting_about_key" />
+</PreferenceScreen>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.BidiViewPager android:id="@id/first_run_pager" style="@style/FirstRunViewPager" />
+    <FrameLayout android:id="@id/first_run_page_footer" style="@style/FirstRunPageFooter">
+        <include layout="@layout/first_run_page_footer" />
+    </FrameLayout>
+</merge>

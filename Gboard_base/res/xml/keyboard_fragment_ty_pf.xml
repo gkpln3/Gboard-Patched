@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_ty_pf">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_ty_pf" />
+        </view>
+    </keyboard>
+</framework>

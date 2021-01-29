@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="access_points_bar_max_count">6</integer>
+    <integer name="candidate_row_count">1</integer>
+    <integer name="clipboard_body_default_view_if_empty_label_weight">31</integer>
+    <integer name="clipboard_body_default_view_if_empty_tutorial_weight">74</integer>
+    <integer name="first_run_page_content_weight">700</integer>
+    <integer name="first_run_page_header_weight">300</integer>
+    <integer name="gif_keyboard_grid_span_count">6</integer>
+    <integer name="gif_keyboard_staggered_span_count">4</integer>
+    <integer name="ja_layout_setup_preview_weight">106</integer>
+    <integer name="ja_layout_setup_title_and_preview_weight_sum">146</integer>
+    <integer name="ja_layout_setup_title_weight">40</integer>
+    <integer name="keyboard_emoji_search_results_row_count">1</integer>
+    <integer name="keyboard_preview_size_ratio_in_percent">65</integer>
+    <integer name="max_candidates_per_row">8</integer>
+    <integer name="more_candidates_candidates_area_weight">906</integer>
+    <integer name="more_candidates_left_column_weight">94</integer>
+    <integer name="more_candidates_pageable_candidates_area_weight">812</integer>
+    <integer name="more_candidates_right_column_weight">94</integer>
+    <integer name="mtrl_calendar_header_orientation">0</integer>
+    <integer name="mtrl_calendar_selection_text_lines">6</integer>
+    <integer name="prime_header_icon_weight">100</integer>
+    <integer name="recent_search_candidate_num">1</integer>
+    <integer name="sticker_grid_span_count">8</integer>
+    <integer name="sticker_pack_grid_span_count">3</integer>
+    <integer name="theme_expandable_category_span_count">4</integer>
+    <integer name="universal_media_m2_max_emoji">12</integer>
+    <integer name="universal_media_m2_max_num_stickers">8</integer>
+</resources>

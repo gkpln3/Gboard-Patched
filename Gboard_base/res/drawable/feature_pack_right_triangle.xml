@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/featured_pack_browse_badge_size" android:width="@dimen/featured_pack_browse_badge_size" android:autoMirrored="true" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/google_yellow600" android:pathData="M0,0 L0,100 L100,100 z" />
+</vector>

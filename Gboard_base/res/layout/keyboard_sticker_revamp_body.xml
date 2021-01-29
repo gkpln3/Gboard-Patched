@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView app:allowMockActionDown="false" style="@style/Body.NonPrime"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/gboard_sticker_keyboard_main_body" style="@style/ExpressionInnerBody">
+        <com.google.android.apps.inputmethod.libs.search.widget.CategoryViewPager android:id="@id/expression_view_pager" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="?KeyboardInputAreaWeight" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+        <include android:id="@id/expression_bottom_nav_row" layout="@layout/keyboard_expression_navigation_row" />
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView>

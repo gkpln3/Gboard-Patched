@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/sponsored_gif_badge" />
+    <RelativeLayout android:layout_gravity="bottom" android:id="@id/image_footer" android:background="@color/animated_image_view_footer_background" android:paddingTop="2.0dip" android:paddingBottom="2.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="10.0dip" android:paddingEnd="10.0dip">
+        <TextView android:textSize="10.0sp" android:textColor="@color/google_white" android:ellipsize="end" android:id="@id/image_footer_text_attribution" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_centerVertical="true" android:layout_toStartOf="@id/image_footer_button_open_external" android:layout_alignParentStart="true" />
+        <ImageView android:id="@id/image_footer_button_open_external" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_open_in_new_white_18" android:layout_centerVertical="true" android:contentDescription="@string/gif_footer_button_open_external_description" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</merge>

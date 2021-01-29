@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_tamil_letter_a" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_tamil_letter_aa" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_tamil_letter_i" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_tamil_letter_ii" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_tamil_letter_u" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_tamil_letter_uu" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_tamil_letter_e" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_tamil_letter_ee" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_tamil_letter_ai" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_tamil_letter_o" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_tamil_letter_oo" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_tamil_letter_au" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_tamil_letter_ka" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_tamil_letter_nga" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_tamil_letter_ca" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_tamil_letter_nya" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_tamil_letter_tta" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_tamil_letter_nna" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_tamil_letter_ta" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_tamil_letter_na" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_tamil_letter_pa" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_tamil_letter_ma" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_tamil_letter_ya" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_tamil_letter_ra" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_tamil_letter_la" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_tamil_letter_va" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_tamil_letter_llla" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_tamil_letter_lla" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_tamil_letter_rra" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_tamil_letter_nnna" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_tamil_letter_ssa" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_tamil_letter_sa" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_tamil_letter_ja" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_tamil_letter_ha" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_tamil_letter_ka_tamil_sign_virama_tamil_letter_ssa" view_id="@id/key_pos_3_7" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView style="@style/ThemeListingItemCardView"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/theme_listing_item_image" android:background="#ff999999" android:layout_width="@dimen/theme_listing_item_width" android:layout_height="@dimen/theme_listing_item_height" android:scaleType="centerCrop" />
+    <ImageView android:layout_gravity="center" android:id="@id/theme_listing_item_download_icon" android:background="@drawable/bg_download_theme_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_theme_listing_downloadable" />
+    <include layout="@layout/theme_listing_item_loading_indicator" />
+</androidx.cardview.widget.CardView>

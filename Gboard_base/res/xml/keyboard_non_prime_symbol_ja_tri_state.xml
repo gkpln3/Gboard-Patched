@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".japanese.keyboard.JapanesePrimeKeyboard" id="@id/keyboard_non_prime_symbol_ja_tri_state" popup="@attr/PopupBubbleLayout">
+        <view layout="@layout/keyboard_non_prime_header" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_header_prime" />
+            <include href="@xml/keymapping_header_ja_prime" />
+        </view>
+        <view layout="@layout/keyboard_ja_non_prime_symbol_body" type="body">
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_input_ja_common" />
+            <softkeys href="@xml/softkeys_latin_symbols" />
+            <softkeys href="@xml/softkeys_body_candidates" />
+            <softkeys href="@xml/softkeys_function_ime_action" />
+            <softkeys href="@xml/softkeys_input_non_prime_bottom_symbol" />
+            <softkeys href="@xml/softkeys_ja_back_to_hiragana_alphabet" />
+            <include href="@xml/keymapping_common_ja" />
+            <include href="@xml/keymapping_bottom_symbol" />
+            <key_mapping>
+                <mapping key_id="@id/softkey_equals_sign" view_id="@id/key_pos_0_0" />
+                <mapping key_id="@id/softkey_vertical_line" view_id="@id/key_pos_0_1" />
+                <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_0_2" />
+                <mapping key_id="@id/softkey_slash" view_id="@id/key_pos_0_3" />
+                <mapping key_id="@id/softkey_tilde" view_id="@id/key_pos_0_4" />
+                <mapping key_id="@id/softkey_grave_accent" view_id="@id/key_pos_0_5" />
+                <mapping key_id="@id/softkey_percent_sign" view_id="@id/key_pos_0_6" />
+                <mapping key_id="@id/softkey_left_curly_bracket" view_id="@id/key_pos_0_7" />
+                <mapping key_id="@id/softkey_right_curly_bracket" view_id="@id/key_pos_0_8" />
+                <mapping key_id="@id/softkey_less_than" view_id="@id/key_pos_0_9" />
+                <mapping key_id="@id/softkey_more_than" view_id="@id/key_pos_0_10" />
+                <mapping key_id="@id/softkey_commercial_at" view_id="@id/key_pos_1_0" />
+                <mapping key_id="@id/softkey_number_sign" view_id="@id/key_pos_1_1" />
+                <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+                <mapping key_id="@id/softkey_low_line" view_id="@id/key_pos_1_3" />
+                <mapping key_id="@id/softkey_amp" view_id="@id/key_pos_1_4" />
+                <mapping key_id="@id/softkey_hyphen_minus" view_id="@id/key_pos_1_5" />
+                <mapping key_id="@id/softkey_plus_sign" view_id="@id/key_pos_1_6" />
+                <mapping key_id="@id/softkey_left_parenthesis" view_id="@id/key_pos_1_7" />
+                <mapping key_id="@id/softkey_right_parenthesis" view_id="@id/key_pos_1_8" />
+                <mapping key_id="@id/softkey_left_corner_bracket" view_id="@id/key_pos_1_9" />
+                <mapping key_id="@id/softkey_right_corner_bracket" view_id="@id/key_pos_1_10" />
+                <mapping key_id="@id/softkey_asterisk" view_id="@id/key_pos_2_0" />
+                <mapping key_id="@id/softkey_quot" view_id="@id/key_pos_2_1" />
+                <mapping key_id="@id/softkey_apostrophe" view_id="@id/key_pos_2_2" />
+                <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_2_3" />
+                <mapping key_id="@id/softkey_semicolon" view_id="@id/key_pos_2_4" />
+                <mapping key_id="@id/softkey_exclamation_mark" view_id="@id/key_pos_2_5" />
+                <mapping key_id="@id/softkey_question_mark" view_id="@id/key_pos_2_6" />
+                <mapping key_id="@id/softkey_circumflex_accent" view_id="@id/key_pos_2_7" />
+                <mapping key_id="@id/softkey_left_square_bracket" view_id="@id/key_pos_2_8" />
+                <mapping key_id="@id/softkey_right_square_bracket" view_id="@id/key_pos_2_9" />
+                <mapping key_id="@id/softkey_ja_back_to_tri_state_digit" view_id="@id/key_pos_back_to_prime" />
+            </key_mapping>
+        </view>
+    </keyboard>
+</framework>

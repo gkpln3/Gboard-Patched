@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_body_ja_qwerty_alphabet" />
+    <include href="@xml/keymapping_function_shift_right" />
+    <include href="@xml/keymapping_function_ime_action_en_prime" />
+    <include href="@xml/keymapping_punctuation_ja_qwerty_tablet" />
+</framework>

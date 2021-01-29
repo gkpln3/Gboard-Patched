@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.maestro.MaestroPromoKeyboard" id="@id/keyboard_maestro_promo">
+        <view direction="locale" layout="@layout/keyboard_maestro_promo_body" type="body" />
+    </keyboard>
+</framework>

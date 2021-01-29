@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_templates_bottom_line" />
+    <softkeys>
+        <softkey_list template_id="@id/softkey_template_bottom_line_punctuation_bottom">
+            <softkey id="@id/softkey_bottom_comma" param_data="," param_keycode="COMMA" param_layout="@layout/softkey_label_medium_bottom" />
+            <softkey id="@id/softkey_bottom_sentence" param_data="." param_keycode="PERIOD" param_layout="@layout/softkey_label_medium_bottom" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_bottom_line_punctuation_bottom_popup_label_small">
+            <softkey id="@id/softkey_bottom_sentence_popup_smiley" long_press_data=":P,:D,:(,:),^_^" param_data="." param_keycode="PERIOD" param_layout="@layout/softkey_label_medium_bottom" />
+            <softkey id="@id/softkey_bottom_sentence_popup_com" long_press_data="@string/label_sentence_with_dot_com_long_press" param_data="." param_keycode="PERIOD" param_layout="@layout/softkey_label_medium_bottom" />
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@id/softkey_template_bottom_line_punctuation_bottom_popup_label_small">
+            <softkey id="@id/softkey_bottom_sentence_popup_punctuation" long_press_data="\? ! … : ; _ % $ ^ &amp; :P :D :( :) ^_^" param_data="." param_keycode="PERIOD" param_layout="@layout/softkey_label_medium_bottom" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_bottom_line_punctuation">
+            <softkey id="@id/softkey_bottom_com" long_press_data="@string/label_dot_com_long_press" param_data=".com" param_keycode="PLAIN_TEXT" param_layout="@layout/softkey_label_tiny" />
+        </softkey_list>
+        <softkey id="@id/softkey_bottom_comma_popup_settings" layout="@layout/softkey_label_medium_bottom" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="," intention="COMMIT" keycode="COMMA" popup_label="," type="PRESS" />
+            <label location="@id/label_bottom" value="," />
+        </softkey>
+        <softkey id="@id/softkey_bottom_slash" layout="@layout/softkey_label_medium" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="/" intention="COMMIT" keycode="SLASH" popup_label="/" type="PRESS" />
+            <label location="@id/label" value="/" />
+        </softkey>
+        <softkey id="@id/softkey_bottom_slash_popup_settings" layout="@layout/softkey_label_medium" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="/" intention="COMMIT" keycode="SLASH" popup_label="/" type="PRESS" />
+            <label location="@id/label" value="/" />
+        </softkey>
+        <softkey id="@id/softkey_bottom_underscore" layout="@layout/softkey_label_medium" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="_" intention="COMMIT" keycode="ALPHABET" popup_label="_" type="PRESS" />
+            <label location="@id/label" value="_" />
+        </softkey>
+        <softkey id="@id/softkey_bottom_at" layout="@layout/softkey_label_medium" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="\@" intention="COMMIT" keycode="AT" popup_label="\@" type="PRESS" />
+            <label location="@id/label" value="\@" />
+        </softkey>
+        <softkey id="@id/softkey_bottom_at_popup_settings" layout="@layout/softkey_label_medium_padding_bottom" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="\@" intention="COMMIT" keycode="AT" popup_label="\@" type="PRESS" />
+            <label location="@id/label" value="\@" />
+        </softkey>
+        <softkey id="@id/softkey_zwnj" layout="@layout/softkey_icon" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="‌" intention="D" keycode="ALPHABET" popup_icon="@attr/IconZWNJ" popup_layout="@layout/popup_square_bubble" type="PRESS" />
+            <action data="‍" intention="D" keycode="ALPHABET" popup_icon="@attr/IconZWJ" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <icon location="@id/icon" value="@attr/IconZWNJ" />
+        </softkey>
+        <softkey id="@id/softkey_zwnj_non_decode" layout="@layout/softkey_icon" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+            <action data="‌" intention="C" keycode="ALPHABET" popup_icon="@attr/IconZWNJ" popup_layout="@layout/popup_square_bubble" type="PRESS" />
+            <action data="‍" intention="C" keycode="ALPHABET" popup_icon="@attr/IconZWJ" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <icon location="@id/icon" value="@attr/IconZWNJ" />
+        </softkey>
+    </softkeys>
+</framework>

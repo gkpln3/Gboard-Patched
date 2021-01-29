@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_auto_centered_small_dynamic">
+            <softkey id="@id/softkey_javanese_letter_a" press_data="ꦄ" press_label="ꦄ" />
+            <softkey id="@id/softkey_javanese_letter_a_javanese_vowel_sign_tarung" long_press_data="ꦴ" long_press_label="ꦴ" press_data="ꦄꦴ" press_label="ꦄꦴ" />
+            <softkey id="@id/softkey_javanese_letter_a_javanese_vowel_sign_pepet" long_press_data="ꦼ" long_press_label="ꦼ" press_data="ꦄꦼ" press_label="ꦄꦼ" />
+            <softkey id="@id/softkey_javanese_letter_a_javanese_vowel_sign_pepet_javanese_vowel_sign_tarung" long_press_data="ꦼꦴ" long_press_label="ꦼꦴ" press_data="ꦄꦼꦴ" press_label="ꦄꦼꦴ" />
+            <softkey id="@id/softkey_javanese_letter_a_javanese_vowel_sign_pepet_javanese_vowel_sign_tolong" long_press_data="ꦼꦵ" long_press_label="ꦼꦵ" press_data="ꦄꦼꦵ" press_label="ꦄꦼꦵ" />
+            <softkey id="@id/softkey_javanese_letter_i_kawi" press_data="ꦅ" press_label="ꦅ" />
+            <softkey id="@id/softkey_javanese_letter_i" long_press_data="ꦶ" long_press_label="ꦶ" press_data="ꦆ" press_label="ꦆ" />
+            <softkey id="@id/softkey_javanese_letter_ii" long_press_data="ꦷ" long_press_label="ꦷ" press_data="ꦇ" press_label="ꦇ" />
+            <softkey id="@id/softkey_javanese_letter_u" long_press_data="ꦸ" long_press_label="ꦸ" press_data="ꦈ" press_label="ꦈ" />
+            <softkey id="@id/softkey_javanese_letter_u_javanese_vowel_sign_tarung" long_press_data="ꦹ" long_press_label="ꦹ" press_data="ꦈꦴ" press_label="ꦈꦴ" />
+            <softkey id="@id/softkey_javanese_letter_pa_cerek" long_press_data="ꦽ" long_press_label="ꦽ" press_data="ꦉ" press_label="ꦉ" />
+            <softkey id="@id/softkey_javanese_letter_pa_cerek_javanese_vowel_sign_tarung" long_press_data="ꦽꦴ" long_press_label="ꦽꦴ" press_data="ꦉꦴ" press_label="ꦉꦴ" />
+            <softkey id="@id/softkey_javanese_letter_nga_lelet" press_data="ꦊ" press_label="ꦊ" />
+            <softkey id="@id/softkey_javanese_letter_nga_lelet_raswadi" press_data="ꦋ" press_label="ꦋ" />
+            <softkey id="@id/softkey_javanese_letter_e" long_press_data="ꦺ" long_press_label="ꦺ" press_data="ꦌ" press_label="ꦌ" />
+            <softkey id="@id/softkey_javanese_letter_ai" long_press_data="ꦻ" long_press_label="ꦻ" press_data="ꦍ" press_label="ꦍ" />
+            <softkey id="@id/softkey_javanese_letter_o" long_press_data="ꦴꦺ" long_press_label="ꦴꦺ" press_data="ꦎ" press_label="ꦎ" />
+            <softkey id="@id/softkey_javanese_letter_a_javanese_vowel_sign_tolong" long_press_data="ꦵ" long_press_label="ꦵ" press_data="ꦄꦵ" press_label="ꦄꦵ" />
+            <softkey id="@id/softkey_javanese_letter_o_javanese_vowel_sign_tarung" long_press_data="ꦴꦻ" long_press_label="ꦴꦻ" press_data="ꦎꦴ" press_label="ꦎꦴ" />
+            <softkey id="@id/softkey_javanese_letter_ha" press_data="ꦲ" press_label="ꦲ" />
+            <softkey id="@id/softkey_javanese_letter_na" long_press_data="ꦟ" long_press_label="ꦟ" press_data="ꦤ" press_label="ꦤ" />
+            <softkey id="@id/softkey_javanese_letter_ca" long_press_data="ꦖ" long_press_label="ꦖ" press_data="ꦕ" press_label="ꦕ" />
+            <softkey id="@id/softkey_javanese_letter_ra" long_press_data="ꦬ" long_press_label="ꦬ" press_data="ꦫ" press_label="ꦫ" />
+            <softkey id="@id/softkey_javanese_letter_ka" long_press_data="ꦑ,ꦐ" long_press_label="ꦑ,ꦐ" press_data="ꦏ" press_label="ꦏ" />
+            <softkey id="@id/softkey_javanese_letter_da" long_press_data="ꦣ" long_press_label="ꦣ" press_data="ꦢ" press_label="ꦢ" />
+            <softkey id="@id/softkey_javanese_letter_ta" long_press_data="ꦡ" long_press_label="ꦡ" press_data="ꦠ" press_label="ꦠ" />
+            <softkey id="@id/softkey_javanese_letter_sa" long_press_data="ꦯ,ꦰ" long_press_label="ꦯ,ꦰ" press_data="ꦱ" press_label="ꦱ" />
+            <softkey id="@id/softkey_javanese_letter_wa" press_data="ꦮ" press_label="ꦮ" />
+            <softkey id="@id/softkey_javanese_letter_la" press_data="ꦭ" press_label="ꦭ" />
+            <softkey id="@id/softkey_javanese_letter_pa" long_press_data="ꦦ" long_press_label="ꦦ" press_data="ꦥ" press_label="ꦥ" />
+            <softkey id="@id/softkey_javanese_letter_dda" long_press_data="ꦞ" long_press_label="ꦞ" press_data="ꦝ" press_label="ꦝ" />
+            <softkey id="@id/softkey_javanese_letter_ja" long_press_data="ꦙ" long_press_label="ꦙ" press_data="ꦗ" press_label="ꦗ" />
+            <softkey id="@id/softkey_javanese_letter_ya" press_data="ꦪ" press_label="ꦪ" />
+            <softkey id="@id/softkey_javanese_letter_nya" long_press_data="ꦘ" long_press_label="ꦘ" press_data="ꦚ" press_label="ꦚ" />
+            <softkey id="@id/softkey_javanese_letter_ma" press_data="ꦩ" press_label="ꦩ" />
+            <softkey id="@id/softkey_javanese_letter_ga" long_press_data="ꦓ" long_press_label="ꦓ" press_data="ꦒ" press_label="ꦒ" />
+            <softkey id="@id/softkey_javanese_letter_ba" long_press_data="ꦨ" long_press_label="ꦨ" press_data="ꦧ" press_label="ꦧ" />
+            <softkey id="@id/softkey_javanese_letter_tta" long_press_data="ꦜ" long_press_label="ꦜ" press_data="ꦛ" press_label="ꦛ" />
+            <softkey id="@id/softkey_javanese_letter_nga" press_data="ꦔ" press_label="ꦔ" />
+            <softkey id="@id/softkey_javanese_sign_cecak_telu" press_data="꦳" press_label="꦳" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_auto_centered_small">
+            <softkey id="@id/softkey_javanese_pangkon" press_data="꧀" press_label="꧀" />
+            <softkey id="@id/softkey_javanese_consonant_sign_keret" press_data="ꦽ" press_label="ꦽ" />
+            <softkey id="@id/softkey_javanese_consonant_sign_pengkal" press_data="ꦾ" press_label="ꦾ" />
+            <softkey id="@id/softkey_javanese_consonant_sign_cakra" press_data="ꦿ" press_label="ꦿ" />
+            <softkey id="@id/softkey_javanese_sign_panyangga" press_data="ꦀ" press_label="ꦀ" />
+            <softkey id="@id/softkey_javanese_sign_cecak" press_data="ꦁ" press_label="ꦁ" />
+            <softkey id="@id/softkey_javanese_sign_wignyan" press_data="ꦃ" press_label="ꦃ" />
+            <softkey id="@id/softkey_javanese_sign_layar" press_data="ꦂ" press_label="ꦂ" />
+            <softkey id="@id/softkey_javanese_pada_tirta_tumetes" long_press_data="꧟" long_press_label="꧟" press_data="꧞" press_label="꧞" />
+        </softkey_list>
+    </softkeys>
+</framework>

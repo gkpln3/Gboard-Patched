@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base_t13n_chinese" />
+    <keyboard class="com.google.android.apps.inputmethod.latinguyk.keyboard.LatinKeyboardWithNumberMode">
+        <view layout="@layout/keyboard_chinese_9key_body" override="motion_event_handler" type="body">
+            <motion_event_handler class=".libs.framework.keyboard.handler.BasicMotionEventHandler" />
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.framework.keyboard.handler.ScrubMoveMotionEventHandler" preference_key="@string/pref_key_enable_scrub_move" reverse_preference="false" />
+            <if device="tablet">
+                <include href="@xml/keymapping_punctuation_bottom_9key_tablet" />
+            </if>
+            <include href="@xml/keymapping_body_stroke" />
+            <include href="@xml/keymapping_function_candidates_zh" />
+            <include href="@xml/keymapping_function_space_stroke" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup_autosized_label_with_emoji_hint" />
+        </view>
+    </keyboard>
+</framework>

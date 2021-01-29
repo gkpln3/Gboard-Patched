@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_acute_accent" long_press_data="U+1E944,U+1E945,U+1E946,U+1E947,U+1E948,U+1E949,U+1E94A" long_press_label="U+1E944,U+1E945,U+1E946,U+1E947,U+1E948,U+1E949,U+1E94A" press_data="´" press_label=" " />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_adlam_small_letter_nya" long_press_data="U+1E93BU+1E946" press_data="U+1E93B" />
+            <softkey id="@id/softkey_adlam_capital_letter_nya" long_press_data="U+1E919U+1E946" press_data="U+1E919" />
+            <softkey id="@id/softkey_adlam_small_letter_waw" long_press_data="U+1E931U+1E946,U+1E93E,U+1E93EU+1E946" press_data="U+1E931" />
+            <softkey id="@id/softkey_adlam_capital_letter_waw" long_press_data="U+1E90FU+1E946,U+1E91C,U+1E91CU+1E946" press_data="U+1E90F" />
+            <softkey id="@id/softkey_adlam_small_letter_e" long_press_data="U+1E92BU+1E945" press_data="U+1E92B" />
+            <softkey id="@id/softkey_adlam_capital_letter_e" long_press_data="U+1E909U+1E945" press_data="U+1E909" />
+            <softkey id="@id/softkey_adlam_small_letter_ra" long_press_data="U+1E92AU+1E946" press_data="U+1E92A" />
+            <softkey id="@id/softkey_adlam_capital_letter_ra" long_press_data="U+1E908U+1E946" press_data="U+1E908" />
+            <softkey id="@id/softkey_adlam_small_letter_tu" long_press_data="U+1E93CU+1E946" press_data="U+1E93C" />
+            <softkey id="@id/softkey_adlam_capital_letter_tu" long_press_data="U+1E91AU+1E946" press_data="U+1E91A" />
+            <softkey id="@id/softkey_adlam_small_letter_ya" long_press_data="U+1E934U+1E946" press_data="U+1E934" />
+            <softkey id="@id/softkey_adlam_capital_letter_ya" long_press_data="U+1E912U+1E946" press_data="U+1E912" />
+            <softkey id="@id/softkey_adlam_small_letter_u" long_press_data="U+1E935U+1E945" press_data="U+1E935" />
+            <softkey id="@id/softkey_adlam_capital_letter_u" long_press_data="U+1E913U+1E945" press_data="U+1E913" />
+            <softkey id="@id/softkey_adlam_small_letter_i" long_press_data="U+1E92DU+1E945" press_data="U+1E92D" />
+            <softkey id="@id/softkey_adlam_capital_letter_i" long_press_data="U+1E90BU+1E945" press_data="U+1E90B" />
+            <softkey id="@id/softkey_adlam_small_letter_o" long_press_data="U+1E92EU+1E945" press_data="U+1E92E" />
+            <softkey id="@id/softkey_adlam_capital_letter_o" long_press_data="U+1E90CU+1E945" press_data="U+1E90C" />
+            <softkey id="@id/softkey_adlam_small_letter_pe" long_press_data="U+1E928U+1E946,U+1E942,U+1E942U+1E946" press_data="U+1E928" />
+            <softkey id="@id/softkey_adlam_capital_letter_pe" long_press_data="U+1E906U+1E946,U+1E920,U+1E920U+1E946" press_data="U+1E906" />
+            <softkey id="@id/softkey_adlam_small_letter_nha" long_press_data="U+1E93DU+1E946" press_data="U+1E93D" />
+            <softkey id="@id/softkey_adlam_capital_letter_nha" long_press_data="U+1E91BU+1E946" press_data="U+1E91B" />
+            <softkey id="@id/softkey_adlam_small_letter_alif" long_press_data="U+1E922U+1E944" press_data="U+1E922" />
+            <softkey id="@id/softkey_adlam_capital_letter_alif" long_press_data="U+1E900U+1E944" press_data="U+1E900" />
+            <softkey id="@id/softkey_adlam_small_letter_sinnyiiyhe" long_press_data="U+1E927U+1E946,U+1E943,U+1E941,U+1E943U+1E946,U+1E941U+1E946" press_data="U+1E927" />
+            <softkey id="@id/softkey_adlam_capital_letter_sinnyiiyhe" long_press_data="U+1E905U+1E946,U+1E921,U+1E91F,U+1E921U+1E946,U+1E91FU+1E946" press_data="U+1E905" />
+            <softkey id="@id/softkey_adlam_small_letter_daali" long_press_data="U+1E923U+1E946" press_data="U+1E923" />
+            <softkey id="@id/softkey_adlam_capital_letter_daali" long_press_data="U+1E901U+1E946" press_data="U+1E901" />
+            <softkey id="@id/softkey_adlam_small_letter_fa" long_press_data="U+1E92CU+1E946" press_data="U+1E92C" />
+            <softkey id="@id/softkey_adlam_capital_letter_fa" long_press_data="U+1E90AU+1E946" press_data="U+1E90A" />
+            <softkey id="@id/softkey_adlam_small_letter_ga" long_press_data="U+1E93AU+1E946,U+1E940,U+1E940U+1E946" press_data="U+1E93A" />
+            <softkey id="@id/softkey_adlam_capital_letter_ga" long_press_data="U+1E918U+1E946,U+1E91E,U+1E91EU+1E946" press_data="U+1E918" />
+            <softkey id="@id/softkey_adlam_small_letter_ha" long_press_data="U+1E938U+1E946" press_data="U+1E938" />
+            <softkey id="@id/softkey_adlam_capital_letter_ha" long_press_data="U+1E916U+1E946" press_data="U+1E916" />
+            <softkey id="@id/softkey_adlam_small_letter_jiim" long_press_data="U+1E936U+1E946" press_data="U+1E936" />
+            <softkey id="@id/softkey_adlam_capital_letter_jiim" long_press_data="U+1E914U+1E946" press_data="U+1E914" />
+            <softkey id="@id/softkey_adlam_small_letter_kaf" long_press_data="U+1E933U+1E946,U+1E93F,U+1E942,U+1E93FU+1E946,U+1E942U+1E946" press_data="U+1E933" />
+            <softkey id="@id/softkey_adlam_capital_letter_kaf" long_press_data="U+1E911U+1E946,U+1E91D,U+1E920,U+1E91DU+1E946,U+1E920U+1E946" press_data="U+1E911" />
+            <softkey id="@id/softkey_adlam_small_letter_laam" long_press_data="U+1E924U+1E946" press_data="U+1E924" />
+            <softkey id="@id/softkey_adlam_capital_letter_laam" long_press_data="U+1E902U+1E946" press_data="U+1E902" />
+            <softkey id="@id/softkey_adlam_small_letter_qaaf" long_press_data="U+1E939U+1E946" press_data="U+1E939" />
+            <softkey id="@id/softkey_adlam_capital_letter_qaaf" long_press_data="U+1E917U+1E946" press_data="U+1E917" />
+            <softkey id="@id/softkey_adlam_small_letter_dha" long_press_data="U+1E92FU+1E946,U+1E941,U+1E941U+1E946" press_data="U+1E92F" />
+            <softkey id="@id/softkey_adlam_capital_letter_dha" long_press_data="U+1E90DU+1E946,U+1E91F,U+1E91FU+1E946" press_data="U+1E90D" />
+            <softkey id="@id/softkey_adlam_small_letter_yhe" long_press_data="U+1E930U+1E946" press_data="U+1E930" />
+            <softkey id="@id/softkey_adlam_capital_letter_yhe" long_press_data="U+1E90EU+1E946" press_data="U+1E90E" />
+            <softkey id="@id/softkey_adlam_small_letter_chi" long_press_data="U+1E937U+1E946" press_data="U+1E937" />
+            <softkey id="@id/softkey_adlam_capital_letter_chi" long_press_data="U+1E915U+1E946" press_data="U+1E915" />
+            <softkey id="@id/softkey_adlam_small_letter_bhe" long_press_data="U+1E929U+1E946,U+1E940,U+1E93E,U+1E940U+1E946,U+1E93EU+1E946" press_data="U+1E929" />
+            <softkey id="@id/softkey_adlam_capital_letter_bhe" long_press_data="U+1E907U+1E946,U+1E91E,U+1E91C,U+1E91EU+1E946,U+1E91CU+1E946" press_data="U+1E907" />
+            <softkey id="@id/softkey_adlam_small_letter_ba" long_press_data="U+1E926U+1E946,U+1E940,U+1E940U+1E946" press_data="U+1E926" />
+            <softkey id="@id/softkey_adlam_capital_letter_ba" long_press_data="U+1E904U+1E946,U+1E91E,U+1E91EU+1E946" press_data="U+1E904" />
+            <softkey id="@id/softkey_adlam_small_letter_nun" long_press_data="U+1E932U+1E946" press_data="U+1E932" />
+            <softkey id="@id/softkey_adlam_capital_letter_nun" long_press_data="U+1E910U+1E946" press_data="U+1E910" />
+            <softkey id="@id/softkey_adlam_small_letter_miim" long_press_data="U+1E925U+1E946" press_data="U+1E925" />
+            <softkey id="@id/softkey_adlam_capital_letter_miim" long_press_data="U+1E903U+1E946" press_data="U+1E903" />
+        </softkey_list>
+    </softkeys>
+</framework>

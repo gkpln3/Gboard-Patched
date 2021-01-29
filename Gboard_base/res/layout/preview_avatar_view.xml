@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:focusable="false" android:layout_width="@dimen/avatar_creation_preview_container_size" android:layout_height="@dimen/avatar_creation_preview_avatar_size" android:foreground="?android:selectableItemBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/avatarView" android:layout_width="@dimen/avatar_creation_preview_avatar_size" android:layout_height="@dimen/avatar_creation_preview_avatar_size" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <ProgressBar android:id="@id/avatarProgressBar" android:visibility="gone" android:layout_width="@dimen/avatar_creation_preview_avatar_size" android:layout_height="@dimen/avatar_creation_preview_avatar_size" android:indeterminate="true" android:indeterminateTint="@color/white" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="?android:progressBarStyleLarge" />
+</android.support.constraint.ConstraintLayout>

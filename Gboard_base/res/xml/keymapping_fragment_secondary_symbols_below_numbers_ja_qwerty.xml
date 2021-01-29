@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_secondary_symbols="true">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_superscript_low_line" view_id="@id/key_pos_qwerty_q" />
+            <merge key_id="@id/softkey_fragment_superscript_reverse_solidus" view_id="@id/key_pos_qwerty_w" />
+            <merge key_id="@id/softkey_fragment_superscript_vertical_line" view_id="@id/key_pos_qwerty_e" />
+            <merge key_id="@id/softkey_fragment_superscript_equals_sign" view_id="@id/key_pos_qwerty_r" />
+            <merge key_id="@id/softkey_fragment_superscript_left_square_bracket" view_id="@id/key_pos_qwerty_t" />
+            <merge key_id="@id/softkey_fragment_superscript_right_square_bracket" view_id="@id/key_pos_qwerty_y" />
+            <merge key_id="@id/softkey_fragment_superscript_less_than" view_id="@id/key_pos_qwerty_u" />
+            <merge key_id="@id/softkey_fragment_superscript_more_than" view_id="@id/key_pos_qwerty_i" />
+            <merge key_id="@id/softkey_fragment_superscript_left_curly_bracket" view_id="@id/key_pos_qwerty_o" />
+            <merge key_id="@id/softkey_fragment_superscript_right_curly_bracket" view_id="@id/key_pos_qwerty_p" />
+        </merge_key_mapping>
+    </if>
+</framework>

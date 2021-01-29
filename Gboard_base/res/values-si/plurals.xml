@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">යතුරු %dක් පැවරුවා</item>
+        <item quantity="one">යතුරු %dක් පැවරුවා</item>
+    </plurals>
+</resources>

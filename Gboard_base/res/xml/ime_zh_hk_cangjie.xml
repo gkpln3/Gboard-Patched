@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" inline_composing="false" keyevent_interpreter="com.google.android.apps.inputmethod.libs.chinese.PositionBasedKeyEventInterpreter" language="zh-XE" language_specific_settings="@xml/zh_hk_language_settings" language_tag="zh-Hant-HK-t-i0-cangjie" secondary_ime_def="@xml/ime_zh_hk_cangjie_hard" string_id="ime_zh_hk_cangjie" use_ascii_password_keyboard="true">
+        <if enable_number_row="false">
+            <keyboard_group variant="cangjie" variant_label="@string/variant_cangjie">
+                <layout_specific_settings resource_id="@xml/zh_hk_cangjie_layout_settings" />
+                <keyboard def="@xml/keyboard_fragment_zh_cangjie" type="prime">
+                    <merge def="@xml/keyboard_chinese_cangjie" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="cangjie" variant_label="@string/variant_cangjie">
+                <layout_specific_settings resource_id="@xml/zh_hk_cangjie_layout_settings" />
+                <keyboard def="@xml/keyboard_fragment_zh_cangjie" type="prime">
+                    <merge def="@xml/keyboard_chinese_cangjie" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_9_9_zh_cangjie" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+        <extra_values>
+            <item id="@id/extra_value_has_more_candidates_view" value="true" />
+            <item id="@id/extra_value_space_label" value="@string/label_space_cangjie" />
+            <item id="@id/extra_value_period" value="。" />
+            <item id="@id/extra_value_enable_double_space_period_pref_key" value="@string/pref_key_enable_double_space_period" />
+            <item id="@id/extra_value_cangjie_mode" value="cangjie_standard_standard" />
+            <item id="@id/extra_value_metrics_processors" value="hmm" />
+        </extra_values>
+        <include href="@xml/processors_zh_hk_cangjie" />
+    </ime>
+</framework>

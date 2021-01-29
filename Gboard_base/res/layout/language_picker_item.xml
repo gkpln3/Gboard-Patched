@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingTop="@dimen/language_picker_item_padding_top" android:paddingBottom="@dimen/language_picker_item_padding_bottom" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/language_picker_item_padding_start" android:paddingEnd="@dimen/language_picker_item_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:id="@id/picker_selected" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/language_picker_item_radio_button_padding" android:paddingEnd="@dimen/language_picker_item_radio_button_padding" android:buttonTint="?android:colorAccent" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/language_picker_item_text_padding_start" android:paddingEnd="@dimen/language_picker_item_text_padding_end">
+        <TextView android:textSize="@dimen/language_picker_item_text_size_primary" android:textColor="?android:textColorPrimary" android:id="@id/picker_language_name" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="@dimen/language_picker_item_text_size_secondary" android:textColor="?android:textColorPrimary" android:id="@id/picker_layout_name" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

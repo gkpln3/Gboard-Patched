@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/translate_board_language_label_font_size" android:textColor="?ColorTranslateBoardLabel" android:gravity="center_vertical" android:id="@id/label" android:tag=".label.for-extension" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxLines="1"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

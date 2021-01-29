@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_igl_ng">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_igl_ng" />
+        </view>
+    </keyboard>
+</framework>

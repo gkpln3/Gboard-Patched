@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_latin_small_letter_q" press_data="q" />
+            <softkey id="@id/softkey_latin_capital_letter_q" press_data="Q" />
+            <softkey id="@id/softkey_latin_small_letter_w" press_data="w" />
+            <softkey id="@id/softkey_latin_capital_letter_w" press_data="W" />
+            <softkey id="@id/softkey_latin_small_letter_e" press_data="e" />
+            <softkey id="@id/softkey_latin_capital_letter_e" press_data="E" />
+            <softkey id="@id/softkey_latin_small_letter_r" press_data="r" />
+            <softkey id="@id/softkey_latin_capital_letter_r" press_data="R" />
+            <softkey id="@id/softkey_latin_small_letter_t" press_data="t" />
+            <softkey id="@id/softkey_latin_capital_letter_t" press_data="T" />
+            <softkey id="@id/softkey_latin_small_letter_y" press_data="y" />
+            <softkey id="@id/softkey_latin_capital_letter_y" press_data="Y" />
+            <softkey id="@id/softkey_latin_small_letter_u" press_data="u" />
+            <softkey id="@id/softkey_latin_capital_letter_u" press_data="U" />
+            <softkey id="@id/softkey_latin_small_letter_i" press_data="i" />
+            <softkey id="@id/softkey_latin_capital_letter_i" press_data="I" />
+            <softkey id="@id/softkey_latin_small_letter_o" press_data="o" />
+            <softkey id="@id/softkey_latin_capital_letter_o" press_data="O" />
+            <softkey id="@id/softkey_latin_small_letter_p" press_data="p" />
+            <softkey id="@id/softkey_latin_capital_letter_p" press_data="P" />
+            <softkey id="@id/softkey_latin_small_letter_a" press_data="a" />
+            <softkey id="@id/softkey_latin_capital_letter_a" press_data="A" />
+            <softkey id="@id/softkey_latin_small_letter_s" press_data="s" />
+            <softkey id="@id/softkey_latin_capital_letter_s" press_data="S" />
+            <softkey id="@id/softkey_latin_small_letter_d" press_data="d" />
+            <softkey id="@id/softkey_latin_capital_letter_d" press_data="D" />
+            <softkey id="@id/softkey_latin_small_letter_f" press_data="f" />
+            <softkey id="@id/softkey_latin_capital_letter_f" press_data="F" />
+            <softkey id="@id/softkey_latin_small_letter_g" press_data="g" />
+            <softkey id="@id/softkey_latin_capital_letter_g" press_data="G" />
+            <softkey id="@id/softkey_latin_small_letter_h" press_data="h" />
+            <softkey id="@id/softkey_latin_capital_letter_h" press_data="H" />
+            <softkey id="@id/softkey_latin_small_letter_j" press_data="j" />
+            <softkey id="@id/softkey_latin_capital_letter_j" press_data="J" />
+            <softkey id="@id/softkey_latin_small_letter_k" press_data="k" />
+            <softkey id="@id/softkey_latin_capital_letter_k" press_data="K" />
+            <softkey id="@id/softkey_latin_small_letter_l" press_data="l" />
+            <softkey id="@id/softkey_latin_capital_letter_l" press_data="L" />
+            <softkey id="@id/softkey_latin_small_letter_z" press_data="z" />
+            <softkey id="@id/softkey_latin_capital_letter_z" press_data="Z" />
+            <softkey id="@id/softkey_latin_small_letter_x" press_data="x" />
+            <softkey id="@id/softkey_latin_capital_letter_x" press_data="X" />
+            <softkey id="@id/softkey_latin_small_letter_c" press_data="c" />
+            <softkey id="@id/softkey_latin_capital_letter_c" press_data="C" />
+            <softkey id="@id/softkey_latin_small_letter_v" press_data="v" />
+            <softkey id="@id/softkey_latin_capital_letter_v" press_data="V" />
+            <softkey id="@id/softkey_latin_small_letter_b" press_data="b" />
+            <softkey id="@id/softkey_latin_capital_letter_b" press_data="B" />
+            <softkey id="@id/softkey_latin_small_letter_n" press_data="n" />
+            <softkey id="@id/softkey_latin_capital_letter_n" press_data="N" />
+            <softkey id="@id/softkey_latin_small_letter_m" press_data="m" />
+            <softkey id="@id/softkey_latin_capital_letter_m" press_data="M" />
+        </softkey_list>
+    </softkeys>
+</framework>

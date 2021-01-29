@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_simple">
+            <softkey id="@id/softkey_new_tai_lue_letter_high_qa" long_press_data="ᦁ" press_data="ᦀ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_qa" press_data="ᦁ" />
+            <softkey id="@id/softkey_new_tai_lue_tone_mark_1" long_press_data="ᧉ" press_data="ᧈ" />
+            <softkey id="@id/softkey_new_tai_lue_tone_mark_2" press_data="ᧉ" />
+            <softkey id="@id/softkey_new_tai_lue_vowel_sign_e" long_press_data="ᦶ,ᦹ" press_data="ᦵ" />
+            <softkey id="@id/softkey_new_tai_lue_vowel_sign_ae" press_data="ᦶ" />
+            <softkey hint_label="ᦾ" id="@id/softkey_new_tai_lue_letter_high_tha" long_press_data="ᦾ,ᦒ" press_data="ᦏ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_tha" press_data="ᦒ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_high_ta" long_press_data="ᦑ" press_data="ᦎ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_ta" press_data="ᦑ" />
+            <softkey hint_label="ᦻ" id="@id/softkey_new_tai_lue_letter_high_ya" long_press_data="ᦻ,ᦍ" press_data="ᦊ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_ya" press_data="ᦍ" />
+            <softkey hint_label="ᦼ" id="@id/softkey_new_tai_lue_vowel_sign_u" long_press_data="ᦼ,ᦴ" press_data="ᦳ" />
+            <softkey id="@id/softkey_new_tai_lue_vowel_sign_uu" press_data="ᦴ" />
+            <softkey hint_label="ᦹ" id="@id/softkey_new_tai_lue_vowel_sign_ii" long_press_data="ᦹ,ᧀ,ᦿ" press_data="ᦲ" />
+            <softkey hint_label="ᦿ" id="@id/softkey_new_tai_lue_vowel_sign_iy" long_press_data="ᦿ" press_data="ᧀ" />
+            <softkey hint_label="ᦽ" id="@id/softkey_new_tai_lue_vowel_sign_o" long_press_data="ᦽ,ᦸ" press_data="ᦷ" />
+            <softkey id="@id/softkey_new_tai_lue_vowel_sign_oa" press_data="ᦸ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_high_pa" long_press_data="ᦗ" press_data="ᦔ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_pa" press_data="ᦗ" />
+            <softkey id="@id/softkey_new_tai_lue_vowel_sign_vowel_shortener" long_press_data="ᦱ,ᦫ" press_data="ᦰ" />
+            <softkey id="@id/softkey_new_tai_lue_vowel_sign_aa" press_data="ᦱ" />
+            <softkey hint_label="ᦪ" id="@id/softkey_new_tai_lue_letter_high_sa" long_press_data="ᦪ,ᦌ,ᦫ" press_data="ᦉ" />
+            <softkey hint_label="ᦫ" id="@id/softkey_new_tai_lue_letter_low_sa" long_press_data="ᦫ" press_data="ᦌ" />
+            <softkey hint_label="ᧆ" id="@id/softkey_new_tai_lue_letter_high_da" long_press_data="ᧆ,ᦤ" press_data="ᦡ" />
+            <softkey hint_label="ᧆ" id="@id/softkey_new_tai_lue_letter_low_da" long_press_data="ᧆ" press_data="ᦤ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_high_fa" long_press_data="ᦝ" press_data="ᦚ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_fa" press_data="ᦝ" />
+            <softkey hint_label="ᧂ" id="@id/softkey_new_tai_lue_letter_high_nga" long_press_data="ᧂ,ᦇ" press_data="ᦄ" />
+            <softkey hint_label="ᧂ" id="@id/softkey_new_tai_lue_letter_low_nga" long_press_data="ᧂ" press_data="ᦇ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_high_ha" long_press_data="ᦣ,ᦦ" press_data="ᦠ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_ha" press_data="ᦣ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_high_pha" long_press_data="ᦘ,ᦨ" press_data="ᦕ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_pha" press_data="ᦘ" />
+            <softkey hint_label="ᦦ" id="@id/softkey_new_tai_lue_letter_high_ka" long_press_data="ᦦ,ᧅ,ᦅ,ᦨ" press_data="ᦂ" />
+            <softkey hint_label="ᦨ" id="@id/softkey_new_tai_lue_letter_low_ka" long_press_data="ᦨ" press_data="ᦅ" />
+            <softkey hint_label="ᦺ" id="@id/softkey_new_tai_lue_letter_high_la" long_press_data="ᦺ,ᦟ" press_data="ᦜ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_la" press_data="ᦟ" />
+            <softkey id="@id/softkey_new_tai_lue_sign_lae" long_press_data="᧟" press_data="᧞" />
+            <softkey id="@id/softkey_new_tai_lue_sign_laev" press_data="᧟" />
+            <softkey hint_label="ᦧ" id="@id/softkey_new_tai_lue_letter_high_xa" long_press_data="ᦧ,ᦆ,ᦩ" press_data="ᦃ" />
+            <softkey hint_label="ᦩ" id="@id/softkey_new_tai_lue_letter_low_xa" long_press_data="ᦩ" press_data="ᦆ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_high_tsa" long_press_data="ᦋ,ᦩ" press_data="ᦈ" />
+            <softkey id="@id/softkey_new_tai_lue_letter_low_tsa" press_data="ᦋ" />
+            <softkey hint_label="ᧁ" id="@id/softkey_new_tai_lue_letter_high_va" long_press_data="ᧁ,ᦞ" press_data="ᦛ" />
+            <softkey hint_label="ᧁ" id="@id/softkey_new_tai_lue_letter_low_va" long_press_data="ᧁ" press_data="ᦞ" />
+            <softkey hint_label="ᧇ" id="@id/softkey_new_tai_lue_letter_high_ba" long_press_data="ᧇ,ᦥ" press_data="ᦢ" />
+            <softkey hint_label="ᧇ" id="@id/softkey_new_tai_lue_letter_low_ba" long_press_data="ᧇ" press_data="ᦥ" />
+            <softkey hint_label="ᧃ" id="@id/softkey_new_tai_lue_letter_high_na" long_press_data="ᧃ,ᦓ" press_data="ᦐ" />
+            <softkey hint_label="ᧃ" id="@id/softkey_new_tai_lue_letter_low_na" long_press_data="ᧃ" press_data="ᦓ" />
+            <softkey hint_label="ᧄ" id="@id/softkey_new_tai_lue_letter_high_ma" long_press_data="ᧄ,ᦙ" press_data="ᦖ" />
+            <softkey hint_label="ᧄ" id="@id/softkey_new_tai_lue_letter_low_ma" long_press_data="ᧄ" press_data="ᦙ" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:layout_gravity="center" style="@style/StickerRevampHeaderContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.AppCompatImageView android:id="@id/sticker_pack_icon" android:tag=".icon.for-category-key" android:duplicateParentState="true" style="@style/StickerRevampHeaderImage" />
+</FrameLayout>

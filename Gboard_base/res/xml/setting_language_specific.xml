@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.languageselection.preference.KeyboardLayoutListPreference android:layout="@layout/setting_language_preference_layout_with_bg" android:key="@string/setting_language_layout_key" />
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_language_specific_category_title" android:key="@string/setting_language_specific_category_key">
+        <com.google.android.apps.inputmethod.libs.languageselection.preference.MultilingualSettingPreference android:layout="@layout/setting_language_preference_layout" android:key="@string/settings_multilingual_key" android:widgetLayout="@layout/setting_multilingual" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

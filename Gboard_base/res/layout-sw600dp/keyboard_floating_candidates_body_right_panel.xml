@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/more_candidates_right_panel" android:layout_width="@dimen/floating_softkey_show_more_candidates_min_width" android:layout_alignParentRight="true" style="@style/Linear.WidthWeighted.Vertical"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_candidates_del" style="@style/SoftKeyOnFloatingCandidatesView" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_candidates_page_up" style="@style/SoftKeyOnFloatingCandidatesView" />
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_candidates_page_down" style="@style/SoftKeyOnFloatingCandidatesView" />
+</LinearLayout>

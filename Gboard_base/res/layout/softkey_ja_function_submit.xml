@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1000.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:mozc="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/label" android:layout_width="0.0dip" android:layout_weight="750.0" enable_relayout="false" style="@style/Label.QwertyCenter" />
+    <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="250.0" />
+</LinearLayout>

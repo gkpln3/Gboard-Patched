@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if japanese_use_tri_state_mode="true">
+        <key_mapping>
+            <mapping key_id="@id/softkey_ja_switch_to_tri_state_alphabet_qwerty" view_id="@id/key_pos_switch_to_symbol" />
+        </key_mapping>
+        <include href="@xml/keymapping_fragment_function_latin_ja_godan" />
+    </if>
+</framework>

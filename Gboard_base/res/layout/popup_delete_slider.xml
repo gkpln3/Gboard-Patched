@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/JoystickDeletePopupOutline"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SeekBar android:layout_gravity="center" android:id="@id/seek_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:progressTint="?ColorJoystickLightFill" android:progressBackgroundTint="?ColorJoystickDarkFill" android:thumbTint="?ColorLabel" />
+</FrameLayout>

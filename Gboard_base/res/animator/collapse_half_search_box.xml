@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animator android:duration="@integer/expression_ui_transition_animation_duration_ms" android:valueType="intType"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

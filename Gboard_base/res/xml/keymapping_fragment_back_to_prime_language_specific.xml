@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if language="ab-GE">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="adx-CN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ady-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ahr-IN" variant="ahirani">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="aii">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_syriac_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_syriac_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="am">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="anp-IN" variant="angika">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ar" variant="arabic|arabic_two|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="as-IN" variant="assamese|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="av-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="awa-IN" variant="awadhi_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="az-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="az-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ba">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bal-PK" variant="balochi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ban-Bali">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_balinese_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_balinese_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bax-CM">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bamum_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bamum_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bcc-PK" variant="balochi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bcq-Ethi">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="be-BY">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ber-Tfng">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tamazight_tifinagh_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tamazight_tifinagh_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bft-PK" variant="balti|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bfy-IN" variant="bagheli|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bfz-IN" variant="mahasu_pahari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bg">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bgc-IN" variant="haryanvi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bgn-PK" variant="balochi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bgp-Arab" variant="balochi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bgq-IN" variant="bagri|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bgq-PK" variant="bagri_arabic">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bhb-Deva" variant="bhili|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bhb-Gujr" variant="bhili">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_gujarati_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_gujarati_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bho-IN" variant="bhojpuri|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bjj-IN" variant="kannauji|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bku-PH">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_buhid_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_buhid_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="blk-MM">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="blt-VN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tai_viet_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tai_viet_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bm-Nkoo">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_nko_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_nko_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bn" variant="bengali_bangladesh|bengali_india|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bns-IN" variant="bundeli_dynamic">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bo-CN" variant="tibetan|tibetan_alphabetical|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bpy-IN" variant="bishnupriya_manipuri">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bqi-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="brh-Arab" variant="brahui|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="brx-Deva" variant="bodo_devanagari_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="brx-Beng" variant="bodo_bengali_dynamic">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bs-Cyrl">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="btm-Batk">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_batak_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_batak_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bts-Batk">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_batak_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_batak_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bug-Bugi" variant="buginese|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_buginese_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_buginese_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bxm-MN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="bxr-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ccp-BD" variant="chakma|chakma_compact">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_chakma_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_chakma_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ce-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ch-GU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_chamorro_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_chamorro_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="chr-US|chr-x-dual">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cherokee_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cherokee_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="cja-KH">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_western_cham_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_western_cham_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="cjm-VN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_eastern_cham_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_eastern_cham_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="cld-IQ">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_syriac_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_syriac_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="cop-EG">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_coptic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_coptic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="cr-Cans-CA">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_canadian_syllabics_cree_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_canadian_syllabics_cree_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="crh-Cyrl">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ctg-BD" variant="chittagonian">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="cu-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="cv-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_chuvash_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_chuvash_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="dar-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="dcc-IN" variant="dakhini|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="dhd-IN" variant="dhundhari_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="dng-KG">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="doi-Arab" variant="dogri_arabic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="doi-Deva" variant="dogri|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="dty-NP" variant="dotyali">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="dv-MV">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_dhivehi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_dhivehi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="dyu-Nkoo">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_nko_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_nko_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="dz">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="el-CY">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_greek_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_greek_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="el-GR" variant="greek|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_greek_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_greek_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="fa">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="fay-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ff-Adlm">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_adlam_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_adlam_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="fil-Tglg">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tagalog_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tagalog_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gag-Cyrl">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gbm-IN" variant="garhwali|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gdq-YE">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gdx-IN" variant="godwari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gez">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gjk-PK">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gju-Deva" variant="gujari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gju-PK" variant="gujari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="glk-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gno-IN" variant="gondi">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gno-Telu">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_telugu_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_telugu_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="grt-Beng" variant="garo">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gu-IN" variant="gujarati|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_gujarati_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_gujarati_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="gwc-PK">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hac-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="haz-AF">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hi-IN" variant="hindi|hindi_compact|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hdy-ET">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hif-Deva">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hlb-IN" variant="halbi">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hlb-Orya" variant="halbi">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_odia_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_odia_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hnd-PK" variant="hindko|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hne-IN" variant="chhattisgarhi_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hnn-PH">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_hanunuo_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_hanunuo_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hno-PK" variant="hindko|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hoj-IN" variant="harauti|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="hy-AM" variant="armenian_armenia_phonetic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_armenian_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_armenian_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ii-CN" variant="yi_dynamic">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_yi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_yi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="inh-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="iu-Cans-CA">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_canadian_syllabics_inuktitut_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_canadian_syllabics_inuktitut_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="iw-IL" variant="hebrew|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_hebrew_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_hebrew_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ja-JP">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_japanese_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_japanese_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ji" variant="yiddish">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_hebrew_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_hebrew_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="jv-Java">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_javanese_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_javanese_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ka-GE">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_georgian_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_georgian_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ka-Geok">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_georgian_khutsuri_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_georgian_khutsuri_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kaa-Cyrl">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kbd-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kfq-IN" variant="korku">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kfr-IN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_gujarati_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_gujarati_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kfy-IN" variant="kumaoni_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="khb-CN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_new_tai_lue_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_new_tai_lue_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="khg-CN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="khw" variant="khowar|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kjg-LA">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_lao_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_lao_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kjp-MM">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kk" variant="kazakh|kazakh_pc|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="km-KH" variant="khmer_cambodia|khmer_cambodia_native|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_khmer_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_khmer_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kmz-Arab">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kn-IN" variant="kannada_india|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_kannada_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_kannada_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="knn-IN" variant="konkani_devanagari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ko">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_korean_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_korean_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="koi-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kok-Deva" variant="konkani_devanagari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kok-Knda" variant="konkani_kannada">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_kannada_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_kannada_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="krc-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kru-IN" variant="kurukh|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kru-Mlym" variant="kurukh">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_malayalam_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_malayalam_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ks-Arab" variant="kashmiri_arabic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ks-Deva" variant="kashmiri_devanagari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ksw-MM">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ktb-Ethi">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ku-IQ|ku-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kum-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kv-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kvx-PK">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kxm-TH">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kxu-IN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_odia_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_odia_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ky">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="kyu-MM">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_kayah_li_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_kayah_li_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lbe-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lep-IN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_lepcha_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_lepcha_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lep-Tibt">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tibetan_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lez-AZ">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lez-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lif-Deva" variant="limbu">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lif-Limb">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_limbu_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_limbu_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lis-Lisu">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_lisu_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_lisu_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lki-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lmn-Deva" variant="lambadi_devanagari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lmn-Knda" variant="lambadi_kannada">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_kannada_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_kannada_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lmn-Telu" variant="lambadi_telugu">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_telugu_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_telugu_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lo-LA" variant="lao|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_lao_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_lao_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lrc-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="lrl-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="luz-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mag-IN|mag-NP" variant="magahi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mai-IN" variant="maithili|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mak-Bugi">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_buginese_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_buginese_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mde-TD">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mdf-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mfa-TH">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mhr-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mjl-IN" variant="mandeali_dynamic">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mk">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mki-PK">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ml-IN" variant="malayalam_india|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_malayalam_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_malayalam_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mn-MN" variant="mongolian|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mni-Beng" variant="manipuri_bengali">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mni-Mtei" variant="manipuri_meitei">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_meetei_mayek_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_meetei_mayek_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mnw-MM">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mr-IN" variant="marathi_india|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mrj-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ms-Arab-BN|ms-Arab-MY">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mtr-IN" variant="mewari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mul-x-ipa">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ipa_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ipa_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mup-IN" variant="malvi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mve-PK" variant="marwari_arabic">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mvy-PK">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="my">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="myv-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="mzn-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ne" variant="nepali_devanagari_dynamic|nepali_nepal_romanized|nepali_nepal_traditional|nepali_nepal_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="new-NP">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="nod-Thai">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="noe-IN" variant="nimadi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="oj-Cans">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_canadian_syllabics_cree_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_canadian_syllabics_cree_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="or-IN" variant="odia|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_odia_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_odia_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="os-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ossetian_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ossetian_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="osa-US">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_osage_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_osage_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="pa-PK" variant="punjabi_pakistan|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="pa-Guru" variant="punjabi_gurmukhi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_gurmukhi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_gurmukhi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="phr-PK" variant="pahari_pothwari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="plk-PK">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="pnt-GR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_greek_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_greek_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="prs-AF">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ps" variant="pashto|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="psh-AF">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="psi-AF">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="qxq-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="rej-Rjng">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_rejang_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_rejang_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="rki-MM">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_myanmar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="rkt-Beng">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="rkt-IN" variant="rangpuri">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ru">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="rue-UA">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="rwr-IN" variant="marwari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sa-IN" variant="sanskrit|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sah-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sas-Bali">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_balinese_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_balinese_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sat-Deva" variant="santali_devanagari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sat-Beng" variant="santali_bengali">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sat-Olck" variant="santali_ol_chiki">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ol_chiki_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ol_chiki_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="saz-IN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_saurashtra_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_saurashtra_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sck-IN" variant="sadri_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="scl-PK" variant="shina|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sd-Arab" variant="sindhi_arabic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sd-Deva" variant="sindhi_devanagari_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sdh-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sgj-IN" variant="surgujia|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sgw-ET">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="shn-MM">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_myanmar_shan_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_myanmar_shan_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="si-LK" variant="sinhala|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_sinhala_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_sinhala_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sjp-IN" variant="surjapuri">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="skr" variant="saraiki|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sou-TH">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sr-Cyrl-RS|srp-Cyrl-ME">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="stv-ET">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="sty-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="su-Arab">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_arabic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="su-Sund">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_sundanese_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_sundanese_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="swv-IN" variant="shekhawati|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="syc-IQ">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_syriac_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_syriac_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="syl-Beng">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="syl-Sylo" variant="sylheti_syloti_nagri_dynamic">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_syloti_nagri_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_syloti_nagri_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ta" variant="tamil|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tamil_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tamil_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tab-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="taj-NP" variant="tamang">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tbw-PH">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tagbanwa_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tagbanwa_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tcy-IN" variant="tulu_india">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_kannada_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_kannada_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tdd-CN">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tai_le_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tai_le_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="te-IN" variant="telugu_india|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_telugu_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_telugu_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tg">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="th-TH" variant="thai|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ti">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_ethiopic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tk">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_turkmen_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_turkmen_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tks-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tly-IR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tly-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="trp-IN" variant="kok_borok">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="trw">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tt">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tts-TH">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_thai_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="tyv-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="udm-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ug">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_uyghur_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_uyghur_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="uk">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="unr-Beng" variant="mundari_bengali">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_bengali_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="unr-IN" variant="mundari">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="unr-Orya">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_odia_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_odia_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ur" variant="urdu_in|urdu_pakistan|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="uum-GE">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="uz-Cyrl">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="vah" variant="varhadi">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="vai-LR">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_vai_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_vai_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="vas-Gujr">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_gujarati_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_gujarati_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="vas-IN" variant="vasavi">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="wbr-IN" variant="wagdi|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="wne-PK">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_farsi_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="wry-IN" variant="merwari|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="xal-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_tatar_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="xmf-GE">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_georgian_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_georgian_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="xnr-IN" variant="kangri_dynamic|handwriting">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="xsr-NP">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_devanagari_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="ydd-IL">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_hebrew_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_hebrew_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="yrk-RU">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_cyrillic_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+    <if language="zh">
+        <merge_key_mapping>
+            <merge key_id="@id/softkey_fragment_chinese_back_key" view_id="@id/key_pos_back_to_prime" />
+            <merge key_id="@id/softkey_fragment_chinese_back_key" view_id="@id/key_pos_back_to_prime2" />
+        </merge_key_mapping>
+    </if>
+</framework>

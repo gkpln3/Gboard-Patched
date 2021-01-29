@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/hide_keyboard_key_content_desc" id="@id/softkey_hide_keyboard" layout="@layout/softkey_header_icon">
+            <action keycode="HIDE_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconHideKeyboard" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/voice_input_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_voice" layout="@layout/softkey_header_icon">
+            <action keycode="LAUNCH_VOICE_IME" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconMic" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/voice_input_disabled_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_empty_mic" layout="@layout/softkey_header_icon">
+            <action keycode="LAUNCH_VOICE_IME" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconEmptyMic" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/voice_input_disabled_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_disabled_mic" layout="@layout/softkey_header_icon">
+            <action keycode="SHOW_DISABLED_MIC_REASON" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconDisabledMic" />
+        </softkey>
+        <softkey content_description="@string/setting_key_content_desc" id="@id/softkey_settings_key_on_header" layout="@layout/softkey_header_icon">
+            <action data="" keycode="LAUNCH_PREFERENCE_ACTIVITY" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSetting" />
+        </softkey>
+    </softkeys>
+</framework>

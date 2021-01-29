@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_zh_cn_9key">
+        <view type="body">
+            <softkeys href="@xml/softkeys_function_candidates_zh" />
+            <softkeys href="@xml/softkeys_function_shift_zh_cn_9key" />
+            <softkeys href="@xml/softkeys_input_zh_cn_9key" />
+            <softkeys href="@xml/softkeys_input_zh_cn_9key_upcase" />
+            <softkeys href="@xml/softkeys_punctuation_zh_left_panel" />
+        </view>
+    </keyboard>
+</framework>

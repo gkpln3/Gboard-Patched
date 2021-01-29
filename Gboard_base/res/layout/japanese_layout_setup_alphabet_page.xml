@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/JapaneseLayoutSetupPage"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/japanese_layout_setup_title" />
+    <LinearLayout style="@style/JapaneseLayoutSetupPage_LayoutItemsParent">
+        <LinearLayout style="@style/JapaneseLayoutSetupPage_LayoutItemsGroup">
+            <com.google.android.apps.inputmethod.libs.onboardingflow.KeyboardPreviewItemView android:id="@id/first_entry" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" keyboard_type="alphabet_12keys" language_tag="ja-JP" layout_name="@string/variant_japanese_12keys_toggleflick" variant="japanese_12keys_toggleflick" />
+            <com.google.android.apps.inputmethod.libs.onboardingflow.KeyboardPreviewItemView android:id="@id/second_entry" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" keyboard_type="alphabet_qwerty" language_tag="ja-JP" layout_name="@string/variant_japanese_qwerty" variant="japanese_12keys_toggleflick" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

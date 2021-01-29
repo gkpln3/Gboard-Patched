@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d tangenter har tilldelats</item>
+        <item quantity="one">%d tangent har tilldelats</item>
+    </plurals>
+</resources>

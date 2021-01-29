@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">已指定 %d 個鍵</item>
+        <item quantity="one">已指定 %d 個鍵</item>
+    </plurals>
+</resources>

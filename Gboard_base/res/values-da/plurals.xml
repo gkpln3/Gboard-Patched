@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d nøgler er tildelt</item>
+        <item quantity="one">%d nøgle er tildelt</item>
+    </plurals>
+</resources>

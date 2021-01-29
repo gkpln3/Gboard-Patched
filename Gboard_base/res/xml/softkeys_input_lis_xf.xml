@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_apostrophe" press_data="'" />
+            <softkey id="@id/softkey_lisu_letter_wa" long_press_data="ꓼ" press_data="ꓪ" />
+            <softkey id="@id/softkey_lisu_letter_tone_mya_na" press_data="ꓼ" />
+            <softkey id="@id/softkey_lisu_letter_e" long_press_data="ꓱ" press_data="ꓰ" />
+            <softkey id="@id/softkey_lisu_letter_eu" press_data="ꓱ" />
+            <softkey id="@id/softkey_lisu_letter_zha" long_press_data="ꓤ" press_data="ꓣ" />
+            <softkey id="@id/softkey_lisu_letter_za" press_data="ꓤ" />
+            <softkey id="@id/softkey_lisu_letter_ta" long_press_data="ꓕ" press_data="ꓔ" />
+            <softkey id="@id/softkey_lisu_letter_tha" press_data="ꓕ" />
+            <softkey id="@id/softkey_lisu_letter_ya" long_press_data="ꓻ" press_data="ꓬ" />
+            <softkey id="@id/softkey_lisu_letter_tone_mya_bo" press_data="ꓻ" />
+            <softkey id="@id/softkey_lisu_letter_u" long_press_data="ꓵ" press_data="ꓴ" />
+            <softkey id="@id/softkey_lisu_letter_ue" press_data="ꓵ" />
+            <softkey id="@id/softkey_lisu_letter_i" long_press_data="ꓹꓼ" press_data="ꓲ" />
+            <softkey id="@id/softkey_lisu_letter_tone_na_po_lisu_letter_tone_mya_na" press_data="ꓹꓼ" />
+            <softkey id="@id/softkey_lisu_letter_o" long_press_data="ˍ" press_data="ꓳ" />
+            <softkey id="@id/softkey_modifier_letter_low_macron" press_data="ˍ" />
+            <softkey id="@id/softkey_lisu_letter_pa" long_press_data="ꓒ" press_data="ꓑ" />
+            <softkey id="@id/softkey_lisu_letter_pha" press_data="ꓒ" />
+            <softkey id="@id/softkey_lisu_letter_a" long_press_data="ꓯ" press_data="ꓮ" />
+            <softkey id="@id/softkey_lisu_letter_ae" press_data="ꓯ" />
+            <softkey id="@id/softkey_lisu_letter_sa" long_press_data="ꓽ" press_data="ꓢ" />
+            <softkey id="@id/softkey_lisu_letter_tone_mya_jeu" press_data="ꓽ" />
+            <softkey id="@id/softkey_lisu_letter_da" long_press_data="ꓷ" press_data="ꓓ" />
+            <softkey id="@id/softkey_lisu_letter_oe" press_data="ꓷ" />
+            <softkey id="@id/softkey_lisu_letter_tsa" long_press_data="ꓞ" press_data="ꓝ" />
+            <softkey id="@id/softkey_lisu_letter_tsha" press_data="ꓞ" />
+            <softkey id="@id/softkey_lisu_letter_ga" long_press_data="ꓨ" press_data="ꓖ" />
+            <softkey id="@id/softkey_lisu_letter_hha" press_data="ꓨ" />
+            <softkey id="@id/softkey_lisu_letter_xa" long_press_data="ꓺ" press_data="ꓧ" />
+            <softkey id="@id/softkey_lisu_letter_tone_mya_cya" press_data="ꓺ" />
+            <softkey id="@id/softkey_lisu_letter_ja" long_press_data="ꓩ" press_data="ꓙ" />
+            <softkey id="@id/softkey_lisu_letter_fa" press_data="ꓩ" />
+            <softkey id="@id/softkey_lisu_letter_ka" long_press_data="ꓘ" press_data="ꓗ" />
+            <softkey id="@id/softkey_lisu_letter_kha" press_data="ꓘ" />
+            <softkey id="@id/softkey_lisu_letter_la" long_press_data="ꓶ" press_data="ꓡ" />
+            <softkey id="@id/softkey_lisu_letter_uh" press_data="ꓶ" />
+            <softkey id="@id/softkey_lisu_letter_dza" long_press_data="ꓹ" press_data="ꓜ" />
+            <softkey id="@id/softkey_lisu_letter_tone_na_po" press_data="ꓹ" />
+            <softkey id="@id/softkey_lisu_letter_sha" long_press_data="ꓸ" press_data="ꓫ" />
+            <softkey id="@id/softkey_lisu_letter_tone_mya_ti" press_data="ꓸ" />
+            <softkey id="@id/softkey_lisu_letter_ca" long_press_data="ꓛ" press_data="ꓚ" />
+            <softkey id="@id/softkey_lisu_letter_cha" press_data="ꓛ" />
+            <softkey id="@id/softkey_lisu_letter_ha" long_press_data="ꓥ" press_data="ꓦ" />
+            <softkey id="@id/softkey_lisu_letter_nga" press_data="ꓥ" />
+            <softkey id="@id/softkey_lisu_letter_ba" long_press_data="ꓭ" press_data="ꓐ" />
+            <softkey id="@id/softkey_lisu_letter_gha" press_data="ꓭ" />
+            <softkey id="@id/softkey_lisu_letter_na" long_press_data="-" press_data="ꓠ" />
+            <softkey id="@id/softkey_hyphen_minus" press_data="-" />
+            <softkey id="@id/softkey_lisu_letter_ma" long_press_data="ꓸꓼ" press_data="ꓟ" />
+            <softkey id="@id/softkey_lisu_letter_tone_mya_ti_lisu_letter_tone_mya_na" press_data="ꓸꓼ" />
+        </softkey_list>
+    </softkeys>
+</framework>

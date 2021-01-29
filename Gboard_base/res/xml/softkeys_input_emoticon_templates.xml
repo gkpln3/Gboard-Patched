@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" disable_lift_to_tap="true" id="@id/softkey_template_light_emoticon" layout="@layout/softkey_label_medium_auto_text_size" popup_timing="ON_GESTURE" span="$span$">
+            <action data="$param_data$" intention="COMMIT" keycode="SHORT_TEXT" type="PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+    </softkeys>
+</framework>

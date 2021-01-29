@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_devanagari_letter_tta" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_devanagari_letter_dha" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_devanagari_letter_bha" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_devanagari_letter_ca" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_devanagari_letter_ta" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_devanagari_letter_tha" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_devanagari_letter_ga" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_devanagari_letter_ssa" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_devanagari_letter_ya" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_devanagari_letter_u" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_devanagari_letter_i" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_devanagari_letter_ba" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_devanagari_letter_ka" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_devanagari_letter_ma" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_aa" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_devanagari_letter_na" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_devanagari_letter_ja" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_devanagari_letter_va" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_devanagari_letter_pa" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_i" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_devanagari_letter_sa" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_u" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_devanagari_letter_sha" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_devanagari_letter_ha" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_devanagari_letter_a" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_devanagari_letter_kha" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_devanagari_letter_da" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_devanagari_letter_la" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_e" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_devanagari_sign_virama" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_devanagari_letter_ra" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_devanagari_letter_ta_2" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_devanagari_letter_dda" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_devanagari_letter_ai" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_devanagari_letter_da_2" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_devanagari_letter_tta_2" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_devanagari_letter_ttha" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_devanagari_letter_uu" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_devanagari_letter_ka_2" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_devanagari_letter_i_2" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_devanagari_letter_e" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_vocalic_r" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_devanagari_letter_aa" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_devanagari_letter_nga_2" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_devanagari_letter_dda_2" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_devanagari_sign_candrabindu" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_devanagari_letter_da_3" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_devanagari_letter_jha" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_o" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_devanagari_letter_pha" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_ii" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_devanagari_letter_tta_3" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_uu" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_devanagari_letter_ka_3" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_devanagari_letter_ha_2" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_devanagari_letter_vocalic_r" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_devanagari_om" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_au" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_devanagari_letter_da_4" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_devanagari_sign_anusvara" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_devanagari_letter_nga" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_devanagari_vowel_sign_ai" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+</framework>

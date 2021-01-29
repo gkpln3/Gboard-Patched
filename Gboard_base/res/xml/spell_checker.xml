@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spell-checker android:theme="@style/SettingsThemeM2" android:label="@string/spell_checker_name" android:settingsActivity="com.google.android.apps.inputmethod.latinguyk.spelling.LatinSpellCheckerSettingsActivity"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="ar" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="bg" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="ca" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="hr" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="cs" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="da" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="nl" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="en" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="en_AU" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="en_CA" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="en_IN" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="en_GB" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="en_US" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="fil" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="fi" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="fr" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="de" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="el" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="iw" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="hi" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="hu" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="in" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="it" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="lv" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="lt" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="nb" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="fa" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="pl" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="pt" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="pt_BR" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="pt_PT" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="ro" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="ru" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="sr" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="sk" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="sl" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="es" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="es_ES" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="es_419" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="es_MX" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="es_US" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="sv" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="th" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="tr" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="uk" />
+    <subtype android:label="@string/subtype_generic" android:subtypeLocale="vi" />
+</spell-checker>

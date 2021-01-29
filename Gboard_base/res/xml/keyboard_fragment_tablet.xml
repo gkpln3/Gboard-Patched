@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="body">
+            <softkeys href="@xml/softkeys_function_latin_tablet" />
+            <include href="@xml/keymapping_function_shift_right" />
+            <include href="@xml/keymapping_function_switch_to_smiley_tablet" />
+            <key_mapping>
+                <if language="zh">
+                    <mapping key_id="@id/softkey_fullwidth_exclamation_mark" view_id="@id/key_pos_input_symbol_1" />
+                    <mapping key_id="@id/softkey_fullwidth_question_mark" view_id="@id/key_pos_input_symbol_2" />
+                </if>
+                <else>
+                    <mapping key_id="@id/softkey_exclamation_mark" view_id="@id/key_pos_input_symbol_1" />
+                    <mapping key_id="@id/softkey_question_mark" view_id="@id/key_pos_input_symbol_2" />
+                </else>
+            </key_mapping>
+        </view>
+    </keyboard>
+</framework>

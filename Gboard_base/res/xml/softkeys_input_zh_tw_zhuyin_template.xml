@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_list splitter=" ">
+            <softkey_template content_description="$desc$" id="@id/softkey_template_zhuyin_qwerty" layout="@layout/softkey_zhuyin_label_character_label_header" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+                <action data="$press_data$" intention="DECODE" keycode="$keycode_normal=PLAIN_TEXT$" popup_label="$press_label$" type="PRESS" />
+                <action data="$long_press_data$" intention="$long_press_intention=C$" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+                <label location="@id/label" value="$press_label$" />
+                <label location="@id/label_header" value="$press_data$" />
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@id/softkey_template_zhuyin_qwerty_2" layout="@layout/softkey_zhuyin_label_character_label_header" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+                <action data="$press_data$" intention="DECODE" keycode="$keycode_normal=PLAIN_TEXT$" popup_label="$press_label$" type="PRESS" />
+                <action data="$long_press_data$" intention="$long_press_intention=C$" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+                <label location="@id/label" value="$press_label$" />
+                <label location="@id/label_header" value="$label_header$" />
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@id/softkey_template_zhuyin_qwerty_3" layout="@layout/softkey_label_medium" multi_touch="false" popup_timing="@string/qwerty_popup_timing">
+                <action data="$press_data$" intention="DECODE" keycode="$keycode_normal=PLAIN_TEXT$" popup_label="$press_label$" type="PRESS" />
+                <action data="$long_press_data$" intention="$long_press_intention=C$" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLayout" type="LONG_PRESS" />
+                <label location="@id/label" value="$press_label$" />
+            </softkey_template>
+        </softkey_list>
+    </softkeys>
+</framework>

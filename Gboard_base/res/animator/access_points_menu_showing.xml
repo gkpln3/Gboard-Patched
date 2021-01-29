@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator android:duration="@integer/access_points_menu_rotate_duration" android:valueFrom="-180" android:valueTo="0" android:valueType="floatType" android:propertyName="rotation"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

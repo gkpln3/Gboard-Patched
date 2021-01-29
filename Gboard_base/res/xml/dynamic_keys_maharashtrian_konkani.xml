@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>अ</primary_input>
+        <action state="0">अ</action>
+        <action state="0">ॲ</action>
+    </key>
+    <key>
+        <primary_input>आ</primary_input>
+        <action state="0">आ</action>
+        <action state="0">ा</action>
+    </key>
+    <key>
+        <primary_input>इ</primary_input>
+        <action state="0">इ</action>
+        <action state="0">ि</action>
+    </key>
+    <key>
+        <primary_input>ई</primary_input>
+        <action state="0">ई</action>
+        <action state="0">ी</action>
+    </key>
+    <key>
+        <primary_input>उ</primary_input>
+        <action state="0">उ</action>
+        <action state="0">ु</action>
+    </key>
+    <key>
+        <primary_input>ऊ</primary_input>
+        <action state="0">ऊ</action>
+        <action state="0">ू</action>
+    </key>
+    <key>
+        <primary_input>ए</primary_input>
+        <action state="0">ए</action>
+        <action state="0">े</action>
+        <action state="0">ऎ</action>
+        <action state="0">ॆ</action>
+    </key>
+    <key>
+        <primary_input>ऐ</primary_input>
+        <action state="0">ऐ</action>
+        <action state="0">ै</action>
+        <action state="0">ऍ</action>
+        <action state="0">ॅ</action>
+    </key>
+    <key>
+        <primary_input>ओ</primary_input>
+        <action state="0">ओ</action>
+        <action state="0">ो</action>
+        <action state="0">ऒ</action>
+        <action state="0">ॊ</action>
+        <action state="0">ऑ</action>
+        <action state="0">ॉ</action>
+        <action state="0">ॐ</action>
+    </key>
+    <key>
+        <primary_input>औ</primary_input>
+        <action state="0">औ</action>
+        <action state="0">ौ</action>
+    </key>
+    <key>
+        <primary_input>ऌ</primary_input>
+        <action state="0">ऌ</action>
+        <action state="0">ॢ</action>
+    </key>
+    <key>
+        <primary_input>़</primary_input>
+        <action state="0">़</action>
+    </key>
+    <key>
+        <primary_input>ं</primary_input>
+        <action state="0">ं</action>
+        <action state="0">ँ</action>
+        <action state="0">ः</action>
+    </key>
+    <key>
+        <primary_input>ऋ</primary_input>
+        <action state="0">ऋ</action>
+        <action state="0">ृ</action>
+    </key>
+    <key>
+        <primary_input>्</primary_input>
+        <action state="0">्</action>
+        <action state="0">ऽ</action>
+    </key>
+</dynamic_keys>

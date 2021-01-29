@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/BodyInner.Candidates.NoPadding">
+    <LinearLayout style="@style/BodyInnerPadding.Candidates">
+        <include layout="@layout/keyboard_candidates_body_inner_reading_text_candidates_with_function_key_panel" />
+        <include layout="@layout/keyboard_candidates_body_inner_pageable_candidates_panel" />
+        <include layout="@layout/keyboard_candidates_body_inner_qwerty_right_panel" />
+    </LinearLayout>
+</FrameLayout>

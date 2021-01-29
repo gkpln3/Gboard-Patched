@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/keyboard_editing_view_edge_left" android:layout_weight="@integer/keyboard_editing_view_edge_horizon_weight" style="@style/KeyboardEditingViewEdge.Horizon" />
+    <FrameLayout android:layout_weight="@integer/keyboard_editing_view_edge_horizon_spare_weight" style="@style/KeyboardEditingViewEdge.Horizon" />
+    <ImageView android:id="@id/keyboard_editing_view_edge_right" android:layout_weight="@integer/keyboard_editing_view_edge_horizon_weight" style="@style/KeyboardEditingViewEdge.Horizon" />
+</LinearLayout>

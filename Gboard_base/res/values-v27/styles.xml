@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.GoogleMaterial.Light" parent="@style/Base.V27.Theme.GoogleMaterial.Light" />
+    <style name="Base.Theme.GoogleMaterial.Light.BottomSheetDialog" parent="@style/Base.V27.Theme.GoogleMaterial.Light.BottomSheetDialog" />
+    <style name="StickerDarkTheme" parent="@style/Theme.GoogleMaterial.Dark.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:navigationBarColor">@color/sticker_navigation_bar_color_dark_mode</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:navigationBarDividerColor">@color/sticker_navigation_bar_divider_color_dark_mode</item>
+    </style>
+    <style name="StickerLightTheme" parent="@style/Theme.GoogleMaterial.Light.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:navigationBarColor">@color/sticker_navigation_bar_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">@color/sticker_navigation_bar_divider_color</item>
+    </style>
+    <style name="Base.V27.Theme.GoogleMaterial.Light" parent="@style/Base.V24.Theme.GoogleMaterial.Light">
+        <item name="android:navigationBarColor">@color/google_white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Base.V27.Theme.GoogleMaterial.Light.BottomSheetDialog" parent="@style/Base.V21.Theme.GoogleMaterial.Light.BottomSheetDialog">
+        <item name="android:navigationBarColor">@color/google_white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">@android:color/transparent</item>
+    </style>
+</resources>

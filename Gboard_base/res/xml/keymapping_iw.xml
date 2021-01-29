@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_apostrophe" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_hyphen_minus" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_hebrew_letter_qof" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_hebrew_letter_resh" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_hebrew_letter_alef" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_hebrew_letter_tet" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_hebrew_letter_vav" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_hebrew_letter_final_nun" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_hebrew_letter_final_mem" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_hebrew_letter_pe" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_hebrew_letter_shin" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_hebrew_letter_dalet" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_hebrew_letter_gimel" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_hebrew_letter_kaf" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_hebrew_letter_ayin" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_hebrew_letter_yod" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_hebrew_letter_het" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_hebrew_letter_lamed" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_hebrew_letter_final_kaf" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_hebrew_letter_final_pe" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_hebrew_letter_zayin" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_hebrew_letter_samekh" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_hebrew_letter_bet" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_hebrew_letter_he" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_hebrew_letter_nun" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_hebrew_letter_mem" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_hebrew_letter_tsadi" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_hebrew_letter_tav" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_hebrew_letter_final_tsadi" view_id="@id/key_pos_2_8" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@id/softkey_low_line" view_id="@id/key_pos_0_0" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_URI">
+        <mapping key_id="@id/softkey_low_line" view_id="@id/key_pos_0_0" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_shift" />
+    <key_mapping>
+        <if japanese_use_tri_state_mode="true">
+            <mapping key_id="@id/softkey_ja_switch_to_tri_state_digit" view_id="@id/key_pos_switch_hiragana_alphabet" />
+        </if>
+        <else>
+            <mapping key_id="@id/softkey_switch_to_hiragana" view_id="@id/key_pos_switch_hiragana_alphabet" />
+        </else>
+        <mapping key_id="@id/softkey_ja_switch_to_symbols" view_id="@id/key_pos_switch_to_symbol" />
+        <mapping key_id="@id/softkey_comma" view_id="@id/key_pos_bottom_symbol_1" />
+        <mapping key_id="@id/softkey_space_ja" view_id="@id/key_pos_qwerty_space" />
+        <mapping key_id="@id/softkey_period" view_id="@id/key_pos_bottom_symbol_2" />
+    </key_mapping>
+    <if japanese_use_tri_state_mode="true">
+        <key_mapping state="EMOJI_AVAILABLE">
+            <mapping key_id="@id/softkey_switch_to_emoji" view_id="@id/key_pos_switch_to_symbol" />
+        </key_mapping>
+    </if>
+    <key_mapping state="INPUT_TYPE_URI">
+        <mapping key_id="@id/softkey_slash" view_id="@id/key_pos_bottom_symbol_1" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@id/softkey_at" view_id="@id/key_pos_bottom_symbol_1" />
+    </key_mapping>
+</framework>

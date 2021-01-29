@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey id="@id/softkey_fragment_bottom_popup_settings">
+            <action keycode="LAUNCH_PREFERENCE_ACTIVITY" popup_icon="@attr/IconPopupSetting" popup_layout="@attr/PopupBubbleActionLayout" type="LONG_PRESS" />
+        </softkey>
+        <softkey id="@id/softkey_fragment_bottom_popup_settings_with_symbols">
+            <action keycode="LAUNCH_PREFERENCE_ACTIVITY" popup_icon="@attr/IconSetting" popup_layout="@attr/PopupBubbleRectangularLabelSmallLayout" type="LONG_PRESS" />
+        </softkey>
+    </softkeys>
+</framework>

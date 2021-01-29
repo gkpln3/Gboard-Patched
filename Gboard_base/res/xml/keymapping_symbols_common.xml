@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_digit_one" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_digit_two" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_digit_three" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_digit_four" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_digit_five" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_digit_six" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_digit_seven" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_digit_eight" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_digit_nine" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_digit_zero" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_commercial_at" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_number_sign" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_low_line" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_amp" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_hyphen_minus" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_plus_sign" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_left_parenthesis" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_right_parenthesis" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_slash" view_id="@id/key_pos_1_9" />
+    </key_mapping>
+    <if language="ff-Adlm">
+        <key_mapping>
+            <mapping key_id="@id/softkey_adlam_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_adlam_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_adlam_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_adlam_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_adlam_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_adlam_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_adlam_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_adlam_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_adlam_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_adlam_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="ar-EG                 |ku-IQ">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_indic_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_arabic_indic_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="ar-MA">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_arabic_indic_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_arabic_indic_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_arabic_indic_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_arabic_indic_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_arabic_indic_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_arabic_indic_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_arabic_indic_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_arabic_indic_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_arabic_indic_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_arabic_indic_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="bgc-IN                 |hif-Deva                 |unr-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_devanagari_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_devanagari_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_devanagari_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_devanagari_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_devanagari_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_devanagari_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_devanagari_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_devanagari_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_devanagari_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_devanagari_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="ur-PK" variant="urdu_pakistan|handwriting">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_extended_arabic_indic_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="kjg-LA">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_lao_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_lao_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_lao_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_lao_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_lao_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_lao_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_lao_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_lao_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_lao_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_lao_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="kru-Mlym                 |ml-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_malayalam_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_malayalam_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_malayalam_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_malayalam_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_malayalam_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_malayalam_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_malayalam_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_malayalam_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_malayalam_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_malayalam_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="tdd-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_myanmar_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_myanmar_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_myanmar_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_myanmar_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_myanmar_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_myanmar_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_myanmar_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_myanmar_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_myanmar_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_myanmar_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="kxm-TH                 |nod-Thai                 |sou-TH                 |tts-TH">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_thai_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_thai_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_thai_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_thai_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_thai_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_thai_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_thai_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_thai_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_thai_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_thai_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="th" variant="qwerty">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_thai_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_thai_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_thai_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_thai_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_thai_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_thai_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_thai_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_thai_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_thai_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_thai_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="vai-LR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_vai_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_vai_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_vai_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_vai_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_vai_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_vai_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_vai_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_vai_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_vai_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_vai_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="ban-Bali                 |sas-Bali">
+        <key_mapping>
+            <mapping key_id="@id/softkey_balinese_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_balinese_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_balinese_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_balinese_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_balinese_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_balinese_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_balinese_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_balinese_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_balinese_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_balinese_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="bax-CM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_bamum_letter_mo" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_bamum_letter_mbaa" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_bamum_letter_tet" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_bamum_letter_kpa" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_bamum_letter_ten" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_bamum_letter_ntuu" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_bamum_letter_samba" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_bamum_letter_faamae" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_bamum_letter_kovuu" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_bamum_letter_koghom" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="as-IN                 |bn-BD|bn-IN                 |bpy-IN                 |brx-Beng                 |ctg-BD                 |grt-Beng                 |mni-Beng                 |rkt-Beng                 |sat-Beng                 |syl-Beng|syl-Sylo                 |trp-IN                 |unr-Beng">
+        <key_mapping>
+            <mapping key_id="@id/softkey_bengali_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_bengali_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_bengali_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_bengali_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_bengali_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_bengali_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_bengali_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_bengali_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_bengali_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_bengali_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="ccp-BD">
+        <key_mapping>
+            <mapping key_id="@id/softkey_chakma_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_chakma_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_chakma_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_chakma_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_chakma_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_chakma_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_chakma_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_chakma_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_chakma_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_chakma_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="cja-KH                 |cjm-VN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_cham_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_cham_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_cham_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_cham_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_cham_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_cham_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_cham_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_cham_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_cham_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_cham_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="cu-RU">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_zero_with_church_slavonic_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="cop-EG">
+        <key_mapping>
+            <mapping key_id="@id/softkey_digit_one_with_coptic_longpress" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_digit_two_with_coptic_longpress" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_digit_three_with_coptic_longpress" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_digit_four_with_coptic_longpress" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_digit_five_with_coptic_longpress" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_digit_six_with_coptic_longpress" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_digit_seven_with_coptic_longpress" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_digit_eight_with_coptic_longpress" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_digit_nine_with_coptic_longpress" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_digit_zero_with_coptic_longpress" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="ahr-IN                 |anp-IN                 |awa-IN                 |bfy-IN                 |bfz-IN                 |bgq-IN                 |bhb-Deva                 |bho-IN                 |bjj-IN                 |bns-IN                 |brx-Deva                 |dhd-IN                 |doi-Deva                 |dty-NP                 |gbm-IN                 |gdx-IN                 |gju-Deva                 |gno-IN                 |gvr-NP                 |hi-IN                 |hlb-IN                 |hne-IN                 |hoj-IN                 |kfq-IN                 |kfy-IN                 |knn-IN                 |kok-Deva                 |kru-IN                 |ks-Deva                 |lif-Deva                 |lmn-Deva                 |mag-IN|mag-NP                 |mai-IN                 |mjl-IN                 |mr-IN                 |mtr-IN                 |mup-IN                 |ne-IN|ne-NP                 |new-NP                 |noe-IN                 |rkt-IN                 |rwr-IN                 |sa-IN                 |sat-Deva                 |sck-IN                 |sd-Deva                 |sgj-IN                 |sjp-IN                 |swv-IN                 |taj-NP                 |vah                 |vas-IN                 |wbr-IN                 |wry-IN                 |xnr-IN                 |xsr-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_devanagari_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_devanagari_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_devanagari_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_devanagari_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_devanagari_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_devanagari_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_devanagari_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_devanagari_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_devanagari_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_devanagari_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="am                 |bcq-Ethi                 |gez                 |hdy-ET                 |ktb-Ethi                 |sgw-ET                 |stv-ET                 |ti">
+        <key_mapping>
+            <mapping key_id="@id/softkey_ethiopic_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_ethiopic_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_ethiopic_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_ethiopic_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_ethiopic_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_ethiopic_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_ethiopic_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_ethiopic_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_ethiopic_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_ethiopic_number_ten" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="az-IR                 |doi-Arab                 |fa|prs-AF                 |ks-Arab                 |ku-IR                 |luz-IR                 |pa-PK                 |ps                 |sd-Arab                 |ur-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="ur-PK" variant="qwerty">
+        <key_mapping>
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_extended_arabic_indic_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="bhb-Gujr                 |gu-IN                 |kfr-IN                 |vas-Gujr">
+        <key_mapping>
+            <mapping key_id="@id/softkey_gujarati_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_gujarati_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_gujarati_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_gujarati_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_gujarati_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_gujarati_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_gujarati_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_gujarati_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_gujarati_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_gujarati_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="pa-Guru">
+        <key_mapping>
+            <mapping key_id="@id/softkey_gurmukhi_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_gurmukhi_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="jv-Java">
+        <key_mapping>
+            <mapping key_id="@id/softkey_javanese_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_javanese_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_javanese_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_javanese_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_javanese_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_javanese_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_javanese_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_javanese_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_javanese_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_javanese_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="kyu-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_kayah_li_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_kayah_li_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_kayah_li_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_kayah_li_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_kayah_li_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_kayah_li_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_kayah_li_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_kayah_li_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_kayah_li_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_kayah_li_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="kn-IN                 |kok-Knda                 |lmn-Knda                 |tcy-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_kannada_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_kannada_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_kannada_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_kannada_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_kannada_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_kannada_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_kannada_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_kannada_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_kannada_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_kannada_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="lep-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_lepcha_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_lepcha_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_lepcha_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_lepcha_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_lepcha_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_lepcha_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_lepcha_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_lepcha_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_lepcha_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_lepcha_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="lif-Limb">
+        <key_mapping>
+            <mapping key_id="@id/softkey_limbu_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_limbu_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_limbu_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_limbu_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_limbu_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_limbu_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_limbu_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_limbu_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_limbu_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_limbu_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="mni-Mtei">
+        <key_mapping>
+            <mapping key_id="@id/softkey_meetei_mayek_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_meetei_mayek_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="blk-MM                 |kjp-MM                 |ksw-MM                 |mnw-MM                 |rki-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_myanmar_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_myanmar_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_myanmar_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_myanmar_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_myanmar_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_myanmar_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_myanmar_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_myanmar_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_myanmar_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_myanmar_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="my">
+        <if variant="burmese_zawgyi">
+            <key_mapping>
+                <mapping key_id="@id/softkey_digit_one" view_id="@id/key_pos_0_0" />
+                <mapping key_id="@id/softkey_digit_two" view_id="@id/key_pos_0_1" />
+                <mapping key_id="@id/softkey_digit_three" view_id="@id/key_pos_0_2" />
+                <mapping key_id="@id/softkey_digit_four" view_id="@id/key_pos_0_3" />
+                <mapping key_id="@id/softkey_digit_five" view_id="@id/key_pos_0_4" />
+                <mapping key_id="@id/softkey_digit_six" view_id="@id/key_pos_0_5" />
+                <mapping key_id="@id/softkey_digit_seven" view_id="@id/key_pos_0_6" />
+                <mapping key_id="@id/softkey_digit_eight" view_id="@id/key_pos_0_7" />
+                <mapping key_id="@id/softkey_digit_nine" view_id="@id/key_pos_0_8" />
+                <mapping key_id="@id/softkey_digit_zero" view_id="@id/key_pos_0_9" />
+            </key_mapping>
+        </if>
+        <else>
+            <key_mapping>
+                <mapping key_id="@id/softkey_myanmar_digit_one" view_id="@id/key_pos_0_0" />
+                <mapping key_id="@id/softkey_myanmar_digit_two" view_id="@id/key_pos_0_1" />
+                <mapping key_id="@id/softkey_myanmar_digit_three" view_id="@id/key_pos_0_2" />
+                <mapping key_id="@id/softkey_myanmar_digit_four" view_id="@id/key_pos_0_3" />
+                <mapping key_id="@id/softkey_myanmar_digit_five" view_id="@id/key_pos_0_4" />
+                <mapping key_id="@id/softkey_myanmar_digit_six" view_id="@id/key_pos_0_5" />
+                <mapping key_id="@id/softkey_myanmar_digit_seven" view_id="@id/key_pos_0_6" />
+                <mapping key_id="@id/softkey_myanmar_digit_eight" view_id="@id/key_pos_0_7" />
+                <mapping key_id="@id/softkey_myanmar_digit_nine" view_id="@id/key_pos_0_8" />
+                <mapping key_id="@id/softkey_myanmar_digit_zero" view_id="@id/key_pos_0_9" />
+            </key_mapping>
+        </else>
+    </if>
+    <if language="shn-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_myanmar_shan_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_myanmar_shan_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="khb-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_new_tai_lue_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_new_tai_lue_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="bm-Nkoo                 |dyu-Nkoo">
+        <key_mapping>
+            <mapping key_id="@id/softkey_nko_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_nko_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_nko_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_nko_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_nko_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_nko_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_nko_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_nko_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_nko_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_nko_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="sat-Olck">
+        <key_mapping>
+            <mapping key_id="@id/softkey_ol_chiki_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_ol_chiki_digit_zero" view_id="@id/key_pos_0_9" />
+            <mapping key_id="@id/softkey_ol_chiki_phaarkaa" view_id="@id/key_pos_1_6" />
+        </key_mapping>
+    </if>
+    <if language="hlb-Orya                 |kxu-IN                 |or-IN                 |unr-Orya">
+        <key_mapping>
+            <mapping key_id="@id/softkey_oriya_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_oriya_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_oriya_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_oriya_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_oriya_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_oriya_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_oriya_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_oriya_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_oriya_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_oriya_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="saz-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_saurashtra_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_saurashtra_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_saurashtra_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_saurashtra_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_saurashtra_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_saurashtra_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_saurashtra_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_saurashtra_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_saurashtra_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_saurashtra_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="su-Sund">
+        <key_mapping>
+            <mapping key_id="@id/softkey_sundanese_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_sundanese_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_sundanese_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_sundanese_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_sundanese_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_sundanese_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_sundanese_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_sundanese_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_sundanese_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_sundanese_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="ta-IN|ta-LK|ta-SG">
+        <key_mapping>
+            <mapping key_id="@id/softkey_tamil_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_tamil_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_tamil_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_tamil_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_tamil_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_tamil_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_tamil_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_tamil_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_tamil_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_tamil_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="gno-Telu                 |lmn-Telu                 |te-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_telugu_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_telugu_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_telugu_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_telugu_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_telugu_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_telugu_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_telugu_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_telugu_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_telugu_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_telugu_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="adx-CN                 |bo-CN                 |dz                 |khg-CN                 |lep-Tibt">
+        <key_mapping>
+            <mapping key_id="@id/softkey_tibetan_digit_one" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_tibetan_digit_two" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_tibetan_digit_three" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_tibetan_digit_four" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_tibetan_digit_five" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_tibetan_digit_six" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_tibetan_digit_seven" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_tibetan_digit_eight" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_tibetan_digit_nine" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_tibetan_digit_zero" view_id="@id/key_pos_0_9" />
+        </key_mapping>
+    </if>
+    <if language="bo-CN" variant="tibetan_alphabetical">
+        <key_mapping>
+            <mapping key_id="@id/softkey_tibetan_mark_initial_yig_mgo_mdun_ma_single" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_tibetan_mark_closing_yig_mgo_sgab_ma" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_tibetan_mark_yig_mgo_truncated_a" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_tibetan_mark_paluta" view_id="@id/key_pos_1_3" />
+            <mapping key_id="@id/softkey_tibetan_sign_rnam_bcad" view_id="@id/key_pos_1_4" />
+            <mapping key_id="@id/softkey_tibetan_sign_rjes_su_nga_ro" view_id="@id/key_pos_1_5" />
+            <mapping key_id="@id/softkey_tibetan_sign_sna_ldan" view_id="@id/key_pos_1_6" />
+            <mapping key_id="@id/softkey_tibetan_sign_lce_tsa_can" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_tibetan_sign_mchu_can" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_tibetan_sign_inverted_mchu_can" view_id="@id/key_pos_1_9" />
+        </key_mapping>
+    </if>
+    <if language="dz">
+        <key_mapping>
+            <mapping key_id="@id/softkey_tibetan_mark_initial_yig_mgo_mdun_ma_single" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_tibetan_mark_closing_yig_mgo_sgab_ma" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_tibetan_mark_bskur_yig_mgo" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_tibetan_mark_paluta" view_id="@id/key_pos_1_3" />
+            <mapping key_id="@id/softkey_tibetan_sign_rnam_bcad" view_id="@id/key_pos_1_4" />
+            <mapping key_id="@id/softkey_tibetan_sign_rjes_su_nga_ro" view_id="@id/key_pos_1_5" />
+            <mapping key_id="@id/softkey_tibetan_sign_sna_ldan" view_id="@id/key_pos_1_6" />
+            <mapping key_id="@id/softkey_tibetan_sign_lce_tsa_can" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_tibetan_sign_mchu_can" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_tibetan_sign_inverted_mchu_can" view_id="@id/key_pos_1_9" />
+        </key_mapping>
+    </if>
+    <if language="ar-EG|ar-MA                 |az-IR                 |bm-Nkoo                 |doi-Arab                 |dyu-Nkoo                 |dv-MV                 |fa                 |ff-Adlm                 |khw                 |ks-Arab                 |ku-IQ|ku-IR                 |luz-IR                 |pa-PK                 |prs-AF                 |ps                 |sd-Arab                 |trw                 |ur-IN|ur-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_left_parenthesis" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_arabic_right_parenthesis" view_id="@id/key_pos_1_8" />
+        </key_mapping>
+    </if>
+    <if language="khb-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_fullwidth_left_parenthesis" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_fullwidth_right_parenthesis" view_id="@id/key_pos_1_8" />
+        </key_mapping>
+    </if>
+    <if language="iw                 |ji                 |ydd-IL">
+        <key_mapping>
+            <mapping key_id="@id/softkey_hebrew_plus_sign" view_id="@id/key_pos_1_6" />
+            <mapping key_id="@id/softkey_hebrew_left_parenthesis" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_hebrew_right_parenthesis" view_id="@id/key_pos_1_8" />
+        </key_mapping>
+    </if>
+    <if language="jv-Java">
+        <key_mapping>
+            <mapping key_id="@id/softkey_javanese_left_rerenggan" view_id="@id/key_pos_1_3" />
+            <mapping key_id="@id/softkey_javanese_right_rerenggan" view_id="@id/key_pos_1_4" />
+            <mapping key_id="@id/softkey_javanese_pada_andap" view_id="@id/key_pos_1_5" />
+            <mapping key_id="@id/softkey_javanese_pangrangkep" view_id="@id/key_pos_1_6" />
+            <mapping key_id="@id/softkey_javanese_pada_piseleh" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_javanese_turned_pada_piseleh" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_javanese_pada_windu" view_id="@id/key_pos_1_9" />
+        </key_mapping>
+    </if>
+    <if language="su-Sund">
+        <key_mapping>
+            <mapping key_id="@id/softkey_vertical_line" view_id="@id/key_pos_1_3" />
+        </key_mapping>
+    </if>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/softkey_tilde" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_grave_accent" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_vertical_line" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_bullet" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_square_root" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_greek_small_letter_pi" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_division_sign" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_multiplication_sign" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_pilcrow_sign" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_increment" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_circumflex_accent" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_degree_sign" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_equals_sign" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_left_curly_bracket" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_right_curly_bracket" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_1_9" />
+    </key_mapping>
+    <if language="ar-EG|ar-MA                 |az-IR                 |bm-Nkoo                 |doi-Arab                 |dyu-Nkoo                 |dv-MV                 |fa                 |ff-Adlm                 |iw                 |ji                 |khw                 |ks-Arab                 |ku-IQ|ku-IR                 |luz-IR                 |pa-PK                 |prs-AF                 |ps                 |sd-Arab                 |trw                 |ug                 |ur-IN|ur-PK                 |ydd-IL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_curly_bracket" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_arabic_right_curly_bracket" view_id="@id/key_pos_1_8" />
+        </key_mapping>
+    </if>
+    <if language="su-Sund">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_low_line" view_id="@id/key_pos_0_2" />
+        </key_mapping>
+    </if>
+    <if language="bo-CN" variant="tibetan_alphabetical">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_tibetan_syllable_om_no_popup" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_tibetan_mark_caret_dzud_rtags_me_long_can" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_tibetan_logotype_sign_chad_rtags" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_tibetan_cantillation_sign_heavy_beat" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_tibetan_symbol_dril_bu" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_tibetan_mark_gug_rtags_gyon" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_tibetan_mark_gug_rtags_gyas" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_tibetan_mark_ang_khang_gyon" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_tibetan_mark_ang_khang_gyas" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_tibetan_mark_bsdus_rtags" view_id="@id/key_pos_0_9" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_fixed_form_wa" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_dash_a" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_fixed_form_ya" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_fixed_form_ra" view_id="@id/key_pos_1_3" />
+            <mapping key_id="@id/softkey_tibetan_mark_tsa_phru" view_id="@id/key_pos_1_4" />
+            <mapping key_id="@id/softkey_tibetan_sign_gru_can_rgyings" view_id="@id/key_pos_1_5" />
+            <mapping key_id="@id/softkey_tibetan_sign_gru_med_rgyings" view_id="@id/key_pos_1_6" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_sign_lce_tsa_can" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_sign_mchu_can" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_sign_inverted_mchu_can" view_id="@id/key_pos_1_9" />
+        </key_mapping>
+    </if>
+    <if language="dz">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_tibetan_syllable_om" view_id="@id/key_pos_0_0" />
+            <mapping key_id="@id/softkey_tibetan_mark_caret_dzud_rtags_me_long_can" view_id="@id/key_pos_0_1" />
+            <mapping key_id="@id/softkey_tibetan_logotype_sign_chad_rtags" view_id="@id/key_pos_0_2" />
+            <mapping key_id="@id/softkey_tibetan_cantillation_sign_heavy_beat" view_id="@id/key_pos_0_3" />
+            <mapping key_id="@id/softkey_tibetan_symbol_dril_bu" view_id="@id/key_pos_0_4" />
+            <mapping key_id="@id/softkey_tibetan_mark_gug_rtags_gyon" view_id="@id/key_pos_0_5" />
+            <mapping key_id="@id/softkey_tibetan_mark_gug_rtags_gyas" view_id="@id/key_pos_0_6" />
+            <mapping key_id="@id/softkey_tibetan_mark_ang_khang_gyon" view_id="@id/key_pos_0_7" />
+            <mapping key_id="@id/softkey_tibetan_mark_ang_khang_gyas" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_tibetan_mark_bsdus_rtags" view_id="@id/key_pos_0_9" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_fixed_form_wa" view_id="@id/key_pos_1_0" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_dash_a" view_id="@id/key_pos_1_1" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_fixed_form_ya" view_id="@id/key_pos_1_2" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_fixed_form_ra" view_id="@id/key_pos_1_3" />
+            <mapping key_id="@id/softkey_tibetan_mark_tsa_phru" view_id="@id/key_pos_1_4" />
+            <mapping key_id="@id/softkey_tibetan_sign_gru_can_rgyings" view_id="@id/key_pos_1_5" />
+            <mapping key_id="@id/softkey_tibetan_sign_gru_med_rgyings" view_id="@id/key_pos_1_6" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_sign_lce_tsa_can" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_sign_mchu_can" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_sign_inverted_mchu_can" view_id="@id/key_pos_1_9" />
+        </key_mapping>
+    </if>
+</framework>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/keyboard_clipboard_body_default_empty" />
+    <LinearLayout android:id="@id/clipboard_body_view" style="@style/ClipboardBodyInner">
+        <View android:id="@id/clipboard_opt_in_tooltip_placeholder" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/clipboard_separator" style="@style/ClipboardSeparator" />
+        <android.support.v7.widget.RecyclerView android:id="@id/clip_items_scan_view" style="@style/ClipboardRecyclerView" />
+    </LinearLayout>
+</FrameLayout>

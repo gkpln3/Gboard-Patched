@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/label_translate_board_idle_all_theme" android:state_activated="false" />
+    <item android:color="@color/label_material_dark_theme" android:state_activated="true" />
+</selector>

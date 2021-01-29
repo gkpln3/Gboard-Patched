@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping exclude_state="INPUT_TYPE_EMAIL_ADDRESS,INPUT_TYPE_URI,SHOW_EMOJI_SWITCH_KEY" state="EMOJI_AVAILABLE">
+        <merge key_id="@id/softkey_fragment_bottom_popup_switch_to_emoji_with_symbols" view_id="@id/key_pos_bottom_symbol_1" />
+    </merge_key_mapping>
+    <merge_key_mapping exclude_state="INPUT_TYPE_EMAIL_ADDRESS,EMOJI_AVAILABLE" state="EMOTICON_AVAILABLE">
+        <merge key_id="@id/softkey_fragment_bottom_popup_switch_to_emoticon_with_symbols" view_id="@id/key_pos_bottom_symbol_1" />
+    </merge_key_mapping>
+    <merge_key_mapping exclude_state="SHOW_EMOJI_SWITCH_KEY" state="EMOJI_AVAILABLE+INPUT_TYPE_URI">
+        <merge key_id="@id/softkey_fragment_bottom_popup_switch_to_emoji_with_symbols" view_id="@id/key_pos_bottom_symbol_1" />
+    </merge_key_mapping>
+</framework>

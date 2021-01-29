@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="av-RU" string_id="ime_avar">
+        <if enable_number_row="false">
+            <keyboard_group variant="avar" variant_label="@string/variant_avar">
+                <keyboard def="@xml/keyboard_av_ru" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="avar" variant_label="@string/variant_avar">
+                <keyboard def="@xml/keyboard_av_ru" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_12_12_11" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+    </ime>
+</framework>

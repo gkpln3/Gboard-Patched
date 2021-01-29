@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_symbol_auto_sized">
+        <softkey param_data="１" />
+        <softkey param_data="２" />
+        <softkey param_data="３" />
+        <softkey param_data="４" />
+        <softkey param_data="５" />
+        <softkey param_data="６" />
+        <softkey param_data="７" />
+        <softkey param_data="８" />
+        <softkey param_data="９" />
+        <softkey param_data="０" />
+        <softkey param_data="！" />
+        <softkey param_data="＠" />
+        <softkey param_data="＃" />
+        <softkey param_data="＄" />
+        <softkey param_data="％" />
+        <softkey param_data="＾" />
+        <softkey param_data="＆" />
+        <softkey param_data="＊" />
+        <softkey param_data="（" />
+        <softkey param_data="）" />
+        <softkey param_data="‘" />
+        <softkey param_data="’" />
+        <softkey param_data="＝" />
+        <softkey param_data="＿" />
+        <softkey param_data="｀" />
+        <softkey param_data="：" />
+        <softkey param_data="；" />
+        <softkey param_data="？" />
+        <softkey param_data="ー" />
+        <softkey param_data="〜" />
+        <softkey param_data="｜" />
+        <softkey param_data="＋" />
+        <softkey param_data="―" />
+        <softkey param_data="＼" />
+        <softkey param_data="／" />
+        <softkey param_data="−" />
+        <softkey param_data="．" />
+        <softkey param_data="，" />
+        <softkey param_data="・" />
+        <softkey param_data="＜" />
+        <softkey param_data="＞" />
+        <softkey param_data="￥" />
+        <softkey param_data="々" />
+        <softkey param_data="仝" />
+        <softkey param_data="〃" />
+        <softkey param_data="ゝ" />
+        <softkey param_data="ゞ" />
+        <softkey param_data="ヽ" />
+        <softkey param_data="ヾ" />
+    </softkey_list>
+</framework>

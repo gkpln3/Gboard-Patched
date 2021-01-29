@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="uum-GE" string_id="ime_urum_cyrillic">
+        <if enable_number_row="false">
+            <keyboard_group variant="urum" variant_label="@string/variant_urum">
+                <keyboard def="@xml/keyboard_uum_ge" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="urum" variant_label="@string/variant_urum">
+                <keyboard def="@xml/keyboard_uum_ge" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_11_11_11" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+        </else>
+    </ime>
+</framework>

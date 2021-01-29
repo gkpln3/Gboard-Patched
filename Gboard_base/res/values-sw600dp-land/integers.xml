@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="more_candidates_candidates_area_weight">905</integer>
+    <integer name="more_candidates_left_column_weight">95</integer>
+    <integer name="more_candidates_pageable_candidates_area_weight">810</integer>
+    <integer name="more_candidates_right_column_weight">95</integer>
+    <integer name="prime_header_icon_weight">95</integer>
+    <integer name="theme_expandable_category_span_count">6</integer>
+    <integer name="keyboard_number_empty_view_weight">200</integer>
+    <integer name="keyboard_number_left_part_weight">300</integer>
+    <integer name="keyboard_number_left_side_empty_view_weight">100</integer>
+    <integer name="keyboard_number_right_part_weight">400</integer>
+    <integer name="softkey_number_weight">100</integer>
+</resources>

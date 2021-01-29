@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_ime_action" />
+    <include href="@xml/keymapping_function_ime_action_popup_switch_to_emoji" />
+    <include href="@xml/keymapping_function_ime_action_popup_short_message" />
+    <include href="@xml/keymapping_function_ime_action_popup_navigation" />
+    <include href="@xml/keymapping_function_ime_action_popup_right_handed_mode" />
+</framework>

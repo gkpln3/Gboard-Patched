@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_fon_bj_dynamic">
+        <view layout="@layout/keyboard_latin_8_10_9_9_no_number_row_body" type="body">
+            <softkeys href="@xml/softkeys_input_fon_bj_dynamic" />
+            <include href="@xml/keymapping_fon_bj_dynamic" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+</framework>

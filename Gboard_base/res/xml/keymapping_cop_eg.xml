@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_coptic_small_letter_thethe" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_coptic_small_letter_oou" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_coptic_small_letter_eie" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_coptic_small_letter_ro" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_coptic_small_letter_tau" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_coptic_small_letter_psi" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_coptic_small_letter_ua" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_coptic_small_letter_iauda" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_coptic_small_letter_o" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_coptic_small_letter_pi" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_coptic_small_letter_ksi" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_coptic_small_letter_shei" view_id="@id/key_pos_0_11" />
+        <mapping key_id="@id/softkey_coptic_small_letter_alfa" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_coptic_small_letter_shima" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_coptic_small_letter_dalda" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_coptic_small_letter_fei" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_coptic_small_letter_gamma" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_coptic_small_letter_hate" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_coptic_small_letter_gangia" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_coptic_small_letter_kapa" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_coptic_small_letter_laula" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_coptic_small_letter_dei" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_coptic_small_letter_khei" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_coptic_small_letter_hori" view_id="@id/key_pos_1_11" />
+        <mapping key_id="@id/softkey_coptic_small_letter_zata" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_coptic_small_letter_khi" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_coptic_small_letter_sima" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_coptic_small_letter_fi" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_coptic_small_letter_vida" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_coptic_small_letter_ni" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_coptic_small_letter_mi" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_coptic_small_letter_sou" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_combining_grave_accent" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_coptic_capital_letter_thethe" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_oou" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_eie" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_ro" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_tau" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_psi" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_ua" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_iauda" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_o" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_pi" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_ksi" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_shei" view_id="@id/key_pos_0_11" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_alfa" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_shima" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_dalda" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_fei" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_gamma" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_hate" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_gangia" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_kapa" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_laula" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_dei" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_khei" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_hori" view_id="@id/key_pos_1_11" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_zata" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_khi" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_sima" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_fi" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_vida" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_ni" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_mi" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_coptic_capital_letter_sou" view_id="@id/key_pos_2_8" />
+    </key_mapping>
+</framework>

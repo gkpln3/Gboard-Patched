@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_georgian_letter_jhan" long_press_data="ჷ" press_data="ჯ" />
+            <softkey id="@id/softkey_georgian_letter_en" long_press_data="ჱ" press_data="ე" />
+            <softkey id="@id/softkey_georgian_letter_nar" long_press_data="ჼ" press_data="ნ" />
+            <softkey id="@id/softkey_georgian_letter_gan" long_press_data="ჹ" press_data="გ" />
+            <softkey id="@id/softkey_georgian_letter_xan" long_press_data="ჴ" press_data="ხ" />
+            <softkey id="@id/softkey_georgian_letter_phar" long_press_data="ჶ" press_data="ფ" />
+            <softkey id="@id/softkey_georgian_letter_vin" long_press_data="ჳ" press_data="ვ" />
+            <softkey id="@id/softkey_georgian_letter_an" long_press_data="ჺ" press_data="ა" />
+            <softkey id="@id/softkey_georgian_letter_qar" long_press_data="ჸ" press_data="ყ" />
+            <softkey id="@id/softkey_georgian_letter_in" long_press_data="ჲ" press_data="ი" />
+            <softkey id="@id/softkey_georgian_letter_hae" long_press_data="ჵ" press_data="ჰ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_georgian_letter_ghan" press_data="ღ" />
+            <softkey id="@id/softkey_georgian_letter_un" press_data="უ" />
+            <softkey id="@id/softkey_georgian_letter_kan" press_data="კ" />
+            <softkey id="@id/softkey_georgian_letter_shin" press_data="შ" />
+            <softkey id="@id/softkey_georgian_letter_cil" press_data="წ" />
+            <softkey id="@id/softkey_georgian_letter_zen" press_data="ზ" />
+            <softkey id="@id/softkey_georgian_letter_can" press_data="ც" />
+            <softkey id="@id/softkey_georgian_letter_jil" press_data="ძ" />
+            <softkey id="@id/softkey_georgian_letter_tan" press_data="თ" />
+            <softkey id="@id/softkey_georgian_letter_par" press_data="პ" />
+            <softkey id="@id/softkey_georgian_letter_rae" press_data="რ" />
+            <softkey id="@id/softkey_georgian_letter_on" press_data="ო" />
+            <softkey id="@id/softkey_georgian_letter_las" press_data="ლ" />
+            <softkey id="@id/softkey_georgian_letter_don" press_data="დ" />
+            <softkey id="@id/softkey_georgian_letter_zhar" press_data="ჟ" />
+            <softkey id="@id/softkey_georgian_letter_char" press_data="ჭ" />
+            <softkey id="@id/softkey_georgian_letter_chin" press_data="ჩ" />
+            <softkey id="@id/softkey_georgian_letter_san" press_data="ს" />
+            <softkey id="@id/softkey_georgian_letter_man" press_data="მ" />
+            <softkey id="@id/softkey_georgian_letter_tar" press_data="ტ" />
+            <softkey id="@id/softkey_georgian_letter_khar" press_data="ქ" />
+            <softkey id="@id/softkey_georgian_letter_ban" press_data="ბ" />
+        </softkey_list>
+    </softkeys>
+</framework>

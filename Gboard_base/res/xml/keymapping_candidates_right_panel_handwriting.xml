@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_candidates_del" />
+    </key_mapping>
+    <key_mapping>
+        <mapping key_id="@id/softkey_page_up" view_id="@id/key_pos_candidates_page_up" />
+    </key_mapping>
+    <key_mapping state="FIRST_PAGE">
+        <mapping key_id="@id/softkey_page_up_disabled" view_id="@id/key_pos_candidates_page_up" />
+    </key_mapping>
+    <key_mapping>
+        <mapping key_id="@id/softkey_page_down" view_id="@id/key_pos_candidates_page_down" />
+    </key_mapping>
+    <key_mapping state="LAST_PAGE">
+        <mapping key_id="@id/softkey_page_down_disabled" view_id="@id/key_pos_candidates_page_down" />
+    </key_mapping>
+    <include href="@xml/keymapping_body_candidates_ime_action" />
+</framework>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_ol_chiki_letter_iny" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_aaw" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_le" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ir" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_at" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_uy" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_lu" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_li" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_lo" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ep" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_laa" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_is" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ud" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ang" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ag" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_oh" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ih" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_aaj" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_aak" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_al" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_err" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_edd" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_uc" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ov" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ob" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_en" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_unn" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_aam" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_ol_chiki_letter_ott" view_id="@id/key_pos_2_8" />
+    </key_mapping>
+</framework>

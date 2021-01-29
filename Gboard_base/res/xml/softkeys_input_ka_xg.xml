@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_georgian_small_letter_ghan" press_data="ⴖ" />
+            <softkey id="@id/softkey_georgian_capital_letter_ghan" press_data="Ⴖ" />
+            <softkey id="@id/softkey_georgian_small_letter_jhan" long_press_data="ⴧ" press_data="ⴟ" />
+            <softkey id="@id/softkey_georgian_capital_letter_jhan" long_press_data="Ⴧ" press_data="Ⴟ" />
+            <softkey id="@id/softkey_georgian_small_letter_un" press_data="ⴓ" />
+            <softkey id="@id/softkey_georgian_capital_letter_un" press_data="Ⴓ" />
+            <softkey id="@id/softkey_georgian_small_letter_kan" press_data="ⴉ" />
+            <softkey id="@id/softkey_georgian_capital_letter_kan" press_data="Ⴉ" />
+            <softkey id="@id/softkey_georgian_small_letter_en" long_press_data="ⴡ" press_data="ⴄ" />
+            <softkey id="@id/softkey_georgian_capital_letter_en" long_press_data="Ⴡ" press_data="Ⴄ" />
+            <softkey id="@id/softkey_georgian_small_letter_nar" press_data="ⴌ" />
+            <softkey id="@id/softkey_georgian_capital_letter_nar" press_data="Ⴌ" />
+            <softkey id="@id/softkey_georgian_small_letter_gan" press_data="ⴂ" />
+            <softkey id="@id/softkey_georgian_capital_letter_gan" press_data="Ⴂ" />
+            <softkey id="@id/softkey_georgian_small_letter_shin" press_data="ⴘ" />
+            <softkey id="@id/softkey_georgian_capital_letter_shin" press_data="Ⴘ" />
+            <softkey id="@id/softkey_georgian_small_letter_cil" press_data="ⴜ" />
+            <softkey id="@id/softkey_georgian_capital_letter_cil" press_data="Ⴜ" />
+            <softkey id="@id/softkey_georgian_small_letter_zen" press_data="ⴆ" />
+            <softkey id="@id/softkey_georgian_capital_letter_zen" press_data="Ⴆ" />
+            <softkey id="@id/softkey_georgian_small_letter_xan" long_press_data="ⴤ" press_data="ⴞ" />
+            <softkey id="@id/softkey_georgian_capital_letter_xan" long_press_data="Ⴤ" press_data="Ⴞ" />
+            <softkey id="@id/softkey_georgian_small_letter_can" press_data="ⴚ" />
+            <softkey id="@id/softkey_georgian_capital_letter_can" press_data="Ⴚ" />
+            <softkey id="@id/softkey_georgian_small_letter_phar" press_data="ⴔ" />
+            <softkey id="@id/softkey_georgian_capital_letter_phar" press_data="Ⴔ" />
+            <softkey id="@id/softkey_georgian_small_letter_jil" press_data="ⴛ" />
+            <softkey id="@id/softkey_georgian_capital_letter_jil" press_data="Ⴛ" />
+            <softkey id="@id/softkey_georgian_small_letter_vin" long_press_data="ⴣ" press_data="ⴅ" />
+            <softkey id="@id/softkey_georgian_capital_letter_vin" long_press_data="Ⴣ" press_data="Ⴅ" />
+            <softkey id="@id/softkey_georgian_small_letter_tan" press_data="ⴇ" />
+            <softkey id="@id/softkey_georgian_capital_letter_tan" press_data="Ⴇ" />
+            <softkey id="@id/softkey_georgian_small_letter_an" press_data="ⴀ" />
+            <softkey id="@id/softkey_georgian_capital_letter_an" press_data="Ⴀ" />
+            <softkey id="@id/softkey_georgian_small_letter_par" press_data="ⴎ" />
+            <softkey id="@id/softkey_georgian_capital_letter_par" press_data="Ⴎ" />
+            <softkey id="@id/softkey_georgian_small_letter_rae" press_data="ⴐ" />
+            <softkey id="@id/softkey_georgian_capital_letter_rae" press_data="Ⴐ" />
+            <softkey id="@id/softkey_georgian_small_letter_on" press_data="ⴍ" />
+            <softkey id="@id/softkey_georgian_capital_letter_on" press_data="Ⴍ" />
+            <softkey id="@id/softkey_georgian_small_letter_las" press_data="ⴊ" />
+            <softkey id="@id/softkey_georgian_capital_letter_las" press_data="Ⴊ" />
+            <softkey id="@id/softkey_georgian_small_letter_don" press_data="ⴃ" />
+            <softkey id="@id/softkey_georgian_capital_letter_don" press_data="Ⴃ" />
+            <softkey id="@id/softkey_georgian_small_letter_zhar" press_data="ⴏ" />
+            <softkey id="@id/softkey_georgian_capital_letter_zhar" press_data="Ⴏ" />
+            <softkey id="@id/softkey_georgian_small_letter_hae" long_press_data="ⴥ" press_data="ⴠ" />
+            <softkey id="@id/softkey_georgian_capital_letter_hae" long_press_data="Ⴥ" press_data="Ⴠ" />
+            <softkey id="@id/softkey_georgian_small_letter_char" press_data="ⴝ" />
+            <softkey id="@id/softkey_georgian_capital_letter_char" press_data="Ⴝ" />
+            <softkey id="@id/softkey_georgian_small_letter_chin" press_data="ⴙ" />
+            <softkey id="@id/softkey_georgian_capital_letter_chin" press_data="Ⴙ" />
+            <softkey id="@id/softkey_georgian_small_letter_qar" press_data="ⴗ" />
+            <softkey id="@id/softkey_georgian_capital_letter_qar" press_data="Ⴗ" />
+            <softkey id="@id/softkey_georgian_small_letter_san" press_data="ⴑ" />
+            <softkey id="@id/softkey_georgian_capital_letter_san" press_data="Ⴑ" />
+            <softkey id="@id/softkey_georgian_small_letter_man" press_data="ⴋ" />
+            <softkey id="@id/softkey_georgian_capital_letter_man" press_data="Ⴋ" />
+            <softkey id="@id/softkey_georgian_small_letter_in" long_press_data="ⴢ" press_data="ⴈ" />
+            <softkey id="@id/softkey_georgian_capital_letter_in" long_press_data="Ⴢ" press_data="Ⴈ" />
+            <softkey id="@id/softkey_georgian_small_letter_tar" press_data="ⴒ" />
+            <softkey id="@id/softkey_georgian_capital_letter_tar" press_data="Ⴒ" />
+            <softkey id="@id/softkey_georgian_small_letter_khar" press_data="ⴕ" />
+            <softkey id="@id/softkey_georgian_capital_letter_khar" press_data="Ⴕ" />
+            <softkey id="@id/softkey_georgian_small_letter_ban" press_data="ⴁ" />
+            <softkey id="@id/softkey_georgian_capital_letter_ban" press_data="Ⴁ" />
+        </softkey_list>
+    </softkeys>
+</framework>

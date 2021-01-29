@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_tagalog_vowel_sign_i" press_data="ᜒ" press_label=" " />
+            <softkey id="@id/softkey_tagalog_vowel_sign_u" press_data="ᜓ" press_label=" " />
+            <softkey id="@id/softkey_tagalog_sign_virama" press_data="᜔" press_label=" " />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_tagalog_letter_ka" press_data="ᜃ" />
+            <softkey id="@id/softkey_tagalog_letter_ga" press_data="ᜄ" />
+            <softkey id="@id/softkey_tagalog_letter_nga" press_data="ᜅ" />
+            <softkey id="@id/softkey_tagalog_letter_ta" press_data="ᜆ" />
+            <softkey id="@id/softkey_tagalog_letter_da" press_data="ᜇ" />
+            <softkey id="@id/softkey_tagalog_letter_na" press_data="ᜈ" />
+            <softkey id="@id/softkey_tagalog_letter_pa" press_data="ᜉ" />
+            <softkey id="@id/softkey_tagalog_letter_ba" press_data="ᜊ" />
+            <softkey id="@id/softkey_tagalog_letter_ma" press_data="ᜋ" />
+            <softkey id="@id/softkey_tagalog_letter_ya" press_data="ᜌ" />
+            <softkey id="@id/softkey_tagalog_letter_la" press_data="ᜎ" />
+            <softkey id="@id/softkey_tagalog_letter_wa" press_data="ᜏ" />
+            <softkey id="@id/softkey_tagalog_letter_a" press_data="ᜀ" />
+            <softkey id="@id/softkey_tagalog_letter_i" press_data="ᜁ" />
+            <softkey id="@id/softkey_tagalog_letter_u" press_data="ᜂ" />
+            <softkey id="@id/softkey_tagalog_letter_sa" press_data="ᜐ" />
+            <softkey id="@id/softkey_tagalog_letter_ha" press_data="ᜑ" />
+        </softkey_list>
+    </softkeys>
+</framework>

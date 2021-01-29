@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/keyboard_editing_holder" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.core.MultiTouchDelegateView android:id="@id/keyboard_editing_overlay" style="@style/KeyboardEditingOverlay" />
+    <FrameLayout android:id="@id/keyboard_editing_view" android:splitMotionEvents="false" style="@style/KeyboardEditingView">
+        <include layout="@layout/keyboard_editing_view_edges_horizon" />
+        <include layout="@layout/keyboard_editing_view_edges_vertical" />
+        <include layout="@layout/keyboard_editing_view_corners_left_side" />
+        <include layout="@layout/keyboard_editing_view_corners_right_side" />
+        <LinearLayout android:orientation="horizontal" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false">
+            <FrameLayout android:layout_weight="@integer/keyboard_editing_horizon_spare_button_weight" style="@style/KeyboardEditingButton.Horizon" />
+            <ImageView android:id="@id/reset_keyboard" style="@style/KeyboardEditingButton.Horizon.ResetButton" />
+            <FrameLayout android:layout_weight="@integer/keyboard_editing_horizon_spare_button_weight" style="@style/KeyboardEditingButton.Horizon" />
+            <ImageView android:id="@id/move_keyboard" style="@style/KeyboardEditingButton.Horizon.MoveButton" />
+            <FrameLayout android:layout_weight="@integer/keyboard_editing_horizon_spare_button_weight" style="@style/KeyboardEditingButton.Horizon" />
+            <ImageView android:id="@id/exit_editing" style="@style/KeyboardEditingButton.Horizon.ExitEditingButton" />
+            <FrameLayout android:layout_weight="@integer/keyboard_editing_horizon_spare_button_weight" style="@style/KeyboardEditingButton.Horizon" />
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

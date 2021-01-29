@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/attribute_color_shape_ring_spacing" android:top="@dimen/attribute_color_shape_ring_spacing" android:right="@dimen/attribute_color_shape_ring_spacing" android:bottom="@dimen/attribute_color_shape_ring_spacing">
+        <shape android:shape="oval">
+            <size android:height="@dimen/attribute_color_image_height" android:width="@dimen/attribute_color_image_width" />
+            <solid android:color="@color/transparent" />
+            <stroke android:width="@dimen/attribute_color_shape_ring_width" android:color="@color/off_state_stroke_color" />
+        </shape>
+    </item>
+    <item android:left="@dimen/attribute_color_shape_ring_spacing" android:top="@dimen/attribute_color_shape_ring_spacing" android:right="@dimen/attribute_color_shape_ring_spacing" android:bottom="@dimen/attribute_color_shape_ring_spacing">
+        <rotate android:fromDegrees="45.0" android:toDegrees="45.0">
+            <shape android:shape="line">
+                <size android:height="@dimen/attribute_color_image_height" android:width="@dimen/attribute_color_image_width" />
+                <stroke android:width="@dimen/attribute_color_shape_ring_width" android:color="@color/off_state_stroke_color" />
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <size android:height="@dimen/attribute_color_image_height" android:width="@dimen/attribute_color_image_width" />
+            <solid android:color="@color/transparent" />
+            <stroke android:width="@dimen/attribute_color_shape_ring_width" android:color="@color/off_state_stroke_color" />
+        </shape>
+    </item>
+</layer-list>

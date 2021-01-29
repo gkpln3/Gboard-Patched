@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Linear.Horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/number" style="@style/Label.Digit.PhoneNumber" />
+    <TextView android:id="@id/label" style="@style/Label.PhoneText.Character" />
+</LinearLayout>

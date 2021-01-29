@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_devanagari_letter_a" long_press_data="ॲ" press_data="अ" />
+            <softkey id="@id/softkey_devanagari_letter_aa" long_press_data="ा" press_data="आ" />
+            <softkey id="@id/softkey_devanagari_letter_i" long_press_data="ि" press_data="इ" />
+            <softkey id="@id/softkey_devanagari_letter_ii" long_press_data="ी" press_data="ई" />
+            <softkey id="@id/softkey_devanagari_letter_u" long_press_data="ु" press_data="उ" />
+            <softkey id="@id/softkey_devanagari_letter_uu" long_press_data="ू" press_data="ऊ" />
+            <softkey id="@id/softkey_devanagari_letter_e" long_press_data="े,ऎ,ॆ" press_data="ए" />
+            <softkey id="@id/softkey_devanagari_letter_ai" long_press_data="ै,ऍ,ॅ" press_data="ऐ" />
+            <softkey id="@id/softkey_devanagari_letter_o" long_press_data="ो,ऒ,ॊ,ऑ,ॉ,ॐ" press_data="ओ" />
+            <softkey id="@id/softkey_devanagari_letter_au" long_press_data="ौ" press_data="औ" />
+            <softkey id="@id/softkey_devanagari_letter_vocalic_l" long_press_data="ॢ,ॡ,ॣ" press_data="ऌ" />
+            <softkey id="@id/softkey_devanagari_sign_nukta" press_data="़" />
+            <softkey id="@id/softkey_devanagari_sign_anusvara" long_press_data="ँ,ः" press_data="ं" />
+            <softkey id="@id/softkey_devanagari_letter_vocalic_r" long_press_data="ृ" press_data="ऋ" />
+            <softkey id="@id/softkey_devanagari_sign_virama" long_press_data="ऽ" press_data="्" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press">
+            <softkey id="@id/softkey_devanagari_letter_ka" long_press_data="कं,क्,क़,क़्" long_press_label="कं,क्‍,क़,क़्‍" press_data="क" press_label="क" />
+            <softkey id="@id/softkey_devanagari_letter_kha" long_press_data="खं,ख्,ख़,ख़ं,ख़्" long_press_label="खं,ख्‍,ख़,ख़ं,ख़्‍" press_data="ख" press_label="ख" />
+            <softkey id="@id/softkey_devanagari_letter_ga" long_press_data="गं,ग्,ग़,ग़्" long_press_label="गं,ग्‍,ग़,ग़्‍" press_data="ग" press_label="ग" />
+            <softkey id="@id/softkey_devanagari_letter_gha" long_press_data="घं,घ्" long_press_label="घं,घ्‍" press_data="घ" press_label="घ" />
+            <softkey id="@id/softkey_devanagari_letter_ca" long_press_data="चं,च्" long_press_label="चं,च्‍" press_data="च" press_label="च" />
+            <softkey id="@id/softkey_devanagari_letter_cha" long_press_data="छं,छ्" long_press_label="छं,छ्‍" press_data="छ" press_label="छ" />
+            <softkey id="@id/softkey_devanagari_letter_ja" long_press_data="ज्ञ,जं,ज्,ज़,ज़ं,ज़्" long_press_label="ज्ञ,जं,ज्‍,ज़,ज़ं,ज़्‍" press_data="ज" press_label="ज" />
+            <softkey id="@id/softkey_devanagari_letter_jha" long_press_data="झं,झ्,झ़,झ़्" long_press_label="झं,झ्‍,झ़,झ़्‍" press_data="झ" press_label="झ" />
+            <softkey id="@id/softkey_devanagari_letter_nya" long_press_data="ञं,ञ्,ञ़,ञ़्" long_press_label="ञं,ञ्‍,ञ़,ञ़्‍" press_data="ञ" press_label="ञ" />
+            <softkey id="@id/softkey_devanagari_letter_tta" long_press_data="टं,ट्" long_press_label="टं,ट्" press_data="ट" press_label="ट" />
+            <softkey id="@id/softkey_devanagari_letter_ttha" long_press_data="ठं,ठ्" long_press_label="ठं,ठ्" press_data="ठ" press_label="ठ" />
+            <softkey id="@id/softkey_devanagari_letter_dda" long_press_data="डं,ड्,ड़,ड़ं,ड़्,ङ,ङं,ङ्" long_press_label="डं,ड्,ड़,ड़ं,ड़्,ङ,ङं,ङ्" press_data="ड" press_label="ड" />
+            <softkey id="@id/softkey_devanagari_letter_ddha" long_press_data="ढं,ढ्,ढ़,ढ़ं,ढ़्" long_press_label="ढं,ढ्,ढ़,ढ़ं,ढ़्" press_data="ढ" press_label="ढ" />
+            <softkey id="@id/softkey_devanagari_letter_nna" long_press_data="णं,ण्" long_press_label="णं,ण्‍" press_data="ण" press_label="ण" />
+            <softkey id="@id/softkey_devanagari_letter_ta" long_press_data="तं,त्" long_press_label="तं,त्‍" press_data="त" press_label="त" />
+            <softkey id="@id/softkey_devanagari_letter_tha" long_press_data="थं,थ्" long_press_label="थं,थ्‍" press_data="थ" press_label="थ" />
+            <softkey id="@id/softkey_devanagari_letter_da" long_press_data="दं,द्" long_press_label="दं,द्" press_data="द" press_label="द" />
+            <softkey id="@id/softkey_devanagari_letter_dha" long_press_data="धं,ध्" long_press_label="धं,ध्‍" press_data="ध" press_label="ध" />
+            <softkey id="@id/softkey_devanagari_letter_na" long_press_data="नं,न्" long_press_label="नं,न्‍" press_data="न" press_label="न" />
+            <softkey id="@id/softkey_devanagari_letter_pa" long_press_data="पं,प्" long_press_label="पं,प्‍" press_data="प" press_label="प" />
+            <softkey id="@id/softkey_devanagari_letter_pha" long_press_data="फं,फ्,फ़,फ़ं,फ़्" long_press_label="फं,फ्‍,फ़,फ़ं,फ़्‍" press_data="फ" press_label="फ" />
+            <softkey id="@id/softkey_devanagari_letter_ba" long_press_data="बं,ब्" long_press_label="बं,ब्‍" press_data="ब" press_label="ब" />
+            <softkey id="@id/softkey_devanagari_letter_bha" long_press_data="भं,भ्" long_press_label="भं,भ्‍" press_data="भ" press_label="भ" />
+            <softkey id="@id/softkey_devanagari_letter_ma" long_press_data="मं,म्" long_press_label="मं,म्‍" press_data="म" press_label="म" />
+            <softkey id="@id/softkey_devanagari_letter_ya" long_press_data="यं,य्" long_press_label="यं,य्‍" press_data="य" press_label="य" />
+            <softkey id="@id/softkey_devanagari_letter_ra" long_press_data="रं,र्,ऱ" long_press_label="रं,र्,ऱ" press_data="र" press_label="र" />
+            <softkey id="@id/softkey_devanagari_letter_la" long_press_data="लं,ल्" long_press_label="लं,ल्‍" press_data="ल" press_label="ल" />
+            <softkey id="@id/softkey_devanagari_letter_va" long_press_data="वं,व्" long_press_label="वं,व्‍" press_data="व" press_label="व" />
+            <softkey id="@id/softkey_devanagari_letter_sha" long_press_data="शं,श्" long_press_label="शं,श्‍" press_data="श" press_label="श" />
+            <softkey id="@id/softkey_devanagari_letter_ssa" long_press_data="षं,ष्" long_press_label="षं,ष्‍" press_data="ष" press_label="ष" />
+            <softkey id="@id/softkey_devanagari_letter_sa" long_press_data="सं,स्" long_press_label="सं,स्‍" press_data="स" press_label="स" />
+            <softkey id="@id/softkey_devanagari_letter_ha" long_press_data="हं,ह्" long_press_label="हं,ह्‍" press_data="ह" press_label="ह" />
+            <softkey id="@id/softkey_devanagari_letter_lla" long_press_data="ळं,ळ्" long_press_label="ळं,ळ्‍" press_data="ळ" press_label="ळ" />
+            <softkey id="@id/softkey_devanagari_letter_ka_devanagari_sign_virama_devanagari_letter_ssa" long_press_data="क्षं,क्ष्" long_press_label="क्षं,क्ष्" press_data="क्ष" press_label="क्ष" />
+        </softkey_list>
+    </softkeys>
+</framework>

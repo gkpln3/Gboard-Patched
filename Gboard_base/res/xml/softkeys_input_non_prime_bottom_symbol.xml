@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <include href="@xml/softkeys_template_non_prime_bottom_symbol" />
+        <softkey_list splitter=" " template_id="@id/softkey_template_symbol_bottom">
+            <softkey id="@id/softkey_comma" param_data="," param_keycode="COMMA" />
+            <softkey id="@id/softkey_period" long_press_data="…" param_data="." param_keycode="PERIOD" />
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@id/softkey_template_symbol_bottom_decode">
+            <softkey id="@id/softkey_less_than" long_press_data="≤ ‹ « ⟨" param_data="&lt;" />
+            <softkey id="@id/softkey_more_than" long_press_data="≥ › » ⟩" param_data=">" />
+        </softkey_list>
+    </softkeys>
+</framework>

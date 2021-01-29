@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/close_text_editing" disable_lift_to_tap="true" id="@id/softkey_close_textediting" layout="@layout/softkey_function_key_icon">
+            <action data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_arrow_back_white_24" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/close_text_editing" disable_lift_to_tap="true" id="@id/softkey_close_textediting_rtl" layout="@layout/softkey_function_key_icon">
+            <action data="prime" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_arrow_forward_white_24" />
+        </softkey>
+    </softkeys>
+</framework>

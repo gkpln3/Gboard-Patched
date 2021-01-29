@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?123" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_adlam" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="U+1E953U+1E952U+1E951؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_arabic" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="٣٢١؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_ascii_numerals_arabic_question_mark" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="123؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_balinese" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="᭗᭘᭙" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_switch_to_non_prime_keyboard_bamum" layout="@layout/softkey_function_key_label">
+            <action action_on_down="true" data="symbol" keycode="SWITCH_TO_NON_PRIME_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="꛷ꛦꛧꛨ" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_bengali" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?১২৩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_chakma" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_cham" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?꩑꩒꩓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_ethiopic" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?፩፪፫" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_gujarati" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?૧૨૩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_gurmukhi" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?੧੨੩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_indic" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?१२३" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_ipa" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="/ [ {" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_javanese" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="ꧏ꧐꧑" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_kannada" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?೧೨೩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_kayah_li" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?꤁꤂꤃" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_lepcha" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?᱁᱂᱃" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_limbu" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="᥅᥇᥈᥉" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_myanmar" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?၁၂၃" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_myanmar_shan" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?႑႒႓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_new_tai_lue" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="？᧑᧒᧓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_nko" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="߃߂߁؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_odia" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?୧୨୩" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_ol_chiki" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?᱑᱒᱓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_persian" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="۳۲۱؟" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_saurashtra" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?꣑꣒꣓" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_sundanese" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="\?᮱᮲᮳" />
+        </softkey>
+        <softkey content_description="@string/symbol_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_non_prime_main_category_symbol_tibetan" layout="@layout/softkey_function_key_label">
+            <action data="symbol" keycode="SWITCH_KEYBOARD" type="PRESS" />
+            <label location="@id/label" value="༡༢༣" />
+        </softkey>
+    </softkeys>
+</framework>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_number_row="false">
+        <merge_key_mapping exclude_state="SHIFT">
+            <merge key_id="@id/softkey_fragment_superscript_digit_one" view_id="@id/key_pos_0_0" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_two" view_id="@id/key_pos_0_1" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_three" view_id="@id/key_pos_0_2" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_four" view_id="@id/key_pos_0_3" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_five" view_id="@id/key_pos_0_6" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_six" view_id="@id/key_pos_0_7" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_seven" view_id="@id/key_pos_0_8" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_eight" view_id="@id/key_pos_0_9" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_nine" view_id="@id/key_pos_0_10" />
+            <merge key_id="@id/softkey_fragment_superscript_digit_zero" view_id="@id/key_pos_1_1" />
+        </merge_key_mapping>
+    </if>
+</framework>

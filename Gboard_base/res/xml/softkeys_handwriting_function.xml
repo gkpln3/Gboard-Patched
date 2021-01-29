@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/desc_switch_to_fullscreen_handwriting" id="@id/softkey_switch_to_fullscreen" layout="@layout/softkey_function_key_icon">
+            <action keycode="TOGGLE_FULLSCREEN_HANDWRITING" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_handwriting_expand_dark" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/desc_switch_to_halfscreen_handwriting" id="@id/softkey_switch_to_halfscreen" layout="@layout/softkey_function_key_icon">
+            <action keycode="TOGGLE_FULLSCREEN_HANDWRITING" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_handwriting_shrink_dark" />
+        </softkey>
+    </softkeys>
+</framework>

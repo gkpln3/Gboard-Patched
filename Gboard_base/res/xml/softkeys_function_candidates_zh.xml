@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/turn_on_single_character_candidate_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_turn_on_single_character_candidate" layout="@layout/softkey_candidates_view_function_key_small_label_icon_bottom" multi_touch="false">
+            <action data="SINGLE_CHARACTER_CANDIDATE" keycode="KEYBOARD_STATE_ON" type="PRESS" />
+            <if language="zh-TW|zh-HK">
+                <label location="@id/label" value="@string/single_character_candidate_label_traditional" />
+            </if>
+            <else>
+                <label location="@id/label" value="@string/single_character_candidate_label" />
+            </else>
+            <icon location="@id/icon_bottom" value="@attr/IconBarUnlock" />
+        </softkey>
+        <softkey content_description="@string/turn_off_single_character_candidate_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_turn_off_single_character_candidate" layout="@layout/softkey_candidates_view_function_key_small_label_icon_bottom_active" multi_touch="false">
+            <action data="SINGLE_CHARACTER_CANDIDATE" keycode="KEYBOARD_STATE_OFF" type="PRESS" />
+            <if language="zh-TW|zh-HK">
+                <label location="@id/label" value="@string/single_character_candidate_label_traditional" />
+            </if>
+            <else>
+                <label location="@id/label" value="@string/single_character_candidate_label" />
+            </else>
+            <icon location="@id/icon_bottom" value="@attr/IconBarGreen" />
+        </softkey>
+    </softkeys>
+</framework>

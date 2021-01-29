@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_list splitter=" ">
+            <softkey_template content_description="$desc$" id="@id/softkey_template_ja_qwerty" layout="@layout/softkey_qwerty_label_character" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="$keycode_normal$" popup_label="$label$" type="PRESS" />
+                <label location="@id/label" value="$label$" />
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@id/softkey_template_ja_qwerty_bottom" layout="@layout/softkey_label_medium_bottom" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="$keycode_normal$" popup_label="$label$" type="PRESS" />
+                <action data="$long_press_data$" intention="COMMIT" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@attr/PopupBubbleRectangularLabelSmallLayout" type="LONG_PRESS" />
+                <label location="@id/label_bottom" value="$label$" />
+            </softkey_template>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@id/softkey_template_ja_qwerty">
+            <softkey id="@id/softkey_ja_qwerty_q" keycode_normal="Q" label="q" press_data="q" />
+            <softkey id="@id/softkey_ja_qwerty_w" keycode_normal="W" label="w" press_data="w" />
+            <softkey id="@id/softkey_ja_qwerty_e" keycode_normal="E" label="e" press_data="e" />
+            <softkey id="@id/softkey_ja_qwerty_r" keycode_normal="R" label="r" press_data="r" />
+            <softkey id="@id/softkey_ja_qwerty_t" keycode_normal="T" label="t" press_data="t" />
+            <softkey id="@id/softkey_ja_qwerty_y" keycode_normal="Y" label="y" press_data="y" />
+            <softkey id="@id/softkey_ja_qwerty_u" keycode_normal="U" label="u" press_data="u" />
+            <softkey id="@id/softkey_ja_qwerty_i" keycode_normal="I" label="i" press_data="i" />
+            <softkey id="@id/softkey_ja_qwerty_o" keycode_normal="O" label="o" press_data="o" />
+            <softkey id="@id/softkey_ja_qwerty_p" keycode_normal="P" label="p" press_data="p" />
+            <softkey id="@id/softkey_ja_qwerty_a" keycode_normal="A" label="a" press_data="a" />
+            <softkey id="@id/softkey_ja_qwerty_s" keycode_normal="S" label="s" press_data="s" />
+            <softkey id="@id/softkey_ja_qwerty_d" keycode_normal="D" label="d" press_data="d" />
+            <softkey id="@id/softkey_ja_qwerty_f" keycode_normal="F" label="f" press_data="f" />
+            <softkey id="@id/softkey_ja_qwerty_g" keycode_normal="G" label="g" press_data="g" />
+            <softkey id="@id/softkey_ja_qwerty_h" keycode_normal="H" label="h" press_data="h" />
+            <softkey id="@id/softkey_ja_qwerty_j" keycode_normal="J" label="j" press_data="j" />
+            <softkey id="@id/softkey_ja_qwerty_k" keycode_normal="K" label="k" press_data="k" />
+            <softkey id="@id/softkey_ja_qwerty_l" keycode_normal="L" label="l" press_data="l" />
+            <softkey desc="@string/cd_key_uchar_katakana_hiragana_prolonged_sound_mark" id="@id/softkey_ja_qwerty_prolonged_sound_mark" keycode_normal="MINUS" label="ー" press_data="-" />
+            <softkey id="@id/softkey_ja_qwerty_z" keycode_normal="Z" label="z" press_data="z" />
+            <softkey id="@id/softkey_ja_qwerty_x" keycode_normal="X" label="x" press_data="x" />
+            <softkey id="@id/softkey_ja_qwerty_c" keycode_normal="C" label="c" press_data="c" />
+            <softkey id="@id/softkey_ja_qwerty_v" keycode_normal="V" label="v" press_data="v" />
+            <softkey id="@id/softkey_ja_qwerty_b" keycode_normal="B" label="b" press_data="b" />
+            <softkey id="@id/softkey_ja_qwerty_n" keycode_normal="N" label="n" press_data="n" />
+            <softkey id="@id/softkey_ja_qwerty_m" keycode_normal="M" label="m" press_data="m" />
+            <softkey id="@id/softkey_latin_capital_letter_q" keycode_normal="Q" label="Q" press_data="Q" />
+            <softkey id="@id/softkey_latin_capital_letter_w" keycode_normal="W" label="W" press_data="W" />
+            <softkey id="@id/softkey_latin_capital_letter_e" keycode_normal="E" label="E" press_data="E" />
+            <softkey id="@id/softkey_latin_capital_letter_r" keycode_normal="R" label="R" press_data="R" />
+            <softkey id="@id/softkey_latin_capital_letter_t" keycode_normal="T" label="T" press_data="T" />
+            <softkey id="@id/softkey_latin_capital_letter_y" keycode_normal="Y" label="Y" press_data="Y" />
+            <softkey id="@id/softkey_latin_capital_letter_u" keycode_normal="U" label="U" press_data="U" />
+            <softkey id="@id/softkey_latin_capital_letter_i" keycode_normal="I" label="I" press_data="I" />
+            <softkey id="@id/softkey_latin_capital_letter_o" keycode_normal="O" label="O" press_data="O" />
+            <softkey id="@id/softkey_latin_capital_letter_p" keycode_normal="P" label="P" press_data="P" />
+            <softkey id="@id/softkey_latin_capital_letter_a" keycode_normal="A" label="A" press_data="A" />
+            <softkey id="@id/softkey_latin_capital_letter_s" keycode_normal="S" label="S" press_data="S" />
+            <softkey id="@id/softkey_latin_capital_letter_d" keycode_normal="D" label="D" press_data="D" />
+            <softkey id="@id/softkey_latin_capital_letter_f" keycode_normal="F" label="F" press_data="F" />
+            <softkey id="@id/softkey_latin_capital_letter_g" keycode_normal="G" label="G" press_data="G" />
+            <softkey id="@id/softkey_latin_capital_letter_h" keycode_normal="H" label="H" press_data="H" />
+            <softkey id="@id/softkey_latin_capital_letter_j" keycode_normal="J" label="J" press_data="J" />
+            <softkey id="@id/softkey_latin_capital_letter_k" keycode_normal="K" label="K" press_data="K" />
+            <softkey id="@id/softkey_latin_capital_letter_l" keycode_normal="L" label="L" press_data="L" />
+            <softkey id="@id/softkey_latin_capital_letter_z" keycode_normal="Z" label="Z" press_data="Z" />
+            <softkey id="@id/softkey_latin_capital_letter_x" keycode_normal="X" label="X" press_data="X" />
+            <softkey id="@id/softkey_latin_capital_letter_c" keycode_normal="C" label="C" press_data="C" />
+            <softkey id="@id/softkey_latin_capital_letter_v" keycode_normal="V" label="V" press_data="V" />
+            <softkey id="@id/softkey_latin_capital_letter_b" keycode_normal="B" label="B" press_data="B" />
+            <softkey id="@id/softkey_latin_capital_letter_n" keycode_normal="N" label="N" press_data="N" />
+            <softkey id="@id/softkey_latin_capital_letter_m" keycode_normal="M" label="M" press_data="M" />
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@id/softkey_template_ja_qwerty_bottom">
+            <softkey desc="@string/cd_key_uchar_ideographic_comma" id="@id/softkey_ja_comma" keycode_normal="COMMA" label="、" long_press_data="" press_data="," />
+            <softkey desc="@string/cd_key_uchar_ideographic_full_stop" id="@id/softkey_ja_period" keycode_normal="PERIOD" label="。" long_press_data="@string/label_period_popup_default" press_data="." />
+        </softkey_list>
+    </softkeys>
+    <include href="@xml/softkeys_latin_fragment_secondary_digits_ja" />
+    <include href="@xml/softkeys_fragment_secondary_symbols_ja" />
+</framework>

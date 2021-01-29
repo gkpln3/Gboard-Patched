@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/gboard_link_receiving_share_activity" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/gboard_link_receiving_share_text" android:layout_marginTop="14.0dip" android:layout_marginBottom="30.0dip" android:text="@string/gboard_link_receiving_share" android:paddingStart="@dimen/sharing_activity_content_padding" android:paddingEnd="@dimen/sharing_activity_content_padding" style="@style/SharingActivityText" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/gboard_sharing_negative_button" android:text="@string/gboard_sharing_negative_button_label" android:layout_marginEnd="20.0dip" style="@style/SharingActivityCancelButton" />
+        <Button android:id="@id/gboard_sharing_positive_button" android:text="@string/gboard_sharing_positive_button_label" style="@style/SharingActivityButton" />
+    </LinearLayout>
+</LinearLayout>

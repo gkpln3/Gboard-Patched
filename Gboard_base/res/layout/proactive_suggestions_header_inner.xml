@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewStub android:orientation="horizontal" android:id="@id/key_pos_proactive_suggestions" android:visibility="invisible" android:layout="@layout/proactive_suggestions_holder_view" android:inflatedId="@id/key_pos_proactive_suggestions" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="?SuggestionsStripHorizontalMargin" android:layout_marginEnd="?SuggestionsStripHorizontalMargin" app:managed="true" app:suppressedSiblingId="@id/softkey_holder_fixed_candidates" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

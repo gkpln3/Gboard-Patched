@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView app:allowMockActionDown="false" style="@style/Header" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.CopyImageSourceView android:id="@id/copy_src" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/proactive_suggestions_header_inner_no_margin" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

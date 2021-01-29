@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="end|bottom|center" android:id="@id/variant_availability_indicator" android:tag=".label.emoji-inline-category" android:visibility="gone" android:layout_width="@dimen/variant_availability_indicator_width" android:layout_height="@dimen/variant_availability_indicator_height" android:contentDescription="@null" />
+</merge>

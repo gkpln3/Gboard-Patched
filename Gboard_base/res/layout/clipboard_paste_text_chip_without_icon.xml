@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout style="@style/ChipsView"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/clipboard_paste_chip_background" />
+    <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:id="@id/clipboard_paste_chip_text" android:tag=".keyboard-clipboard-text" android:layout_marginStart="@dimen/clipboard_chips_text_margin" android:layout_marginEnd="@dimen/clipboard_chips_text_margin" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/ChipsText" />
+</androidx.constraintlayout.widget.ConstraintLayout>

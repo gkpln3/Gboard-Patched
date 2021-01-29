@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_switch_to_alphabet" view_id="@id/key_pos_switch_hiragana_alphabet" />
+        <mapping key_id="@id/softkey_space_ja" view_id="@id/key_pos_qwerty_space" />
+        <mapping key_id="@id/softkey_ja_comma" view_id="@id/key_pos_bottom_symbol_1" />
+        <mapping key_id="@id/softkey_ja_period" view_id="@id/key_pos_bottom_symbol_2" />
+        <mapping key_id="@id/softkey_ja_qwerty_tilde" view_id="@id/key_pos_qwerty_globe" />
+    </key_mapping>
+    <key_mapping state="SHOW_LANGUAGE_SWITCH_KEY">
+        <mapping key_id="@id/softkey_ja_switch_to_next_language" view_id="@id/key_pos_qwerty_globe" />
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@id/softkey_ja_qwerty_tilde" view_id="@id/key_pos_qwerty_globe" />
+    </key_mapping>
+</framework>

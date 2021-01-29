@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlpha" content_description="@string/page_up_key_content_desc" id="@id/softkey_floating_candidate_page_up" layout="@layout/floating_softkey_icon">
+            <action keycode="PAGE_UP" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_key_arrow_up_enabled_material_light_theme" />
+        </softkey>
+        <softkey alpha="@attr/IconAlpha" content_description="" id="@id/softkey_floating_candidate_page_up_disabled" layout="@layout/floating_softkey_icon">
+            <action keycode="PAGE_UP" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_key_arrow_up_disabled_material_light_theme" />
+        </softkey>
+        <softkey alpha="@attr/IconAlpha" content_description="@string/page_down_key_content_desc" id="@id/softkey_floating_candidate_page_down" layout="@layout/floating_softkey_icon">
+            <action keycode="PAGE_DOWN" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_key_arrow_down_enabled_material_light_theme" />
+        </softkey>
+        <softkey alpha="@attr/IconAlpha" content_description="" id="@id/softkey_floating_candidate_page_down_disabled" layout="@layout/floating_softkey_icon">
+            <action keycode="PAGE_DOWN" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_key_arrow_down_disabled_material_light_theme" />
+        </softkey>
+        <softkey alpha="@attr/IconAlpha" content_description="@string/delete_key_content_desc" id="@id/softkey_floating_candidate_del" layout="@layout/floating_softkey_icon" multi_touch="false">
+            <action keycode="DEL" repeatable="true" type="PRESS" />
+            <icon location="@id/icon" value="@drawable/ic_key_del_material_light" />
+        </softkey>
+        <softkey alpha="@attr/IconAlpha" content_description="@string/delete_key_content_desc" id="@id/softkey_floating_candidate_del_composing" layout="@layout/floating_softkey_icon" multi_touch="false" popup_timing="ON_GESTURE" slide_sensitivity="LESS">
+            <action keycode="DEL" repeatable="true" type="PRESS" />
+            <action keycode="CLEAR_ALL" popup_label="@string/label_clear_key" popup_layout="@layout/popup_small_square_bubble_no_cancelable" type="SLIDE_LEFT" />
+            <icon location="@id/icon" value="@drawable/ic_key_del_material_light" />
+        </softkey>
+    </softkeys>
+</framework>

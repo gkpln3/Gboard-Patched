@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:id="@id/access_point_panel_softkeyboardview" android:tag=".keyboard-header-area" android:background="?BgKeyboardBody" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointsPanel android:id="@id/access_points_panel" style="@style/AccessPointsPanel" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

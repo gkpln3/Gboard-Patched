@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1.0" class=".latinguyk.keyboard.LatinPrimeKeyboard" popup="@attr/PopupBubbleLayout" session_states="SHIFT_LOCK">
+        <view always_show="false" layout="@layout/keyboard_inline_suggestion" scalable="false" touchable="false" type="floating_candidates" />
+        <view layout="@layout/keyboard_prime_header" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_header_prime" />
+            <softkeys href="@xml/softkeys_header_candidates" />
+            <include href="@xml/keymapping_header_candidates" />
+            <include href="@xml/keymapping_header_en_qwerty" />
+        </view>
+        <view type="body">
+            <if enable_joystick_delete="true">
+                <motion_event_handler class=".libs.framework.keyboard.handler.JoystickEventHandlerManager" />
+            </if>
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinMotionEventHandler" />
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinGestureMotionEventHandler" preference_key="@string/pref_key_enable_gesture_input" reverse_preference="false" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubDeleteMotionEventHandler" preference_key="@string/pref_key_enable_scrub_delete" reverse_preference="false" />
+            <if enable_inline_suggestions_on_client_side="true">
+                <motion_event_handler class=".libs.framework.keyboard.handler.InlineSuggestionScrubSpaceMotionEventHandler" />
+            </if>
+            <motion_event_handler class=".libs.framework.keyboard.handler.ScrubMoveMotionEventHandler" preference_key="@string/pref_key_enable_scrub_move" reverse_preference="false" />
+            <motion_event_handler class=".libs.latinguyk5.handler.LatinKeyboardLayoutHandler" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_function_latin" />
+            <softkeys href="@xml/softkeys_punctuation_bottom" />
+            <softkeys href="@xml/softkeys_punctuation_bottom_base" />
+            <softkeys href="@xml/softkeys_fragment_punctuation_bottom_popup" />
+            <include href="@xml/keymapping_function_shift" />
+            <include href="@xml/keymapping_function_switch_language" />
+            <include href="@xml/keymapping_function_ime_action_en_prime" />
+            <include href="@xml/keymapping_function_latin" />
+            <include href="@xml/keymapping_punctuation_bottom_base" />
+        </view>
+    </keyboard>
+    <if device="tablet">
+        <include href="@xml/keyboard_fragment_tablet" />
+    </if>
+</framework>

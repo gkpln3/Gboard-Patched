@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list splitter=" " template_id="@id/softkey_template_light_symbol">
+        <softkey param_data="⚫" />
+        <softkey param_data="⚪" />
+        <softkey param_data="●" />
+        <softkey param_data="○" />
+        <softkey param_data="■" />
+        <softkey param_data="□" />
+        <softkey param_data="⬛" />
+        <softkey param_data="⬜" />
+        <softkey param_data="★" />
+        <softkey param_data="☆" />
+        <softkey param_data="◆" />
+        <softkey param_data="◇" />
+        <softkey param_data="▲" />
+        <softkey param_data="△" />
+        <softkey param_data="▶" />
+        <softkey param_data="▷" />
+        <softkey param_data="▼" />
+        <softkey param_data="▽" />
+        <softkey param_data="◀" />
+        <softkey param_data="◁" />
+        <softkey param_data="◐" />
+        <softkey param_data="◑" />
+        <softkey param_data="♀" />
+        <softkey param_data="♂" />
+        <softkey param_data="♤" />
+        <softkey param_data="♡" />
+        <softkey param_data="♧" />
+        <softkey param_data="♢" />
+        <softkey param_data="♠" />
+        <softkey param_data="♥" />
+        <softkey param_data="♣" />
+        <softkey param_data="♦" />
+        <softkey param_data="•" />
+        <softkey param_data="❖" />
+        <unicode_range from="U+2713" param="param_data" to="U+2752">
+            <softkey />
+        </unicode_range>
+        <unicode_range from="U+25C8" param="param_data" to="U+25CA">
+            <softkey />
+        </unicode_range>
+        <unicode_range from="U+25E2" param="param_data" to="U+25E5">
+            <softkey />
+        </unicode_range>
+        <unicode_range from="U+2762" param="param_data" to="U+2767">
+            <softkey />
+        </unicode_range>
+    </softkey_list>
+</framework>

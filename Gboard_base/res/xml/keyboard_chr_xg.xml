@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <keyboard id="@id/keyboard_chr_xg">
+        <view layout="@layout/keyboard_latin_9_9_8_body" type="body">
+            <softkeys href="@xml/softkeys_input_chr_xg" />
+            <include href="@xml/keymapping_chr_xg" />
+            <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+        </view>
+    </keyboard>
+</framework>

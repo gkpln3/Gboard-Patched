@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_dynamic">
+            <softkey id="@id/softkey_batak_vowel_sign_ee" long_press_data="ᯧ" long_press_label=" " press_data="ᯩ" press_label=" " />
+            <softkey id="@id/softkey_batak_vowel_sign_i" long_press_data="ᯫ" long_press_label=" " press_data="ᯪ" press_label=" " />
+            <softkey id="@id/softkey_batak_vowel_sign_o" long_press_data="ᯭ" long_press_label=" " press_data="ᯬ" press_label=" " />
+            <softkey id="@id/softkey_batak_vowel_sign_u" long_press_data="ᯯ" long_press_label=" " press_data="ᯮ" press_label=" " />
+            <softkey id="@id/softkey_batak_consonant_sign_ng" press_data="ᯰ" press_label=" " />
+            <softkey id="@id/softkey_batak_consonant_sign_h" press_data="ᯱ" press_label=" " />
+            <softkey id="@id/softkey_batak_panongonan" long_press_data="᯲" long_press_label=" " press_data="᯳" press_label=" " />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_batak_letter_simalungun_a" long_press_data="ᯀ" press_data="ᯁ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_ha" long_press_data="ᯂ,ᯄ,ᯄ᯦" press_data="ᯃ" />
+            <softkey id="@id/softkey_batak_letter_nda" press_data="ᯢ" />
+            <softkey id="@id/softkey_batak_letter_ba" long_press_data="ᯆ" press_data="ᯅ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_pa" long_press_data="ᯇ" press_data="ᯈ" />
+            <softkey id="@id/softkey_batak_letter_na" long_press_data="ᯊ" press_data="ᯉ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_wa" long_press_data="ᯋ,ᯍ" press_data="ᯌ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_ga" long_press_data="ᯎ" press_data="ᯏ" />
+            <softkey id="@id/softkey_batak_letter_ja" press_data="ᯐ" />
+            <softkey id="@id/softkey_batak_letter_da" press_data="ᯑ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_ra" long_press_data="ᯒ" press_data="ᯓ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_ma" long_press_data="ᯔ" press_data="ᯕ" />
+            <softkey id="@id/softkey_batak_letter_southern_ta" long_press_data="ᯗ" press_data="ᯖ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_sa" long_press_data="ᯘ" press_data="ᯙ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_ya" long_press_data="ᯛ" press_data="ᯜ" />
+            <softkey id="@id/softkey_batak_letter_nga" press_data="ᯝ" />
+            <softkey id="@id/softkey_batak_letter_simalungun_la" long_press_data="ᯞ" press_data="ᯟ" />
+            <softkey id="@id/softkey_batak_letter_nya" press_data="ᯠ" />
+            <softkey id="@id/softkey_batak_letter_mba" press_data="ᯣ" />
+            <softkey id="@id/softkey_batak_letter_ca" long_press_data="ᯚ᯦" press_data="ᯡ" />
+            <softkey id="@id/softkey_batak_letter_i" press_data="ᯤ" />
+            <softkey id="@id/softkey_batak_letter_u" press_data="ᯥ" />
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/space_key_content_desc" id="@id/softkey_space_key" layout="@layout/softkey_function_key_icon" long_press_delay_flag="@string/space_key_long_press_delay" multi_touch="false">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+            <icon location="@id/icon" value="@attr/IconSpaceKey" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/space_key_content_desc" id="@id/softkey_space_no_ime_picker_key" layout="@layout/softkey_function_key_icon" multi_touch="false">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSpaceKey" />
+        </softkey>
+        <softkey content_description="@string/space_key_content_desc" id="@id/softkey_space_en" layout="@layout/softkey_space_label_grey" long_press_delay_flag="@string/space_key_long_press_delay">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+            <label location="@id/label" value="@string/label_space_en" />
+        </softkey>
+        <softkey id="@id/softkey_space_digit_0" layout="@layout/softkey_space_label_digit" multi_touch="false">
+            <action data="0" keycode="KEYCODE_0" type="PRESS" />
+            <label location="@id/label" value="0" />
+        </softkey>
+        <softkey content_description="@string/space_key_content_desc" id="@id/softkey_space_empty" layout="@layout/softkey_space_label_grey" long_press_delay_flag="@string/space_key_long_press_delay">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+            <label location="@id/label" value=" " />
+        </softkey>
+        <softkey content_description="@string/space_key_content_desc" id="@id/softkey_no_break_space" layout="@layout/softkey_space_label_grey" long_press_delay_flag="@string/space_key_long_press_delay">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+            <label location="@id/label" value=" " />
+        </softkey>
+        <softkey content_description="@string/space_key_content_desc" id="@id/softkey_9key_space_en" layout="@layout/softkey_space_label_small_grey_label_sup_dark" multi_touch="false" popup_timing="ON_GESTURE">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <action data="0" intention="COMMIT" keycode="KEYCODE_0" popup_label="0" popup_layout="@layout/popup_square_bubble" type="LONG_PRESS" />
+            <label location="@id/label" value="@string/label_space_en" />
+            <label location="@id/label_sup" value="0" />
+        </softkey>
+    </softkeys>
+</framework>

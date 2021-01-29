@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_flip_content_desc" id="@id/softkey_symbols_flip" layout="@layout/softkey_function_key_icon_label" multi_touch="true">
+            <action action_on_down="true" data="SUB_CATEGORY_1" keycode="SWITCH_SUB_CATEGORY" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSymbolKeyboardPage1Flip" />
+            <label location="@id/label" value="" />
+        </softkey>
+        <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/shift_locked_flip_content_desc" id="@id/softkey_more_symbols_flip" layout="@layout/softkey_function_key_icon_label" multi_touch="true">
+            <action action_on_down="true" data="NORMAL" keycode="SWITCH_SUB_CATEGORY" type="PRESS" />
+            <icon location="@id/icon" value="@attr/IconSymbolKeyboardPage2Flip" />
+            <label location="@id/label" value="" />
+        </softkey>
+        <softkey_template id="@id/softkey_template_symbols_flip">
+            <label location="@id/label" value="$param_label$" />
+            <icon location="@id/icon" value="" />
+        </softkey_template>
+        <softkey_template id="@id/softkey_template_more_symbols_flip">
+            <label location="@id/label" value="$param_label$" />
+            <icon location="@id/icon" value="" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_symbols_flip">
+            <softkey id="@id/softkey_fragment_ipa_symbols_flip" param_label="◌̥◌ʰ" />
+            <softkey id="@id/softkey_fragment_tibetan_symbols_flip" param_label="༼  ༽" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_more_symbols_flip">
+            <softkey id="@id/softkey_fragment_adlam_more_symbols_flip" param_label="U+1E953U+1E952U+1E951U+061F" />
+            <softkey id="@id/softkey_fragment_arabic_more_symbols_flip" param_label="٣٢١؟" />
+            <softkey id="@id/softkey_fragment_ascii_numerals_arabic_question_mark_more_symbols_flip" param_label="123؟" />
+            <softkey id="@id/softkey_fragment_balinese_more_symbols_flip" param_label="᭗᭘᭙" />
+            <softkey id="@id/softkey_fragment_bamum_more_symbols_flip" param_label="꛷ꛦꛧꛨ" />
+            <softkey id="@id/softkey_fragment_bengali_more_symbols_flip" param_label="\?১২৩" />
+            <softkey id="@id/softkey_fragment_chakma_more_symbols_flip" param_label="" />
+            <softkey id="@id/softkey_fragment_cham_more_symbols_flip" param_label="\?꩑꩒꩓" />
+            <softkey id="@id/softkey_fragment_ethiopic_more_symbols_flip" param_label="\?፩፪፫" />
+            <softkey id="@id/softkey_fragment_gujarati_more_symbols_flip" param_label="\?૧૨૩" />
+            <softkey id="@id/softkey_fragment_gurmukhi_more_symbols_flip" param_label="\?੧੨੩" />
+            <softkey id="@id/softkey_fragment_indic_more_symbols_flip" param_label="\?१२३" />
+            <softkey id="@id/softkey_fragment_javanese_more_symbols_flip" param_label="ꧏ꧐꧑" />
+            <softkey id="@id/softkey_fragment_kannada_more_symbols_flip" param_label="\?೧೨೩" />
+            <softkey id="@id/softkey_fragment_kayah_li_more_symbols_flip" param_label="\?꤁꤂꤃" />
+            <softkey id="@id/softkey_fragment_lepcha_more_symbols_flip" param_label="\?᱁᱂᱃" />
+            <softkey id="@id/softkey_fragment_limbu_more_symbols_flip" param_label="᥅᥇᥈᥉" />
+            <softkey id="@id/softkey_fragment_meetei_mayek_more_symbols_flip" param_label="\?꯱꯲꯳" />
+            <softkey id="@id/softkey_fragment_myanmar_more_symbols_flip" param_label="\?၁၂၃" />
+            <softkey id="@id/softkey_fragment_myanmar_shan_more_symbols_flip" param_label="\?႑႒႓" />
+            <softkey id="@id/softkey_fragment_new_tai_lue_more_symbols_flip" param_label="？᧑᧒᧓" />
+            <softkey id="@id/softkey_fragment_nko_more_symbols_flip" param_label="߃߂߁؟" />
+            <softkey id="@id/softkey_fragment_odia_more_symbols_flip" param_label="\?୧୨୩" />
+            <softkey id="@id/softkey_fragment_ol_chiki_more_symbols_flip" param_label="\?᱑᱒᱓" />
+            <softkey id="@id/softkey_fragment_persian_more_symbols_flip" param_label="۳۲۱؟" />
+            <softkey id="@id/softkey_fragment_saurashtra_more_symbols_flip" param_label="\?꣑꣒꣓" />
+            <softkey id="@id/softkey_fragment_sundanese_more_symbols_flip" param_label="\?᮱᮲᮳" />
+            <softkey id="@id/softkey_fragment_tibetan_more_symbols_flip" param_label="༡༢༣" />
+            <softkey id="@id/softkey_fragment_ipa_more_symbols_flip" param_label="/ [ {" />
+        </softkey_list>
+    </softkeys>
+</framework>

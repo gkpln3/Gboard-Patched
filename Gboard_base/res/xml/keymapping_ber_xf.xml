@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_tifinagh_letter_ya" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yaz" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yey" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yar" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yat" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yay" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yu" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yi" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yaa" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yaq" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yas" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yad" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yaf" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yag" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yah" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yazh" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yak" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yal" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yam" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yaw" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yakh" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yash" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_tifinagh_modifier_letter_labialization_mark" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yab" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yan" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_tifinagh_letter_yagh" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_apostrophe" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+</framework>

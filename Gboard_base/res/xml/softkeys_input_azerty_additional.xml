@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_question_mark" press_data="\?" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_fix_order">
+            <softkey id="@id/softkey_swedish_apostrophe" long_press_data="‚,‘,’,›,‹" long_press_label="‚,‘,’,‹,›" press_data="'" press_label="'" />
+            <softkey id="@id/softkey_hebrew_apostrophe" long_press_data="‘,’,‚,›,‹" long_press_label="‘,’,‚,‹,›" press_data="'" press_label="'" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_fix_order_simple">
+            <softkey id="@id/softkey_apostrophe" long_press_data="‚,‘,’,‹,›" press_data="'" />
+            <softkey id="@id/softkey_east_slavic_apostrophe" long_press_data="’,‚,‘,‹,›" press_data="'" />
+            <softkey id="@id/softkey_danish_apostrophe" long_press_data="’,‚,‘,›,‹" press_data="'" />
+            <softkey id="@id/softkey_croatian_apostrophe" long_press_data="‘,‚,’,›,‹" press_data="'" />
+            <softkey id="@id/softkey_roman_apostrophe" long_press_data="‘,‚,’,‹,›" press_data="'" />
+            <softkey id="@id/softkey_sami_apostrophe" long_press_data="‚,‘,’,‹,›,ʹ,´,ʼ,ˈ" press_data="'" />
+        </softkey_list>
+    </softkeys>
+</framework>

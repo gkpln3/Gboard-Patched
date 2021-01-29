@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="assist_full_bleed">true</bool>
+    <bool name="clip_children_and_to_padding">true</bool>
+    <bool name="supports_one_handed_mode">false</bool>
+</resources>

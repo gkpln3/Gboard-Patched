@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime class="com.google.android.libraries.inputmethod.ime.DummyIme" label="@string/phone_number_ime_label" language="und-Latn-x-phone-number" string_id="phone_number">
+        <keyboard_group>
+            <keyboard def="@xml/keyboard_phone_number" type="prime" />
+        </keyboard_group>
+    </ime>
+</framework>

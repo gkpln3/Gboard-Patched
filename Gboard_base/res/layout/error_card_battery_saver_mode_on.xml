@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:gravity="center" android:layout_gravity="center" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="5.0dip" app:cardCornerRadius="2.0dip" app:cardElevation="1.0dip" app:cardUseCompatPadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:paddingStart="@dimen/error_card_horizontal_padding" android:paddingEnd="@dimen/error_card_horizontal_padding" style="@style/GBoardErrorCard">
+        <TextView android:textSize="@dimen/error_card_header_font_size" android:textColor="#de000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/error_card_battery_saver_title" />
+        <TextView android:textSize="@dimen/error_card_message_font_size" android:textColor="#8a000000" android:id="@id/error_card_single_error_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:paddingStart="40.0dip" android:paddingEnd="40.0dip" />
+        <Button android:textSize="14.0dip" android:textColor="@color/google_white" android:layout_gravity="center" android:id="@id/error_card_button" android:background="@drawable/bg_googblue_button" android:paddingTop="6.0dip" android:paddingBottom="6.0dip" android:layout_width="200.0dip" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:minHeight="36.0dip" android:text="@string/error_card_battery_saver_button" android:fontFamily="sans-serif" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

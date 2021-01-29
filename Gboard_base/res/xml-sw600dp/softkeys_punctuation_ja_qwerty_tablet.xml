@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_list splitter=" ">
+            <softkey_template content_description="$desc$" id="@id/softkey_template_punctuation_ja_qwerty" layout="@layout/softkey_qwerty_label_character" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="$keycode_normal$" popup_label="$label$" type="PRESS" />
+                <label location="@id/label" value="$label$" />
+            </softkey_template>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@id/softkey_template_punctuation_ja_qwerty">
+            <softkey id="@id/softkey_ja_qwerty_exclamation_tablet" keycode_normal="PLAIN_TEXT" label="!" press_data="!" />
+            <softkey id="@id/softkey_ja_qwerty_question_tablet" keycode_normal="PLAIN_TEXT" label="\?" press_data="\?" />
+        </softkey_list>
+    </softkeys>
+</framework>

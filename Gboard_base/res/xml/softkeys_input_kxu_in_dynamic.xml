@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_oriya_letter_a" press_data="ଅ" />
+            <softkey id="@id/softkey_oriya_letter_aa" long_press_data="ା" press_data="ଆ" />
+            <softkey id="@id/softkey_oriya_letter_i" long_press_data="ି" press_data="ଇ" />
+            <softkey id="@id/softkey_oriya_letter_ii" long_press_data="ୀ" press_data="ଈ" />
+            <softkey id="@id/softkey_oriya_letter_u" long_press_data="ୁ" press_data="ଉ" />
+            <softkey id="@id/softkey_oriya_letter_uu" long_press_data="ୂ" press_data="ଊ" />
+            <softkey id="@id/softkey_oriya_letter_e" long_press_data="େ" press_data="ଏ" />
+            <softkey id="@id/softkey_oriya_letter_ai" long_press_data="ୈ,ୖ" press_data="ଐ" />
+            <softkey id="@id/softkey_oriya_letter_o" long_press_data="ୋ" press_data="ଓ" />
+            <softkey id="@id/softkey_oriya_letter_au" long_press_data="ୌ,ୗ" press_data="ଔ" />
+            <softkey id="@id/softkey_oriya_letter_vocalic_r" long_press_data="ୃ,ୠ,ୄ,ଌ,ୢ,ୡ,ୣ" press_data="ଋ" />
+            <softkey id="@id/softkey_oriya_sign_virama" press_data="୍" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_oriya_letter_ka" long_press_data="କ୍କ,କ୍ଟ,କ୍ତ,କ୍ନ,କ୍ର,କ୍ଲ,କ୍ଳ,କ୍ଷ,କ୍ସ" press_data="କ" />
+            <softkey id="@id/softkey_oriya_letter_kha" press_data="ଖ" />
+            <softkey id="@id/softkey_oriya_letter_ga" long_press_data="ଗ୍ୟ,ଗ୍ର,ଗ୍ଲ" press_data="ଗ" />
+            <softkey id="@id/softkey_oriya_letter_gha" press_data="ଘ" />
+            <softkey id="@id/softkey_oriya_letter_nga" long_press_data="ଙ୍କ,ଙ୍ଗ" press_data="ଙ" />
+            <softkey id="@id/softkey_oriya_letter_ca" long_press_data="ଚ୍ଚ" press_data="ଚ" />
+            <softkey id="@id/softkey_oriya_letter_cha" press_data="ଛ" />
+            <softkey id="@id/softkey_oriya_letter_ja" long_press_data="ଜ୍ଜ,ଜ୍ଞ,ଜ୍ୟ" press_data="ଜ" />
+            <softkey id="@id/softkey_oriya_letter_jha" press_data="ଝ" />
+            <softkey id="@id/softkey_oriya_letter_nya" long_press_data="ଞ୍ଚ,ଞ୍ଜ" press_data="ଞ" />
+            <softkey id="@id/softkey_oriya_letter_tta" long_press_data="ଟ୍ଟ,ଟ୍ର" press_data="ଟ" />
+            <softkey id="@id/softkey_oriya_letter_ttha" press_data="ଠ" />
+            <softkey id="@id/softkey_oriya_letter_dda" long_press_data="ଡ଼,ଡ୍ର" press_data="ଡ" />
+            <softkey id="@id/softkey_oriya_letter_ddha" long_press_data="ଢ଼" press_data="ଢ" />
+            <softkey id="@id/softkey_oriya_letter_nna" long_press_data="ଣ୍ଟ,ଣ୍ଡ" press_data="ଣ" />
+            <softkey id="@id/softkey_oriya_letter_ta" long_press_data="ତ୍ତ,ତ୍ମ,ତ୍ୟ,ତ୍ର" press_data="ତ" />
+            <softkey id="@id/softkey_oriya_letter_tha" long_press_data="ଥ୍ୟ,ଥ୍ର,ଥ୍ୱ" press_data="ଥ" />
+            <softkey id="@id/softkey_oriya_letter_da" long_press_data="ଦ୍ଧ,ଦ୍ୟ,ଦ୍ର" press_data="ଦ" />
+            <softkey id="@id/softkey_oriya_letter_dha" long_press_data="ଧ୍ୟ" press_data="ଧ" />
+            <softkey id="@id/softkey_oriya_letter_na" long_press_data="ନ୍ଗ,ନ୍ଚ,ନ୍ଜ,ନ୍ଟ,ନ୍ତ,ନ୍ଦ,ନ୍ଧ,ନ୍ନ,ନ୍ବ,ନ୍ମ,ନ୍ୟ,ନ୍ସ" press_data="ନ" />
+            <softkey id="@id/softkey_oriya_letter_pa" long_press_data="ପ୍ଟ,ପ୍ତ,ପ୍ନ,ପ୍ର,ପ୍ଲ,ପ୍ସ" press_data="ପ" />
+            <softkey id="@id/softkey_oriya_letter_pha" long_press_data="ଫ୍ଟ,ଫ୍ର,ଫ୍ଲ" press_data="ଫ" />
+            <softkey id="@id/softkey_oriya_letter_ba" long_press_data="ବ୍ଦ,ବ୍ୟ,ବ୍ର,ବ୍ଲ" press_data="ବ" />
+            <softkey id="@id/softkey_oriya_letter_va" press_data="ଵ" />
+            <softkey id="@id/softkey_oriya_letter_bha" long_press_data="ଭ୍ୟ" press_data="ଭ" />
+            <softkey id="@id/softkey_oriya_letter_ma" long_press_data="ମ୍ନ,ମ୍ପ,ମ୍ଫ,ମ୍ବ,ମ୍ଭ,ମ୍ମ,ମ୍ୟ,ମ୍ର" press_data="ମ" />
+            <softkey id="@id/softkey_oriya_letter_ya" long_press_data="ଯ୍ୟ" press_data="ଯ" />
+            <softkey id="@id/softkey_oriya_letter_yya" press_data="ୟ" />
+            <softkey id="@id/softkey_oriya_letter_ra" long_press_data="ର୍କ,ର୍ଗ,ର୍ଚ,ର୍ଟ,ର୍ତ,ର୍ନ,ର୍ବ,ର୍ମ,ର୍ଷ,ର୍ସ" press_data="ର" />
+            <softkey id="@id/softkey_oriya_letter_la" long_press_data="ଲ୍ଟ,ଲ୍ଡ,ଲ୍ପ,ଲ୍ମ,ଲ୍ଲ,ଲ୍ୟ" press_data="ଲ" />
+            <softkey id="@id/softkey_oriya_letter_lla" long_press_data="ଳ୍ପ" press_data="ଳ" />
+            <softkey id="@id/softkey_oriya_letter_wa" press_data="ୱ" />
+            <softkey id="@id/softkey_oriya_letter_sha" long_press_data="ଶ୍ୟ,ଶ୍ର" press_data="ଶ" />
+            <softkey id="@id/softkey_oriya_letter_ssa" long_press_data="ଷ୍ଟ,ଷ୍ୟ" press_data="ଷ" />
+            <softkey id="@id/softkey_oriya_letter_sa" long_press_data="ସ୍କ,ସ୍ଟ,ସ୍ତ,ସ୍ଥ,ସ୍ନ,ସ୍ପ,ସ୍ମ,ସ୍ୟ,ସ୍ର,ସ୍ଲ" press_data="ସ" />
+            <softkey id="@id/softkey_oriya_letter_ha" press_data="ହ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_label_header_large">
+            <softkey hint_label="ଁ​ଂ​ଃ" id="@id/softkey_oriya_sign_nukta" long_press_data="ଃ,ଂ,ଁ,ॐ,ଽ,୰" long_press_label="ଃ,ଂ,ଁ,ॐ,ଽ,୰" press_data="଼" press_label="଼" />
+        </softkey_list>
+    </softkeys>
+</framework>

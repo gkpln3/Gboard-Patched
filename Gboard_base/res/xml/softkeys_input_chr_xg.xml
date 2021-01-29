@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_cherokee_letter_tsa" long_press_data="Ꮴ,Ꮵ,Ꮶ,Ꮷ,Ꮸ" press_data="Ꮳ" />
+            <softkey id="@id/softkey_cherokee_letter_ta" long_press_data="Ꮦ,Ꮨ" press_data="Ꮤ" />
+            <softkey id="@id/softkey_cherokee_letter_ka" press_data="Ꭷ" />
+            <softkey id="@id/softkey_cherokee_letter_hna" press_data="Ꮏ" />
+            <softkey id="@id/softkey_cherokee_letter_nah" press_data="Ꮐ" />
+            <softkey id="@id/softkey_cherokee_letter_s" press_data="Ꮝ" />
+            <softkey id="@id/softkey_cherokee_letter_dla" press_data="Ꮬ" />
+            <softkey id="@id/softkey_cherokee_letter_wa" long_press_data="Ꮺ,Ꮻ,Ꮼ,Ꮽ,Ꮾ" press_data="Ꮹ" />
+            <softkey id="@id/softkey_cherokee_letter_ya" long_press_data="Ᏸ,Ᏹ,Ᏺ,Ᏻ,Ᏼ" press_data="Ꮿ" />
+            <softkey id="@id/softkey_cherokee_letter_ga" long_press_data="Ꭸ,Ꭹ,Ꭺ,Ꭻ,Ꭼ" press_data="Ꭶ" />
+            <softkey id="@id/softkey_cherokee_letter_ha" long_press_data="Ꭾ,Ꭿ,Ꮀ,Ꮁ,Ꮂ" press_data="Ꭽ" />
+            <softkey id="@id/softkey_cherokee_letter_la" long_press_data="Ꮄ,Ꮅ,Ꮆ,Ꮇ,Ꮈ" press_data="Ꮃ" />
+            <softkey id="@id/softkey_cherokee_letter_ma" long_press_data="Ꮊ,Ꮋ,Ꮌ,Ꮍ,Ᏽ" press_data="Ꮉ" />
+            <softkey id="@id/softkey_cherokee_letter_na" long_press_data="Ꮑ,Ꮒ,Ꮓ,Ꮔ,Ꮕ" press_data="Ꮎ" />
+            <softkey id="@id/softkey_cherokee_letter_qua" long_press_data="Ꮗ,Ꮘ,Ꮙ,Ꮚ,Ꮛ" press_data="Ꮖ" />
+            <softkey id="@id/softkey_cherokee_letter_sa" long_press_data="Ꮞ,Ꮟ,Ꮠ,Ꮡ,Ꮢ" press_data="Ꮜ" />
+            <softkey id="@id/softkey_cherokee_letter_da" long_press_data="Ꮥ,Ꮧ,Ꮩ,Ꮪ,Ꮫ" press_data="Ꮣ" />
+            <softkey id="@id/softkey_cherokee_letter_tla" long_press_data="Ꮮ,Ꮯ,Ꮰ,Ꮱ,Ꮲ" press_data="Ꮭ" />
+            <softkey id="@id/softkey_cherokee_small_letter_tsa" long_press_data="ꮴ,ꮵ,ꮶ,ꮷ,ꮸ" press_data="ꮳ" />
+            <softkey id="@id/softkey_cherokee_small_letter_ta" long_press_data="ꮦ,ꮨ" press_data="ꮤ" />
+            <softkey id="@id/softkey_cherokee_small_letter_ka" press_data="ꭷ" />
+            <softkey id="@id/softkey_cherokee_small_letter_hna" press_data="ꮏ" />
+            <softkey id="@id/softkey_cherokee_small_letter_nah" press_data="ꮐ" />
+            <softkey id="@id/softkey_cherokee_small_letter_s" press_data="ꮝ" />
+            <softkey id="@id/softkey_cherokee_small_letter_dla" press_data="ꮬ" />
+            <softkey id="@id/softkey_cherokee_small_letter_wa" long_press_data="ꮺ,ꮻ,ꮼ,ꮽ,ꮾ" press_data="ꮹ" />
+            <softkey id="@id/softkey_cherokee_small_letter_ya" long_press_data="ᏸ,ᏹ,ᏺ,ᏻ,ᏼ" press_data="ꮿ" />
+            <softkey id="@id/softkey_cherokee_small_letter_ga" long_press_data="ꭸ,ꭹ,ꭺ,ꭻ,ꭼ" press_data="ꭶ" />
+            <softkey id="@id/softkey_cherokee_small_letter_ha" long_press_data="ꭾ,ꭿ,ꮀ,ꮁ,ꮂ" press_data="ꭽ" />
+            <softkey id="@id/softkey_cherokee_small_letter_la" long_press_data="ꮄ,ꮅ,ꮆ,ꮇ,ꮈ" press_data="ꮃ" />
+            <softkey id="@id/softkey_cherokee_small_letter_ma" long_press_data="ꮊ,ꮋ,ꮌ,ꮍ,ᏽ" press_data="ꮉ" />
+            <softkey id="@id/softkey_cherokee_small_letter_na" long_press_data="ꮑ,ꮒ,ꮓ,ꮔ,ꮕ" press_data="ꮎ" />
+            <softkey id="@id/softkey_cherokee_small_letter_qua" long_press_data="ꮗ,ꮘ,ꮙ,ꮚ,ꮛ" press_data="ꮖ" />
+            <softkey id="@id/softkey_cherokee_small_letter_sa" long_press_data="ꮞ,ꮟ,ꮠ,ꮡ,ꮢ" press_data="ꮜ" />
+            <softkey id="@id/softkey_cherokee_small_letter_da" long_press_data="ꮥ,ꮧ,ꮩ,ꮪ,ꮫ" press_data="ꮣ" />
+            <softkey id="@id/softkey_cherokee_small_letter_tla" long_press_data="ꮮ,ꮯ,ꮰ,ꮱ,ꮲ" press_data="ꮭ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_cherokee_letter_a" long_press_data="‌Ꭰ" press_data="Ꭰ" />
+            <softkey id="@id/softkey_cherokee_letter_e" long_press_data="‌Ꭱ" press_data="Ꭱ" />
+            <softkey id="@id/softkey_cherokee_letter_i" long_press_data="‌Ꭲ" press_data="Ꭲ" />
+            <softkey id="@id/softkey_cherokee_letter_o" long_press_data="‌Ꭳ" press_data="Ꭳ" />
+            <softkey id="@id/softkey_cherokee_letter_u" long_press_data="‌Ꭴ" press_data="Ꭴ" />
+            <softkey id="@id/softkey_cherokee_letter_v" long_press_data="‌Ꭵ" press_data="Ꭵ" />
+            <softkey id="@id/softkey_cherokee_small_letter_a" long_press_data="‌ꭰ" press_data="ꭰ" />
+            <softkey id="@id/softkey_cherokee_small_letter_e" long_press_data="‌ꭱ" press_data="ꭱ" />
+            <softkey id="@id/softkey_cherokee_small_letter_i" long_press_data="‌ꭲ" press_data="ꭲ" />
+            <softkey id="@id/softkey_cherokee_small_letter_o" long_press_data="‌ꭳ" press_data="ꭳ" />
+            <softkey id="@id/softkey_cherokee_small_letter_u" long_press_data="‌ꭴ" press_data="ꭴ" />
+            <softkey id="@id/softkey_cherokee_small_letter_v" long_press_data="‌ꭵ" press_data="ꭵ" />
+        </softkey_list>
+    </softkeys>
+</framework>

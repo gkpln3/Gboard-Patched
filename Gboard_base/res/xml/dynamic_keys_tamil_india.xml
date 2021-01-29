@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>அ</primary_input>
+        <action state="0">அ</action>
+        <action state="0">்‌‌‌</action>
+        <action state="0">ஂ</action>
+    </key>
+    <key>
+        <primary_input>ஆ</primary_input>
+        <action state="0">ஆ</action>
+        <action state="0">ா</action>
+    </key>
+    <key>
+        <primary_input>இ</primary_input>
+        <action state="0">இ</action>
+        <action state="0">ி</action>
+    </key>
+    <key>
+        <primary_input>ஈ</primary_input>
+        <action state="0">ஈ</action>
+        <action state="0">ீ</action>
+    </key>
+    <key>
+        <primary_input>உ</primary_input>
+        <action state="0">உ</action>
+        <action state="0">ு</action>
+    </key>
+    <key>
+        <primary_input>ஊ</primary_input>
+        <action state="0">ஊ</action>
+        <action state="0">ூ</action>
+    </key>
+    <key>
+        <primary_input>எ</primary_input>
+        <action state="0">எ</action>
+        <action state="0">ெ</action>
+    </key>
+    <key>
+        <primary_input>ஏ</primary_input>
+        <action state="0">ஏ</action>
+        <action state="0">ே</action>
+    </key>
+    <key>
+        <primary_input>ஐ</primary_input>
+        <action state="0">ஐ</action>
+        <action state="0">ை</action>
+    </key>
+    <key>
+        <primary_input>ஒ</primary_input>
+        <action state="0">ஒ</action>
+        <action state="0">ொ</action>
+        <action state="0">ௐ</action>
+    </key>
+    <key>
+        <primary_input>ஓ</primary_input>
+        <action state="0">ஓ</action>
+        <action state="0">ோ</action>
+    </key>
+    <key>
+        <primary_input>ஔ</primary_input>
+        <action state="0">ஔ</action>
+        <action state="0">ௌ</action>
+        <action state="0">ௗ</action>
+    </key>
+</dynamic_keys>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_bamum_letter_ka" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_bamum_letter_ku" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_bamum_letter_ree" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_bamum_letter_nyi" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_bamum_letter_sho" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_bamum_letter_tae" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_bamum_letter_la" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_bamum_letter_rii" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_bamum_letter_leeee" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_bamum_letter_ndaa" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_bamum_letter_njaem" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_bamum_letter_m" view_id="@id/key_pos_0_11" />
+        <mapping key_id="@id/softkey_bamum_letter_shii" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_bamum_letter_sheux" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_bamum_letter_kyee" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_bamum_letter_nuae" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_bamum_letter_shu" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_bamum_letter_yuq" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_bamum_letter_keux" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_bamum_letter_njee" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_bamum_letter_pue" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_bamum_letter_pee" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_bamum_letter_ru" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_bamum_letter_reux" view_id="@id/key_pos_1_11" />
+        <mapping key_id="@id/softkey_bamum_letter_ken" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_bamum_letter_nga" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_bamum_letter_puae" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_bamum_letter_fu" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_bamum_letter_wa" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_bamum_letter_li" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_bamum_letter_mben" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_bamum_letter_ma" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_bamum_letter_ti" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_bamum_combining_mark_koqndon" view_id="@id/key_pos_2_10" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_bamum_letter_a" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_bamum_letter_u" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_bamum_letter_ee" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_bamum_letter_i" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_bamum_letter_o" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_bamum_letter_taa" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_bamum_letter_pa" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_bamum_letter_riee" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_bamum_letter_loq" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_bamum_letter_nsha" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_bamum_letter_njuae" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_bamum_letter_mu" view_id="@id/key_pos_0_11" />
+        <mapping key_id="@id/softkey_bamum_letter_si" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_bamum_letter_seux" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_bamum_letter_ket" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_bamum_letter_nu" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_bamum_letter_suu" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_bamum_letter_ya" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_bamum_letter_peux" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_bamum_letter_ntee" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_bamum_letter_wue" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_bamum_letter_fee" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_bamum_letter_lu" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_bamum_letter_rae" view_id="@id/key_pos_1_11" />
+        <mapping key_id="@id/softkey_bamum_letter_ren" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_bamum_letter_ngga" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_bamum_letter_ngkwaen" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_bamum_letter_fom" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_bamum_letter_na" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_bamum_letter_pi" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_bamum_letter_men" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_bamum_letter_mi" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_bamum_letter_ki" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_bamum_combining_mark_tukwentis" view_id="@id/key_pos_2_10" />
+    </key_mapping>
+</framework>

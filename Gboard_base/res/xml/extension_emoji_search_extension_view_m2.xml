@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard_group>
+        <keyboard def="@xml/emoji_keyboard_search_m2" type="prime" />
+    </keyboard_group>
+</framework>

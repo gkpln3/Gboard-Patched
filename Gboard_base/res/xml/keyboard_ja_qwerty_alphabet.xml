@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".japanese.keyboard.JapanesePrimeKeyboard" id="@id/keyboard_ja_qwerty_alphabet" popup="@attr/PopupBubbleLayout" session_states="SHIFT_LOCK">
+        <view layout="@layout/keyboard_prime_header" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_header_prime" />
+            <include href="@xml/keymapping_header_ja_prime" />
+        </view>
+        <view layout="@layout/keyboard_ja_qwerty_alphabet_body" type="body">
+            <include href="@xml/motion_event_handlers_ja" />
+            <softkeys href="@xml/softkeys_input_ja_qwerty_alphabet" />
+            <softkeys href="@xml/softkeys_function" />
+            <softkeys href="@xml/softkeys_input_ja_common" />
+            <softkeys href="@xml/softkeys_body_candidates" />
+            <include href="@xml/keymapping_common_ja" />
+            <include href="@xml/keymapping_body_ja_qwerty_alphabet" />
+            <include href="@xml/keymapping_body_candidates" />
+            <include href="@xml/keymapping_bottom_ja_qwerty_alphabet" />
+            <include href="@xml/keymapping_function_ime_action_ja" />
+            <include href="@xml/keymapping_fragment_function_ja" />
+        </view>
+    </keyboard>
+</framework>

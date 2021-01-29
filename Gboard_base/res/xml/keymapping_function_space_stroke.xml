@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_9key_space_stroke" view_id="@id/key_pos_space" />
+    </key_mapping>
+    <key_mapping state="SHIFT_LOCK">
+        <mapping key_id="@id/softkey_empty" view_id="@id/key_pos_space" />
+        <mapping key_id="@id/softkey_space_digit_0" view_id="@id/key_pos_zwnj_with_zwj" />
+    </key_mapping>
+</framework>

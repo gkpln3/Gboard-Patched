@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@id/clip_item_separator" android:tag=".label.clipboard-separator-item" style="@style/ClipItemSeparator"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

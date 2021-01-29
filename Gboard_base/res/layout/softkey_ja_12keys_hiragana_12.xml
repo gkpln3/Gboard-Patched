@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/icon_background" style="@style/JaFlickableBackgroundIcon"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:visibility="visible" style="@style/Icon.Center.JaPunctuationSupportRect.TwelveKeys" />
+    <TextView android:id="@id/label" style="@style/Label.JaTwelveKeysHiragana.Support.Primary.12" />
+    <ImageView android:visibility="visible" android:layout_marginRight="@dimen/label_margin_twelvekeys_hiragana_support_horizontal" style="@style/Icon.Center.JaPunctuationSupportRect.TwelveKeys" />
+    <TextView android:id="@id/label_left" android:layout_marginRight="@dimen/label_margin_twelvekeys_hiragana_support_horizontal" style="@style/Label.JaTwelveKeysHiragana.Support.Secondary.12" />
+    <TextView android:id="@id/label_top" android:layout_marginBottom="@dimen/label_margin_twelvekeys_hiragana_support_vertical" style="@style/Label.JaTwelveKeysHiragana.Support.Secondary.12" />
+    <TextView android:id="@id/label_right" android:layout_marginLeft="@dimen/label_margin_twelvekeys_hiragana_support_horizontal" style="@style/Label.JaTwelveKeysHiragana.Support.Secondary.12" />
+    <TextView android:id="@id/label_bottom" android:layout_marginTop="@dimen/label_margin_twelvekeys_hiragana_support_vertical" style="@style/Label.JaTwelveKeysHiragana.Support.Secondary.12" />
+</FrameLayout>

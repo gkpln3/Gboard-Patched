@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/theme_builder_cropping_view_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/theme_builder_cropping_view_instruction"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/theme_builder_delete_user_image_theme" style="@style/ThemeBuilderDeleteButton" />
+    <ImageView android:id="@id/theme_builder_cropping_view_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="matrix" />
+    <LinearLayout android:orientation="vertical" android:id="@id/theme_builder_cropping_window_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" style="@style/ThemeBuilderCroppingFrame">
+            <TextView android:layout_marginBottom="48.0dip" android:text="@string/theme_builder_cropping_view_instruction" style="@style/ThemeBuilderInstruction" />
+        </FrameLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <View android:layout_height="fill_parent" style="@style/ThemeBuilderCroppingFrame" />
+            <View android:id="@id/theme_builder_cropping_window" android:background="@drawable/bg_theme_builder_cropping_view_window" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+            <View android:layout_height="fill_parent" style="@style/ThemeBuilderCroppingFrame" />
+        </LinearLayout>
+        <FrameLayout android:layout_width="fill_parent" style="@style/ThemeBuilderCroppingFrame">
+            <Button android:id="@id/theme_builder_cropping_view_next" android:text="@string/theme_builder_cropping_view_next" style="@style/ThemeBuilderButton" />
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

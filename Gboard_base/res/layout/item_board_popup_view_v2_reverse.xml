@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" android:layoutDirection="inherit"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="0.0dip" android:layout_weight="4.0" android:paddingStart="?ItemboardContentMarginV2" style="@style/PopupItemBoardButtonsWrapper">
+        <include layout="@layout/item_board_popup_view_button_list" />
+    </FrameLayout>
+    <include layout="@layout/item_board_popup_view_detail" />
+</LinearLayout>

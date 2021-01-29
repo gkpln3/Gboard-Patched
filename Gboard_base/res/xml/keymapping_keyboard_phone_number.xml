@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_ime_action" />
+    <include href="@xml/keymapping_function_ime_action_popup_navigation" />
+    <include href="@xml/keymapping_function_ime_action_popup_right_handed_mode" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_phone_numbers_1" view_id="@id/key_pos_number_line1_1" />
+        <mapping key_id="@id/softkey_phone_numbers_2" view_id="@id/key_pos_number_line1_2" />
+        <mapping key_id="@id/softkey_phone_numbers_3" view_id="@id/key_pos_number_line1_3" />
+        <mapping key_id="@id/softkey_minus" view_id="@id/key_pos_number_line1_4" />
+        <mapping key_id="@id/softkey_phone_numbers_4" view_id="@id/key_pos_number_line2_1" />
+        <mapping key_id="@id/softkey_phone_numbers_5" view_id="@id/key_pos_number_line2_2" />
+        <mapping key_id="@id/softkey_phone_numbers_6" view_id="@id/key_pos_number_line2_3" />
+        <mapping key_id="@id/softkey_space_key" view_id="@id/key_pos_number_line2_4" />
+        <mapping key_id="@id/softkey_phone_numbers_7" view_id="@id/key_pos_number_line3_1" />
+        <mapping key_id="@id/softkey_phone_numbers_8" view_id="@id/key_pos_number_line3_2" />
+        <mapping key_id="@id/softkey_phone_numbers_9" view_id="@id/key_pos_number_line3_3" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_number_line3_4" />
+        <mapping key_id="@id/softkey_phone_numbers_symbols" view_id="@id/key_pos_number_line4_1" />
+        <mapping key_id="@id/softkey_phone_numbers_0_add" view_id="@id/key_pos_number_line4_2" />
+        <mapping key_id="@id/softkey_sentence" view_id="@id/key_pos_number_line4_3" />
+    </key_mapping>
+    <key_mapping state="SHIFT_LOCK">
+        <mapping key_id="@id/softkey_phone_numbers_left_bracket" view_id="@id/key_pos_number_line1_1" />
+        <mapping key_id="@id/softkey_phone_numbers_slash" view_id="@id/key_pos_number_line1_2" />
+        <mapping key_id="@id/softkey_phone_numbers_right_bracket" view_id="@id/key_pos_number_line1_3" />
+        <mapping key_id="@id/softkey_phone_numbers_n" view_id="@id/key_pos_number_line2_1" />
+        <mapping key_id="@id/softkey_phone_numbers_pause" view_id="@id/key_pos_number_line2_2" />
+        <mapping key_id="@id/softkey_comma" view_id="@id/key_pos_number_line2_3" />
+        <mapping key_id="@id/softkey_phone_numbers_asterisk" view_id="@id/key_pos_number_line3_1" />
+        <mapping key_id="@id/softkey_phone_numbers_wait" view_id="@id/key_pos_number_line3_2" />
+        <mapping key_id="@id/softkey_phone_numbers_pound" view_id="@id/key_pos_number_line3_3" />
+        <mapping key_id="@id/softkey_phone_numbers_123" view_id="@id/key_pos_number_line4_1" />
+        <mapping key_id="@id/softkey_phone_numbers_add" view_id="@id/key_pos_number_line4_2" />
+    </key_mapping>
+</framework>

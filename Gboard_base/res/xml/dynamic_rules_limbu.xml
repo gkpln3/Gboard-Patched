@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_rules>
+    <rule>
+        <pattern>([ᤁ-ᤞ])([ᤠ-ᤸ])</pattern>
+        <label>12</label>
+        <replacement>12</replacement>
+        <input_text>2</input_text>
+    </rule>
+    <rule>
+        <pattern>([ᤁ-ᤞ])([ᤠ-ᤨ])([ᤰ-ᤸ])</pattern>
+        <label>123</label>
+        <replacement>123</replacement>
+        <input_text>3</input_text>
+    </rule>
+    <rule>
+        <pattern>([ᤁ-ᤞ])([ᤩ-ᤫ])([ᤠ-ᤨ])</pattern>
+        <label>123</label>
+        <replacement>123</replacement>
+        <input_text>3</input_text>
+    </rule>
+    <rule>
+        <pattern>([ᤁ-ᤞ])([ᤩ-ᤫ])([ᤰ-ᤸ])</pattern>
+        <label>123</label>
+        <replacement>123</replacement>
+        <input_text>3</input_text>
+    </rule>
+    <rule>
+        <pattern>([ᤁ-ᤞ])([ᤩ-ᤫ])([ᤠ-ᤨ])([ᤰ-ᤸ])</pattern>
+        <label>1234</label>
+        <replacement>1234</replacement>
+        <input_text>4</input_text>
+    </rule>
+    <rule>
+        <pattern>ᤀ([ᤠ-ᤨ])</pattern>
+        <label>ᤀ1</label>
+        <replacement>ᤀ1</replacement>
+        <input_text>1</input_text>
+    </rule>
+    <rule>
+        <pattern>ᤀ([ᤰ-ᤸ])</pattern>
+        <label>ᤀ1</label>
+        <replacement>ᤀ1</replacement>
+        <input_text>1</input_text>
+    </rule>
+    <rule>
+        <pattern>ᤀ([ᤠ-ᤨ])([ᤰ-ᤸ])</pattern>
+        <label>ᤀ12</label>
+        <replacement>ᤀ12</replacement>
+        <input_text>2</input_text>
+    </rule>
+    <rule>
+        <pattern>([ᤠ-ᤸ])</pattern>
+        <label> </label>
+        <replacement />
+        <input_text />
+    </rule>
+</dynamic_rules>

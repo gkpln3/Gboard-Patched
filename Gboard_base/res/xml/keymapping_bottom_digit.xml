@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_bottom_non_prime_main_category_holder" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_space_digit_0" view_id="@id/key_pos_space" />
+        <mapping key_id="@id/softkey_non_prime_main_category_symbol" view_id="@id/key_pos_non_prime_category_1" />
+        <mapping key_id="@id/softkey_equal" view_id="@id/key_pos_non_prime_category_2" />
+    </key_mapping>
+    <include href="@xml/keymapping_function_ime_action_non_prime" />
+    <include href="@xml/keymapping_function_ime_action_popup_navigation" />
+    <include href="@xml/keymapping_function_ime_action_popup_right_handed_mode" />
+    <include href="@xml/keymapping_bottom_non_prime_symbol_1_popup_settings" />
+    <include href="@xml/keymapping_bottom_non_prime_symbol_1_popup_left_handed_mode" />
+</framework>

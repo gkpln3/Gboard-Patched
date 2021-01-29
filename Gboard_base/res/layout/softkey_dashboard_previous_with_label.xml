@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" style="@style/SoftKeyDashboardIcon" />
+    <TextView android:id="@id/label" style="@style/SoftKeyDashboardLabel.Previous" />
+</merge>

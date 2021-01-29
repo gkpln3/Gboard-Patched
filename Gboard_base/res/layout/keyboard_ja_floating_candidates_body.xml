@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" style="@style/BodyInner.FloatingCandidates"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.FloatingMonolithicCandidatesHolderView android:orientation="vertical" android:id="@id/softkey_holder_more_candidates" android:paddingLeft="@dimen/floating_candidate_window_horizontal_padding" android:paddingRight="@dimen/floating_candidate_window_horizontal_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/floating_candidate_window_minimum_width" candidate_layout="@layout/softkey_ja_floating_candidate" candidates_per_page="@integer/floating_candidate_candidate_num" />
+    <LinearLayout android:orientation="vertical" android:id="@id/page_indicator_area" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:paddingLeft="@dimen/floating_candidate_separator_horizontal_padding" android:paddingRight="@dimen/floating_candidate_separator_horizontal_padding" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@color/floating_candidate_footer_separator" />
+        <TextView android:textSize="@dimen/floating_candidate_footer_text_size" android:textColor="@color/floating_candidate_footer_text" android:layout_gravity="center_horizontal" android:id="@id/page_indicator_label" android:paddingTop="@dimen/floating_candidate_footer_padding" android:paddingBottom="@dimen/floating_candidate_footer_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

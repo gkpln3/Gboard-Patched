@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/icon_background" style="@style/JaFlickableBackgroundIcon"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/label" style="@style/Label.JaGodan.Primary" />
+    <TextView android:id="@id/label_left" android:layout_marginRight="@dimen/label_margin_godan_horizontal" style="@style/Label.JaGodan.Secondary" />
+    <TextView android:id="@id/label_top" android:layout_marginBottom="@dimen/label_margin_godan_vertical" style="@style/Label.JaGodan.Secondary" />
+    <TextView android:id="@id/label_right" android:layout_marginLeft="@dimen/label_margin_godan_horizontal" style="@style/Label.JaGodan.Secondary" />
+    <TextView android:id="@id/label_bottom" android:layout_marginTop="@dimen/label_margin_godan_vertical" style="@style/Label.JaGodan.Secondary" />
+</FrameLayout>

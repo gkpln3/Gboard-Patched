@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="first_run_page_button_padding_top">10.0dip</dimen>
+    <dimen name="first_run_page_settings_done_padding_top">10.0dip</dimen>
+</resources>

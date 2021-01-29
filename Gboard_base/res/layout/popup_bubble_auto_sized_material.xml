@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.widget.MaterialPopupView android:id="@id/popup_bubble" android:layout_width="wrap_content" android:layout_height="wrap_content" app:CoversSoftKey="?PopupBubbleCoversSoftKey" app:PopupDistance="@dimen/material_popup_distance"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/popup_outline" style="@style/MaterialPopupOutline">
+        <FrameLayout android:id="@id/popup_content" style="@style/MaterialPopupView">
+            <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/popup_label" android:visibility="gone" android:maxWidth="@dimen/material_popup_bubble_width" style="@style/MaterialPopupLabel" />
+            <ImageView android:id="@id/popup_icon" android:visibility="gone" style="@style/MaterialPopupImage" />
+            <TextView android:id="@id/popup_footer" android:visibility="gone" style="@style/MaterialPopupFooter" />
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.framework.keyboard.widget.MaterialPopupView>

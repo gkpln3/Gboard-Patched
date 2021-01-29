@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_ca_xq">
+        <view type="body">
+            <softkeys href="@xml/softkeys_input_ca_xq" />
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base" />
+    <include href="@xml/keyboard_latin_colemak_base" />
+    <include href="@xml/keyboard_latin_fragment_superscript" />
+</framework>

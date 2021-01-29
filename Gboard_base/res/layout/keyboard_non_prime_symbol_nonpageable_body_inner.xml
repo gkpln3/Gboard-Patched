@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/input_area" style="@style/BodyInner"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/keyboard_non_prime_symbol_nonpageable_input_area" />
+    <include layout="@layout/keyboard_non_prime_bottom_category_holder" />
+</LinearLayout>

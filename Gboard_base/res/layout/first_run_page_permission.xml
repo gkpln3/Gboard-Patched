@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.firstrun.PermissionStepPage pageId="@id/page_id_first_run_page_permission" style="@style/FirstRunPage"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/first_run_page_header" />
+    <LinearLayout style="@style/FirstRunPageContent">
+        <TextView android:id="@id/first_run_page_setup_step_title" style="@style/FirstRunPageTitle" />
+        <TextView android:id="@id/first_run_page_setup_description_label" style="@style/FirstRunPageDescription" />
+        <TextView android:id="@id/first_run_page_permission_label" style="@style/FirstRunPagePermissionLabel" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/first_run_page_setup_button" android:visibility="gone" android:text="@string/first_run_set_permissions_hint" style="@style/FirstRunPageButton" />
+            <LinearLayout android:id="@id/first_run_page_setup_done_button" android:visibility="gone" style="@style/FirstRunPageSettingsDone">
+                <ImageView style="@style/FirstRunPageSettingsDoneCheck" />
+                <TextView style="@style/FirstRunPageSettingsDoneText" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.framework.firstrun.PermissionStepPage>

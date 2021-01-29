@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keygroup_mapping group_view_id="@id/softkey_holder_reading_text_candidates">
+        <key key_id="@id/softkey_question_zh_left_panel" />
+        <key key_id="@id/softkey_exclamation_zh_left_panel" />
+        <key key_id="@id/softkey_ellipsis_zh_left_panel" />
+        <key key_id="@id/softkey_wave_zh_left_panel" />
+        <key key_id="@id/softkey_colon_zh_left_panel" />
+        <key key_id="@id/softkey_semicolon_zh_left_panel" />
+        <key key_id="@id/softkey_at" />
+        <key key_id="@id/softkey_slash" />
+        <key key_id="@id/softkey_quote" />
+        <key key_id="@id/softkey_percent" />
+    </keygroup_mapping>
+    <key_mapping>
+        <mapping key_id="@id/softkey_turn_on_single_character_candidate" view_id="@id/key_pos_function_key_on_candidates_view" />
+    </key_mapping>
+    <key_mapping state="SINGLE_CHARACTER_CANDIDATE">
+        <mapping key_id="@id/softkey_turn_off_single_character_candidate" view_id="@id/key_pos_function_key_on_candidates_view" />
+    </key_mapping>
+</framework>

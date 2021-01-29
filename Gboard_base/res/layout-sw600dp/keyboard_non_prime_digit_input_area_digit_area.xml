@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="500.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/Linear.Vertical">
+        <LinearLayout android:weightSum="300.0" style="@style/DigitKeyboardRow">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_1" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_2" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_3" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        </LinearLayout>
+        <LinearLayout android:weightSum="300.0" style="@style/DigitKeyboardRow">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_4" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_5" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_6" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        </LinearLayout>
+        <LinearLayout android:weightSum="300.0" style="@style/DigitKeyboardRow">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_7" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_8" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_digit_9" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

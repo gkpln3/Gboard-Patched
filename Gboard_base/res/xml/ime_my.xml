@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if burmese_zawgyi="true">
+        <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.ZawgyiWrappedLatinIme" display_app_completions="true" is_unicode="false" language="my" localization_language="my-ZG" string_id="ime_burmese">
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.4LetterRows" variant="burmese" variant_label="@string/variant_burmese">
+                <keyboard def="@xml/keyboard_my_with_burmese_unicode" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+                <override_keyboard_xml_conditions>
+                    <bool name="@string/pref_key_enable_number_row" value="false" />
+                </override_keyboard_xml_conditions>
+            </keyboard_group>
+            <extra_values>
+                <item id="@id/extra_value_double_space_to_period_replacement" value="။ " />
+            </extra_values>
+        </ime>
+        <if enable_zawgyi_style_layout="true" system_property_enable_zawgyi_style_layout="true">
+            <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" is_unicode="false" language="my-ZG" localization_language="my-ZG" string_id="ime_burmese">
+                <keyboard_group variant="burmese_zawgyi" variant_label="@string/variant_burmese_zawgyi">
+                    <keyboard def="@xml/keyboard_my_zawgyi_prime" type="prime" />
+                    <keyboard def="@xml/keyboard_my_zawgyi_secondary" type="secondary" />
+                    <include href="@xml/keyboards_non_prime_latin" />
+                    <override_keyboard_xml_conditions>
+                        <bool name="@string/pref_key_enable_number_row" value="false" />
+                    </override_keyboard_xml_conditions>
+                </keyboard_group>
+                <extra_values>
+                    <item id="@id/extra_value_double_space_to_period_replacement" value="။ " />
+                </extra_values>
+            </ime>
+        </if>
+    </if>
+    <else>
+        <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="my" string_id="ime_burmese">
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.4LetterRows" variant="burmese" variant_label="@string/variant_burmese">
+                <keyboard def="@xml/keyboard_my" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+                <override_keyboard_xml_conditions>
+                    <bool name="@string/pref_key_enable_number_row" value="false" />
+                </override_keyboard_xml_conditions>
+            </keyboard_group>
+            <extra_values>
+                <item id="@id/extra_value_double_space_to_period_replacement" value="။ " />
+            </extra_values>
+        </ime>
+    </else>
+</framework>

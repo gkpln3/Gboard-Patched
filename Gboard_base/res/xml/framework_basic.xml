@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/ime_number" />
+    <include href="@xml/ime_number_password" />
+    <include href="@xml/ime_phone_number" />
+    <include href="@xml/ime_date_time" />
+    <include href="@xml/ime_dummy_hard" />
+    <include href="@xml/ime_password_floating_hard_qwerty" />
+    <include href="@xml/ime_phone_number_floating_hard_qwerty" />
+    <include href="@xml/ime_number_floating_hard_qwerty" />
+    <include href="@xml/ime_date_time_floating_hard_qwerty" />
+</framework>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_fragment_punctuation_bottom_popup" />
+    <key_mapping exclude_state="COMPOSING" state="SHOW_EMOJI_SWITCH_KEY">
+        <mapping key_id="@id/softkey_switch_to_emoji" view_id="@id/key_pos_qwerty_globe" />
+    </key_mapping>
+    <key_mapping state="SHOW_EMOJI_SWITCH_KEY+COMPOSING">
+        <mapping key_id="@id/softkey_ja_qwerty_question" view_id="@id/key_pos_qwerty_globe" />
+    </key_mapping>
+    <if japanese_use_tri_state_mode="true">
+        <key_mapping>
+            <mapping key_id="@id/softkey_ja_switch_to_tri_state_alphabet_qwerty" view_id="@id/key_pos_switch_to_symbol" />
+        </key_mapping>
+        <merge_key_mapping exclude_state="NO_SETTINGS_KEY">
+            <merge key_id="@id/softkey_fragment_bottom_popup_settings" view_id="@id/key_pos_switch_to_symbol" />
+        </merge_key_mapping>
+        <merge_key_mapping state="SHOW_ONE_HANDED_MODE_SWITCH">
+            <merge key_id="@id/softkey_fragment_popup_switch_to_left_handed_mode" view_id="@id/key_pos_switch_to_symbol" />
+        </merge_key_mapping>
+    </if>
+    <else>
+        <key_mapping>
+            <mapping key_id="@id/softkey_switch_to_non_prime_keyboard" view_id="@id/key_pos_switch_to_symbol" />
+        </key_mapping>
+    </else>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_latin_capital_letter_q" view_id="@id/key_pos_qwerty_q" />
+        <mapping key_id="@id/softkey_latin_capital_letter_w" view_id="@id/key_pos_qwerty_w" />
+        <mapping key_id="@id/softkey_latin_capital_letter_e" view_id="@id/key_pos_qwerty_e" />
+        <mapping key_id="@id/softkey_latin_capital_letter_r" view_id="@id/key_pos_qwerty_r" />
+        <mapping key_id="@id/softkey_latin_capital_letter_t" view_id="@id/key_pos_qwerty_t" />
+        <mapping key_id="@id/softkey_latin_capital_letter_y" view_id="@id/key_pos_qwerty_y" />
+        <mapping key_id="@id/softkey_latin_capital_letter_u" view_id="@id/key_pos_qwerty_u" />
+        <mapping key_id="@id/softkey_latin_capital_letter_i" view_id="@id/key_pos_qwerty_i" />
+        <mapping key_id="@id/softkey_latin_capital_letter_o" view_id="@id/key_pos_qwerty_o" />
+        <mapping key_id="@id/softkey_latin_capital_letter_p" view_id="@id/key_pos_qwerty_p" />
+        <mapping key_id="@id/softkey_latin_capital_letter_a" view_id="@id/key_pos_qwerty_a" />
+        <mapping key_id="@id/softkey_latin_capital_letter_s" view_id="@id/key_pos_qwerty_s" />
+        <mapping key_id="@id/softkey_latin_capital_letter_d" view_id="@id/key_pos_qwerty_d" />
+        <mapping key_id="@id/softkey_latin_capital_letter_f" view_id="@id/key_pos_qwerty_f" />
+        <mapping key_id="@id/softkey_latin_capital_letter_g" view_id="@id/key_pos_qwerty_g" />
+        <mapping key_id="@id/softkey_latin_capital_letter_h" view_id="@id/key_pos_qwerty_h" />
+        <mapping key_id="@id/softkey_latin_capital_letter_j" view_id="@id/key_pos_qwerty_j" />
+        <mapping key_id="@id/softkey_latin_capital_letter_k" view_id="@id/key_pos_qwerty_k" />
+        <mapping key_id="@id/softkey_latin_capital_letter_l" view_id="@id/key_pos_qwerty_l" />
+        <mapping key_id="@id/softkey_latin_capital_letter_z" view_id="@id/key_pos_qwerty_z" />
+        <mapping key_id="@id/softkey_latin_capital_letter_x" view_id="@id/key_pos_qwerty_x" />
+        <mapping key_id="@id/softkey_latin_capital_letter_c" view_id="@id/key_pos_qwerty_c" />
+        <mapping key_id="@id/softkey_latin_capital_letter_v" view_id="@id/key_pos_qwerty_v" />
+        <mapping key_id="@id/softkey_latin_capital_letter_b" view_id="@id/key_pos_qwerty_b" />
+        <mapping key_id="@id/softkey_latin_capital_letter_n" view_id="@id/key_pos_qwerty_n" />
+        <mapping key_id="@id/softkey_latin_capital_letter_m" view_id="@id/key_pos_qwerty_m" />
+    </key_mapping>
+    <include href="@xml/keymapping_latin_fragment_secondary_digits_ja" />
+    <include href="@xml/keymapping_fragment_secondary_symbols_ja" />
+</framework>

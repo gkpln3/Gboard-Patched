@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/one_handed_keyboard_body_corner_radius" />
+    <solid android:color="@color/candidate_material_dark_theme" />
+</shape>

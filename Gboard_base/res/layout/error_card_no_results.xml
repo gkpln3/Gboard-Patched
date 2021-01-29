@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/error_card_container" android:paddingStart="@dimen/error_card_horizontal_padding" android:paddingEnd="@dimen/error_card_horizontal_padding" style="@style/GBoardErrorCard"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:tag=".icon.for-function-key" android:layout_width="wrap_content" android:layout_height="0.0dip" android:src="@drawable/ic_sad_emoji" android:scaleType="fitEnd" android:layout_weight="1.0" android:contentDescription="@string/no_results_message_generic" />
+    <TextView android:textSize="@dimen/error_card_header_font_size" android:textColor="@color/google_white" android:gravity="center|top" android:id="@id/error_card_single_error_message" android:tag=".icon.for-function-key" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_marginTop="5.0dip" android:text="@string/no_results_message_generic" android:layout_weight="1.0" />
+</LinearLayout>

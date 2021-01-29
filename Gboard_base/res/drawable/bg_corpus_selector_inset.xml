@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/bg_key_material_dark_theme_selector" android:insetLeft="@dimen/corpus_selector_inset" android:insetRight="@dimen/corpus_selector_inset" android:insetTop="@dimen/corpus_selector_inset" android:insetBottom="@dimen/corpus_selector_inset"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

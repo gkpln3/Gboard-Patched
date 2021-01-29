@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkey_template" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple_dynamic">
+            <softkey id="@id/softkey_kannada_letter_a" press_data="ಅ" />
+            <softkey id="@id/softkey_kannada_letter_aa" long_press_data="ಾ" press_data="ಆ" />
+            <softkey id="@id/softkey_kannada_letter_i" long_press_data="ಿ" press_data="ಇ" />
+            <softkey id="@id/softkey_kannada_letter_ii" long_press_data="ೀ" press_data="ಈ" />
+            <softkey id="@id/softkey_kannada_letter_u" long_press_data="ು" press_data="ಉ" />
+            <softkey id="@id/softkey_kannada_letter_uu" long_press_data="ೂ" press_data="ಊ" />
+            <softkey id="@id/softkey_kannada_letter_vocalic_r" long_press_data="ೃ,ೠ,ೄ" press_data="ಋ" />
+            <softkey id="@id/softkey_kannada_letter_e" long_press_data="ೆ" press_data="ಎ" />
+            <softkey id="@id/softkey_kannada_letter_ee" long_press_data="ೇ" press_data="ಏ" />
+            <softkey id="@id/softkey_kannada_letter_ai" long_press_data="ೈ,ೖ" press_data="ಐ" />
+            <softkey id="@id/softkey_kannada_letter_o" long_press_data="ೊ" press_data="ಒ" />
+            <softkey id="@id/softkey_kannada_letter_oo" long_press_data="ೋ" press_data="ಓ" />
+            <softkey id="@id/softkey_kannada_letter_au" long_press_data="ೌ" press_data="ಔ" />
+            <softkey id="@id/softkey_kannada_sign_anusvara" long_press_data="಼,ಃ,ಽ,ೕ" press_data="ಂ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_multi_popup_on_long_press_simple">
+            <softkey id="@id/softkey_kannada_letter_ka" long_press_data="ಕ್ಕ,ಕ್ಷ,ಕ್ತ,ಕ್ರ,ಕ್ಯ,ಕ್ಷ್ಮ,ಕ್ಲ,ಕ್ಟ,ಕ್ಸ,ಕ್ನ,ಕ್ಷ್ಯ,ಕ್ವ,ಕ್ಗ,ಕ್ಬ,ಕ್ಮ,ಕ್ಟ್ರ" press_data="ಕ" />
+            <softkey id="@id/softkey_kannada_letter_kha" long_press_data="ಖ್ಗಖ್ಯ,ಖ್ವ,ಖ್ಖ,ಖ್ತ,ಖ್ಹ" press_data="ಖ" />
+            <softkey id="@id/softkey_kannada_letter_ga" long_press_data="ಗ್ಗ,ಗ್ರ,ಗ್ಯ,ಗ್ಲ,ಗ್ನ,ಗ್ತ,ಗ್ಧ,ಗ್ದ,ಗ್ವ,ಗ್ಡ,ಗ್ಸ,ಗ್ರ್ಯ,ಗ್ಲ್ಯ,ಗ್ಬ,ಗ್ಳ" press_data="ಗ" />
+            <softkey id="@id/softkey_kannada_letter_gha" long_press_data="ಘ್ರ,ಘ್ನ" press_data="ಘ" />
+            <softkey id="@id/softkey_kannada_letter_nga" long_press_data="ಙ್ಮ" press_data="ಙ" />
+            <softkey id="@id/softkey_kannada_letter_ca" long_press_data="ಚ್ಚ,ಚ್ಛ,ಚ್ಯ,ಚ್ಡ,ಚ್ತ,ಚ್ನ,ಚ್ಹ,ಚ್ಛ್ರ,ಚ್ಪ,ಚ್ಗ,ಚ್ಮಚ್ಸ,ಚ್ಕ" press_data="ಚ" />
+            <softkey id="@id/softkey_kannada_letter_cha" long_press_data="ಛ್ಘ" press_data="ಛ" />
+            <softkey id="@id/softkey_kannada_letter_ja" long_press_data="ಜ್ಯ,ಜ್ಞ,ಜ್ಜ,ಜ್ವ,ಜ್ರ,ಜ್ಕ,ಜ್ಮ,ಜ್ನ,ಜ್ಪ,ಜ್ಗ,ಜ್ಬ" press_data="ಜ" />
+            <softkey id="@id/softkey_kannada_letter_jha" long_press_data="ಝ್ಕ,ಝ್ಡ" press_data="ಝ" />
+            <softkey id="@id/softkey_kannada_letter_nya" long_press_data="ಞ್ಞ" press_data="ಞ" />
+            <softkey id="@id/softkey_kannada_letter_tta" long_press_data="ಟ್ಟ,ಟ್ರ,ಟ್ವ,ಟ್ಯ,ಟ್ನ,ಟ್ಲ,ಟ್ಕ,ಟ್ಸ,ಟ್ಗ,ಟ್ಬ,ಟ್ರ್ಯ,ಟ್ಸ್ಪ,ಟ್ಮ,ಟ್ಸ್ಮ,ಟ್ಪ,ಟ್ಜ,ಟ್ದ" press_data="ಟ" />
+            <softkey id="@id/softkey_kannada_letter_ttha" long_press_data="ಠ್ಯ,ಠ್ಠ,ಠ್ಮ" press_data="ಠ" />
+            <softkey id="@id/softkey_kannada_letter_dda" long_press_data="ಡ್ಡ,ಡ್ರ,ಡ್ತ,ಡ್ಯ,ಡ್ಕ,ಡ್ನ,ಡ್ಲ,ಡ್ಗ,ಡ್ವ,ಡ್ಮ,ಡ್ಬ,ಡ್ದ,ಡ್ಶ,ಡ್ಸ,ಡ್ರ್ಯ,ಡ್ಳ" press_data="ಡ" />
+            <softkey id="@id/softkey_kannada_letter_ddha" long_press_data="ಢ್ಯ" press_data="ಢ" />
+            <softkey id="@id/softkey_kannada_letter_nna" long_press_data="ಣ್ಣ,ಣ್ಯ,ಣ್ಮ,ಣ್ತ,ಣ್ವ,ಣ್ರ,ಣ್ಗ,ಣ್ನ,ಣ್ಕ,ಣ್ಬ" press_data="ಣ" />
+            <softkey id="@id/softkey_kannada_letter_ta" long_press_data="ತ್ತ,ತ್ರ,ತ್ಯ,ತ್ವ,ತ್ನ,ತ್ಮ,ತ್ಸ,ತ್ಪ,ತ್ಕ,ತ್ಗ,ತ್ರ್ಯ,ತ್ತ್ವ,ತ್ಪ್ರ,ತ್ಲ,ತ್ದ,ತ್ಚ,ತ್ಬ" press_data="ತ" />
+            <softkey id="@id/softkey_kannada_letter_tha" long_press_data="ಥ್ಯ,ಥ್ರ,ಥ್ಲ,ಥ್ವ,ಥ್ರ್ಯ" press_data="ಥ" />
+            <softkey id="@id/softkey_kannada_letter_da" long_press_data="ದ್ದ,ದ್ರ,ದ್ಯ,ದ್ಧ,ದ್ವ,ದ್ಮ,ದ್ಗ,ದ್ಲ,ದ್ಷ,ದ್ಬ,ದ್ನ,ದ್ತ,ದ್ಕ,ದ್ಸ,ದ್ಹ,ದ್ರ್ಯ,ದ್ಳ" press_data="ದ" />
+            <softkey id="@id/softkey_kannada_letter_dha" long_press_data="ಧ್ಯ,ಧ್ವ,ಧ್ರ,ಧ್ಧ,ಧ್ಪ,ಧ್ಗ,ಧ್ಬ,ಧ್ಭ" press_data="ಧ" />
+            <softkey id="@id/softkey_kannada_letter_na" long_press_data="ನ್ನ,ನ್ಯ,ನ್ಮ,ನ್ವ,ನ್ಸ,ನ್ಲ,ನ್ಗ,ನ್ಟ,ನ್ಸ್ಟ,ನ್ಸ್ಪ,ನ್ಫ,ನ್ರ,ನ್ಶ,ನ್ಕ,ನ್ಡ,ನ್ದ,ನ್ಪ" press_data="ನ" />
+            <softkey id="@id/softkey_kannada_letter_pa" long_press_data="ಪ್ರ,ಪ್ಪ,ಪ್ತ,ಪ್ಲ,ಪ್ಯ,ಪ್ಟ,ಪ್ನ,ಪ್ಸ,ಪ್ಲ್ಯ,ಪ್ಡ,ಪ್ಗ,ಪ್ವ,ಪ್ಟ್ನ,ಪ್ಸ್ಟ,ಪ್ಮ,ಪ್ಣ,ಪ್ಕ" press_data="ಪ" />
+            <softkey id="@id/softkey_kannada_letter_pha" long_press_data="ಫ್ರ,ಫ್ಯ,ಫ್ತ,ಫ್ಲ,ಫ್ಟ್ವ,ಫ್ಟ,ಫ್ಘ,ಫ್ಲ್ಯ,ಫ್ಜ,ಫ್ಸ,ಫ್ಬ,ಫ್ನ,ೞ" press_data="ಫ" />
+            <softkey id="@id/softkey_kannada_letter_ba" long_press_data="ಬ್ಬ,ಬ್ರ,ಬ್ಯ,ಬ್ದ,ಬ್ಲ,ಬ್ಸ,ಬ್ಲ್ಯ,ಬ್ಧ,ಬ್ನ,ಬ್ವ,ಬ್ಜ,ಬ್ಳ,ಬ್ರ್ಯ,ಬ್ಗ,ಬ್ತ,ಬ್ಭ" press_data="ಬ" />
+            <softkey id="@id/softkey_kannada_letter_bha" long_press_data="ಭ್ಯ,ಭ್ರ" press_data="ಭ" />
+            <softkey id="@id/softkey_kannada_letter_ma" long_press_data="ಮ್ಮ,ಮ್ಯ,ಮ್ರ,ಮ್ಹ,ಮ್ಲ,ಮ್ನ,ಮ್ಗ,ಮ್ಕ,ಮ್ಜ,ಮ್ಚ,ಮ್ಸ,ಮ್ಚ್ಯ,ಮ್ತ,ಮ್ದ,ಮ್ಥ,ಮ್ಡ,ಮ್ವ" press_data="ಮ" />
+            <softkey id="@id/softkey_kannada_letter_ya" long_press_data="ಯ್ಯ,ಯ್ಕ,ಯ್ದ,ಯ್ತ,ಯ್ಲ,ಯ್ಸ,ಯ್ಡ,ಯ್ವ,ಯ್ನ,ಯ್ರ,ಯ್ಗ,ಯ್ಬ,ಯ್ಪ,ಯ್ಜ,ಯ್ಲ್ಯ,ಯ್ಶ" press_data="ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ra" long_press_data="ರ್,ರ್ಯ,ರ್ಮ,ರ್ಥ,ರ್ವ,ರ್ಷ,ರ್ತ,ರ್ಕ,ರ್ನ,ರ್ಶ,ರ್ಣ,ರ್ದ,ರ್ಗ,ರ್ಭ,ರ್ಜ,ರ್ಟ,ರ್ಧ,ರ್ಚ,ರ್ಪ,ಱ" press_data="ರ" />
+            <softkey id="@id/softkey_kannada_letter_la" long_press_data="ಲ್ಲ,ಲ್ಪ,ಲ್ಯ,ಲ್ಕ,ಲ್ವ,ಲ್ಮ,ಲ್ಗ,ಲ್ಫ,ಲ್ದ,ಲ್ನ,ಲ್ತ,ಲ್ಬ,ಲ್ಡ,ಲ್ಟ,ಲ್ಸ,ಲ್ರ,ಲ್ಜ,ಲ್ಶ" press_data="ಲ" />
+            <softkey id="@id/softkey_kannada_letter_va" long_press_data="ವ್ಯ,ವ್ರ,ವ್ವ,ವ್ನ,ವ್ಹ,ವ್ಗ,ವ್ಳ,ವ್ಲ,ವ್ದ,ವ್ಟ,ವ್ಕ,ವ್ತ,ವ್ಚ,ವ್ಪ,ವ್ಶ,ವ್ಮ,ವ್ಡ" press_data="ವ" />
+            <softkey id="@id/softkey_kannada_letter_sha" long_press_data="ಶ್ರ,ಶ್ವ,ಶ್ನ,ಶ್ಯ,ಶ್ಚ,ಶ್ಲ,ಶ್ಮ,ಶ್ಟ,ಶ್ಗ,ಶ್ಕ,ಶ್ಬ,ಶ್ಣ,ಶ್ಶ,ಶ್ಟ್ರ" press_data="ಶ" />
+            <softkey id="@id/softkey_kannada_letter_ssa" long_press_data="ಷ್ಟ,ಷ್ಟ್ರ,ಷ್ಯ,ಷ್ಣ,ಷ್ಠ,ಷ್ಕ,ಷ್ಮ,ಷ್ಪ,ಷ್ಟ್ಯ,ಷ್ನ,ಷ್ಕ್ರ,ಷ್ಪ್ರ,ಷ್ಗ,ಷ್ವ,ಷ್ರ,ಷ್ಬ" press_data="ಷ" />
+            <softkey id="@id/softkey_kannada_letter_sa" long_press_data="ಸ್ಥ,ಸ್ತ,ಸ್ವ,ಸ್ಯ,ಸ್ಸ,ಸ್ಪ,ಸ್ಕ,ಸ್ಟ,ಸ್ನ,ಸ್ತ್ರ,ಸ್ಮ,ಸ್ಲ,ಸ್ಟ್ರ,ಸ್ರ,ಸ್ಫ,ಸ್ಗ,ಸ್ಡ,ಸ್ಖ" press_data="ಸ" />
+            <softkey id="@id/softkey_kannada_letter_ha" long_press_data="ಹ್ಮ,ಹ್ಯ,ಹ್ನ,ಹ್ವ,ಹ್ಲ,ಹ್ಹ,ಹ್ತ,ಹ್ಳ,ಹ್ಞ,ಹ್ರ,ಹ್ಸ" press_data="ಹ" />
+            <softkey id="@id/softkey_kannada_letter_lla" long_press_data="ಳ್ಳ,ಳ್ತ,ಳ್ವ,ಳ್ಯ,ಳ್ಮ,ಳ್ನ,ಳ್ದ,ಳ್ಗ,ಳ್ಕ,ಳ್ಬ,ಳ್ಳ್ಯ,ಳ್ಲ,ಳ್ರ" press_data="ಳ" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_no_popup_simple">
+            <softkey id="@id/softkey_kannada_letter_ka_kannada_sign_virama_kannada_letter_ka" press_data="ಕ್ಕ" />
+            <softkey id="@id/softkey_kannada_letter_ka_kannada_sign_virama_kannada_letter_ssa" press_data="ಕ್ಷ" />
+            <softkey id="@id/softkey_kannada_letter_ka_kannada_sign_virama_kannada_letter_ta" press_data="ಕ್ತ" />
+            <softkey id="@id/softkey_kannada_letter_ka_kannada_sign_virama_kannada_letter_ra" press_data="ಕ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_ka_kannada_sign_virama_kannada_letter_ya" press_data="ಕ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ka_kannada_sign_virama_kannada_letter_ssa_kannada_sign_virama_kannada_letter_ma" press_data="ಕ್ಷ್ಮ" />
+            <softkey id="@id/softkey_kannada_letter_kha_kannada_sign_virama_kannada_letter_ya" press_data="ಖ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ga_kannada_sign_virama_kannada_letter_ga" press_data="ಗ್ಗ" />
+            <softkey id="@id/softkey_kannada_letter_ga_kannada_sign_virama_kannada_letter_ra" press_data="ಗ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_ga_kannada_sign_virama_kannada_letter_ya" press_data="ಗ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ga_kannada_sign_virama_kannada_letter_la" press_data="ಗ್ಲ" />
+            <softkey id="@id/softkey_kannada_letter_ca_kannada_sign_virama_kannada_letter_ca" press_data="ಚ್ಚ" />
+            <softkey id="@id/softkey_kannada_letter_ja_kannada_sign_virama_kannada_letter_ya" press_data="ಜ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ja_kannada_sign_virama_kannada_letter_nya" press_data="ಜ್ಞ" />
+            <softkey id="@id/softkey_kannada_letter_ja_kannada_sign_virama_kannada_letter_ja" press_data="ಜ್ಜ" />
+            <softkey id="@id/softkey_kannada_letter_tta_kannada_sign_virama_kannada_letter_tta" press_data="ಟ್ಟ" />
+            <softkey id="@id/softkey_kannada_letter_tta_kannada_sign_virama_kannada_letter_ra" press_data="ಟ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_dda_kannada_sign_virama_kannada_letter_dda" press_data="ಡ್ಡ" />
+            <softkey id="@id/softkey_kannada_letter_nna_kannada_sign_virama_kannada_letter_nna" press_data="ಣ್ಣ" />
+            <softkey id="@id/softkey_kannada_letter_nna_kannada_sign_virama_kannada_letter_ya" press_data="ಣ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ta_kannada_sign_virama_kannada_letter_ta" press_data="ತ್ತ" />
+            <softkey id="@id/softkey_kannada_letter_ta_kannada_sign_virama_kannada_letter_ra" press_data="ತ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_ta_kannada_sign_virama_kannada_letter_ya" press_data="ತ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ta_kannada_sign_virama_kannada_letter_va" press_data="ತ್ವ" />
+            <softkey id="@id/softkey_kannada_letter_ta_kannada_sign_virama_kannada_letter_na" press_data="ತ್ನ" />
+            <softkey id="@id/softkey_kannada_letter_ta_kannada_sign_virama_kannada_letter_ma" press_data="ತ್ಮ" />
+            <softkey id="@id/softkey_kannada_letter_ta_kannada_sign_virama_kannada_letter_sa" press_data="ತ್ಸ" />
+            <softkey id="@id/softkey_kannada_letter_ta_kannada_sign_virama_kannada_letter_pa" press_data="ತ್ಪ" />
+            <softkey id="@id/softkey_kannada_letter_da_kannada_sign_virama_kannada_letter_da" press_data="ದ್ದ" />
+            <softkey id="@id/softkey_kannada_letter_da_kannada_sign_virama_kannada_letter_ra" press_data="ದ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_da_kannada_sign_virama_kannada_letter_ya" press_data="ದ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_da_kannada_sign_virama_kannada_letter_dha" press_data="ದ್ಧ" />
+            <softkey id="@id/softkey_kannada_letter_da_kannada_sign_virama_kannada_letter_va" press_data="ದ್ವ" />
+            <softkey id="@id/softkey_kannada_letter_dha_kannada_sign_virama_kannada_letter_ya" press_data="ಧ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_na_kannada_sign_virama_kannada_letter_na" press_data="ನ್ನ" />
+            <softkey id="@id/softkey_kannada_letter_na_kannada_sign_virama_kannada_letter_ya" press_data="ನ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_pa_kannada_sign_virama_kannada_letter_ra" press_data="ಪ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_pa_kannada_sign_virama_kannada_letter_pa" press_data="ಪ್ಪ" />
+            <softkey id="@id/softkey_kannada_letter_pa_kannada_sign_virama_kannada_letter_ta" press_data="ಪ್ತ" />
+            <softkey id="@id/softkey_kannada_letter_ba_kannada_sign_virama_kannada_letter_ba" press_data="ಬ್ಬ" />
+            <softkey id="@id/softkey_kannada_letter_ba_kannada_sign_virama_kannada_letter_ra" press_data="ಬ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_ba_kannada_sign_virama_kannada_letter_ya" press_data="ಬ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ba_kannada_sign_virama_kannada_letter_da" press_data="ಬ್ದ" />
+            <softkey id="@id/softkey_kannada_letter_bha_kannada_sign_virama_kannada_letter_ya" press_data="ಭ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_bha_kannada_sign_virama_kannada_letter_ra" press_data="ಭ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_ma_kannada_sign_virama_kannada_letter_ma" press_data="ಮ್ಮ" />
+            <softkey id="@id/softkey_kannada_letter_ma_kannada_sign_virama_kannada_letter_ya" press_data="ಮ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ya_kannada_sign_virama_kannada_letter_ya" press_data="ಯ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ya_kannada_sign_virama_kannada_letter_ka" press_data="ಯ್ಕ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_ya" press_data="ರ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_ma" press_data="ರ್ಮ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_tha" press_data="ರ್ಥ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_va" press_data="ರ್ವ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_ssa" press_data="ರ್ಷ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_ta" press_data="ರ್ತ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_ka" press_data="ರ್ಕ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_na" press_data="ರ್ನ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_sha" press_data="ರ್ಶ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_nna" press_data="ರ್ಣ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_da" press_data="ರ್ದ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_ga" press_data="ರ್ಗ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_bha" press_data="ರ್ಭ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_ja" press_data="ರ್ಜ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_dha" press_data="ರ್ಧ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_ca" press_data="ರ್ಚ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_pa" press_data="ರ್ಪ" />
+            <softkey id="@id/softkey_kannada_letter_ra_kannada_sign_virama_kannada_letter_tta_kannada_sign_virama" press_data="ರ್ಟ್" />
+            <softkey id="@id/softkey_kannada_letter_la_kannada_sign_virama_kannada_letter_la" press_data="ಲ್ಲ" />
+            <softkey id="@id/softkey_kannada_letter_la_kannada_sign_virama_kannada_letter_pa" press_data="ಲ್ಪ" />
+            <softkey id="@id/softkey_kannada_letter_la_kannada_sign_virama_kannada_letter_ya" press_data="ಲ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_la_kannada_sign_virama_kannada_letter_ka" press_data="ಲ್ಕ" />
+            <softkey id="@id/softkey_kannada_letter_lla_kannada_sign_virama_kannada_letter_lla" press_data="ಳ್ಳ" />
+            <softkey id="@id/softkey_kannada_letter_va_kannada_sign_virama_kannada_letter_ya" press_data="ವ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_va_kannada_sign_virama_kannada_letter_ra" press_data="ವ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_sha_kannada_sign_virama_kannada_letter_ra" press_data="ಶ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_sha_kannada_sign_virama_kannada_letter_va" press_data="ಶ್ವ" />
+            <softkey id="@id/softkey_kannada_letter_sha_kannada_sign_virama_kannada_letter_na" press_data="ಶ್ನ" />
+            <softkey id="@id/softkey_kannada_letter_sha_kannada_sign_virama_kannada_letter_ya" press_data="ಶ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_sha_kannada_sign_virama_kannada_letter_ca" press_data="ಶ್ಚ" />
+            <softkey id="@id/softkey_kannada_letter_ssa_kannada_sign_virama_kannada_letter_tta" press_data="ಷ್ಟ" />
+            <softkey id="@id/softkey_kannada_letter_ssa_kannada_sign_virama_kannada_letter_tta_kannada_sign_virama_kannada_letter_ra" press_data="ಷ್ಟ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_ssa_kannada_sign_virama_kannada_letter_ya" press_data="ಷ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_ssa_kannada_sign_virama_kannada_letter_nna" press_data="ಷ್ಣ" />
+            <softkey id="@id/softkey_kannada_letter_ssa_kannada_sign_virama_kannada_letter_ttha" press_data="ಷ್ಠ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_tha" press_data="ಸ್ಥ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_ta" press_data="ಸ್ತ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_va" press_data="ಸ್ವ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_ya" press_data="ಸ್ಯ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_sa" press_data="ಸ್ಸ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_pa" press_data="ಸ್ಪ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_ka" press_data="ಸ್ಕ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_tta" press_data="ಸ್ಟ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_na" press_data="ಸ್ನ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_ta_kannada_sign_virama_kannada_letter_ra" press_data="ಸ್ತ್ರ" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_tta_kannada_sign_virama" press_data="ಸ್ಟ್" />
+            <softkey id="@id/softkey_kannada_letter_sa_kannada_sign_virama_kannada_letter_ma" press_data="ಸ್ಮ" />
+        </softkey_list>
+    </softkeys>
+    <include href="@xml/softkeys_input_hi_page_switch" />
+</framework>

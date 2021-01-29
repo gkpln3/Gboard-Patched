@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointBackgroundView android:layout_gravity="center" android:tag=".icon.access-point-item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?BgAccessPointIcon" android:scaleType="centerCrop" />
+    <ImageView android:id="@id/access_point_icon_background" style="@style/Icon.Center.AccessPointIconBackground" />
+    <ImageView android:id="@id/icon" style="@style/Icon.Center.AccessPointIcon" />
+</merge>

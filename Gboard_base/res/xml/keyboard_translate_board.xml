@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.translate.TranslateKeyboard" id="@id/keyboard_translate_board">
+        <view direction="locale" layout="@layout/translate_board" scalable="false" type="header">
+            <softkeys href="@xml/softkeys_translate_board" />
+            <include href="@xml/keymapping_translate_board" />
+        </view>
+    </keyboard>
+</framework>

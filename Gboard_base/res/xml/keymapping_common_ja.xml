@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_undo" view_id="@id/key_pos_undo" />
+        <mapping key_id="@id/softkey_left_arrow" view_id="@id/key_pos_left_arrow" />
+        <mapping key_id="@id/softkey_switch_to_emoji_disabled" view_id="@id/key_pos_switch_to_smiley" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_del" />
+        <mapping key_id="@id/softkey_right_arrow" view_id="@id/key_pos_right_arrow" />
+        <mapping key_id="@id/softkey_space_ja_no_label" view_id="@id/key_pos_space" />
+        <if japanese_use_tri_state_mode="false">
+            <mapping key_id="@id/softkey_ja_switch_to_symbols" view_id="@id/key_pos_switch_to_symbol" />
+        </if>
+    </key_mapping>
+    <key_mapping state="SHOW_EMOJI_SWITCH_KEY">
+        <mapping key_id="@id/softkey_switch_to_emoji_disabled" view_id="@id/key_pos_switch_to_smiley" />
+    </key_mapping>
+    <key_mapping state="EMOJI_AVAILABLE">
+        <mapping key_id="@id/softkey_switch_to_emoji" view_id="@id/key_pos_switch_to_smiley" />
+    </key_mapping>
+    <include href="@xml/keymapping_common_ja_more_candidates" />
+</framework>

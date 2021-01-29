@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_9key_1" view_id="@id/key_pos_9key_1" />
+        <mapping key_id="@id/softkey_9key_abc" view_id="@id/key_pos_9key_2" />
+        <mapping key_id="@id/softkey_9key_def" view_id="@id/key_pos_9key_3" />
+        <mapping key_id="@id/softkey_9key_ghi" view_id="@id/key_pos_9key_4" />
+        <mapping key_id="@id/softkey_9key_jkl" view_id="@id/key_pos_9key_5" />
+        <mapping key_id="@id/softkey_9key_mno" view_id="@id/key_pos_9key_6" />
+        <mapping key_id="@id/softkey_9key_pqrs" view_id="@id/key_pos_9key_7" />
+        <mapping key_id="@id/softkey_9key_tuv" view_id="@id/key_pos_9key_8" />
+        <mapping key_id="@id/softkey_9key_wxyz" view_id="@id/key_pos_9key_9" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_9key_up_abc" view_id="@id/key_pos_9key_2" />
+        <mapping key_id="@id/softkey_9key_up_def" view_id="@id/key_pos_9key_3" />
+        <mapping key_id="@id/softkey_9key_up_ghi" view_id="@id/key_pos_9key_4" />
+        <mapping key_id="@id/softkey_9key_up_jkl" view_id="@id/key_pos_9key_5" />
+        <mapping key_id="@id/softkey_9key_up_mno" view_id="@id/key_pos_9key_6" />
+        <mapping key_id="@id/softkey_9key_up_pqrs" view_id="@id/key_pos_9key_7" />
+        <mapping key_id="@id/softkey_9key_up_tuv" view_id="@id/key_pos_9key_8" />
+        <mapping key_id="@id/softkey_9key_up_wxyz" view_id="@id/key_pos_9key_9" />
+    </key_mapping>
+</framework>

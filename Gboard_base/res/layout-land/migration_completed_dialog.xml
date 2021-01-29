@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/migration_dialog_content" android:background="@drawable/bg_dialog_corners" android:layout_width="450.0dip" android:layout_height="wrap_content" android:paddingStart="10.0dip" android:paddingEnd="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="5.0">
+            <ImageView android:layout_gravity="center|top" android:id="@id/migration_dialog_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/ic_receive_dialog_header" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+            <TextView android:gravity="center_horizontal" android:id="@id/migration_dialog_description" android:text="@string/migration_completed_description_source" style="@style/MigrationDescription" />
+            <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:gravity="center_horizontal" android:id="@id/migration_completed_select_language_label" android:layout_marginTop="14.0dip" android:text="@string/edit_language_text" style="@style/MigrationDescription" />
+            <LinearLayout android:orientation="vertical" android:id="@id/migration_completed_japanese_ime_user_word_migration_offering" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_marginTop="14.0dip" style="@style/MigrationSplitter" />
+                <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:layout_gravity="start" android:layout_marginTop="14.0dip" android:text="@string/japanese_ime_user_word_migration_offering" style="@style/MigrationDescription" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="5.0">
+            <ImageView android:layout_marginTop="14.0dip" style="@style/MigrationSplitter" />
+            <android.support.v7.widget.RecyclerView android:id="@id/migration_completed_list" style="@style/MigrationList" />
+            <ImageView style="@style/MigrationSplitter" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="bottom" android:layout_gravity="end" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="50.0dip">
+        <Button android:id="@id/migration_positive_button" android:text="@string/migration_done_button_label" style="@style/MigrationButton" />
+    </LinearLayout>
+</LinearLayout>

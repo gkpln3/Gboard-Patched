@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="fil-XF" string_id="ime_filipino_baybayin_dynamic" use_ascii_password_keyboard="true">
+        <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="baybayin" variant_label="@string/variant_baybayin">
+            <keyboard def="@xml/keyboard_fil_xf_dynamic" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+    </ime>
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkeys_input_en" />
+    <include href="@xml/softkeys_latin_fragment_secondary_digits_ja" />
+    <include href="@xml/softkeys_fragment_secondary_symbols_ja" />
+</framework>

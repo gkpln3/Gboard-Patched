@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="@dimen/keyboard_floating_candidates_body_height" style="@style/BodyInner.FloatingCandidates"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.PageableCandidatesHolderView android:id="@id/softkey_holder_more_candidates" android:layout_width="fill_parent" android:layout_toLeftOf="@id/more_candidates_right_panel" candidate_background="@attr/BgFloatingCandidate" candidate_layout="@layout/floating_softkey_candidate_with_ordinal" deletable_label="…" max_candidates_per_row="@integer/max_floating_candidates_per_row" row_background="@drawable/bg_keyboard_body_material_light_theme" row_count="@integer/floating_candidate_page_view_row_count" style="@style/MoreCandidatesHolderView" />
+    <include layout="@layout/keyboard_floating_candidates_body_right_panel" />
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="godan_punctuation_rect_size">6.0dip</dimen>
+    <dimen name="keyboard_body_height">162.0dip</dimen>
+    <dimen name="keyboard_body_height_more_letter_rows">194.0dip</dimen>
+    <dimen name="keyboard_expression_header_search_box_vertical_margin">4.0dip</dimen>
+    <dimen name="keyboard_expression_header_vertical_margin">3.0dip</dimen>
+    <dimen name="keyboard_expression_header_vertical_padding">0.0dip</dimen>
+    <dimen name="keyboard_header_height">38.0dip</dimen>
+    <dimen name="keyboard_height">196.0dip</dimen>
+    <dimen name="label_margin_godan_horizontal">12.5dip</dimen>
+    <dimen name="label_margin_godan_vertical">10.5dip</dimen>
+    <dimen name="morse_hint_card_height">115.0dip</dimen>
+    <dimen name="morse_hint_card_width">466.0dip</dimen>
+    <dimen name="morse_keyboard_body_mini_height">116.0dip</dimen>
+    <dimen name="text_size_ja_label_godan_primary">17.0dip</dimen>
+    <dimen name="text_size_ja_label_godan_secondary">7.0dip</dimen>
+    <dimen name="text_size_qwerty_label">20.0dip</dimen>
+    <dimen name="theme_details_apply_button_bottom_padding">36.0dip</dimen>
+    <dimen name="theme_details_apply_button_top_padding">50.0dip</dimen>
+    <dimen name="theme_details_key_border_switch_top_padding">50.0dip</dimen>
+</resources>

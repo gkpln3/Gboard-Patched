@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_latin" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_fragment_bottom_period_popup_arabic" view_id="@id/key_pos_non_prime_symbol_2" />
+        <mapping key_id="@id/softkey_fragment_bottom_comma_popup_arabic" view_id="@id/key_pos_non_prime_symbol_1" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_one" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_two" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_three" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_four" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_five" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_six" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_seven" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_eight" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_nine" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_extended_arabic_indic_digit_zero" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_commercial_at" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_number_sign" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_dollar_sign" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_low_line" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_amp" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_hyphen_minus" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_plus_sign" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_arabic_left_parenthesis" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_arabic_right_parenthesis" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_slash" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_arabic_asterisk" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_arabic_quot" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_arabic_apostrophe" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_exclamation_mark" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_symbols_flip" view_id="@id/key_pos_shift" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_del" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/softkey_tilde" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_grave_accent" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_vertical_line" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_bullet" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_square_root" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_greek_small_letter_pi" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_division_sign" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_multiplication_sign" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_pilcrow_sign" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_increment" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_pound_sign" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_cent_sign" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_euro_sign" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_yen_sign" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_circumflex_accent" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_degree_sign" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_equals_sign" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_arabic_left_curly_bracket" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_arabic_right_curly_bracket" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_copyright_sign" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_registered_sign" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_trade_mark_sign" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_check_mark" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_plus_minus" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_question_mark" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_more_symbols_flip" view_id="@id/key_pos_shift" />
+        <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_non_prime_symbol_1" />
+        <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_non_prime_symbol_2" />
+    </key_mapping>
+    <include href="@xml/keymapping_currency_symbol_language_specific_page1" />
+    <include href="@xml/keymapping_currency_symbol_language_specific_page2" />
+</framework>

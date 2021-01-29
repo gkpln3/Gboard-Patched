@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keygroup_mapping group_view_id="@id/pageable_view">
+        <keys softkeys_id="@id/softkeys_input_emoji_sub_category_2" />
+    </keygroup_mapping>
+</framework>

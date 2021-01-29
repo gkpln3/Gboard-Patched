@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base_t13n" />
+    <keyboard>
+        <view layout="@layout/keyboard_prime_header_t13n_chinese" type="header" />
+        <view type="body">
+            <include href="@xml/keymapping_function_latin_del_composing" />
+        </view>
+    </keyboard>
+</framework>

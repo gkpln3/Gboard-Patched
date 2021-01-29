@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@id/keyboard_zh_cangjie">
+        <view type="body">
+            <softkeys href="@xml/softkeys_function_candidates_zh" />
+            <softkeys href="@xml/softkeys_input_zh_cangjie" />
+            <softkeys href="@xml/softkeys_punctuation_zh_left_panel" />
+            <softkeys href="@xml/softkeys_function_shift_zh_pinyin" />
+        </view>
+    </keyboard>
+</framework>

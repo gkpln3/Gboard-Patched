@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.contentsuggestion.ContentSuggestionKeyboard" id="@id/keyboard_content_suggestion_strip">
+        <view direction="locale" layout="@layout/content_suggestion_extension_view_tappable" scalable="false" type="header" />
+    </keyboard>
+</framework>

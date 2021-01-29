@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="body">
+            <softkeys href="@xml/softkeys_fragment_secondary_symbols" />
+            <include href="@xml/keymapping_fragment_secondary_symbols_4x11_arabic" />
+        </view>
+    </keyboard>
+</framework>

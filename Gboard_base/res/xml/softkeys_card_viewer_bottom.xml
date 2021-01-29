@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="@string/letter_keyboard_key_content_desc" disable_lift_to_tap="true" id="@id/softkey_template_back_to_prime_keyboard" layout="@layout/softkey_function_key_label">
+            <action data="prime" keycode="$param_keycode$" type="PRESS" />
+            <label location="@id/label" value="@string/label_back_key_en" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_back_to_prime_keyboard">
+            <softkey id="@id/softkey_back" param_keycode="SWITCH_KEYBOARD" />
+            <softkey id="@id/softkey_back_from_extension" param_keycode="SWITCH_KEYBOARD" />
+        </softkey_list>
+    </softkeys>
+</framework>

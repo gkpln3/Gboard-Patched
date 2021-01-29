@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_ja_12keys_alphabet_noflick" layout="$key_layout=@layout/softkey_ja_12keys_alphabet$" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+            <action data="$press_data$" icon_background_level="@integer/level_action_press" intention="DECODE" keycode="$press_keycode$" popup_label="$press_label$" popup_layout="$press_layout=@layout/popup_bubble_ja_label_small$" type="PRESS" />
+            <label location="@id/label" value="$key_label$" />
+        </softkey_template>
+        <softkey_template content_description="$desc$" enable_slide_actions_in_a11y_mode="true" id="@id/softkey_template_ja_12keys_alphabet_flick" layout="$key_layout=@layout/softkey_ja_12keys_alphabet$" multi_touch="false" popup_timing="ON_TOUCH" slide_sensitivity="NORMAL">
+            <action content_description="$desc$" data="$press_data$" icon_background_level="@integer/level_action_press" intention="DECODE" keycode="$press_keycode$" popup_label="$press_label$" popup_layout="$press_layout=@layout/popup_bubble_ja_support$" type="PRESS" />
+            <action content_description="$slideleft_desc$" data="$slideleft_data$" icon_background_level="@integer/level_action_slide_left" intention="DECODE" keycode="$press_keycode$" popup_icon="$slideleft_icon$" popup_label="$slideleft_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_LEFT" />
+            <action content_description="$slideup_desc$" data="$slideup_data$" icon_background_level="@integer/level_action_slide_up" intention="DECODE" keycode="$press_keycode$" popup_icon="$slideup_icon$" popup_label="$slideup_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_UP" />
+            <action content_description="$slideright_desc$" data="$slideright_data$" icon_background_level="@integer/level_action_slide_right" intention="DECODE" keycode="$press_keycode$" popup_icon="$slideright_icon$" popup_label="$slideright_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_RIGHT" />
+            <action content_description="$slidedown_desc$" data="$slidedown_data$" icon_background_level="@integer/level_action_slide_down" intention="DECODE" keycode="$press_keycode$" popup_icon="$slidedown_icon$" popup_label="$slidedown_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_DOWN" />
+            <label location="@id/label" value="$key_label$" />
+            <label location="@id/label_bottom" value="$key_label_bottom$" />
+        </softkey_template>
+        <softkey_template content_description="$desc$" enable_slide_actions_in_a11y_mode="true" id="@id/softkey_template_ja_12keys_alphabet_flick_noslideright" layout="$key_layout=@layout/softkey_ja_12keys_alphabet$" multi_touch="false" popup_timing="ON_TOUCH" slide_sensitivity="NORMAL">
+            <action content_description="$desc$" data="$press_data$" icon_background_level="@integer/level_action_press" intention="DECODE" keycode="$press_keycode$" popup_label="$press_label$" popup_layout="$press_layout=@layout/popup_bubble_ja_support$" type="PRESS" />
+            <action content_description="$slideleft_desc$" data="$slideleft_data$" icon_background_level="@integer/level_action_slide_left" intention="DECODE" keycode="$press_keycode$" popup_icon="$slideleft_icon$" popup_label="$slideleft_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_LEFT" />
+            <action content_description="$slideup_desc$" data="$slideup_data$" icon_background_level="@integer/level_action_slide_up" intention="DECODE" keycode="$press_keycode$" popup_icon="$slideup_icon$" popup_label="$slideup_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_UP" />
+            <action data="" icon_background_level="@integer/level_action_press" intention="DECODE" keycode="$press_keycode$" type="SLIDE_RIGHT" />
+            <action content_description="$slidedown_desc$" data="$slidedown_data$" icon_background_level="@integer/level_action_slide_down" intention="DECODE" keycode="$press_keycode$" popup_icon="$slidedown_icon$" popup_label="$slidedown_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_DOWN" />
+            <label location="@id/label" value="$key_label$" />
+            <label location="@id/label_bottom" value="$key_label_bottom$" />
+        </softkey_template>
+        <softkey_template content_description="$desc$" enable_slide_actions_in_a11y_mode="true" id="@id/softkey_template_ja_12keys_alphabet_flick_noslidedown" layout="$key_layout=@layout/softkey_ja_12keys_alphabet$" multi_touch="false" popup_timing="ON_TOUCH" slide_sensitivity="NORMAL">
+            <action content_description="$desc$" data="$press_data$" icon_background_level="@integer/level_action_press" intention="DECODE" keycode="$press_keycode$" popup_label="$press_label$" popup_layout="$press_layout=@layout/popup_bubble_ja_support$" type="PRESS" />
+            <action content_description="$slideleft_desc$" data="$slideleft_data$" icon_background_level="@integer/level_action_slide_left" intention="DECODE" keycode="$press_keycode$" popup_icon="$slideleft_icon$" popup_label="$slideleft_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_LEFT" />
+            <action content_description="$slideup_desc$" data="$slideup_data$" icon_background_level="@integer/level_action_slide_up" intention="DECODE" keycode="$press_keycode$" popup_icon="$slideup_icon$" popup_label="$slideup_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_UP" />
+            <action content_description="$slideright_desc$" data="$slideright_data$" icon_background_level="@integer/level_action_slide_right" intention="DECODE" keycode="$press_keycode$" popup_icon="$slideright_icon$" popup_label="$slideright_label$" popup_layout="@layout/popup_bubble_ja_label_large" type="SLIDE_RIGHT" />
+            <action data="" icon_background_level="@integer/level_action_press" intention="DECODE" keycode="$press_keycode$" type="SLIDE_DOWN" />
+            <label location="@id/label" value="$key_label$" />
+            <label location="@id/label_bottom" value="$key_label_bottom$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_ja_12keys_alphabet_noflick">
+            <softkey id="@id/softkey_ja_12keys_alphabet_at_noflick" key_label="\@ - _ /" press_data="1" press_keycode="1" press_label="\@ - _ /" />
+            <softkey desc="@string/cd_key_alphabet_abc" id="@id/softkey_ja_12keys_alphabet_abc_noflick" key_label="ABC" press_data="2" press_keycode="2" press_label="ABC" />
+            <softkey desc="@string/cd_key_alphabet_def" id="@id/softkey_ja_12keys_alphabet_def_noflick" key_label="DEF" press_data="3" press_keycode="3" press_label="DEF" />
+            <softkey desc="@string/cd_key_alphabet_ghi" id="@id/softkey_ja_12keys_alphabet_ghi_noflick" key_label="GHI" press_data="4" press_keycode="4" press_label="GHI" />
+            <softkey desc="@string/cd_key_alphabet_jkl" id="@id/softkey_ja_12keys_alphabet_jkl_noflick" key_label="JKL" press_data="5" press_keycode="5" press_label="JKL" />
+            <softkey desc="@string/cd_key_alphabet_mno" id="@id/softkey_ja_12keys_alphabet_mno_noflick" key_label="MNO" press_data="6" press_keycode="6" press_label="MNO" />
+            <softkey desc="@string/cd_key_alphabet_pqrs" id="@id/softkey_ja_12keys_alphabet_pqrs_noflick" key_label="PQRS" press_data="7" press_keycode="7" press_label="PQRS" />
+            <softkey desc="@string/cd_key_alphabet_tuv" id="@id/softkey_ja_12keys_alphabet_tuv_noflick" key_label="TUV" press_data="8" press_keycode="8" press_label="TUV" />
+            <softkey desc="@string/cd_key_alphabet_wxyz" id="@id/softkey_ja_12keys_alphabet_wxyz_noflick" key_label="WXYZ" press_data="9" press_keycode="9" press_label="WXYZ" />
+            <softkey desc="@string/cd_key_alphabet_capitalize" id="@id/softkey_ja_12keys_alphabet_case" key_layout="@layout/softkey_ja_12keys_alphabet_10" press_data="*" press_keycode="STAR" press_label="a ⇔ A" press_layout="@layout/popup_bubble_ja_12keys_alphabet_nosupport_10" />
+            <softkey id="@id/softkey_ja_12keys_alphabet_quote_noflick" key_label="' &quot; : ;" press_data="0" press_keycode="0" press_label="' &quot; : ;" />
+            <softkey id="@id/softkey_ja_12keys_alphabet_period_noflick" key_label=". , ? !" press_data="\#" press_keycode="POUND" press_label=". , ? !" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_ja_12keys_alphabet_flick">
+            <softkey desc="\@" id="@id/softkey_ja_12keys_alphabet_at" key_label="\@ - _ /" key_label_bottom="1" press_data="1" press_keycode="1" press_label="\@ - _ / 1" slidedown_data="\@" slidedown_desc="1" slidedown_label="1" slideleft_data="-" slideleft_desc="-" slideleft_label="-" slideright_data="/" slideright_desc="/" slideright_label="/" slideup_data="_" slideup_desc="_" slideup_label="_" />
+            <softkey desc="p" id="@id/softkey_ja_12keys_alphabet_pqrs" key_label="PQRS" key_label_bottom="7" press_data="7" press_keycode="7" press_label="P Q R S 7" slidedown_data="&lt;" slidedown_desc="7" slidedown_label="7" slideleft_data="q" slideleft_desc="q" slideleft_label="Q" slideright_data="s" slideright_desc="s" slideright_label="S" slideup_data="r" slideup_desc="r" slideup_label="R" />
+            <softkey desc="w" id="@id/softkey_ja_12keys_alphabet_wxyz" key_label="WXYZ" key_label_bottom="9" press_data="9" press_keycode="9" press_label="W X Y Z 9" slidedown_data=">" slidedown_desc="9" slidedown_label="9" slideleft_data="x" slideleft_desc="x" slideleft_label="X" slideright_data="z" slideright_desc="z" slideright_label="Z" slideup_data="y" slideup_desc="y" slideup_label="Y" />
+            <softkey desc="'" id="@id/softkey_ja_12keys_alphabet_quote" key_label="' &quot; : ;" key_label_bottom="0" press_data="0" press_keycode="0" press_label="' &quot; : ; 0" slidedown_data="\#" slidedown_desc="0" slidedown_label="0" slideleft_data="&quot;" slideleft_desc="&quot;" slideleft_label="&quot;" slideright_data=";" slideright_desc=";" slideright_label=";" slideup_data=":" slideup_desc=":" slideup_label=":" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_ja_12keys_alphabet_flick_noslideright">
+            <softkey desc="a" id="@id/softkey_ja_12keys_alphabet_abc" key_label="ABC" key_label_bottom="2" press_data="2" press_keycode="2" press_label="A B C  2" slidedown_data="|" slidedown_desc="2" slidedown_label="2" slideleft_data="b" slideleft_desc="b" slideleft_label="B" slideup_data="c" slideup_desc="c" slideup_label="C" />
+            <softkey desc="d" id="@id/softkey_ja_12keys_alphabet_def" key_label="DEF" key_label_bottom="3" press_data="3" press_keycode="3" press_label="D E F  3" slidedown_data="~" slidedown_desc="3" slidedown_label="3" slideleft_data="e" slideleft_desc="e" slideleft_label="E" slideup_data="f" slideup_desc="f" slideup_label="F" />
+            <softkey desc="g" id="@id/softkey_ja_12keys_alphabet_ghi" key_label="GHI" key_label_bottom="4" press_data="4" press_keycode="4" press_label="G H I  4" slidedown_data="$" slidedown_desc="4" slidedown_label="4" slideleft_data="h" slideleft_desc="h" slideleft_label="H" slideup_data="i" slideup_desc="i" slideup_label="I" />
+            <softkey desc="j" id="@id/softkey_ja_12keys_alphabet_jkl" key_label="JKL" key_label_bottom="5" press_data="5" press_keycode="5" press_label="J K L  5" slidedown_data="%" slidedown_desc="5" slidedown_label="5" slideleft_data="k" slideleft_desc="k" slideleft_label="K" slideup_data="l" slideup_desc="l" slideup_label="L" />
+            <softkey desc="m" id="@id/softkey_ja_12keys_alphabet_mno" key_label="MNO" key_label_bottom="6" press_data="6" press_keycode="6" press_label="M N O  6" slidedown_data="&amp;" slidedown_desc="6" slidedown_label="6" slideleft_data="n" slideleft_desc="n" slideleft_label="N" slideup_data="o" slideup_desc="o" slideup_label="O" />
+            <softkey desc="t" id="@id/softkey_ja_12keys_alphabet_tuv" key_label="TUV" key_label_bottom="8" press_data="8" press_keycode="8" press_label="T U V  8" slidedown_data="^" slidedown_desc="8" slidedown_label="8" slideleft_data="u" slideleft_desc="u" slideleft_label="U" slideup_data="v" slideup_desc="v" slideup_label="V" />
+        </softkey_list>
+        <softkey_list template_id="@id/softkey_template_ja_12keys_alphabet_flick_noslidedown">
+            <softkey desc="." id="@id/softkey_ja_12keys_alphabet_period" key_label=". , ? !" press_data="." press_keycode="PERIOD" press_label=". , ? !" slideleft_data="," slideleft_desc="," slideleft_label="," slideright_data="!" slideright_desc="!" slideright_label="!" slideup_data="\?" slideup_desc="\?" slideup_label="\?" />
+        </softkey_list>
+    </softkeys>
+</framework>

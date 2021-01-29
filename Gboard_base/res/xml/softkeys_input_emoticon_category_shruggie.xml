@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_list template_id="@id/softkey_template_light_emoticon">
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_(ツ)_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_༼ •́ ͜ʖ •̀ ༽_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_( ͡° ͜ʖ ͡°)_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\(°_o)/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="┐( ∵ )┌" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_༼ᴼل͜ᴼ༽_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="╮(. ❛ ᴗ ❛.)╭" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁༼☯‿☯✿༽ㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\(◉‿◉)/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_ʘ‿ʘ_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_༼ ಥ ‿ ಥ ༽_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="╮(＾▽＾)╭" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁[ ◕ ᴥ ◕ ]ㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁[ᓀ˵▾˵ᓂ]ㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="┐(´(エ)｀)┌" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="┐( ˘_˘)┌" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="┐(´ー｀)┌" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="╮(╯_╰)╭" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_(⊙_ʖ⊙)_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_( ͠° ͟ʖ °͠ )_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁( •_• )ㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁| ･ 〰 ･ |ㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="┐(‘～`;)┌" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="┐(￣ヘ￣)┌" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="┐(´д`)┌" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁( . ര ʖ̯ ര . )ㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁 ˘ o ˘ ㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁ʕ •̀ ۝ •́ ʔㄏ" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_〳 •̀ o •́ 〵_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="¯\\_(☯෴☯)_/¯" />
+        <softkey desc="@string/shruggie_emoticon_description" param_data="乁║ ˙ 益 ˙ ║ㄏ" />
+    </softkey_list>
+</framework>

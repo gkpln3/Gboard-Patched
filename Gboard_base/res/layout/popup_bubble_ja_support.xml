@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MultiLabelPopupView android:id="@id/popup_bubble" android:layout_width="wrap_content" android:layout_height="wrap_content" app:CoversSoftKey="false" app:PopupDistance="@dimen/material_popup_distance"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/popup_outline" style="@style/MaterialPopupOutline.JaTwelveKeys">
+        <FrameLayout android:layout_width="@dimen/keyboard_twelvekeys_default_height" android:layout_height="@dimen/keyboard_twelvekeys_default_height">
+            <TextView android:id="@id/popup_label_0" android:visibility="gone" style="@style/MaterialPopupLabel.JaSupport.Primary" />
+            <TextView android:id="@id/popup_label_1" android:visibility="gone" android:layout_marginRight="@dimen/label_margin_popup_support_horizontal" style="@style/MaterialPopupLabel.JaSupport.Secondary" />
+            <TextView android:id="@id/popup_label_2" android:visibility="gone" android:layout_marginBottom="@dimen/label_margin_popup_support_vertical" style="@style/MaterialPopupLabel.JaSupport.Secondary" />
+            <TextView android:id="@id/popup_label_3" android:visibility="gone" android:layout_marginLeft="@dimen/label_margin_popup_support_horizontal" style="@style/MaterialPopupLabel.JaSupport.Secondary" />
+            <TextView android:id="@id/popup_label_4" android:visibility="gone" android:layout_marginTop="@dimen/label_margin_popup_support_vertical" style="@style/MaterialPopupLabel.JaSupport.Secondary" />
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MultiLabelPopupView>

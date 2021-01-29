@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_symbol" layout="@layout/softkey_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$param_data$" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_symbol">
+            <softkey id="@id/softkey_equal" param_data="=" />
+            <softkey id="@id/softkey_am" param_data="am" />
+            <softkey id="@id/softkey_pm" param_data="pm" />
+            <softkey id="@id/softkey_percent" param_data="%" />
+            <softkey id="@id/softkey_left_bracket" param_data="(" />
+            <softkey id="@id/softkey_right_bracket" param_data=")" />
+            <softkey desc="@string/rmb_key_content_desc" id="@id/softkey_rmb" param_data="￥" />
+            <softkey id="@id/softkey_dollar" param_data="$" />
+            <softkey id="@id/softkey_less_than" param_data="&lt;" />
+            <softkey id="@id/softkey_more_than" param_data=">" />
+            <softkey id="@id/softkey_star" param_data="*" />
+            <softkey id="@id/softkey_pound" param_data="\#" />
+        </softkey_list>
+        <softkey id="@id/softkey_comma" layout="@layout/softkey_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="," keycode="COMMA" type="PRESS" />
+            <label location="@id/label" value="," />
+        </softkey>
+        <softkey id="@id/softkey_period" layout="@layout/softkey_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="." keycode="PERIOD" type="PRESS" />
+            <label location="@id/label" value="." />
+        </softkey>
+    </softkeys>
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:textSize="@dimen/translate_language_list_label_font" android:id="@id/translate_language_list_entry_button" android:layout_width="fill_parent" android:layout_height="@dimen/translate_language_list_entry_height" android:buttonTint="@color/translate_dialog_button_color" />
+    <ImageView android:id="@id/translate_language_list_entry_separator" android:visibility="gone" style="@style/TranslateLanguageListSplitter" />
+</LinearLayout>

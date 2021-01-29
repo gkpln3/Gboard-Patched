@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_switch_to_zawgyi_prime_keyboard" view_id="@id/key_pos_zwnj_with_zwj" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_0" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_1" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_2" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_3" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_4" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_5" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_6" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_7" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_8" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_0_9" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_0" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_1" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_2" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_3" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_4" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_5" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_6" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_7" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_8" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_1_9" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_1" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_2" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_3" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_4" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_5" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_6" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_7" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_8" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_0_2_9" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_0" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_1" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_2" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_3" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_4" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_5" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_6" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_7" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_8" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_0_9" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_0" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_1" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_2" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_3" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_4" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_5" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_6" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_7" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_8" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_1_9" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_1" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_2" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_3" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_4" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_5" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_6" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_7" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_8" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_my_zawgyi_b_1_2_9" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+</framework>

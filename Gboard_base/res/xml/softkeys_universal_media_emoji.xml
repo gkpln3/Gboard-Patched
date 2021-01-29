@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/softkeys_input_emoji_templates" />
+    <softkeys>
+        <include href="@xml/softkeys_input_emoji_category_smiley_people" />
+    </softkeys>
+</framework>

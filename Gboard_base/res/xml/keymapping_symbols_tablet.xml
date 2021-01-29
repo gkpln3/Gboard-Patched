@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_latin" />
+    <include href="@xml/keymapping_symbols_common" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_percent_sign" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_asterisk" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_quot" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_apostrophe" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_semicolon" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_exclamation_mark" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_question_mark" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+    <if language="ab-GE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ar-EG|ar-MA">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_asterisk" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_apostrophe" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="az-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="ba">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ban-Bali">
+        <key_mapping>
+            <mapping key_id="@id/softkey_balinese_colon" view_id="@id/key_pos_2_6" />
+        </key_mapping>
+    </if>
+    <if language="bax-CM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_bamum_colon" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_bamum_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_bamum_njaemli" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_bamum_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="be-BY">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="bg">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+        </key_mapping>
+    </if>
+    <if language="bm-Nkoo">
+        <key_mapping>
+            <mapping key_id="@id/softkey_nko_symbol_gbakurunen" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_nko_symbol_lajanyalan" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_nko_comma" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_nko_letter_dagbasinna" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_nko_exclamation_mark" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="bo-CN" variant="tibetan_alphabetical">
+        <key_mapping>
+            <mapping key_id="@id/softkey_tibetan_letter_tta" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_tibetan_letter_ttha" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_tibetan_letter_dda" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_tibetan_letter_nna" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_tibetan_letter_ssa" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_tibetan_mark_che_mgo" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_tibetan_mark_sbrul_shad" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_left_parenthesis" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_right_parenthesis" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="ccp-BD">
+        <key_mapping>
+            <mapping key_id="@id/softkey_chakma_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="cs">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="da">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="de-CH|de-DE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="doi-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="dv-MV">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="dyu-Nkoo">
+        <key_mapping>
+            <mapping key_id="@id/softkey_nko_symbol_gbakurunen" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_nko_symbol_lajanyalan" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_nko_comma" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_nko_letter_dagbasinna" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_nko_exclamation_mark" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="dz">
+        <key_mapping>
+            <mapping key_id="@id/softkey_tibetan_letter_tta" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_tibetan_letter_ttha" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_tibetan_letter_dda" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_tibetan_letter_nna" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_tibetan_letter_ssa" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_tibetan_mark_che_mgo" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_tibetan_mark_sbrul_shad" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_left_parenthesis" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_right_parenthesis" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="et-EE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="fa|prs-AF">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_1_9" />
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_slash" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="ff-Adlm">
+        <key_mapping>
+            <mapping key_id="@id/softkey_reversed_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_adlam_exclamation_mark" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_adlam_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="ga">
+        <key_mapping>
+            <mapping key_id="@id/softkey_irish_amp_tironian_et" view_id="@id/key_pos_1_4" />
+        </key_mapping>
+    </if>
+    <if language="hnd-PK" variant="qwerty">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="hr">
+        <key_mapping>
+            <mapping key_id="@id/softkey_croatian_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_croatian_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="hu">
+        <key_mapping>
+            <mapping key_id="@id/softkey_croatian_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_croatian_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="hy-AM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_armenian_phonetic_exclamation_mark" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_armenian_phonetic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="ii">
+        <key_mapping>
+            <mapping key_id="@id/softkey_fullwidth_left_parenthesis" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_fullwidth_right_parenthesis" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_ideographic_comma" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_left_double_quotation_mask" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_right_double_quotation_mask" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_fullwidth_colon" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_fullwidth_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_fullwidth_exclamation_mark" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_fullwidth_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="is">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="iw">
+        <key_mapping>
+            <mapping key_id="@id/softkey_hebrew_asterisk" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_hebrew_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_hebrew_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ji">
+        <key_mapping>
+            <mapping key_id="@id/softkey_hebrew_asterisk" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_hebrew_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_hebrew_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="jv-Java">
+        <key_mapping>
+            <mapping key_id="@id/softkey_javanese_pada_adeg" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_javanese_pada_adeg_adeg" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_javanese_pada_pangkat" view_id="@id/key_pos_2_6" />
+        </key_mapping>
+    </if>
+    <if language="ka">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="kbd-RU">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="khb-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_ideographic_comma" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_left_double_quotation_mask" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_right_double_quotation_mask" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_fullwidth_colon" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_fullwidth_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_fullwidth_exclamation_mark" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_fullwidth_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="khw">
+        <key_mapping>
+            <mapping key_id="@id/softkey_percent_sign_with_arabic_long_press" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="kl">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ks-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="ku-IQ|ku-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="ky">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="lif-Limb">
+        <key_mapping>
+            <mapping key_id="@id/softkey_limbu_punctuation_exclamation_mark" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_limbu_punctuation_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="lt">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="luz-IR">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_exclamation_mark" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="lv">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="mk">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="mrj-RU">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="nb">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="nl">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="nn-NO">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="pa-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="pl">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ps">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="ro">
+        <key_mapping>
+            <mapping key_id="@id/softkey_roman_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_roman_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ru-RU">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="rue-UA">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="sah-RU">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="sat-Olck">
+        <key_mapping>
+            <mapping key_id="@id/softkey_ol_chiki_ahad" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_ol_chiki_punctuation_double_mucaad" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_ol_chiki_punctuation_mucaad" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_ol_chiki_mu_gaahlaa_ttuddaag" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_ol_chiki_mu_ttuddag" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_ol_chiki_gaahlaa_ttuddaag" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_ol_chiki_relaa" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="sd-Arab">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="se-NO">
+        <key_mapping>
+            <mapping key_id="@id/softkey_sami_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="shn-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_myanmar_symbol_shan_exclamation" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="sk">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="sl">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="sr-Cyrl-RS">
+        <key_mapping>
+            <mapping key_id="@id/softkey_danish_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_danish_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="sv-SE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_swedish_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_swedish_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="trw">
+        <key_mapping>
+            <mapping key_id="@id/softkey_percent_sign_with_arabic_long_press" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="tyv-RU">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ug">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_left_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_arabic_right_pointing_double_angle_quotation_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="uk">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ur-PK|ur-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_arabic_decimal_separator" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_arabic_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="xmf-GE">
+        <key_mapping>
+            <mapping key_id="@id/softkey_east_slavic_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_east_slavic_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="ydd-IL">
+        <key_mapping>
+            <mapping key_id="@id/softkey_hebrew_asterisk" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_hebrew_quot" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_hebrew_apostrophe" view_id="@id/key_pos_2_5" />
+        </key_mapping>
+    </if>
+    <if language="zh">
+        <key_mapping>
+            <mapping key_id="@id/softkey_fullwidth_left_parenthesis" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_fullwidth_right_parenthesis" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_percent_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_ideographic_comma" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_left_double_quotation_mask" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_right_double_quotation_mask" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_fullwidth_colon" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_fullwidth_semicolon" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_fullwidth_exclamation_mark" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_fullwidth_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/softkey_plus_minus" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_less_than_or_equal_to" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_more_than_or_equal_to" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_not_equal_to" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_copyright_sign" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_registered_sign" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_trade_mark_sign" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_left_square_bracket" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_right_square_bracket" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_check_mark" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+    <if language="ar-EG|ar-MA">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="az-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="bm-Nkoo">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="bo-CN" variant="tibetan_alphabetical">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_tibetan_sign_inverted_mchu_can" view_id="@id/key_pos_1_9" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_tta" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_ttha" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_dda" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_nna" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_ssa" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_tibetan_mark_ngas_bzung_nyi_zla" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_tibetan_mark_ngas_bzung_sgor_rtags" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_left_square_bracket" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_right_square_bracket" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="doi-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="dv-MV">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="dyu-Nkoo">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="dz">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_tibetan_sign_inverted_mchu_can" view_id="@id/key_pos_1_9" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_tta" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_ttha" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_dda" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_nna" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_tibetan_subjoined_letter_ssa" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_tibetan_mark_ngas_bzung_nyi_zla" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_tibetan_mark_ngas_bzung_sgor_rtags" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_left_square_bracket" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_right_square_bracket" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="fa|prs-AF">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_plus_minus" view_id="@id/key_pos_1_9" />
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ff-Adlm">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ii">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_asterisk" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_pilcrow_sign" view_id="@id/key_pos_0_9" />
+            <mapping key_id="@id/softkey_left_corner_bracket" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_right_corner_bracket" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_left_single_quotation_mask" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_right_single_quotation_mask" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_fullwidth_left_square_bracket" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_fullwidth_right_square_bracket" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+    <if language="iw">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ji">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="khw">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ks-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ku-IQ|ku-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="luz-IR">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_1_9" />
+            <mapping key_id="@id/softkey_arabic_percent_sign" view_id="@id/key_pos_2_1" />
+            <mapping key_id="@id/softkey_copyright_sign" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_registered_sign" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_trade_mark_sign" view_id="@id/key_pos_2_4" />
+            <mapping key_id="@id/softkey_check_mark" view_id="@id/key_pos_2_5" />
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_plus_minus" view_id="@id/key_pos_2_8" />
+            <mapping key_id="@id/softkey_question_mark" view_id="@id/key_pos_2_9" />
+        </key_mapping>
+    </if>
+    <if language="pa-PK">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="pa-Guru" variant="punjabi_gurmukhi|handwriting">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_gurmukhi_ek_onkar" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_gurmukhi_sign_visarga" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ps">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="sd-Arab">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="trw">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ug">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ur-PK|ur-IN">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="ydd-IL">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_arabic_left_square_bracket" view_id="@id/key_pos_2_7" />
+            <mapping key_id="@id/softkey_arabic_right_square_bracket" view_id="@id/key_pos_2_8" />
+        </key_mapping>
+    </if>
+    <if language="zh">
+        <key_mapping state="SUB_CATEGORY_1">
+            <mapping key_id="@id/softkey_asterisk" view_id="@id/key_pos_0_8" />
+            <mapping key_id="@id/softkey_pilcrow_sign" view_id="@id/key_pos_0_9" />
+            <mapping key_id="@id/softkey_left_corner_bracket" view_id="@id/key_pos_1_7" />
+            <mapping key_id="@id/softkey_right_corner_bracket" view_id="@id/key_pos_1_8" />
+            <mapping key_id="@id/softkey_left_single_quotation_mask" view_id="@id/key_pos_2_2" />
+            <mapping key_id="@id/softkey_right_single_quotation_mask" view_id="@id/key_pos_2_3" />
+            <mapping key_id="@id/softkey_fullwidth_left_square_bracket" view_id="@id/key_pos_2_6" />
+            <mapping key_id="@id/softkey_fullwidth_right_square_bracket" view_id="@id/key_pos_2_7" />
+        </key_mapping>
+    </if>
+</framework>

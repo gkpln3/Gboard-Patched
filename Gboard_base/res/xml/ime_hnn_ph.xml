@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="hnn-PH" string_id="ime_hanunuo">
+        <if enable_number_row="false">
+            <keyboard_group variant="hanunuo" variant_label="@string/variant_hanunuo">
+                <keyboard def="@xml/keyboard_hnn_ph" type="prime" />
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <extra_values>
+                <item id="@id/extra_value_double_space_to_period_replacement" value="᜶ " />
+            </extra_values>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="hanunuo" variant_label="@string/variant_hanunuo">
+                <keyboard def="@xml/keyboard_hnn_ph" type="prime">
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_8_7_7_no_shift" />
+                </keyboard>
+                <include href="@xml/keyboards_non_prime_latin" />
+            </keyboard_group>
+            <extra_values>
+                <item id="@id/extra_value_double_space_to_period_replacement" value="᜶ " />
+            </extra_values>
+        </else>
+    </ime>
+</framework>

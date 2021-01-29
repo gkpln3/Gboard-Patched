@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout style="@style/ChipsView"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/clipboard_paste_chip_background" />
+    <androidx.cardview.widget.CardView android:id="@id/clipboard_paste_chip_image_wrapper" android:layout_width="@dimen/clipboard_chips_image_size" android:layout_height="@dimen/clipboard_chips_image_size" android:layout_marginStart="@dimen/clipboard_chips_image_padding_start" app:cardCornerRadius="@dimen/clipboard_chips_image_corner" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/clipboard_paste_chip_text" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <ImageView android:id="@id/clipboard_paste_chip_image" android:layout_width="@dimen/clipboard_chips_image_size" android:layout_height="@dimen/clipboard_chips_image_size" android:scaleType="centerCrop" android:contentDescription="@string/image_proactive_suggestion_content_desc" />
+    </androidx.cardview.widget.CardView>
+    <TextView android:id="@id/clipboard_paste_chip_text" android:tag=".keyboard-clipboard-text" android:text="@string/item_board_paste_button_content" android:layout_marginStart="@dimen/clipboard_chips_margin" android:layout_marginEnd="@dimen/clipboard_chips_text_margin" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/clipboard_paste_chip_image_wrapper" app:layout_constraintTop_toTopOf="parent" style="@style/ChipsText" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SettingsDialogBody"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="left" android:id="@id/message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_dialog_import_message" style="@style/SettingsDialogLabel" />
+    <EditText android:gravity="fill_horizontal" android:id="@id/file_to_import" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:scrollHorizontally="true" android:inputType="textUri" style="@style/SettingsDialogEdit" />
+    <Button android:id="@id/select_file_to_import" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_dialog_import_select_file_message" />
+</LinearLayout>

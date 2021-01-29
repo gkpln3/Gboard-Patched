@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_batak_letter_a" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_batak_letter_mandailing_ha" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_batak_mandailing_letter_ka" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_batak_letter_ba" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_batak_vowel_sign_ee" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_batak_vowel_sign_i" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_batak_letter_pa" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_batak_letter_mandailing_na" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_batak_letter_wa" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_batak_letter_ga" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_batak_letter_ja" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_batak_letter_da" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_batak_letter_ra" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_batak_letter_ma" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_batak_vowel_sign_o" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_batak_vowel_sign_u" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_batak_letter_southern_ta" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_batak_letter_mandailing_sa" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_batak_letter_ya" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_batak_letter_nga" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_batak_letter_la" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_batak_letter_nya" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_batak_letter_ca" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_batak_consonant_sign_ng" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_batak_pangolat" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_batak_letter_i" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_batak_letter_u" view_id="@id/key_pos_2_6" />
+    </key_mapping>
+</framework>

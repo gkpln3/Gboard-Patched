@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@android:anim/decelerate_interpolator" android:shareInterpolator="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:duration="30" android:pivotX="50.0%" android:valueFrom="1.0" android:valueTo="0.5" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:duration="30" android:pivotY="100.0%" android:valueFrom="1.0" android:valueTo="0.5" android:valueType="floatType" android:propertyName="scaleY" />
+</set>

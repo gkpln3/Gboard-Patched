@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/SoftKeySpaceHolder"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:tag=".icon.for-space-branding" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_google_g" android:scaleType="center" />
+    <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@id/label" style="@style/Label.Tiny.SpaceKeyText" />
+</FrameLayout>

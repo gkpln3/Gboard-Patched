@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/clipboard_body_default_view_if_empty" style="@style/ClipboardDefaultViewIfEmpty"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_weight="@integer/clipboard_body_default_view_if_empty_icon_weight" style="@style/ClipboardDefaultViewIfEmptyIcon" />
+    <TextView android:text="@string/clipboard_body_default_view_if_empty_label" android:layout_weight="@integer/clipboard_body_default_view_if_empty_label_weight" style="@style/ClipboardDefaultViewIfEmptyLabel" />
+    <TextView android:text="@string/clipboard_body_default_view_if_empty_tutorial_label" android:layout_weight="@integer/clipboard_body_default_view_if_empty_tutorial_weight" style="@style/ClipboardDefaultViewIfEmptyTutorial" />
+</LinearLayout>

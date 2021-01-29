@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/BodyInner.Candidates.NoPadding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout style="@style/BodyInnerPadding.Candidates.Japanese">
+        <com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MonolithicCandidatesHolderView android:id="@id/softkey_holder_more_candidates" android:layout_width="fill_parent" candidate_background="@attr/BgCandidate" candidate_layout="@layout/softkey_ja_candidate" last_column_candidate_background="@attr/BgCandidateLastColumn" min_candidate_width="@dimen/min_candidate_width" min_row_height="@dimen/keyboard_header_height" reserved_columns_for_1st_row="1" row_background="@attr/BgMoreCandidatesHolderRow" style="@style/MoreCandidatesHolderView" />
+        <FrameLayout android:layout_gravity="center|right|top" android:id="@id/more_candidates_button" android:layout_width="@dimen/keyboard_header_height" android:layout_height="@dimen/keyboard_header_height">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_more_candidates_background" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_more_candidates_foreground" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>

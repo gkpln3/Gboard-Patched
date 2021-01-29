@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView app:allowMockActionDown="false" style="@style/Body.NonPrime"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_gravity="center_vertical" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="16.0dip" android:foreground="@drawable/ripple_effect" android:paddingStart="16.0dip" app:cardCornerRadius="8.0dip" app:cardElevation="3.0dip">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="3.0" android:layout_above="@id/got_it_container" android:layout_marginStart="16.0dip">
+                <TextView android:textSize="@dimen/maestro_promo_title_text_size" android:textColor="#ff3c4043" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/maestro_promo_title" android:layout_weight="1.0" android:fontFamily="@font/google_sans_medium" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:weightSum="3.0" android:layout_weight="2.0">
+                    <TextView android:textSize="@dimen/maestro_promo_description_text_size" android:textColor="#ff202124" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/maestro_promo_description" android:layout_weight="2.0" />
+                    <ImageView android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/maestro_promo" android:scaleType="centerInside" android:layout_weight="1.0" android:layout_alignParentEnd="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <FrameLayout android:id="@id/got_it_container" android:layout_width="wrap_content" android:layout_height="44.0dip" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true">
+                <Button android:id="@id/got_it_button" android:layout_height="32.0dip" android:text="@string/maestro_promo_got_it_button_label" android:layout_marginEnd="12.0dip" style="@style/KeyboardOverlayOkayButton" />
+            </FrameLayout>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="apps_min_height">135.0dip</dimen>
+    <item type="dimen" name="email_candidate_domain_minimum_scale">0.81</item>
+    <item type="dimen" name="email_candidate_username_minimum_scale">0.81</item>
+    <dimen name="email_candidate_username_size">16.0dip</dimen>
+    <dimen name="floating_keyboard_body_height">245.0dip</dimen>
+    <dimen name="floating_keyboard_body_height_more_letter_rows">292.0dip</dimen>
+    <dimen name="input_area_dense_padding_left_right">0.5dip</dimen>
+    <dimen name="keyboard_body_height">238.0dip</dimen>
+    <dimen name="keyboard_body_height_more_letter_rows">285.0dip</dimen>
+    <dimen name="keyboard_expression_header_search_box_vertical_margin">5.0dip</dimen>
+    <dimen name="keyboard_expression_header_vertical_margin">4.0dip</dimen>
+    <dimen name="keyboard_expression_header_vertical_padding">2.0dip</dimen>
+    <dimen name="keyboard_header_height">44.0dip</dimen>
+    <dimen name="keyboard_height">286.0dip</dimen>
+    <dimen name="keyboard_side_frame_height">226.0dip</dimen>
+    <dimen name="material_popup_bubble_width">41.0dip</dimen>
+    <dimen name="morse_hint_card_height">306.0dip</dimen>
+    <dimen name="morse_hint_card_width">340.0dip</dimen>
+    <dimen name="morse_keyboard_body_mini_height">170.0dip</dimen>
+    <dimen name="one_handed_keyboard_area_max_height">380.0dip</dimen>
+    <dimen name="one_handed_keyboard_body_height_for_large_screen">241.0dip</dimen>
+    <dimen name="one_handed_keyboard_body_height_more_letter_rows_for_large_screen">288.0dip</dimen>
+    <dimen name="one_handed_keyboard_padding_bottom_for_large_screen">48.0dip</dimen>
+    <dimen name="popup_label_width">41.0dip</dimen>
+    <dimen name="popup_small_label_width">41.0dip</dimen>
+    <dimen name="softkey_bg_action_borderless_height">33.0dip</dimen>
+    <dimen name="softkey_bg_action_borderless_width">50.0dip</dimen>
+    <dimen name="softkey_bg_bottom_inset_bottom">8.0dip</dimen>
+    <dimen name="softkey_bg_bottom_padded_inset_bottom">19.399994dip</dimen>
+    <dimen name="softkey_bg_dense_inset_left">2.5dip</dimen>
+    <dimen name="softkey_bg_dense_inset_right">2.5dip</dimen>
+    <dimen name="softkey_bg_inset_bottom">12.0dip</dimen>
+    <dimen name="softkey_bg_inset_left">3.0dip</dimen>
+    <dimen name="softkey_bg_inset_right">3.0dip</dimen>
+    <dimen name="softkey_bg_middle_inset_bottom">9.0dip</dimen>
+    <dimen name="softkey_number_row_bg_inset_bottom">8.0dip</dimen>
+    <dimen name="text_size_9key">22.0dip</dimen>
+    <dimen name="text_size_function_key">18.0dip</dimen>
+    <dimen name="text_size_medium">22.0dip</dimen>
+    <dimen name="text_size_qwerty_label">27.0dip</dimen>
+    <dimen name="text_size_very_tiny">11.0dip</dimen>
+</resources>

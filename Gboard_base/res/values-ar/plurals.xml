@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">تم تحديد %d مفتاح</item>
+        <item quantity="zero">تم تحديد %d مفاتيح</item>
+        <item quantity="one">تم تحديد %d مفتاح</item>
+        <item quantity="two">تم تحديد %d مفتاحَين</item>
+        <item quantity="few">تم تحديد %d مفاتيح</item>
+        <item quantity="many">تم تحديد %d مفتاحًا</item>
+    </plurals>
+</resources>

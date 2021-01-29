@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>ଅ</primary_input>
+        <action state="0">ଅ</action>
+    </key>
+    <key>
+        <primary_input>ଆ</primary_input>
+        <action state="0">ଆ</action>
+        <action state="0">ା</action>
+    </key>
+    <key>
+        <primary_input>ଇ</primary_input>
+        <action state="0">ଇ</action>
+        <action state="0">ି</action>
+    </key>
+    <key>
+        <primary_input>ଈ</primary_input>
+        <action state="0">ଈ</action>
+        <action state="0">ୀ</action>
+    </key>
+    <key>
+        <primary_input>ଉ</primary_input>
+        <action state="0">ଉ</action>
+        <action state="0">ୁ</action>
+    </key>
+    <key>
+        <primary_input>ଊ</primary_input>
+        <action state="0">ଊ</action>
+        <action state="0">ୂ</action>
+    </key>
+    <key>
+        <primary_input>ଏ</primary_input>
+        <action state="0">ଏ</action>
+        <action state="0">େ</action>
+    </key>
+    <key>
+        <primary_input>ଐ</primary_input>
+        <action state="0">ଐ</action>
+        <action state="0">ୈ</action>
+        <action state="0">ୖ</action>
+    </key>
+    <key>
+        <primary_input>ଓ</primary_input>
+        <action state="0">ଓ</action>
+        <action state="0">ୋ</action>
+    </key>
+    <key>
+        <primary_input>ଔ</primary_input>
+        <action state="0">ଔ</action>
+        <action state="0">ୌ</action>
+        <action state="0">ୗ</action>
+    </key>
+    <key>
+        <primary_input>ଋ</primary_input>
+        <action state="0">ଋ</action>
+        <action state="0">ୃ</action>
+        <action state="0">ୠ</action>
+        <action state="0">ୄ</action>
+        <action state="0">ଌ</action>
+        <action state="0">ୢ</action>
+        <action state="0">ୡ</action>
+        <action state="0">ୣ</action>
+    </key>
+    <key>
+        <primary_input>୍</primary_input>
+        <action state="0">୍</action>
+    </key>
+</dynamic_keys>

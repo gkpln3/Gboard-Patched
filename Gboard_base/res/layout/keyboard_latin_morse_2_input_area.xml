@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/InputArea.Qwerty"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_morse_buffer" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="36.0" />
+    <LinearLayout android:layout_weight="121.0" style="@style/Linear.HeightWeighted.Horizontal"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_0_0" android:layout_weight="500.0" style="@style/SoftKey.BigInset" />
+        <ImageView style="@style/MorseKeyboardVerticalSeparator" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_0_1" android:layout_weight="500.0" style="@style/SoftKey.BigInset" />
+    </LinearLayout>
+</LinearLayout>

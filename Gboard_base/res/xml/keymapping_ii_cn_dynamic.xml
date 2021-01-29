@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_yi_syllable_pit" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_yi_syllable_nbit" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_yi_syllable_tit" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_yi_syllable_ndit" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_yi_syllable_kit" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_yi_syllable_mgiex" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_yi_syllable_cit" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_yi_syllable_nzit" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_yi_syllable_chat" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_yi_syllable_nrat" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_yi_syllable_qit" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_yi_syllable_njit" view_id="@id/key_pos_0_11" />
+        <mapping key_id="@id/softkey_yi_syllable_bit" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_yi_syllable_bbit" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_yi_syllable_dit" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_yi_syllable_ddit" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_yi_syllable_git" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_yi_syllable_ggit" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_yi_syllable_zit" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_yi_syllable_zzit" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_yi_syllable_zhat" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_yi_syllable_rrax" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_yi_syllable_jit" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_yi_syllable_jjit" view_id="@id/key_pos_1_11" />
+        <mapping key_id="@id/softkey_yi_syllable_fit" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_yi_syllable_vit" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_yi_syllable_hlit" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_yi_syllable_lit" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_yi_syllable_hit" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_yi_syllable_wat" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_yi_syllable_sit" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_yi_syllable_ssit" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_yi_syllable_shat" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_yi_syllable_rat" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_yi_syllable_xit" view_id="@id/key_pos_2_10" />
+        <mapping key_id="@id/softkey_yi_syllable_yit" view_id="@id/key_pos_2_11" />
+        <mapping key_id="@id/softkey_yi_syllable_hmit" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_yi_syllable_mit" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_yi_syllable_hnit" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_yi_syllable_nit" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_yi_syllable_hxit" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_yi_syllable_ngiex" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_latin_small_letter_t" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_latin_small_letter_x" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_empty_set" view_id="@id/key_pos_3_8" />
+        <mapping key_id="@id/softkey_latin_small_letter_p" view_id="@id/key_pos_3_9" />
+        <mapping key_id="@id/softkey_yi_syllable_it" view_id="@id/key_pos_3_10" />
+        <mapping key_id="@id/softkey_yi_syllable_nyit" view_id="@id/key_pos_3_11" />
+        <mapping key_id="@id/softkey_latin_small_letter_i" view_id="@id/key_pos_4_0" />
+        <mapping key_id="@id/softkey_latin_small_letter_e_with_dot_above" view_id="@id/key_pos_4_1" />
+        <mapping key_id="@id/softkey_latin_small_letter_a" view_id="@id/key_pos_4_2" />
+        <mapping key_id="@id/softkey_latin_small_letter_u_with_ring_above" view_id="@id/key_pos_4_3" />
+        <mapping key_id="@id/softkey_latin_small_letter_o" view_id="@id/key_pos_4_4" />
+        <mapping key_id="@id/softkey_latin_small_letter_e" view_id="@id/key_pos_4_5" />
+        <mapping key_id="@id/softkey_latin_small_letter_u" view_id="@id/key_pos_4_6" />
+        <mapping key_id="@id/softkey_latin_small_letter_u_with_circumflex" view_id="@id/key_pos_4_7" />
+        <mapping key_id="@id/softkey_latin_small_letter_y" view_id="@id/key_pos_4_8" />
+        <mapping key_id="@id/softkey_latin_small_letter_y_with_circumflex" view_id="@id/key_pos_4_9" />
+        <mapping key_id="@id/softkey_ideographic_comma" view_id="@id/key_pos_4_10" />
+        <mapping key_id="@id/softkey_fullwidth_exclamation_mark" view_id="@id/key_pos_input_symbol_1" />
+        <mapping key_id="@id/softkey_fullwidth_question_mark" view_id="@id/key_pos_input_symbol_2" />
+    </key_mapping>
+</framework>

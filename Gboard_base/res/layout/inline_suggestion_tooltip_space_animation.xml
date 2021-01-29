@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.airbnb.lottie.LottieAnimationView android:gravity="center" android:id="@id/inline_tooltip_space_animation" android:tag=".inline-space-animation" android:layout_width="wrap_content" android:layout_height="wrap_content" app:lottie_autoPlay="true" app:lottie_loop="true" app:lottie_rawRes="@raw/inline_tooltip_spcae_lottie_animation"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

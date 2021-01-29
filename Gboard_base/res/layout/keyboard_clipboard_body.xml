@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:id="@id/clipboard_body" app:allowMockActionDown="false" style="@style/Body.NonPrime"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/keyboard_clipboard_body_inner" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

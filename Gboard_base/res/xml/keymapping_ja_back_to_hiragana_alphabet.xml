@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if language="ja">
+        <key_mapping>
+            <mapping key_id="@id/softkey_ja_back_to_hiragana_alphabet" view_id="@id/key_pos_back_to_prime" />
+            <mapping key_id="@id/softkey_ja_back_to_hiragana_alphabet" view_id="@id/key_pos_back_to_prime2" />
+        </key_mapping>
+    </if>
+</framework>

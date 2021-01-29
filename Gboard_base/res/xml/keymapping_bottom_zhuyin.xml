@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_zhuyin_er" view_id="@id/key_pos_zwnj_with_zwj" />
+        <mapping key_id="@id/softkey_space_empty" view_id="@id/key_pos_space" />
+        <mapping key_id="@id/softkey_del" view_id="@id/key_pos_del" />
+        <mapping key_id="@id/softkey_switch_to_non_prime_keyboard" view_id="@id/key_pos_switch_to_symbol" />
+        <if device="tablet">
+            <mapping key_id="@id/softkey_bottom_comma_chinese" view_id="@id/key_pos_bottom_symbol_1" />
+        </if>
+        <else>
+            <mapping key_id="@id/softkey_bottom_comma_chinese_zhuyin" view_id="@id/key_pos_bottom_symbol_1" />
+        </else>
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@id/softkey_bottom_period" view_id="@id/key_pos_bottom_symbol_1" />
+    </key_mapping>
+    <merge_key_mapping state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+        <merge key_id="@id/softkey_fragment_bottom_period_popup_dot_com" view_id="@id/key_pos_bottom_symbol_1" />
+    </merge_key_mapping>
+</framework>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <if japanese_use_tri_state_mode="true">
+            <if enable_emoji_icon_action_color="true">
+                <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/emoji_keyboard_key_content_desc" id="@id/softkey_switch_to_emoji" layout="@layout/softkey_ja_action_color_emoji_symbol_key_icon">
+                    <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="OPEN_EXTENSION" type="PRESS" />
+                    <icon location="@id/icon" value="@attr/IconSwitchToSmiley" />
+                </softkey>
+            </if>
+            <else>
+                <softkey alpha="@attr/IconAlphaOpaque" content_description="@string/emoji_keyboard_key_content_desc" id="@id/softkey_switch_to_emoji" layout="@layout/softkey_ja_emoji_symbol_key_icon">
+                    <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="OPEN_EXTENSION" type="PRESS" />
+                    <icon location="@id/icon" value="@attr/IconSwitchToSmiley" />
+                </softkey>
+            </else>
+            <softkey content_description="@string/emoji_keyboard_key_content_desc" id="@id/softkey_switch_to_emoji_disabled" layout="@layout/softkey_ja_emoji_symbol_key_icon_disabled">
+                <icon location="@id/icon" value="@attr/IconSwitchToSmiley" />
+            </softkey>
+        </if>
+    </softkeys>
+</framework>

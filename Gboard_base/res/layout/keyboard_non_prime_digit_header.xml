@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:paddingLeft="?KeyboardInnerPadding" android:paddingRight="?KeyboardInnerPadding" app:allowMockActionDown="false" style="@style/Header.NonPrime"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.CopyImageSourceView android:id="@id/copy_src" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.AccessPointsBar app:managed="true" style="@style/AccessPointsBar" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_header_voice" style="@style/SuggestionStripVoiceIcon" />
+        <FrameLayout android:id="@id/key_pos_header_action" android:visibility="invisible" android:layout_width="@dimen/suggestions_strip_voice_key_width" style="@style/SuggestionStripVoiceIcon">
+            <include layout="@layout/proactive_suggestions_pinned_action_holder_view" />
+        </FrameLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_header_access_points_menu" style="@style/SuggestionStripAccessPointsMenuIcon" />
+        <include layout="@layout/proactive_suggestions_header_inner" />
+    </com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

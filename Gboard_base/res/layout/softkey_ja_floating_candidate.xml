@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="@dimen/floating_candidate_candidate_vertical_padding" android:paddingBottom="@dimen/floating_candidate_candidate_vertical_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/floating_candidate_shortcut_text_size" android:typeface="sans" android:textColor="@color/floating_candidate_shortcut_text" android:id="@id/label_candidate_ordinal" android:paddingRight="@dimen/floating_candidate_shortcut_candidate_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    <TextView android:textSize="@dimen/floating_candidate_text_size" android:typeface="sans" android:textColor="@color/color_candidate_text_material_light_theme" android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    <TextView android:textSize="@dimen/floating_candidate_description_text_size" android:typeface="sans" android:textColor="@color/floating_candidate_description_text" android:id="@id/label_candidate_annotation" android:paddingLeft="@dimen/floating_candidate_candidate_description_minimum_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+</LinearLayout>

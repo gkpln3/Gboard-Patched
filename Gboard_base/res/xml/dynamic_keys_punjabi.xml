@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>ਅ</primary_input>
+        <action state="0">ਅ</action>
+    </key>
+    <key>
+        <primary_input>ਆ</primary_input>
+        <action state="0">ਆ</action>
+        <action state="0">ਾ</action>
+    </key>
+    <key>
+        <primary_input>ਇ</primary_input>
+        <action state="0">ਇ</action>
+        <action state="0">ਿ</action>
+    </key>
+    <key>
+        <primary_input>ਈ</primary_input>
+        <action state="0">ਈ</action>
+        <action state="0">ੀ</action>
+    </key>
+    <key>
+        <primary_input>ਉ</primary_input>
+        <action state="0">ਉ</action>
+        <action state="0">ੁ</action>
+    </key>
+    <key>
+        <primary_input>ਊ</primary_input>
+        <action state="0">ਊ</action>
+        <action state="0">ੂ</action>
+    </key>
+    <key>
+        <primary_input>ਏ</primary_input>
+        <action state="0">ਏ</action>
+        <action state="0">ੇ</action>
+    </key>
+    <key>
+        <primary_input>ਐ</primary_input>
+        <action state="0">ਐ</action>
+        <action state="0">ੈ</action>
+    </key>
+    <key>
+        <primary_input>ਓ</primary_input>
+        <action state="0">ਓ</action>
+        <action state="0">ੋ</action>
+    </key>
+    <key>
+        <primary_input>ਔ</primary_input>
+        <action state="0">ਔ</action>
+        <action state="0">ੌ</action>
+    </key>
+    <key>
+        <primary_input>ੰ</primary_input>
+        <action state="0">ੰ</action>
+    </key>
+    <key>
+        <primary_input>ਂ</primary_input>
+        <action state="0">ਂ</action>
+    </key>
+    <key>
+        <primary_input>ੱ</primary_input>
+        <action state="0">ੱ</action>
+    </key>
+    <key>
+        <primary_input>੍ਰ</primary_input>
+        <action state="0">੍ਰ</action>
+    </key>
+    <key>
+        <primary_input>੍ਹ</primary_input>
+        <action state="0">੍ਹ</action>
+    </key>
+    <key>
+        <primary_input>੍</primary_input>
+        <action state="0">੍</action>
+        <action state="0">ੑ</action>
+    </key>
+    <key>
+        <primary_input>਼</primary_input>
+        <action state="0">਼</action>
+    </key>
+</dynamic_keys>

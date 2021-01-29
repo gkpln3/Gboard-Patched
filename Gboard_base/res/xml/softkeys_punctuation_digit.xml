@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_symbol" layout="@layout/softkey_function_key_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$param_data$" keycode="$param_keycode$" type="PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_symbol">
+            <softkey id="@id/softkey_colon" param_data=":" param_keycode="PLAIN_TEXT" />
+            <softkey id="@id/softkey_slash" param_data="/" param_keycode="SLASH" />
+            <softkey desc="@string/plus_key_content_desc" id="@id/softkey_plus" param_data="+" param_keycode="PLUS" />
+            <softkey id="@id/softkey_comma" param_data="," param_keycode="COMMA" />
+            <softkey desc="@string/minus_key_content_desc" id="@id/softkey_minus" param_data="-" param_keycode="MINUS" />
+            <softkey id="@id/softkey_dollar" param_data="$" param_keycode="PLAIN_TEXT" />
+            <softkey id="@id/softkey_equal" param_data="=" param_keycode="PLAIN_TEXT" />
+            <softkey id="@id/softkey_percent" param_data="%" param_keycode="PLAIN_TEXT" />
+            <softkey id="@id/softkey_period" param_data="." param_keycode="PLAIN_TEXT" />
+        </softkey_list>
+        <softkey id="@id/softkey_star" layout="@layout/softkey_function_key_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="*" keycode="STAR" type="PRESS" />
+            <label location="@id/label" value="*" />
+        </softkey>
+        <softkey id="@id/softkey_pound" layout="@layout/softkey_function_key_label_medium" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="\#" keycode="POUND" type="PRESS" />
+            <label location="@id/label" value="\#" />
+        </softkey>
+    </softkeys>
+</framework>

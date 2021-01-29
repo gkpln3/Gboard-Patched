@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keymapping_function_latin" />
+    <include href="@xml/keymapping_symbols_common" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_symbols_flip" view_id="@id/key_pos_right_side_3rd_key" />
+        <mapping key_id="@id/softkey_reverse_solidus" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_percent_sign" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_asterisk" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_quot" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_apostrophe" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_colon" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_semicolon" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_exclamation_mark" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_question_mark" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/softkey_more_symbols_flip" view_id="@id/key_pos_right_side_3rd_key" />
+        <mapping key_id="@id/softkey_plus_minus" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_less_than_or_equal_to" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_more_than_or_equal_to" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_not_equal_to" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_copyright_sign" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_registered_sign" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_trade_mark_sign" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_left_square_bracket" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_right_square_bracket" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_check_mark" view_id="@id/key_pos_2_9" />
+    </key_mapping>
+</framework>

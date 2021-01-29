@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_meetei_mayek_letter_atiya" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_meetei_mayek_vowel_sign_anap" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_i" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_un" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_meetei_mayek_vowel_sign_cheinap" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_meetei_mayek_vowel_sign_sounap" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_meetei_mayek_vowel_sign_nung" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_kok" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_khou" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_gok" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_ghou" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_ngou" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_chil" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_jil" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_jham" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_til" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_thou" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_dil" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_dhou" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_na" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_pa" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_pham" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_ba" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_bham" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_mit" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_yang" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_rai" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_lai" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_wai" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_ssa" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_sam" view_id="@id/key_pos_3_0" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_huk" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_kok_lonsum" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_til_lonsum" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_na_lonsum" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_pa_lonsum" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_mit_lonsum" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_lai_lonsum" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_meetei_mayek_letter_ngou_lonsum" view_id="@id/key_pos_3_8" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout style="@style/InlineSuggestionTooltipV2ChipView"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/inline_suggestion_chip_background" />
+    <ImageView android:id="@id/inline_suggestion_tooltip_v2_chip_icon" android:importantForAccessibility="no" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/inline_suggestion_tooltip_v2_chip_text" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/InlineSuggestionTooltipV2ChipIcon" />
+    <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:id="@id/inline_suggestion_tooltip_v2_chip_text" android:tag=".inline-suggestion-tooltip-chip-text" android:text="@string/inline_suggestion_tooltip_chip_text" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/inline_suggestion_tooltip_v2_chip_icon" app:layout_constraintTop_toTopOf="parent" style="@style/InlineSuggestionTooltipV2ChipText" />
+</androidx.constraintlayout.widget.ConstraintLayout>

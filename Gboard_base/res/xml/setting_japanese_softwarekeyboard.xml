@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_japanese_softwarekeyboard">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_japanese_tri_state_mode_title" android:key="@string/pref_key_japanese_use_tri_state_mode" android:summary="@string/setting_japanese_tri_state_mode_desc" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_japanese_12keys_flick_only_title" android:key="@string/pref_key_japanese_12keys_flick_only" android:summary="@string/setting_japanese_12keys_flick_only_desc" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

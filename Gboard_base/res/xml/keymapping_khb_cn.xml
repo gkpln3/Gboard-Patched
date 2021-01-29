@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_qa" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_new_tai_lue_tone_mark_1" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_e" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_tha" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_ta" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_ya" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_u" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_ii" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_o" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_pa" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_vowel_shortener" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_sa" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_da" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_fa" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_nga" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_ha" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_pha" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_ka" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_la" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_new_tai_lue_sign_lae" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_xa" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_tsa" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_va" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_ba" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_na" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_high_ma" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_qa" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_new_tai_lue_tone_mark_2" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_ae" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_tha" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_ta" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_ya" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_uu" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_iy" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_oa" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_pa" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_new_tai_lue_vowel_sign_aa" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_sa" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_da" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_fa" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_nga" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_ha" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_pha" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_ka" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_la" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_new_tai_lue_sign_laev" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_xa" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_tsa" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_va" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_ba" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_na" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_new_tai_lue_letter_low_ma" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+</framework>

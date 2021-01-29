@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if language="ff-Adlm">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_adlam" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_adlam" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="ar-AE|ar-BH|ar-DZ|ar-IQ|ar-LY|ar-MA|ar-MR|ar-SD|ar-TD|ar-TN                 |bal-PK                 |bcc-PK                 |bft-PK                 |bgn-PK                 |bgp-Arab                 |bgq-PK                 |brh-Arab                 |cld-IQ                 |dcc-IN                 |dv-MV                 |gdq-YE                 |gjk-PK                 |gju-PK                 |gwc-PK                 |hnd-PK                 |hno-PK                 |khw                 |kvx-PK                 |mde-TD                 |mki-PK                 |mve-PK                 |mvy-PK                 |phr-PK                 |plk-PK                 |scl-PK                 |skr-x-urdu                 |trw                 |ug">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="khw" variant="qwerty">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="ur-PK" variant="urdu_pakistan|handwriting">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ascii_numerals_arabic_question_mark" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="aii                 |ar-EG|ar-OM|ar-SA|ar-YE|ar-x-levant                 |mfa-TH                 |ms-Arab-BN|ms-Arab-MY                 |su-Arab                 |syc-IQ">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_arabic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_arabic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="as-IN                 |bn-BD|bn-IN                 |bpy-IN                 |brx-Beng                 |ctg-BD                 |grt-Beng                 |mni-Beng                 |rkt-Beng                 |sat-Beng                 |syl-Beng|syl-Sylo                 |trp-IN                 |unr-Beng">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_bengali" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_bengali" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="ccp-BD">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_chakma" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_chakma" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="cja-KH">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_cham" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_cham" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="cjm-VN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_cham" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_cham" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="am                 |bcq-Ethi                 |gez                 |hdy-ET                 |ktb-Ethi                 |sgw-ET                 |stv-ET                 |ti">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ethiopic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ethiopic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="bhb-Gujr                 |gu-IN                 |kfr-IN                 |vas-Gujr">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_gujarati" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_gujarati" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="pa-Guru">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_gurmukhi" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_gurmukhi" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="ahr-IN                 |anp-IN                 |bfz-IN                 |bhb-Deva                 |bjj-IN                 |brx-Deva                 |dhd-IN                 |doi-Deva                 |dty-NP                 |gdx-IN                 |gju-Deva                 |gno-IN                 |gvr-NP                 |hi-IN                 |hlb-IN                 |hoj-IN                 |kfq-IN                 |kfy-IN                 |knn-IN                 |kok-Deva                 |kru-IN                 |ks-Deva                 |lif-Deva                 |lmn-Deva                 |mag-IN|mag-NP                 |mai-IN                 |mjl-IN                 |mr-IN                 |mtr-IN                 |mup-IN                 |ne-IN|ne-NP                 |new-NP                 |noe-IN                 |rkt-IN                 |rwr-IN                 |sa-IN                 |sck-IN                 |sd-Deva                 |sgj-IN                 |sjp-IN                 |swv-IN                 |taj-NP                 |vah                 |vas-IN                 |wbr-IN                 |wry-IN                 |xnr-IN                 |xsr-NP">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="awa-IN" variant="awadhi_dynamic">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="ban-Bali                 |sas-Bali">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_balinese" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_balinese" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="bax-CM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_bamum" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_bamum" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="bfy-IN" variant="bagheli">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="bgq-IN" variant="bagri">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="bho-IN" variant="bhojpuri">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="bns-IN" variant="bundeli_dynamic">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="gbm-IN" variant="garhwali">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="hne-IN" variant="chhattisgarhi_dynamic">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="sat-Deva" variant="santali_devanagari">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_indic" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="mul-x-ipa">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ipa" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ipa" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="jv-Java">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_javanese" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_javanese" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="kn-IN                 |kok-Knda                 |lmn-Knda                 |tcy-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_kannada" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_kannada" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="kyu-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_kayah_li" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_kayah_li" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="lep-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_lepcha" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_lepcha" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="lif-Limb">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_limbu" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_limbu" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="blk-MM                 |kjp-MM                 |ksw-MM                 |mnw-MM                 |my                 |rki-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_myanmar" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_myanmar" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="shn-MM">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_myanmar_shan" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_myanmar_shan" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="khb-CN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_new_tai_lue" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_new_tai_lue" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="bm-Nkoo                 |dyu-Nkoo">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_nko" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_nko" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="hlb-Orya                 |kxu-IN                 |or-IN                 |unr-Orya">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_odia" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_odia" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="sat-Olck">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ol_chiki" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_ol_chiki" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="az-IR                 |bqi-IR                 |doi-Arab                 |fa                 |fay-IR                 |glk-IR                 |hac-IR                 |kmz-Arab                 |ks-Arab                 |ku-IQ|ku-IR                 |lki-IR                 |lrc-IR                 |lrl-IR                 |luz-IR                 |mzn-IR                 |pa-PK                 |prs-AF                 |ps                 |qxq-IR                 |sd-Arab                 |sdh-IR                 |tks-IR                 |tly-IR                 |ur-IN                 |wne-PK">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_persian" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_persian" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="ur-PK" variant="qwerty">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_persian" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_persian" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="saz-IN">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_saurashtra" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_saurashtra" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="su-Sund">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_sundanese" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_sundanese" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+    <if language="adx-CN                 |bo-CN                 |dz                 |khg-CN                 |lep-Tibt">
+        <key_mapping>
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_tibetan" view_id="@id/key_pos_non_prime_category_1" />
+            <mapping key_id="@id/softkey_non_prime_main_category_symbol_tibetan" view_id="@id/key_pos_non_prime_category_2" />
+        </key_mapping>
+    </if>
+</framework>

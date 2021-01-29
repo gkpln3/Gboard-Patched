@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_enter" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_SHORT_MESSAGE,INPUT_TYPE_SHORT_MESSAGE+MULTI_LINE+MANUAL_SHIFT">
+        <mapping key_id="@id/softkey_enter_plain_text" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@id/softkey_enter" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_GO">
+        <mapping key_id="@id/softkey_action_go" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_SEARCH">
+        <mapping key_id="@id/softkey_action_search" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_SEND">
+        <mapping key_id="@id/softkey_action_send" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_NEXT">
+        <mapping key_id="@id/softkey_action_next" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_PREVIOUS">
+        <mapping key_id="@id/softkey_action_previous" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_DONE">
+        <mapping key_id="@id/softkey_action_done" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <include href="@xml/keymapping_function_ime_action_popup_navigation" />
+    <include href="@xml/keymapping_function_ime_action_popup_right_handed_mode" />
+</framework>

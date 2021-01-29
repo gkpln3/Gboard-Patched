@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latinguyk5.LatinIme" display_app_completions="true" language="sd-XC" string_id="ime_sindhi_arabic">
+        <keyboard_group layout_theme="@style/KeyboardLayoutTheme.4LetterRows" variant="sindhi_arabic" variant_label="@string/variant_sindhi">
+            <keyboard def="@xml/keyboard_sd_xc" type="prime" />
+            <include href="@xml/keyboards_non_prime_latin" />
+        </keyboard_group>
+    </ime>
+</framework>

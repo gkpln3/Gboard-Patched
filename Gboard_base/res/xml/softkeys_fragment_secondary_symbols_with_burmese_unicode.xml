@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_merge_header_with_burmese_unicode" layout="@layout/softkey_qwerty_label_character_label_header_with_burmese_unicode" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+            <action data="$long_press_data$" intention="$long_press_intention=COMMIT$" keycode="PLAIN_TEXT" popup_label="$long_press_label$" popup_layout="@layout/popup_bubble_rectangular_material_with_burmese_unicode" type="LONG_PRESS" />
+            <label location="@id/label_header" value="$hint_label$" />
+        </softkey_template>
+        <softkey_template content_description="$desc$" id="@id/softkey_template_merge_header_simple_with_burmese_unicode" layout="@layout/softkey_qwerty_label_character_label_header_with_burmese_unicode" multi_touch="false" popup_timing="@string/qwerty_popup_timing" slide_sensitivity="NORMAL">
+            <action data="$long_press_data$" intention="$long_press_intention=COMMIT$" keycode="PLAIN_TEXT" popup_label="$long_press_data$" popup_layout="@layout/popup_bubble_rectangular_material_with_burmese_unicode" type="LONG_PRESS" />
+            <label location="@id/label_header" value="$long_press_data$" />
+        </softkey_template>
+        <softkey_list splitter="," template_id="@id/softkey_template_merge_header_simple_with_burmese_unicode">
+            <softkey id="@id/softkey_fragment_superscript_amp" long_press_data="&amp;" />
+            <softkey id="@id/softkey_fragment_superscript_apostrophe" long_press_data="'" />
+            <softkey id="@id/softkey_fragment_superscript_arabic_decimal_separator" long_press_data="٫" />
+            <softkey id="@id/softkey_fragment_superscript_arabic_percent_sign" long_press_data="٪" />
+            <softkey id="@id/softkey_fragment_superscript_arabic_question_mark" long_press_data="؟" />
+            <softkey id="@id/softkey_fragment_superscript_arabic_semicolon" long_press_data="؛" />
+            <softkey id="@id/softkey_fragment_superscript_asterisk" long_press_data="*" />
+            <softkey id="@id/softkey_fragment_superscript_circumflex_accent" long_press_data="^" />
+            <softkey id="@id/softkey_fragment_superscript_colon" long_press_data=":" />
+            <softkey id="@id/softkey_fragment_superscript_commercial_at" long_press_data="\@" />
+            <softkey id="@id/softkey_fragment_superscript_degree_sign" long_press_data="°" />
+            <softkey id="@id/softkey_fragment_superscript_dollar_sign" long_press_data="$" />
+            <softkey id="@id/softkey_fragment_superscript_equals_sign" long_press_data="=" />
+            <softkey id="@id/softkey_fragment_superscript_exclamation_mark" long_press_data="!" />
+            <softkey id="@id/softkey_fragment_superscript_full_stop" long_press_data="." />
+            <softkey id="@id/softkey_fragment_superscript_fullwidth_colon" long_press_data="：" />
+            <softkey id="@id/softkey_fragment_superscript_fullwidth_exclamation_mark" long_press_data="！" />
+            <softkey id="@id/softkey_fragment_superscript_fullwidth_left_parenthesis" long_press_data="（" />
+            <softkey id="@id/softkey_fragment_superscript_fullwidth_question_mark" long_press_data="？" />
+            <softkey id="@id/softkey_fragment_superscript_fullwidth_quot" long_press_data="&quot;" long_press_intention="DECODE" />
+            <softkey id="@id/softkey_fragment_superscript_fullwidth_right_parenthesis" long_press_data="）" />
+            <softkey id="@id/softkey_fragment_superscript_fullwidth_semicolon" long_press_data="；" />
+            <softkey id="@id/softkey_fragment_superscript_grave_accent" long_press_data="`" />
+            <softkey id="@id/softkey_fragment_superscript_hyphen_minus" long_press_data="-" />
+            <softkey id="@id/softkey_fragment_superscript_ideographic_comma" long_press_data="、" />
+            <softkey id="@id/softkey_fragment_superscript_left_curly_bracket" long_press_data="{" />
+            <softkey id="@id/softkey_fragment_superscript_left_double_quotation_mask" long_press_data="“" />
+            <softkey id="@id/softkey_fragment_superscript_left_parenthesis" long_press_data="(" />
+            <softkey id="@id/softkey_fragment_superscript_left_square_bracket" long_press_data="[" />
+            <softkey id="@id/softkey_fragment_superscript_less_than" long_press_data="&lt;" />
+            <softkey id="@id/softkey_fragment_superscript_low_line" long_press_data="_" />
+            <softkey id="@id/softkey_fragment_superscript_more_than" long_press_data=">" />
+            <softkey id="@id/softkey_fragment_superscript_number_sign" long_press_data="\#" />
+            <softkey id="@id/softkey_fragment_superscript_percent_sign" long_press_data="%" />
+            <softkey id="@id/softkey_fragment_superscript_plus_sign" long_press_data="+" />
+            <softkey id="@id/softkey_fragment_superscript_question_mark" long_press_data="\?" />
+            <softkey id="@id/softkey_fragment_superscript_quot" long_press_data="&quot;" />
+            <softkey id="@id/softkey_fragment_superscript_reverse_solidus" long_press_data="\\" />
+            <softkey id="@id/softkey_fragment_superscript_reversed_semicolon" long_press_data="⁏" />
+            <softkey id="@id/softkey_fragment_superscript_right_curly_bracket" long_press_data="}" />
+            <softkey id="@id/softkey_fragment_superscript_right_double_quotation_mask" long_press_data="”" />
+            <softkey id="@id/softkey_fragment_superscript_right_parenthesis" long_press_data=")" />
+            <softkey id="@id/softkey_fragment_superscript_right_square_bracket" long_press_data="]" />
+            <softkey id="@id/softkey_fragment_superscript_semicolon" long_press_data=";" />
+            <softkey id="@id/softkey_fragment_superscript_slash" long_press_data="/" />
+            <softkey id="@id/softkey_fragment_superscript_tilde" long_press_data="~" />
+            <softkey id="@id/softkey_fragment_superscript_vertical_line" long_press_data="|" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_merge_header_simple_with_burmese_unicode">
+            <softkey id="@id/softkey_fragment_superscript_afghani_sign" long_press_data="؋" />
+            <softkey id="@id/softkey_fragment_superscript_armenian_dram" long_press_data="֏" />
+            <softkey id="@id/softkey_fragment_superscript_baht" long_press_data="฿" />
+            <softkey id="@id/softkey_fragment_superscript_bengali_rupee" long_press_data="৳" />
+            <softkey id="@id/softkey_fragment_superscript_cedi_sign" long_press_data="₵" />
+            <softkey id="@id/softkey_fragment_superscript_currency_pound" long_press_data="£" />
+            <softkey id="@id/softkey_fragment_superscript_dong" long_press_data="₫" />
+            <softkey id="@id/softkey_fragment_superscript_euro" long_press_data="€" />
+            <softkey id="@id/softkey_fragment_superscript_guarani_sign" long_press_data="₲" />
+            <softkey id="@id/softkey_fragment_superscript_hryvnia" long_press_data="₴" />
+            <softkey id="@id/softkey_fragment_superscript_indian_rupee" long_press_data="₹" />
+            <softkey id="@id/softkey_fragment_superscript_khmer_currency_symbol_riel" long_press_data="៛" />
+            <softkey id="@id/softkey_fragment_superscript_kip" long_press_data="₭" />
+            <softkey id="@id/softkey_fragment_superscript_lira_sign" long_press_data="₤" />
+            <softkey id="@id/softkey_fragment_superscript_manat_sign" long_press_data="₼" />
+            <softkey id="@id/softkey_fragment_superscript_naira" long_press_data="₦" />
+            <softkey id="@id/softkey_fragment_superscript_nepalese_rupee" long_press_data="रु." />
+            <softkey id="@id/softkey_fragment_superscript_new_sheqel" long_press_data="₪" />
+            <softkey id="@id/softkey_fragment_superscript_peso_sign" long_press_data="₱" />
+            <softkey id="@id/softkey_fragment_superscript_rial" long_press_data="﷼" />
+            <softkey id="@id/softkey_fragment_superscript_russian_ruble_sign" long_press_data="₽" />
+            <softkey id="@id/softkey_fragment_superscript_sri_lankan_rupee" long_press_data="රු" />
+            <softkey id="@id/softkey_fragment_superscript_tenge_sign" long_press_data="₸" />
+            <softkey id="@id/softkey_fragment_superscript_tugrik" long_press_data="₮" />
+            <softkey id="@id/softkey_fragment_superscript_turkish_lira" long_press_data="₺" />
+            <softkey id="@id/softkey_fragment_superscript_yen_sign" long_press_data="¥" />
+            <softkey id="@id/softkey_fragment_superscript_won_sign" long_press_data="₩" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/softkey_template_merge_header_with_burmese_unicode">
+            <softkey hint_label="{" id="@id/softkey_fragment_superscript_arabic_left_curly_bracket" long_press_data="}" long_press_label="{" />
+            <softkey hint_label="(" id="@id/softkey_fragment_superscript_arabic_left_parenthesis" long_press_data=")" long_press_label="(" />
+            <softkey hint_label="«" id="@id/softkey_fragment_superscript_arabic_left_pointing_double_angle_bracket" long_press_data="»" long_press_label="«" />
+            <softkey hint_label="[" id="@id/softkey_fragment_superscript_arabic_left_square_bracket" long_press_data="]" long_press_label="[" />
+            <softkey hint_label="}" id="@id/softkey_fragment_superscript_arabic_right_curly_bracket" long_press_data="{" long_press_label="}" />
+            <softkey hint_label=")" id="@id/softkey_fragment_superscript_arabic_right_parenthesis" long_press_data="(" long_press_label=")" />
+            <softkey hint_label="»" id="@id/softkey_fragment_superscript_arabic_right_pointing_double_angle_bracket" long_press_data="«" long_press_label="»" />
+            <softkey hint_label="]" id="@id/softkey_fragment_superscript_arabic_right_square_bracket" long_press_data="[" long_press_label="]" />
+            <softkey hint_label="&quot;" id="@id/softkey_fragment_superscript_quot_with_double_angle_bracket" long_press_data="&quot;,»,«" long_press_label="&quot;,»,«" />
+        </softkey_list>
+    </softkeys>
+</framework>

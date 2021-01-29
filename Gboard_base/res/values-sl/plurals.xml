@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Dodeljenih je %d tipk</item>
+        <item quantity="one">Dodeljena je %d tipka</item>
+        <item quantity="two">Dodeljeni sta %d tipki</item>
+        <item quantity="few">Dodeljene so %d tipke</item>
+    </plurals>
+</resources>

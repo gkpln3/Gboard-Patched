@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView style="@style/Body.NonPrime"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/ExpressionInnerBody">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="?KeyboardInputAreaWeight">
+            <include layout="@layout/emoticon_recycler_view" />
+            <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/search_result_error_card_container" />
+        </FrameLayout>
+        <include layout="@layout/keyboard_expression_navigation_row" />
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView>

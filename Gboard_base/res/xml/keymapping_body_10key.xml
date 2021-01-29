@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_hangul_letter_i" view_id="@id/key_pos_10key_1" />
+        <mapping key_id="@id/softkey_hangul_letter_araea" view_id="@id/key_pos_10key_2" />
+        <mapping key_id="@id/softkey_hangul_letter_eu" view_id="@id/key_pos_10key_3" />
+        <mapping key_id="@id/softkey_hangul_letter_kiyeok" view_id="@id/key_pos_10key_4" />
+        <mapping key_id="@id/softkey_hangul_letter_nieun" view_id="@id/key_pos_10key_5" />
+        <mapping key_id="@id/softkey_hangul_letter_tikeut" view_id="@id/key_pos_10key_6" />
+        <mapping key_id="@id/softkey_hangul_letter_pieup" view_id="@id/key_pos_10key_7" />
+        <mapping key_id="@id/softkey_hangul_letter_sios" view_id="@id/key_pos_10key_8" />
+        <mapping key_id="@id/softkey_hangul_letter_cieuc" view_id="@id/key_pos_10key_9" />
+        <mapping key_id="@id/softkey_hangul_letter_ieung" view_id="@id/key_pos_10key_0" />
+        <mapping key_id="@id/softkey_space_key" view_id="@id/key_pos_space" />
+    </key_mapping>
+    <keygroup_mapping group_view_id="@id/softkey_holder_10key_left_panel">
+        <key key_id="@id/softkey_exclamation" />
+        <key key_id="@id/softkey_question" />
+        <key key_id="@id/softkey_sentence" />
+    </keygroup_mapping>
+</framework>

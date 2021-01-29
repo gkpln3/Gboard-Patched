@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keygroup_mapping group_view_id="@id/softkey_holder_9key_left_panel">
+        <key key_id="@id/softkey_plus" />
+        <key key_id="@id/softkey_minus" />
+        <key key_id="@id/softkey_star" />
+        <key key_id="@id/softkey_slash" />
+        <key key_id="@id/softkey_left_parenthesis" />
+        <key key_id="@id/softkey_right_parenthesis" />
+    </keygroup_mapping>
+</framework>

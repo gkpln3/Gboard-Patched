@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.japanese.keyboard.vectorgraphics.MozcImageView android:layout_gravity="center" android:id="@id/icon" android:tag=".icon" android:layout_width="@dimen/more_candidates_button_size" android:layout_height="@dimen/more_candidates_button_size"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

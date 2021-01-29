@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_myanmar_letter_jha" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_myanmar_letter_wa" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_myanmar_sign_rumai_palaung_tone_5" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_u_myanmar_sign_anusvara" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_e_myanmar_vowel_sign_aa" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_myanmar_letter_o" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_myanmar_letter_ra" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_myanmar_letter_ga" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_myanmar_letter_ha" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_myanmar_sign_pao_karen_tone" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_myanmar_letter_cha" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_myanmar_letter_ta" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_myanmar_letter_na" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_myanmar_letter_ma" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_myanmar_letter_a" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_myanmar_letter_pa" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_myanmar_letter_ka" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_myanmar_letter_nga" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_myanmar_letter_sa" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_myanmar_letter_ca" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_e" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_myanmar_consonant_sign_medial_ya" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_i" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_myanmar_sign_asat" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_tall_aa" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_myanmar_sign_dot_below" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_myanmar_consonant_sign_medial_ra" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_u" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_uu" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_myanmar_sign_visarga" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_myanmar_letter_pha" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_myanmar_letter_tha" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_myanmar_letter_kha" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_myanmar_letter_la" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_myanmar_letter_bha" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_myanmar_letter_nya" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_aa" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_myanmar_letter_ya" view_id="@id/key_pos_3_8" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_myanmar_digit_one" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_myanmar_digit_two" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_myanmar_digit_three" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_myanmar_digit_four" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_myanmar_digit_five" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_myanmar_digit_six" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_myanmar_digit_seven" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_myanmar_digit_eight" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_myanmar_digit_nine" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_myanmar_digit_zero" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_myanmar_letter_dda" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_myanmar_letter_tta" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_myanmar_letter_i" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_myanmar_symbol_aforementioned_myanmar_letter_nga_myanmar_sign_asat_myanmar_sign_visarga" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_myanmar_letter_ii" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_myanmar_symbol_locative" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_myanmar_letter_u" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_myanmar_symbol_completed" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_myanmar_letter_great_sa" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_myanmar_letter_nna" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_myanmar_letter_ba" view_id="@id/key_pos_2_0" />
+        <mapping key_id="@id/softkey_myanmar_consonant_sign_medial_ha" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_ii" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_myanmar_sign_virama" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_myanmar_consonant_sign_medial_wa" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_myanmar_sign_anusvara" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_myanmar_vowel_sign_ai" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_myanmar_letter_da" view_id="@id/key_pos_2_7" />
+        <mapping key_id="@id/softkey_myanmar_letter_dha" view_id="@id/key_pos_2_8" />
+        <mapping key_id="@id/softkey_myanmar_letter_nna_myanmar_sign_virama_myanmar_letter_ttha" view_id="@id/key_pos_2_9" />
+        <mapping key_id="@id/softkey_myanmar_letter_ja" view_id="@id/key_pos_3_1" />
+        <mapping key_id="@id/softkey_myanmar_letter_ttha" view_id="@id/key_pos_3_2" />
+        <mapping key_id="@id/softkey_myanmar_letter_gha" view_id="@id/key_pos_3_3" />
+        <mapping key_id="@id/softkey_myanmar_letter_lla" view_id="@id/key_pos_3_4" />
+        <mapping key_id="@id/softkey_myanmar_letter_ddha" view_id="@id/key_pos_3_5" />
+        <mapping key_id="@id/softkey_myanmar_letter_nnya" view_id="@id/key_pos_3_6" />
+        <mapping key_id="@id/softkey_myanmar_letter_uu" view_id="@id/key_pos_3_7" />
+        <mapping key_id="@id/softkey_myanmar_letter_e" view_id="@id/key_pos_3_8" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bg_ja_key_slide_up_material_dark_theme" android:minLevel="@integer/level_action_slide_up" android:maxLevel="@integer/level_action_slide_up" />
+    <item android:drawable="@drawable/bg_ja_key_slide_down_material_dark_theme" android:minLevel="@integer/level_action_slide_down" android:maxLevel="@integer/level_action_slide_down" />
+    <item android:drawable="@drawable/bg_ja_key_slide_left_material_dark_theme" android:minLevel="@integer/level_action_slide_left" android:maxLevel="@integer/level_action_slide_left" />
+    <item android:drawable="@drawable/bg_ja_key_slide_right_material_dark_theme" android:minLevel="@integer/level_action_slide_right" android:maxLevel="@integer/level_action_slide_right" />
+</level-list>

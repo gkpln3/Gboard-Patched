@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latinguyk.keyboard.LatinPasswordKeyboard" id="@id/keyboard_password" popup="@attr/PopupBubbleLayout">
+        <view always_show="false" direction="locale" layout="@layout/keyboard_proactive_suggestions_header" scalable="false" type="header" />
+    </keyboard>
+</framework>

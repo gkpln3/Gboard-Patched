@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Призначено %d ключа</item>
+        <item quantity="one">Призначено %d ключ</item>
+        <item quantity="few">Призначено %d ключі</item>
+        <item quantity="many">Призначено %d ключів</item>
+    </plurals>
+</resources>

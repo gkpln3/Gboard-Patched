@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping exclude_state="INPUT_TYPE_SHORT_MESSAGE+IME_ACTION_NONE,INPUT_TYPE_EMAIL_ADDRESS,SHOW_EMOJI_SWITCH_KEY" state="EMOJI_AVAILABLE">
+        <merge key_id="@id/softkey_fragment_bottom_popup_switch_to_emoji" view_id="@id/key_pos_ime_action" />
+    </merge_key_mapping>
+    <merge_key_mapping exclude_state="INPUT_TYPE_SHORT_MESSAGE+IME_ACTION_NONE,INPUT_TYPE_EMAIL_ADDRESS,EMOJI_AVAILABLE" state="EMOTICON_AVAILABLE">
+        <merge key_id="@id/softkey_fragment_bottom_popup_switch_to_emoticon" view_id="@id/key_pos_ime_action" />
+    </merge_key_mapping>
+    <merge_key_mapping exclude_state="INPUT_TYPE_EMAIL_ADDRESS,SHOW_EMOJI_SWITCH_KEY" state="EMOJI_AVAILABLE+INPUT_TYPE_SHORT_MESSAGE+MULTI_LINE+IME_ACTION_NONE">
+        <merge key_id="@id/softkey_fragment_bottom_popup_switch_to_emoji" view_id="@id/key_pos_ime_action" />
+    </merge_key_mapping>
+    <merge_key_mapping exclude_state="INPUT_TYPE_EMAIL_ADDRESS,EMOJI_AVAILABLE" state="EMOTICON_AVAILABLE+INPUT_TYPE_SHORT_MESSAGE+MULTI_LINE+IME_ACTION_NONE">
+        <merge key_id="@id/softkey_fragment_bottom_popup_switch_to_emoticon" view_id="@id/key_pos_ime_action" />
+    </merge_key_mapping>
+</framework>

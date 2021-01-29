@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <merge_key_mapping state="SHOW_ONE_HANDED_MODE_SWITCH">
+        <merge key_id="@id/softkey_fragment_popup_switch_to_left_handed_mode_with_symbols" view_id="@id/key_pos_bottom_symbol_1" />
+    </merge_key_mapping>
+</framework>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="body">
+            <include href="@xml/keymapping_fragment_function_latin_ja_godan" />
+            <include href="@xml/keymapping_body_ja_godan_override" />
+        </view>
+    </keyboard>
+</framework>

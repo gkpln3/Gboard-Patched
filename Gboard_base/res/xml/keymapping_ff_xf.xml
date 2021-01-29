@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_adlam_small_letter_nya" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_adlam_small_letter_waw" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_adlam_small_letter_e" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_adlam_small_letter_ra" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_adlam_small_letter_tu" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_adlam_small_letter_ya" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_adlam_small_letter_u" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_adlam_small_letter_i" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_adlam_small_letter_o" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_adlam_small_letter_pe" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_adlam_small_letter_nha" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_adlam_small_letter_alif" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_adlam_small_letter_sinnyiiyhe" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_adlam_small_letter_daali" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_adlam_small_letter_fa" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_adlam_small_letter_ga" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_adlam_small_letter_ha" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_adlam_small_letter_jiim" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_adlam_small_letter_kaf" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_adlam_small_letter_laam" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_adlam_small_letter_qaaf" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_acute_accent" view_id="@id/key_pos_1_10" />
+        <mapping key_id="@id/softkey_adlam_small_letter_dha" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_adlam_small_letter_yhe" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_adlam_small_letter_chi" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_adlam_small_letter_bhe" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_adlam_small_letter_ba" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_adlam_small_letter_nun" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_adlam_small_letter_miim" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/softkey_adlam_capital_letter_nya" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_waw" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_e" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_ra" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_tu" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_ya" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_u" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_i" view_id="@id/key_pos_0_7" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_o" view_id="@id/key_pos_0_8" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_pe" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_nha" view_id="@id/key_pos_0_10" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_alif" view_id="@id/key_pos_1_0" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_sinnyiiyhe" view_id="@id/key_pos_1_1" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_daali" view_id="@id/key_pos_1_2" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_fa" view_id="@id/key_pos_1_3" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_ga" view_id="@id/key_pos_1_4" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_ha" view_id="@id/key_pos_1_5" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_jiim" view_id="@id/key_pos_1_6" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_kaf" view_id="@id/key_pos_1_7" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_laam" view_id="@id/key_pos_1_8" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_qaaf" view_id="@id/key_pos_1_9" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_dha" view_id="@id/key_pos_2_1" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_yhe" view_id="@id/key_pos_2_2" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_chi" view_id="@id/key_pos_2_3" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_bhe" view_id="@id/key_pos_2_4" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_ba" view_id="@id/key_pos_2_5" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_nun" view_id="@id/key_pos_2_6" />
+        <mapping key_id="@id/softkey_adlam_capital_letter_miim" view_id="@id/key_pos_2_7" />
+    </key_mapping>
+</framework>

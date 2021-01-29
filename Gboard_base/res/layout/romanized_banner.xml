@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="#ff3c4043" android:layout_gravity="center_vertical" android:id="@id/voice_romanized_text" android:paddingTop="@dimen/voiceime_banner_padding" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="8.0" android:fontFamily="@font/google_sans_medium" android:paddingStart="@dimen/voiceime_banner_padding_start" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/voice_romanized_gif" android:paddingTop="@dimen/voiceime_banner_padding" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="7.0" android:contentDescription="@string/romanized_indic_voice_banner_description" android:paddingEnd="@dimen/voiceime_banner_padding" />
+    <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/voiceime_banner_button_padding_top" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:paddingEnd="@dimen/voiceime_banner_padding_end">
+        <ImageButton android:layout_gravity="center_horizontal" android:id="@id/voice_banner_dismiss_button" android:layout_width="@dimen/voiceime_banner_close_btn_size" android:layout_height="@dimen/voiceime_banner_close_btn_size" android:src="@drawable/quantum_ic_close_grey600_24" android:contentDescription="@string/voice_banner_dismiss_promo_btn_content_desc" style="?android:borderlessButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@id/softkey_template_digit_right_panel" layout="@layout/softkey_9key_side_panel_label" popup_timing="ON_TOUCH">
+            <action data="$param_data$" intention="COMMIT" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/label" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/softkey_template_digit_right_panel">
+            <softkey id="@id/softkey_percent" param_data="%" />
+        </softkey_list>
+    </softkeys>
+</framework>

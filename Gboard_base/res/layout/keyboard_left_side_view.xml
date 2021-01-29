@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.core.KeyboardSideFrame android:layout_gravity="bottom|center|left" android:id="@id/keyboard_left_frame" maxHeight="@dimen/keyboard_side_frame_height" style="@style/KeyboardSideFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/expand_keyboard" android:src="?IconExpandKeyboard" android:contentDescription="@string/expand_keyboard_content_desc" style="@style/KeyboardSideButton.ExpandKeyboard" />
+    <ImageView android:id="@id/switch_one_hand" android:src="?IconSwitchToLeftHandedArrow" android:contentDescription="@string/left_handed_content_desc" style="@style/KeyboardSideButton.SwitchOneHand" />
+    <ImageView android:id="@id/edit_keyboard" android:src="?IconStartEditingKeyboard" android:contentDescription="@string/edit_keyboard_desc" style="@style/KeyboardSideButton.EditKeyboard" />
+</com.google.android.apps.inputmethod.libs.framework.core.KeyboardSideFrame>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys href="@xml/softkeys_latin_symbols" />
+    <key_mapping>
+        <mapping key_id="@id/softkey_arabic_question_mark" view_id="@id/key_pos_input_symbol_2" />
+    </key_mapping>
+</framework>

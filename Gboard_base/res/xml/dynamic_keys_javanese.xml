@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <primary_input>ꦄ</primary_input>
+        <action state="0">ꦄ</action>
+    </key>
+    <key>
+        <primary_input>ꦄꦴ</primary_input>
+        <action state="0">ꦄꦴ</action>
+        <action state="0">ꦴ</action>
+    </key>
+    <key>
+        <primary_input>ꦄꦼ</primary_input>
+        <action state="0">ꦄꦼ</action>
+        <action state="0">ꦼ</action>
+    </key>
+    <key>
+        <primary_input>ꦄꦼꦴ</primary_input>
+        <action state="0">ꦄꦼꦴ</action>
+        <action state="0">ꦼꦴ</action>
+    </key>
+    <key>
+        <primary_input>ꦄꦼꦵ</primary_input>
+        <action state="0">ꦄꦼꦵ</action>
+        <action state="0">ꦼꦵ</action>
+    </key>
+    <key>
+        <primary_input>ꦅ</primary_input>
+        <action state="0">ꦅ</action>
+    </key>
+    <key>
+        <primary_input>ꦆ</primary_input>
+        <action state="0">ꦆ</action>
+        <action state="0">ꦶ</action>
+    </key>
+    <key>
+        <primary_input>ꦇ</primary_input>
+        <action state="0">ꦇ</action>
+        <action state="0">ꦷ</action>
+    </key>
+    <key>
+        <primary_input>ꦈ</primary_input>
+        <action state="0">ꦈ</action>
+        <action state="0">ꦸ</action>
+    </key>
+    <key>
+        <primary_input>ꦈꦴ</primary_input>
+        <action state="0">ꦈꦴ</action>
+        <action state="0">ꦹ</action>
+    </key>
+    <key>
+        <primary_input>ꦉ</primary_input>
+        <action state="0">ꦉ</action>
+        <action state="0">ꦽ</action>
+    </key>
+    <key>
+        <primary_input>ꦉꦴ</primary_input>
+        <action state="0">ꦉꦴ</action>
+        <action state="0">ꦽꦴ</action>
+    </key>
+    <key>
+        <primary_input>ꦊ</primary_input>
+        <action state="0">ꦊ</action>
+    </key>
+    <key>
+        <primary_input>ꦋ</primary_input>
+        <action state="0">ꦋ</action>
+    </key>
+    <key>
+        <primary_input>ꦌ</primary_input>
+        <action state="0">ꦌ</action>
+        <action state="0">ꦺ</action>
+    </key>
+    <key>
+        <primary_input>ꦍ</primary_input>
+        <action state="0">ꦍ</action>
+        <action state="0">ꦻ</action>
+    </key>
+    <key>
+        <primary_input>ꦎ</primary_input>
+        <action state="0">ꦎ</action>
+        <action state="0">ꦴꦺ</action>
+    </key>
+    <key>
+        <primary_input>ꦄꦵ</primary_input>
+        <action state="0">ꦄꦵ</action>
+        <action state="0">ꦵ</action>
+    </key>
+    <key>
+        <primary_input>ꦎꦴ</primary_input>
+        <action state="0">ꦎꦴ</action>
+        <action state="0">ꦴꦻ</action>
+    </key>
+    <key>
+        <primary_input>꦳</primary_input>
+        <action state="0">꦳</action>
+    </key>
+    <key>
+        <primary_input>ꦲ</primary_input>
+        <action state="0">ꦲ</action>
+    </key>
+    <key>
+        <primary_input>ꦤ</primary_input>
+        <action state="0">ꦤ</action>
+        <action state="0">ꦟ</action>
+    </key>
+    <key>
+        <primary_input>ꦕ</primary_input>
+        <action state="0">ꦕ</action>
+        <action state="0">ꦖ</action>
+    </key>
+    <key>
+        <primary_input>ꦫ</primary_input>
+        <action state="0">ꦫ</action>
+        <action state="0">ꦬ</action>
+    </key>
+    <key>
+        <primary_input>ꦏ</primary_input>
+        <action state="0">ꦏ</action>
+        <action state="0">ꦑ</action>
+        <action state="0">ꦐ</action>
+    </key>
+    <key>
+        <primary_input>ꦢ</primary_input>
+        <action state="0">ꦢ</action>
+        <action state="0">ꦣ</action>
+    </key>
+    <key>
+        <primary_input>ꦠ</primary_input>
+        <action state="0">ꦠ</action>
+        <action state="0">ꦡ</action>
+    </key>
+    <key>
+        <primary_input>ꦱ</primary_input>
+        <action state="0">ꦱ</action>
+        <action state="0">ꦯ</action>
+        <action state="0">ꦰ</action>
+    </key>
+    <key>
+        <primary_input>ꦮ</primary_input>
+        <action state="0">ꦮ</action>
+    </key>
+    <key>
+        <primary_input>ꦭ</primary_input>
+        <action state="0">ꦭ</action>
+    </key>
+    <key>
+        <primary_input>ꦥ</primary_input>
+        <action state="0">ꦥ</action>
+        <action state="0">ꦦ</action>
+    </key>
+    <key>
+        <primary_input>ꦝ</primary_input>
+        <action state="0">ꦝ</action>
+        <action state="0">ꦞ</action>
+    </key>
+    <key>
+        <primary_input>ꦗ</primary_input>
+        <action state="0">ꦗ</action>
+        <action state="0">ꦙ</action>
+    </key>
+    <key>
+        <primary_input>ꦪ</primary_input>
+        <action state="0">ꦪ</action>
+    </key>
+    <key>
+        <primary_input>ꦚ</primary_input>
+        <action state="0">ꦚ</action>
+        <action state="0">ꦘ</action>
+    </key>
+    <key>
+        <primary_input>ꦩ</primary_input>
+        <action state="0">ꦩ</action>
+    </key>
+    <key>
+        <primary_input>ꦒ</primary_input>
+        <action state="0">ꦒ</action>
+        <action state="0">ꦓ</action>
+    </key>
+    <key>
+        <primary_input>ꦧ</primary_input>
+        <action state="0">ꦧ</action>
+        <action state="0">ꦨ</action>
+    </key>
+    <key>
+        <primary_input>ꦛ</primary_input>
+        <action state="0">ꦛ</action>
+        <action state="0">ꦜ</action>
+    </key>
+    <key>
+        <primary_input>ꦔ</primary_input>
+        <action state="0">ꦔ</action>
+    </key>
+</dynamic_keys>

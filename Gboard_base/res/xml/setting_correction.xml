@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/setting_correction"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_suggestions_category_title" android:key="@string/setting_suggestions_category_key">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_show_suggestion_title" android:key="@string/pref_key_latin_show_suggestion" android:summary="@string/setting_show_suggestion_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_next_word_prediction_title" android:key="@string/pref_key_next_word_prediction" android:summary="@string/setting_next_word_prediction_summary" android:dependency="@string/pref_key_latin_show_suggestion" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_block_offensive_words_title" android:key="@string/pref_key_block_offensive_words" android:summary="@string/setting_block_offensive_words_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_show_emoji_suggestion_title" android:key="@string/pref_key_enable_emoji_suggestion" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_enable_sticker_suggestions_while_typing_title" android:key="@string/pref_key_enable_sticker_predictions_while_typing" android:summary="@string/setting_enable_sticker_suggestions_while_typing_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_import_user_contacts_title" android:key="@string/pref_key_import_user_contacts" android:summary="@string/setting_import_user_contacts_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_personalization_title" android:key="@string/pref_key_latin_personalization" android:summary="@string/setting_personalization_summary">
+            <extra android:name="hide_if_flag_is_true" android:value="@string/enable_federated_learning_controls" />
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/setting_enable_inline_suggestion_title" android:key="@string/pref_key_enable_inline_suggestion">
+            <extra android:name="hide_if_flag_is_false" android:value="enable_inline_suggestions_on_client_side=false" />
+        </SwitchPreference>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/setting_corrections_category_title" android:key="@string/setting_corrections_category_key">
+        <SwitchPreference android:persistent="true" android:title="@string/setting_auto_correction_title" android:key="@string/pref_key_latin_auto_correction" android:summary="@string/setting_auto_correction_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_enable_ac_revert_title" android:key="@string/pref_key_latin_enable_ac_revert" android:summary="@string/setting_enable_ac_revert_summary" android:dependency="@string/pref_key_latin_auto_correction">
+            <extra android:name="hide_if_flag_is_false" android:value="support_disable_ac_revert=false" />
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/setting_autospace_after_punctuation_title" android:key="@string/pref_key_enable_autospace_after_punctuation" android:summary="@string/setting_autospace_after_punctuation_summary">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/enable_autospace_after_punctuation_setting" />
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/setting_auto_capitalization_title" android:key="@string/pref_key_auto_capitalization" android:summary="@string/setting_auto_capitalization_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_double_space_period_title" android:key="@string/pref_key_enable_double_space_period" android:summary="@string/setting_double_space_period_summary" />
+        <SwitchPreference android:persistent="true" android:title="@string/setting_mark_misspelled_words_title" android:key="@string/pref_key_enable_mark_misspelled_words" android:summary="@string/setting_mark_misspelled_words_summary">
+            <extra android:name="hide_if_flag_is_true" android:value="enable_spell_check_red_underline=false" />
+        </SwitchPreference>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

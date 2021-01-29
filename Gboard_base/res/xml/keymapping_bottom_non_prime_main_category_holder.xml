@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/softkey_back" view_id="@id/key_pos_back_to_prime" />
+        <mapping key_id="@id/softkey_back" view_id="@id/key_pos_back_to_prime2" />
+    </key_mapping>
+    <key_mapping>
+        <mapping key_id="@id/softkey_comma" view_id="@id/key_pos_non_prime_symbol_1" />
+        <mapping key_id="@id/softkey_period" view_id="@id/key_pos_non_prime_symbol_2" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/softkey_less_than" view_id="@id/key_pos_non_prime_symbol_1" />
+        <mapping key_id="@id/softkey_more_than" view_id="@id/key_pos_non_prime_symbol_2" />
+    </key_mapping>
+</framework>

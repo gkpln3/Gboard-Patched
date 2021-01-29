@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/hindi_page_1_key_content_desc" id="@id/softkey_2_pages_main_page" layout="@layout/softkey_label_prime_page_switch" multi_touch="false">
+            <action data="SUB_CATEGORY_2" keycode="SWITCH_SUB_CATEGORY" type="PRESS" />
+            <label location="@id/label" value="1/2" />
+        </softkey>
+        <softkey content_description="@string/hindi_page_3_key_content_desc" id="@id/softkey_2_pages_page_1" layout="@layout/softkey_label_prime_page_switch" multi_touch="false">
+            <action data="SUB_CATEGORY_1" keycode="SWITCH_SUB_CATEGORY" type="PRESS" />
+            <label location="@id/label" value="2/2" />
+        </softkey>
+    </softkeys>
+</framework>

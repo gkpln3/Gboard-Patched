@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" style="@style/TextEditingView"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_weight="700.0" style="@style/TextEditingArrowKeyPart">
+        <ImageView android:layout_gravity="top" style="@style/Separator.Horizental" />
+        <LinearLayout android:orientation="vertical" style="@style/TextEditingViewNested">
+            <include layout="@layout/keyboard_textediting_arrow_function_inner_upperhalf" />
+            <include layout="@layout/keyboard_textediting_arrow_function_inner_lowerhalf" />
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_weight="300.0" style="@style/TextEditingEditKeyPart">
+        <ImageView android:layout_gravity="top" style="@style/Separator.Horizental" />
+        <ImageView android:layout_gravity="left" style="@style/Separator.Vertical" />
+        <include layout="@layout/keyboard_textediting_edit_function_inner" />
+    </FrameLayout>
+</LinearLayout>

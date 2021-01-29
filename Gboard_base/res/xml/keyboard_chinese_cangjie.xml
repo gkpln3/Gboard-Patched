@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/keyboard_base_t13n_chinese" />
+    <include href="@xml/keyboard_latin_qwerty_base_zh" />
+    <include href="@xml/keyboard_latin_fragment_superscript_zh_cangjie" />
+    <keyboard>
+        <view override="motion_event_handler" type="body">
+            <motion_event_handler class=".libs.framework.keyboard.handler.BasicMotionEventHandler" preference_key="@string/pref_key_enable_spatial_model" reverse_preference="true" />
+            <motion_event_handler class=".libs.framework.keyboard.handler.SpatialModelMotionEventHandler" preference_key="@string/pref_key_enable_spatial_model" reverse_preference="false" />
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.framework.keyboard.handler.ScrubMoveMotionEventHandler" preference_key="@string/pref_key_enable_scrub_move" reverse_preference="false" />
+            <include href="@xml/keymapping_function_candidates_zh" />
+            <include href="@xml/keymapping_function_shift_pinyin" />
+        </view>
+    </keyboard>
+</framework>

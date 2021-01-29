@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/keyboard_editing_holder" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/keyboard_editing_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:splitMotionEvents="false" style="@style/KeyboardEditingView">
+        <ImageView android:id="@id/keyboard_editing_view_untouchable_area" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/floating_keyboard_editing_snapshot_margin" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+        <ImageView android:layout_gravity="left" android:id="@id/keyboard_editing_view_edge_left" android:layout_marginLeft="@dimen/floating_keyboard_editing_edge_margin" style="@style/KeyboardEditingViewEdge.Horizon.FloatingKeyboard" />
+        <ImageView android:layout_gravity="right" android:id="@id/keyboard_editing_view_edge_right" android:layout_marginRight="@dimen/floating_keyboard_editing_edge_margin" style="@style/KeyboardEditingViewEdge.Horizon.FloatingKeyboard" />
+        <ImageView android:layout_gravity="top" android:id="@id/keyboard_editing_view_edge_top" android:layout_marginTop="@dimen/floating_keyboard_editing_edge_margin" style="@style/KeyboardEditingViewEdge.Vertical.FloatingKeyboard" />
+        <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/keyboard_editing_view_edge_bottom" android:layout_marginBottom="@dimen/floating_keyboard_editing_edge_margin" style="@style/KeyboardEditingViewEdge.Vertical.FloatingKeyboard">
+            <ImageView style="@style/KeyboardEditingViewEdge.BottomSplit" />
+            <View android:layout_width="@dimen/floating_keyboard_handle_width" android:layout_height="fill_parent" />
+            <ImageView style="@style/KeyboardEditingViewEdge.BottomSplit" />
+        </LinearLayout>
+        <ImageView android:layout_gravity="center|left|top" android:id="@id/keyboard_editing_view_corner_left_top" android:contentDescription="@string/expand_keyboard_button_left_top_content_desc" style="@style/KeyboardEditingButton.ExpandButton.FloatingKeyboard" />
+        <ImageView android:layout_gravity="bottom|center|left" android:id="@id/keyboard_editing_view_corner_left_bottom" android:contentDescription="@string/expand_keyboard_button_left_bottom_content_desc" android:rotation="270.0" style="@style/KeyboardEditingButton.ExpandButton.FloatingKeyboard" />
+        <ImageView android:layout_gravity="center|right|top" android:id="@id/keyboard_editing_view_corner_right_top" android:contentDescription="@string/expand_keyboard_button_right_top_content_desc" android:rotation="90.0" style="@style/KeyboardEditingButton.ExpandButton.FloatingKeyboard" />
+        <ImageView android:layout_gravity="bottom|center|right" android:id="@id/keyboard_editing_view_corner_right_bottom" android:contentDescription="@string/expand_keyboard_button_right_bottom_content_desc" android:rotation="180.0" style="@style/KeyboardEditingButton.ExpandButton.FloatingKeyboard" />
+    </FrameLayout>
+</FrameLayout>
