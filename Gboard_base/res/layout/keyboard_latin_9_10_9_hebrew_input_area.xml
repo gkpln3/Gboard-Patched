@@ -42,7 +42,10 @@
         <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_2_5" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
         <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_2_6" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
         <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_2_7" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
-        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_2_8" android:layout_weight="100.0" style="@style/SoftKey.BigInset">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_2_8" android:layout_weight="150.0" style="@style/SoftKey">
+        <LinearLayout android:weightSum="150.0" style="@style/SoftKeySide.Right">
+                <FrameLayout android:id="@id/host" android:layout_width="0.0dip" android:layout_weight="100.0" style="@style/SoftKey.BigInset" />
+            </LinearLayout>
         </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
     </LinearLayout>
 </LinearLayout>

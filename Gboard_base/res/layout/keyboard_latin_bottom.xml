@@ -10,6 +10,6 @@
             <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_zwnj_with_zwj" android:visibility="gone" android:layout_weight="100.0" style="@style/SoftKey.Bottom" />
         </LinearLayout>
     </LinearLayout>
-    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_bottom_symbol_2" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" />
+    <!-- <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_bottom_symbol_2" android:layout_weight="100.0" style="@style/SoftKey.Bottom.Dark.DarkOrDefault" /> -->
     <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="150.0" style="@style/SoftKey.Bottom.ImeAction.BottomRight" />
 </LinearLayout>

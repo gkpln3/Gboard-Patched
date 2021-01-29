@@ -29,10 +29,4 @@
         <mapping key_id="@id/softkey_hebrew_letter_tav" view_id="@id/key_pos_2_7" />
         <mapping key_id="@id/softkey_hebrew_letter_final_tsadi" view_id="@id/key_pos_2_8" />
     </key_mapping>
-    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
-        <mapping key_id="@id/softkey_low_line" view_id="@id/key_pos_0_0" />
-    </key_mapping>
-    <key_mapping state="INPUT_TYPE_URI">
-        <mapping key_id="@id/softkey_low_line" view_id="@id/key_pos_0_0" />
-    </key_mapping>
 </framework>
