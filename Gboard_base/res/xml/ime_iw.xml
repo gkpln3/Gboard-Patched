@@ -10,7 +10,7 @@
         <else>
             <keyboard_group layout_theme="@style/KeyboardLayoutTheme.WithNumberRow" variant="hebrew" variant_label="@string/variant_hebrew">
                 <keyboard def="@xml/keyboard_iw" type="prime">
-                    <merge def="@xml/keyboard_latin_fragment_numbers_10_10_10_10_no_shift" />
+                    <merge def="@xml/keyboard_latin_fragment_numbers_10_9_10_9_no_shift" />
                 </keyboard>
                 <include href="@xml/keyboards_non_prime_latin" />
             </keyboard_group>

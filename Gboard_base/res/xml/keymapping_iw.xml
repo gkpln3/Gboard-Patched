@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <framework>
     <key_mapping>
-        <mapping key_id="@id/softkey_apostrophe" view_id="@id/key_pos_0_0" />
-        <mapping key_id="@id/softkey_hyphen_minus" view_id="@id/key_pos_0_1" />
-        <mapping key_id="@id/softkey_hebrew_letter_qof" view_id="@id/key_pos_0_2" />
-        <mapping key_id="@id/softkey_hebrew_letter_resh" view_id="@id/key_pos_0_3" />
-        <mapping key_id="@id/softkey_hebrew_letter_alef" view_id="@id/key_pos_0_4" />
-        <mapping key_id="@id/softkey_hebrew_letter_tet" view_id="@id/key_pos_0_5" />
-        <mapping key_id="@id/softkey_hebrew_letter_vav" view_id="@id/key_pos_0_6" />
-        <mapping key_id="@id/softkey_hebrew_letter_final_nun" view_id="@id/key_pos_0_7" />
-        <mapping key_id="@id/softkey_hebrew_letter_final_mem" view_id="@id/key_pos_0_8" />
-        <mapping key_id="@id/softkey_hebrew_letter_pe" view_id="@id/key_pos_0_9" />
+        <mapping key_id="@id/softkey_hebrew_letter_qof" view_id="@id/key_pos_0_0" />
+        <mapping key_id="@id/softkey_hebrew_letter_resh" view_id="@id/key_pos_0_1" />
+        <mapping key_id="@id/softkey_hebrew_letter_alef" view_id="@id/key_pos_0_2" />
+        <mapping key_id="@id/softkey_hebrew_letter_tet" view_id="@id/key_pos_0_3" />
+        <mapping key_id="@id/softkey_hebrew_letter_vav" view_id="@id/key_pos_0_4" />
+        <mapping key_id="@id/softkey_hebrew_letter_final_nun" view_id="@id/key_pos_0_5" />
+        <mapping key_id="@id/softkey_hebrew_letter_final_mem" view_id="@id/key_pos_0_6" />
+        <mapping key_id="@id/softkey_hebrew_letter_pe" view_id="@id/key_pos_0_7" />
         <mapping key_id="@id/softkey_hebrew_letter_shin" view_id="@id/key_pos_1_0" />
         <mapping key_id="@id/softkey_hebrew_letter_dalet" view_id="@id/key_pos_1_1" />
         <mapping key_id="@id/softkey_hebrew_letter_gimel" view_id="@id/key_pos_1_2" />
